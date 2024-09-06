@@ -50,7 +50,8 @@ class MyJson(dict):
         if not self.path.exists():
             self.dump()
             return
-        with self.path.open() as f:
+        # 指定使用 'utf-8' 编码来读取文件
+        with self.path.open(encoding='utf-8') as f:
             self.update(json.load(f))
 
     def dump(self):

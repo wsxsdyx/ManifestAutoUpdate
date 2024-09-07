@@ -1,0 +1,425 @@
+"appid" "1203220"
+"common"
+{
+	"name" "NARAKA: BLADEPOINT"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "8055e7baa81ce2084d7daa42233983967956abb0"
+	"logo" "08f86374879f75b481e8063d81d8e779f49a7805"
+	"logo_small" "08f86374879f75b481e8063d81d8e779f49a7805_thumb"
+	"clienticon" "26a182a0877cef7cbde11509de271735027c9027"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1203220_eula_0"
+			"name" "NARAKA: BLADEPOINT EULA"
+			"url" "https://store.steampowered.com//eula/1203220_eula_0"
+			"version" "14"
+		}
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "永劫无间"
+	}
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1687478400"
+		"tested_build_id" "11472594"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"market_presence" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"schinese" "3d0256d77fc5d21fc4412eed31b887d8379f7a68/capsule_231x87_schinese.jpg"
+		"english" "ff550288cff1ee76041c236bf225911a1de474c7/capsule_231x87.jpg"
+		"tchinese" "7689343a1a7b1a5c82bced727420215ae965a176/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "zh-tw,en,zh-cn"
+		"library_header" "zh-tw,en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.51792870455786"
+			"height_pct" "47.38705176917597"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"tchinese" "logo_tchinese.png"
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"tchinese" "logo_tchinese_2x.png"
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.51792870455786"
+				"height_pct" "47.38705176917597"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+			"image2x"
+			{
+				"tchinese" "library_header_tchinese_2x.jpg"
+				"english" "library_header_2x.jpg"
+				"schinese" "library_header_schinese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724896892"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "24 Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "NetEase Games Global"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "29"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_35" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1628733540"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1203220"
+	"store_tags"
+	{
+		"0" "176981"
+		"1" "3859"
+		"2" "6915"
+		"3" "1775"
+		"4" "19"
+		"5" "4747"
+		"6" "1743"
+		"7" "128"
+		"8" "7208"
+		"9" "1662"
+		"10" "1697"
+		"11" "4608"
+		"12" "1646"
+		"13" "4085"
+		"14" "4036"
+		"15" "21"
+		"16" "5611"
+		"17" "113"
+		"18" "4667"
+		"19" "4345"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+	"review_score_bombs" "6"
+	"review_percentage_bombs" "75"
+}
+"extended"
+{
+	"developer" "24 Entertainment"
+	"publisher" "NetEase Games Global"
+	"homepage" "https://www.narakathegame.com"
+	"isfreeapp" "1"
+	"listofdlc" "1637170,1637171,1643990,2593020,2701570,2731960,2731970,2731980,2732000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "NARAKA BLADEPOINT"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StartGame.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,turkish,vietnamese"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1203222"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "982902322861847213"
+				"size" "51207230981"
+				"download" "42190155776"
+			}
+		}
+	}
+	"1203221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4567333459923500643"
+				"size" "51207230981"
+				"download" "42171095040"
+			}
+		}
+	}
+	"1637170"
+	{
+		"dlcappid" "1637170"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15587770"
+			"timeupdated" "1725439877"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25070777"
+"_sha" "663c57c440dd9bf3630d16f2a5cc24d249fe40ea"
+"_size" "8109"

@@ -1,0 +1,1010 @@
+"appid" "204100"
+"common"
+{
+	"name" "Max Payne 3"
+	"type" "Game"
+	"logo" "135cf60686c2bf570999b96d5c29eb31e962293a"
+	"logo_small" "135cf60686c2bf570999b96d5c29eb31e962293a_thumb"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"portuguese" "1"
+		"polish" "1"
+	}
+	"clienticon" "2a21a5b88ce66a945dc1a07df0afb1833506b197"
+	"clienttga" "ebca88d6689bbacc4036f03f5b2977b8b54e2c16"
+	"icon" "96af86331719b56cefc55298b4fcb99c99f1cfee"
+	"oslist" "windows,macos"
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1655510400"
+		"tested_build_id" "6564466"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"6"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Max Payne 3"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.335448196051544"
+			"height_pct" "88.19444444444444"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43.335448196051544"
+				"height_pct" "88.19444444444444"
+			}
+		}
+	}
+	"store_asset_mtime" "1573772630"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rockstar Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Rockstar Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_18" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/max-payne-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "204100"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "3814"
+		"2" "5796"
+		"3" "1742"
+		"4" "3859"
+		"5" "1774"
+		"6" "4145"
+		"7" "1697"
+		"8" "6052"
+		"9" "4182"
+		"10" "1756"
+		"11" "4166"
+		"12" "4667"
+		"13" "6650"
+		"14" "21"
+		"15" "4342"
+		"16" "7250"
+		"17" "5984"
+		"18" "1695"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"allowelevation" "1"
+	"checkpkgstate" "1"
+	"cwdoverride" "Max Payne 3"
+	"developer" "Rockstar Studios"
+	"gamedir" "Max Payne 3"
+	"homepage" "http://www.rockstargames.com/maxpayne3"
+	"icon" ""
+	"installscript" "Max Payne 3\\installscript.vdf"
+	"legacykeyregistrationmethod" "registry"
+	"legacykeyregistrylocation" "HKEY_CURRENT_USER\\Software\\Rockstar Games\\Max Payne 3"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "204104"
+	"serverbrowsername" ""
+	"showcdkeyonlaunch" "1"
+	"state" "eStateAvailable"
+	"supportscdkeycopytoclipboard" "1"
+	"validoslist" "windows,macos"
+	"publisher" "Rockstar Games"
+	"listofdlc" "204106,204107,204108,204109,204110,204111,204112,211520,211521,211522,211523,213370"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Max Payne 3\\PlayMaxPayne3.exe"
+			"workingdir" "Max Payne 3"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "/Max Payne 3.app/Contents/MacOS/cider"
+			"arguments" "-psn"
+			"description" "Max Payne 3 OSX"
+			"workingdir" "Max Payne 3"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Max Payne 3\\PlayMaxPayne3.exe"
+			"description" "Test"
+			"type" "none"
+			"config"
+			{
+				"betakey" "qabeta3"
+			}
+		}
+		"3"
+		{
+			"executable" "Max Payne 3\\PlayMaxPayne3.exe"
+			"description" "Test D"
+			"type" "none"
+			"config"
+			{
+				"betakey" "qabeta2"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "Max Payne 3"
+	"steamcontrollerconfigfileids" "527995505"
+	"steamcontrollertemplateindex" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"204104"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6102899809689216760"
+				"size" "34810461932"
+				"download" "31924057968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "C87D28B2D85BF924F9F091F9E947C619"
+				"size" "5D6F2DC9145B7B544A02BA79EDCBD7F9"
+				"download" "C0097850A6B8CEFDF41F14FDC78C8014"
+			}
+			"qalive"
+			{
+				"gid" "CA1598815F6BB14F54D21A9899A06525"
+				"size" "3A264926582BAE38D852D02FFD09BEFF"
+				"download" "3516D53F70E02FA080E4A4841DD85BF4"
+			}
+			"qatest"
+			{
+				"gid" "87C0B164EC08D146611C41D917DD5D3F"
+				"size" "487ACDBDE10FEFE6FB2C540BE8D2749E"
+				"download" "ED76F5AC473EC94C52B76EBA4C55D6F9"
+			}
+		}
+	}
+	"204102"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3355664247437611729"
+				"size" "107147795"
+				"download" "104852320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "2F5D886FC72C25C82C9C6A9D869A21B1"
+				"size" "68A5BA4402CC61C1236D48A5D698BEB0"
+				"download" "B1D0D66AE15F1CD70283538F4D46D83F"
+			}
+			"qalive"
+			{
+				"gid" "8AA500C44323666DB953CDC187C4FD1B"
+				"size" "7C2A065AB714183D5E054F6A2017F706"
+				"download" "EBFB043A7BF7704FD38E919909718D24"
+			}
+			"qatest"
+			{
+				"gid" "B91E9D274B9B4A9FF29D69A8873EEC4C"
+				"size" "86138EDE29313BCE257AF14F9BC2CDFA"
+				"download" "597738FCD2742CC9F3517CFB9AA62B6D"
+			}
+		}
+	}
+	"204105"
+	{
+		"optional" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6550923004065384211"
+				"size" "23712752"
+				"download" "8263888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "B36A22B6EC0C86DFE91DAA722AEBD159"
+				"size" "18EB2AF9FA7E236B7D0445411EDD6FF4"
+				"download" "20D291C9FDE4B7024B83F0E48E4146EA"
+			}
+			"qalive"
+			{
+				"gid" "FCADE8B29C34713F884CF6334B726D16"
+				"size" "92F36ABD3ADC55D35EF6828BDBF66B7B"
+				"download" "C37CC9817951165A1CC3A06CB0E55EDA"
+			}
+			"qatest"
+			{
+				"gid" "A5B5F2AFCD01B84A819905054327AFF5"
+				"size" "F423AA3BCD6FDEE1E6AEF02C8EBF45AA"
+				"download" "4B9B1883EDA8347510D21AB2DE03779D"
+			}
+		}
+	}
+	"211520"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "211520"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2775848059097881311"
+				"size" "856611814"
+				"download" "797613808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "CAD5C5FF2400AE01D18936486F1BBC96"
+				"size" "3D499F0D365FC54962CFA2873BF7ACCD"
+				"download" "916DE8FEACDF024DF7FCA29C4B5D6C33"
+			}
+			"qalive"
+			{
+				"gid" "F95ADA189A9BB4B12A4D92CDC57FAAD4"
+				"size" "9A5DB107F2A3811D22031EEE9A84D8B1"
+				"download" "364E40391B647657D01B2A14940F1632"
+			}
+			"qatest"
+			{
+				"gid" "2CEECC9A24FC571215028264C7AD4639"
+				"size" "68B7B59D2B36E6972B5E8ED068F47B4C"
+				"download" "274AE8CDD6B0E7371DDC5B47475FBFFF"
+			}
+		}
+	}
+	"211521"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "211521"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2115168271737722500"
+				"size" "1240059046"
+				"download" "1128937776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "7E61047795654427348F0B8BD1A63B96"
+				"size" "FBE212046F82BC10BA28572F2A075C2F"
+				"download" "27C8ECC31731FCC2CC05809903EF38C6"
+			}
+			"qalive"
+			{
+				"gid" "F74E6BDEC82214A5AF0E7BA380F84206"
+				"size" "6F9D8657804983AA052FB297F8B1B8F9"
+				"download" "01E2D5804E1EB203485B820DC2D7E8E8"
+			}
+			"qatest"
+			{
+				"gid" "759F4D073A082B7CF7583473B6B1A41F"
+				"size" "6552C3F80B0B7FF1FDDD7CA47D71BECC"
+				"download" "6017F2183E9D78F9BACE717BC742C04E"
+			}
+		}
+	}
+	"204112"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "204112"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4680365301983588413"
+				"size" "339254234"
+				"download" "320034032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "4FC71380ECBD2F5C51C54E5209723703"
+				"size" "B11B6E16882BE84A575A0DCD606A7DC0"
+				"download" "FE53F82967B442E749A6CEE06FF9E3C3"
+			}
+			"qalive"
+			{
+				"gid" "FD7493E264C3B205F22756B5E186E632"
+				"size" "34FEF2AAD91C7DA9B966C588BC9674BA"
+				"download" "AA5C24988B25A51BDF705EE5A267536C"
+			}
+			"qatest"
+			{
+				"gid" "383D903CB614899D1610E138E8B3DBFE"
+				"size" "FA8051BD0179D393B4DCA01AADCC322A"
+				"download" "016D0F193D2B0BB0CD9F0ECB1E813913"
+			}
+		}
+	}
+	"211522"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "211522"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5033146606938445985"
+				"size" "1086097998"
+				"download" "1007028912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "439C9D2573DDF3B92AE31A3B26D0B935"
+				"size" "A510629D20B96217895C693BBF3AAEC2"
+				"download" "AD0AEA6CEAEA18598EC02F8252C76549"
+			}
+			"qalive"
+			{
+				"gid" "CD544F5BFF5389AD5B840DE9240AB64F"
+				"size" "F36BBCEE8E72AE5A14B688DE3B6BC841"
+				"download" "2F19964017DF2FC2308E42094423BC39"
+			}
+			"qatest"
+			{
+				"gid" "F002F4C897CA41EB88C6717AEE45F919"
+				"size" "DE65DD93F2D54DF12FD9B8E58C009300"
+				"download" "41917A2E8F2830D8D08193AE6DC45DFF"
+			}
+		}
+	}
+	"211523"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "211523"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5411554521103652584"
+				"size" "417829674"
+				"download" "382610528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "5FCD756AE1981DDFDCB4E358A91DC213"
+				"size" "F67CE84898D3B50985565586E491EE05"
+				"download" "DE99AAF65635725DC26D52496FA5C7CF"
+			}
+			"qalive"
+			{
+				"gid" "A30984C7188E13098E6A4583FF6A503C"
+				"size" "FD74C6677B1996690154039DCE685C45"
+				"download" "1835FA6C46062530691A3322AA9AB258"
+			}
+			"qatest"
+			{
+				"gid" "36D639186A65D8769B3ED71F048ECAF7"
+				"size" "8DB597F3CEBD38DB5D472ABE02847BF8"
+				"download" "D6A362522407D76B20B9871CE47223AF"
+			}
+		}
+	}
+	"204114"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3750780175254170444"
+				"size" "31505833265"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "25173904A33A8321DA34998DABB830BA"
+				"size" "47279D381D000B1DD4199C9AB7EBC417"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "456B4148C0DD0390BF0C342BC59DB124"
+				"size" "C4B687C0B4746238E3778EB905A313FB"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "1ACA5EE95ACF1054894E144A896363AA"
+				"size" "1D2BA2F42DBF5E701EEF7D2A27D536F4"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211528"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "799267678352422137"
+				"size" "106824883"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "6C567BEB12E17CBD6CE4D7DBE60D49A0"
+				"size" "D43949F26D3D8D4EBFD50F3A26AB2AF5"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "65E75EEF613EB0B3E4674AD5DE55FDF8"
+				"size" "B03F95B4CF4001377B255B3CA921DD68"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "E040BD1BA3C2659405B05F8D369994F8"
+				"size" "A6101FB1F44BB1611913004180C85315"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211524"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6377511973916138874"
+				"size" "690762989"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "4E80B7E4706BC47189516AEDB2361720"
+				"size" "296BD75F96C9AF4E8C06B385799E95EB"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "966A0AD87588AE9C12F60320909582B7"
+				"size" "92B157279C66B162E6EBC675123AEF41"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "25080A37BB30F6DEBFB1DA839B175D34"
+				"size" "015BAE468DCCFE36FC62E743015C9D61"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211529"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5043794854051410684"
+				"size" "851400148"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "32D0B00C53AD10E55AD7F818DBF70B66"
+				"size" "964DB4D061AF81E51E4E042199308280"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "CC607A41F70DC7065BA41A5C58B8DAD9"
+				"size" "67A5A393067999C9C7FD2DF92668FC11"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "87FC0D5EEF19F6F3BE588716A589DB61"
+				"size" "3F32A7E081EB174C6B09EBEC910BE046"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211525"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2222537199617026930"
+				"size" "1237566293"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "082DE3FF07F1932AC23F3E8D54114598"
+				"size" "236706760189F29B49441C985899DFCA"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "2803BD9AAA88AF66F1FB09B1292B3001"
+				"size" "7C0980C48BE50BD2C6D602E419B11CCC"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "145FDDBA08B07665F1E0C8AF0A9E56C0"
+				"size" "3FC144B271ACF3FBD05829B8DF379B5B"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211526"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5413856105312404894"
+				"size" "1078536510"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "219B4B4DB990B7E4B9A251CE284BF578"
+				"size" "76B821BB5B74993E5D571CC4AB773FF1"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "2DC10B88807B555C1E7A40AD19381058"
+				"size" "6FA225833F5DC5AED628B06014D6AA28"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "DD42DB55DEE5B78E95CDBDA7763F092B"
+				"size" "7FEDF129B822303631EC3A14D4D0C19F"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"211527"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8919153356669044544"
+				"size" "414031779"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "F8A51F85A1C56E1C66C823DC5078F86C"
+				"size" "F9197DF823DE4A01DB5B2AE5739A6072"
+				"download" "8E64B453CCE8D066E2D120B51EB12B74"
+			}
+			"qalive"
+			{
+				"gid" "75DC675A85520D8D3E071126FDD1C812"
+				"size" "51DA9AEEC3CD679569ED58F1BC87AD6B"
+				"download" "AE2D5B208AF767C746FD4883F7D40EFA"
+			}
+			"qatest"
+			{
+				"gid" "1A6FDC96DDA8F0655FFBFC8F2BB870AA"
+				"size" "474C53400C509F2714AF9575ABFE936F"
+				"download" "C9CBD07B9A0636D31D0CAFE452A98DBB"
+			}
+		}
+	}
+	"204115"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6904567155150232022"
+				"size" "23832472"
+				"download" "7054160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "2E8390DFE9A46F51022028219AE4A77F"
+				"size" "1602E0101AE5D1D55C21FD4545603DF7"
+				"download" "7102B7E93A1287C34AD9D856F9163B70"
+			}
+			"qalive"
+			{
+				"gid" "767A1A50C6C3EC207A5E0CB6B04361CD"
+				"size" "B9BA984320A9CF0617422AD5F63745BD"
+				"download" "054A3F96A73133E1A0C159288CE27E0A"
+			}
+			"qatest"
+			{
+				"gid" "A5FD023DDAEBC3CFF351C593094AE7EF"
+				"size" "996C1DC52C6AC4B6F8DE1714CE79F626"
+				"download" "AF8A49EA54B85D78DF9859B27E37C61E"
+			}
+		}
+	}
+	"1899671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7919288074818099219"
+				"size" "297635101"
+				"download" "255497296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "6C97E33D08E3BDB06D3101E2F906992E"
+				"size" "E8281EC4DA21DC37D19FF76BBF4EA3F0"
+				"download" "CBEF69665156F357F656793A16D9352F"
+			}
+			"qalive"
+			{
+				"gid" "9F96380DDA077193A5FA35FBDB91C8C4"
+				"size" "15FE871474C954B45793FBE05324B23B"
+				"download" "8E3F1DA13B0B454A4D8A52976993C668"
+			}
+			"qatest"
+			{
+				"gid" "C41DFF642611A1DE8D0DA02FA415EA76"
+				"size" "BD519962FA84D19696EFE1EBFEF9EC95"
+				"download" "C2739EF3E0119A894CEF1D1D977DC79D"
+			}
+		}
+		"depotfromapp" "1899670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13185670"
+			"timeupdated" "1706636178"
+		}
+		"qabeta"
+		{
+			"buildid" "13936788"
+			"pwdrequired" "1"
+			"timeupdated" "1712152845"
+		}
+		"qalive"
+		{
+			"buildid" "10699695"
+			"pwdrequired" "1"
+			"timeupdated" "1678097116"
+		}
+		"qatest"
+		{
+			"buildid" "13185670"
+			"pwdrequired" "1"
+			"timeupdated" "1705413801"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "25110244"
+"_sha" "26b415333df536bd0f41164a765defc406fd4107"
+"_size" "20020"

@@ -1,0 +1,194 @@
+"appid" "636750"
+"common"
+{
+	"name" "Oxygen Not Included Uploader"
+	"section_type" "ownersonly"
+	"type" "Tool"
+	"parent" "457140"
+	"releasestate" "unavailable"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "2d0f2f2392fcce7a53feaf4cfc4b108cae674638"
+	"logo_small" "2d0f2f2392fcce7a53feaf4cfc4b108cae674638_thumb"
+	"icon" "6611975327298e2b9c470552da3f9a0762ecf1c9"
+	"linuxclienticon" "483c30e9ae284dae0cbc7ffb3923fe98fdd4426c"
+	"clienticon" "6eee326146aeb4186df713437b89ee4334a983b7"
+	"clienttga" "bebc8054ae2a84f4da8d7d9406bac07601e994a3"
+	"clienticns" "a550c358b2d466fb2120a5784dac96b418e8cf86"
+	"osextended" "macos64,macosnotarized"
+	"associations"
+	{
+	}
+	"gameid" "636750"
+	"exfgls" "8"
+}
+"config"
+{
+	"installdir" "OxygenNotIncludedUploader"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OniUploader32.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+		"1"
+		{
+			"executable" "OniUploader64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "OniUploader64.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "OniUploader64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"636751"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2621796900662340973"
+				"size" "24756800"
+				"download" "7008096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F3C3600C88E0743425B18DD327DE6372"
+				"size" "50F4637725C877A6C0BF24FFE212F2BD"
+				"download" "9BC5CB0D42AFC646F878020CEC60319F"
+			}
+			"oldversion"
+			{
+				"gid" "512EB416705357593745FAAFAD893CAB"
+				"size" "3CB3C5B5906A2C3AAC51A7C9AB0D6DFF"
+				"download" "BC6F2435C0038C69C9BB65EAAF17756F"
+			}
+		}
+	}
+	"636752"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4536579064657889837"
+				"size" "7584964"
+				"download" "2026320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "BFE825E681792A64118C2F055584B402"
+				"size" "A8968FFD581FD8B107FB508585332770"
+				"download" "EC13254A378EE873633F7580FCBDBAAE"
+			}
+			"oldversion"
+			{
+				"gid" "321B59D53BB1A0D54D3458E33D6A7F85"
+				"size" "C390064F7008A0C78BB7BB3DAA5FBC65"
+				"download" "7E8CAB54DCDDA8AAFB4298936CDB153F"
+			}
+		}
+	}
+	"636753"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1233319874799614024"
+				"size" "5613543"
+				"download" "1609072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F456C5357F444DFF01B1FF24B53227DD"
+				"size" "04BECDAF2AFE7D80C65436F213EADBC7"
+				"download" "EE09DA9A43FCC7651CED29F4F0C2B8F8"
+			}
+			"oldversion"
+			{
+				"gid" "AA6598895B117DFBCF474C093CC8DB70"
+				"size" "75B4C7F5BF53C3D8F52B3E95243223B6"
+				"download" "324A60775D3AF65BCDB0130149AEE3EA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15042979"
+			"timeupdated" "1721178140"
+		}
+		"development"
+		{
+			"buildid" "15042979"
+			"pwdrequired" "1"
+			"timeupdated" "1721087773"
+		}
+		"oldversion"
+		{
+			"buildid" "11474503"
+			"pwdrequired" "1"
+			"timeupdated" "1721178125"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "24483107"
+"_sha" "1a0dc7eed7329b77a591681264cc873b9e8c849f"
+"_size" "3525"

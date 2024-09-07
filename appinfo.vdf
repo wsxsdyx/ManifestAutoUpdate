@@ -1,0 +1,427 @@
+"appid" "1696440"
+"common"
+{
+	"name" "绝世好武功 The Matchless Kungfu"
+	"type" "Game"
+	"icon" "ce7664ae998c170b61fac977e4ac72a11a9da1f9"
+	"logo" "d4d510897cc4a6c8a143f13c7c33508f6edb5ee0"
+	"logo_small" "d4d510897cc4a6c8a143f13c7c33508f6edb5ee0_thumb"
+	"clienttga" "63e86a5a860e348d9e6204737d935059013b7538"
+	"clienticon" "5e2708f0a51ae252df6f81e41ff86ab147887e21"
+	"name_localized"
+	{
+		"english" "The Matchless Kungfu"
+		"schinese" "绝世好武功"
+		"sc_schinese" "绝世好武功"
+		"tchinese" "絕世好武功"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1694649600"
+		"tested_build_id" "12124460"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,zh-xc"
+		"library_hero" "zh-cn,en,zh-xc"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.36990358423739"
+			"height_pct" "84.1630282353018"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "library_hero_schinese.jpg"
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "library_hero_schinese_2x.jpg"
+				"english" "library_hero_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.36990358423739"
+				"height_pct" "84.1630282353018"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1720167254"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HuanMos Game"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "bilibili"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "bilibili"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_51" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1693363616"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1696440"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "6915"
+		"2" "3810"
+		"3" "122"
+		"4" "1662"
+		"5" "4182"
+		"6" "9"
+		"7" "1643"
+		"8" "1702"
+		"9" "492"
+		"10" "3834"
+		"11" "14139"
+		"12" "4136"
+		"13" "4252"
+		"14" "17305"
+		"15" "3993"
+		"16" "32322"
+		"17" "1741"
+		"18" "7332"
+		"19" "4747"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "HuanMos Game"
+	"publisher" "bilibili"
+	"homepage" "https://game.bilibili.com/kungfu/"
+}
+"config"
+{
+	"installdir" "The Matchless KungFu"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HMS_00.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "6"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1696441"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6212913350668165903"
+				"size" "2617130737"
+				"download" "2384797920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cetest"
+			{
+				"gid" "9CA34B34B1C258AE77FE3024A6EA9B75"
+				"size" "8737AFABBC2B428CBEA14C281861B58E"
+				"download" "C99E4E3A1B88E7BDEDF1AA02D0ED6AF5"
+			}
+			"locailization"
+			{
+				"gid" "753EAEAE44E5047B286CEA5CF97161A9"
+				"size" "2D4774C4F6EBD91640437D22F9289A89"
+				"download" "96DC2230D6972DEED6A7D5880144D5C3"
+			}
+			"noblocklimit"
+			{
+				"gid" "D590AF75D8547085A91E43910AE41936"
+				"size" "D5D80A85F8DE20B4DDA899369E346300"
+				"download" "28BA032F1F6DDCFF66009A0415E5B7CD"
+			}
+			"develop_test"
+			{
+				"gid" "4224D00B1CA2CC8369E1564EAFF6606C"
+				"size" "E92CB58011480F072CEC48072D37090E"
+				"download" "8825E4C95C400DE72EFE53E84107961E"
+			}
+			"innertest"
+			{
+				"gid" "D684990388A99E86C06A234D569C6955"
+				"size" "D138368925ABA72F65BFF9337B8F0D54"
+				"download" "B2BA072EE21C9A9FE13529B78736F268"
+			}
+			"outertest"
+			{
+				"gid" "50CD69A2D88FE67D30E9CB72C367609D"
+				"size" "FBEC0057D4F42F215721A91AAB6ED94E"
+				"download" "3D5BAD26F6B6A5C326DDB75BC1F7E0AE"
+			}
+		}
+	}
+	"workshopdepot" "1696440"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15624957"
+			"timeupdated" "1725704808"
+		}
+		"cetest"
+		{
+			"sc_schinese" "暂时没用"
+			"buildid" "10282005"
+			"pwdrequired" "1"
+			"timeupdated" "1683636774"
+		}
+		"locailization"
+		{
+			"buildid" "12662722"
+			"pwdrequired" "1"
+			"timeupdated" "1699547086"
+		}
+		"noblocklimit"
+		{
+			"sc_schinese" "新品节demo版本"
+			"buildid" "11504586"
+			"pwdrequired" "1"
+			"timeupdated" "1687169303"
+		}
+		"develop_test"
+		{
+			"sc_schinese" "研发测试用"
+			"buildid" "15624957"
+			"pwdrequired" "1"
+			"timeupdated" "1725704581"
+		}
+		"innertest"
+		{
+			"buildid" "15624957"
+			"pwdrequired" "1"
+			"timeupdated" "1725704591"
+		}
+		"outertest"
+		{
+			"sc_schinese" "HuanmosGanbei"
+			"buildid" "15624957"
+			"pwdrequired" "1"
+			"timeupdated" "1725704598"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5368709120"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "HMS_00/Saved/PersistentDownloadDir/"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25120393"
+"_sha" "ef72ae0c503cae4c02b2aa53524b3a25c530379d"
+"_size" "8539"

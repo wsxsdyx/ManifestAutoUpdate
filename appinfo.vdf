@@ -1,0 +1,203 @@
+"appid" "323630"
+"common"
+{
+	"name" "Ubinota"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"icon" "a1b795bd42517570a5904f526e3af0ad9de21470"
+	"clienttga" "c4f884c3d8918a38a652b0d698a9f3703030ad34"
+	"clienticon" "190070773dcdb5c2ac8dcc726992f41b618ef49a"
+	"clienticns" "190070773dcdb5c2ac8dcc726992f41b618ef49a"
+	"linuxclienticon" "190070773dcdb5c2ac8dcc726992f41b618ef49a"
+	"logo" "0902704f181788aa8b876a52b8af7127b2767e58"
+	"logo_small" "0902704f181788aa8b876a52b8af7127b2767e58_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1680220800"
+		"tested_build_id" "1020136"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Ubinota"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1413315683"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rotateam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Plug In Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Plug In Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1425489420"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "323630"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "1664"
+		"2" "3968"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Rotateam"
+	"publisher" "Plug In Digital"
+	"homepage" "http://www.rotateam.com"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Ubinota"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ubinota.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"323631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4354089072069423114"
+				"size" "501084753"
+				"download" "198289696"
+			}
+		}
+	}
+	"323632"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1682475868993754201"
+				"size" "501084753"
+				"download" "198289520"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1020136"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24308016"
+"_sha" "b200f629ee5135229de316b9e5cc3ec906874846"
+"_size" "3698"

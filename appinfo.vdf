@@ -1,0 +1,643 @@
+"appid" "2322560"
+"common"
+{
+	"name" "完蛋！我被美女包围了！"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"name_localized"
+	{
+		"schinese" "完蛋！我被美女包围了！"
+		"tchinese" "完蛋！我被美女包圍了！"
+		"english" "Love Is All Around"
+		"koreana" "젠장! 미녀들한테 포위당했어!"
+		"japanese" "しまった！美人に囲まれた！"
+		"vietnamese" "Thôi Xong! Tui Bị Người Đẹp Bao Vây Rồi!"
+		"sc_schinese" "完蛋！我被美女包围了！"
+	}
+	"clienticon" "bbb8c5cfd684d1c920d232394935aab43fc419f2"
+	"clienttga" "f186f98209e96d66ead21c1e0e175abb2b300712"
+	"icon" "cc1eca77633803c11c8ac8a6e386b9e43da9f1b0"
+	"clienticns" "e5815ac4a49caadab93bcf300473739860c07c3f"
+	"linuxclienticon" "f9aea1a185b0c30b58f8b35dace7780fb87cd487"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"sc_schinese" "1"
+	}
+	"exfgls" "1"
+	"releasestatesteamchina" "released"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717545600"
+		"tested_build_id" "14386360"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "44.22403733955659"
+			"height_pct" "54.05414390881025"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "44.22403733955659"
+				"height_pct" "54.05414390881025"
+			}
+		}
+	}
+	"store_asset_mtime" "1721382947"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "intiny"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "intiny"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_13" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697601587"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2322560"
+	"store_tags"
+	{
+		"0" "9551"
+		"1" "4182"
+		"2" "18594"
+		"3" "3799"
+		"4" "4947"
+		"5" "12095"
+		"6" "6971"
+		"7" "3839"
+		"8" "6426"
+		"9" "11014"
+		"10" "1742"
+		"11" "9204"
+		"12" "4486"
+		"13" "122"
+		"14" "5608"
+		"15" "7208"
+		"16" "5984"
+		"17" "1654"
+		"18" "599"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"developer" "intiny"
+	"publisher" "intiny"
+	"homepage" "https://love.xiaoyouneirong.com/"
+	"listofdlc" "2670930,2881050"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "yoogames_hd1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WD.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Love Is All Around"
+				"schinese" "完蛋！我被美女包围了！"
+				"tchinese" "完蛋！我被美女包圍了！"
+			}
+			"description" "Love Is All Around"
+		}
+		"1"
+		{
+			"executable" "WD.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Love Is All Around"
+				"schinese" "完蛋！我被美女包围了！"
+				"tchinese" "完蛋！我被美女包圍了！"
+			}
+			"description" "Love Is All Around"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "english,koreana,schinese,tchinese,japanese,vietnamese"
+	"hasdepotsindlc" "1"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2322561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9163099708165032781"
+				"size" "15577728447"
+				"download" "15098091232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "279BBF8F31B39A74BEAAEE2DD235E863"
+				"size" "50D56B84806F69FB57C609F64BC08C1E"
+				"download" "9FCF95075AA4891151FF3A4DDB8FE2C4"
+			}
+			"steam_china_only"
+			{
+				"gid" "47C264B47FBDEF111488ECF3090CCD8A"
+				"size" "616B9C1BDDBE64739C6FB64E79CB07CD"
+				"download" "C1ECEBA9E4B56A673941FFEA0D7F71A0"
+			}
+		}
+	}
+	"2322562"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2699804182595280480"
+				"size" "15717123676"
+				"download" "15129005904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "32596780FE083426814951F3F4705FEC"
+				"size" "89A08FD92BD6629FB19C0C35DB5DECF9"
+				"download" "496809FAA88468EFB2FB2077F75901B4"
+			}
+			"steam_china_only"
+			{
+				"gid" "D1DFABCD841FAA33FF3D25FB90D8FFF2"
+				"size" "4B58D29D1A3624E35DB3C676EC5B8EA2"
+				"download" "EC9D4908674F2A975E618D2BAF4FC804"
+			}
+		}
+	}
+	"2322563"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6586294622975597034"
+				"size" "15637525604"
+				"download" "15105800144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "29C3720AF3A809A6953281BE3DBEBB53"
+				"size" "F788F62920DE829FCFC603678712D6E9"
+				"download" "098BE3D3BCE02B25F41883A6E21B039A"
+			}
+			"steam_china_only"
+			{
+				"gid" "05ADE0E9ECD149BC3821CD67F5EE758C"
+				"size" "DB7034A23769B5B661042878470E461E"
+				"download" "CFC48C42794295C20F145F3F1B97BB82"
+			}
+		}
+	}
+	"2322564"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7118752495615027013"
+				"size" "17731026217"
+				"download" "16870418976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "7442D3E5F99D0D8467CE2988AB8AD4AA"
+				"size" "4FDCE03D99BBC4139D31D7C37F3610CE"
+				"download" "F130594412FC3281803888C78CD5C617"
+			}
+			"steam_china_only"
+			{
+				"gid" "9305CCBE976478B319F768C54DD743DA"
+				"size" "940860BE0D087ADEB3DDBC345A9FA04C"
+				"download" "5D40CE13BD3EEAC1DA3E845C95F8E553"
+			}
+		}
+	}
+	"2322565"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "macos"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7190439734978377862"
+				"size" "17870421446"
+				"download" "16901330272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "76E33A58FC3483488EF559F2575F0733"
+				"size" "1BCCABD6DDAE8E909C14728D50EA5074"
+				"download" "723F04D20DD724D043A2370D16CFD99B"
+			}
+			"steam_china_only"
+			{
+				"gid" "34CC6A3354429CB4CB6A9AD2B55FCE88"
+				"size" "D36D7F9D184D6C2C019932784351F7EF"
+				"download" "C8CBCA298A74EC7557AD962390ECB073"
+			}
+		}
+	}
+	"2322566"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "linux"
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2653853061488407129"
+				"size" "17790823374"
+				"download" "16878120720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F7376180DF16F35A567B5EF3A560FA50"
+				"size" "44B8F6CEFA6C3BEBA5798504A04A9473"
+				"download" "7D7C56B74E9AD804C80F7D23DC040BEA"
+			}
+			"steam_china_only"
+			{
+				"gid" "4389188C856A6601C8E5627382CFB6D5"
+				"size" "3D14065BADCEFD82F7A95295CEF43371"
+				"download" "A8248E1CE5CD6FB1133B989699B6D6DB"
+			}
+		}
+	}
+	"2322567"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5533443203165306616"
+				"size" "17700707731"
+				"download" "16872328144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "C105B77D281AB83945CD2B18749F0B44"
+				"size" "B5B46A8F0699C274A527EE1E02052273"
+				"download" "0B82A430898C2076CC9DB31121F9E24B"
+			}
+			"steam_china_only"
+			{
+				"gid" "DC3E979CDEAF033CE3467AA474F9CCFB"
+				"size" "0E6CEF56189DB6DCFB799E5A9E73922F"
+				"download" "68C53925C7CD52408C426AD78DDD65EE"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15238937"
+			"timeupdated" "1722600833"
+		}
+		"development"
+		{
+			"buildid" "15376470"
+			"pwdrequired" "1"
+			"timeupdated" "1723689381"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+			"buildid" "15221404"
+			"pwdrequired" "1"
+			"timeupdated" "1722483032"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "256"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "yoogames-hd1-steam/LoveIsAllAround/SavesDir"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "yoogames-hd1-steam-cn/LoveIsAllAround/SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+	"sync_while_suspended" "1"
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "yoogames-hd1-steam/LoveIsAllAround/SavesDir"
+					"replace" "com.yoogames-hd1-steam.LoveIsAllAround/SavesDir"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "yoogames-hd1-steam/LoveIsAllAround/SavesDir"
+					"replace" ".config/unity3d/yoogames-hd1-steam/LoveIsAllAround/SavesDir"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25086369"
+"_sha" "a7d54227760761c9fb87cf0d45dbdafc67b973ad"
+"_size" "12636"

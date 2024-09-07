@@ -1,0 +1,149 @@
+"appid" "2465200"
+"common"
+{
+	"name" "Sons Of The Forest Dedicated Server"
+	"type" "Tool"
+	"parent" "1326470"
+	"icon" "3e382029f4751a9c377bcd0996a2ee7306c45e73"
+	"clienticon" "e594128a02ce8385574471e8196659eb66287400"
+	"clienttga" "16a283da838739c6d5215ca742f10c5bafc50ba9"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1687543286"
+	"associations"
+	{
+	}
+	"steam_release_date" "1687565100"
+	"gameid" "2465200"
+}
+"config"
+{
+	"installdir" "Sons Of The Forest Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StartSOTFDedicated.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2465201"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8785811027675960099"
+				"size" "3359003184"
+				"download" "1667105280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ds_beta_testing"
+			{
+				"gid" "056D83E5DB2F3B2F166E0A2BB7CA9792"
+				"size" "5F1D18D10BE937A727284D5B07D764A3"
+				"download" "9FB7F71B9C5293C853E403CF6E2A199B"
+			}
+			"ds_beta_testing_secondary"
+			{
+				"gid" "A30D3E1C3FF831DC318A04DB30CD9471"
+				"size" "E7F3A4C897D8492AB0CC62870D357494"
+				"download" "112F7AC38517DEBBF5A1BB3485A49A39"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14775608"
+			"timeupdated" "1718907021"
+		}
+		"ds_beta_testing"
+		{
+			"buildid" "15612567"
+			"pwdrequired" "1"
+			"timeupdated" "1725606160"
+		}
+		"ds_beta_testing_secondary"
+		{
+			"buildid" "15475068"
+			"pwdrequired" "1"
+			"timeupdated" "1724434333"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25104036"
+"_sha" "6dc6b9c1ff7c6d12cc773a1a0dd3eaad90a64b69"
+"_size" "2422"

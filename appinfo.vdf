@@ -1,0 +1,178 @@
+"appid" "1362540"
+"common"
+{
+	"name" "Battle Cry of Freedom - Dedicated Server"
+	"type" "Tool"
+	"parent" "1358710"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "b20b59cd3289d1f4e2742ee169a43d5b2c7c95d8"
+	"clienttga" "104406cb95d472b395e919f94ac91c35c54784ad"
+	"icon" "a25b3dfb1858427fddb252b4b9c0f1711852c0f4"
+	"logo" "17cf49a4babf62527c7f457dd367fc670702bf60"
+	"logo_small" "17cf49a4babf62527c7f457dd367fc670702bf60_thumb"
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "1362540"
+}
+"extended"
+{
+	"gamedir" ""
+}
+"config"
+{
+	"installdir" "Battle Cry of Freedom - Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BCoF.exe"
+			"arguments" "-batchmode -nographics -server"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1362541"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5055528026584321351"
+				"size" "8541883439"
+				"download" "3363550624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"commanderthing"
+			{
+				"gid" "42D3CA1147A7847DA740D6E4C1E7B0F5"
+				"size" "427DB44472AE327BAD9F28204029DB63"
+				"download" "13EFFF1705EF9D6715860E352CF50A8E"
+			}
+			"demo"
+			{
+				"gid" "E3929FD256CA3F32AB925B8642643A65"
+				"size" "B4819664A3A77519BB56F2BAB932C237"
+				"download" "3DED0025520B8D6445EB77CAE12F9CE0"
+			}
+			"4namebuild"
+			{
+				"gid" "2453410BA15D1BD7F313A40AE9266CD7"
+				"size" "2E32905CB13029516DC9FDE83070A4E0"
+				"download" "9AEC8AE5AEBE29D3A1B6AD232A2D01CA"
+			}
+			"demobeta"
+			{
+				"gid" "3C1FA358101CB1773AA766D697B2EB62"
+				"size" "8D053ABF22B27C050184763BD868B08B"
+				"download" "5EA4A114F01C2D8D82016BDF0C550745"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11018025"
+			"timeupdated" "1681713484"
+		}
+		"commanderthing"
+		{
+			"buildid" "8648414"
+			"pwdrequired" "1"
+			"timeupdated" "1651227068"
+		}
+		"demo"
+		{
+			"buildid" "8294740"
+			"pwdrequired" "1"
+			"timeupdated" "1646151965"
+		}
+		"4namebuild"
+		{
+			"buildid" "15611837"
+			"pwdrequired" "1"
+			"timeupdated" "1725600244"
+		}
+		"demobeta"
+		{
+			"buildid" "15611837"
+			"pwdrequired" "1"
+			"timeupdated" "1725600251"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25103147"
+"_sha" "db05eb1922b6f245b31e4249d1559bb9ccb2e98b"
+"_size" "3112"

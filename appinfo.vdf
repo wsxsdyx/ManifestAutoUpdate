@@ -1,0 +1,471 @@
+"appid" "1359090"
+"common"
+{
+	"name" "Zero Hour"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "f70cfd0d244ea4ad5be4826eca14821c2dd79462"
+	"clienticon" "7602d6a71891ed309f4aaa90bbad9d31f9b54e1e"
+	"icon" "435172a2df3695389d00ea2c78d820c9e748f01e"
+	"logo" "03b7156d5d3a4eb8b4b7cdab25dbfc65b6636e18"
+	"logo_small" "03b7156d5d3a4eb8b4b7cdab25dbfc65b6636e18_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1359090_eula_0"
+			"name" "Zero Hour EULA"
+			"url" "https://store.steampowered.com//eula/1359090_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1648771200"
+		"tested_build_id" "8327200"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "25.431623366300983"
+			"height_pct" "56.59722222222223"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "25.431623366300983"
+				"height_pct" "56.59722222222223"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724696822"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "M7 Productions"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Attrito"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Attrito"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "M7 Productions"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_15" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_14" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1597249500"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1359090"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "1774"
+		"2" "1663"
+		"3" "4175"
+		"4" "3859"
+		"5" "19"
+		"6" "4168"
+		"7" "3839"
+		"8" "3843"
+		"9" "1775"
+		"10" "5711"
+		"11" "9"
+		"12" "9204"
+		"13" "599"
+		"14" "1687"
+		"15" "3993"
+		"16" "6730"
+		"17" "4191"
+		"18" "4667"
+		"19" "493"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"anti_cheat_support_url" "https://support.codefusion.technology/0hou_3qt4asw/\?s=at&l=english"
+	"developer" "M7 Productions"
+	"publisher" "Attrito"
+	"homepage" "https://m7productions.gg/games/zero-hour"
+	"gamemanualurl" "https://store.steampowered.com/manual/1359090/"
+	"listofdlc" "2616600,2726290,2726300,2744030,2751840"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Zero Hour"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Zero Hour.exe"
+			"description" "DX 11 Build"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Zero Hour.exe"
+			"arguments" "-force-vulkan"
+			"description" "Vulkan Build(May Not Work)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229002"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229030"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229031"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229032"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1359091"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8625942187842345652"
+				"size" "33726367061"
+				"download" "13517448864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"exbranch"
+			{
+				"gid" "25D88341966551DCF22CA9AFAD0D79B5"
+				"size" "43B2CA59A88ED9E1713AE4D4FFCF9FE2"
+				"download" "002954E4E8B4146998D2C62B5F73523B"
+			}
+			"act_brnch"
+			{
+				"gid" "445F0B915495C972B4AC93FE5CFD4E4C"
+				"size" "B0D007A210E59A7F2FAA40B725A06863"
+				"download" "EBC083CF338E9EE8E430819FD6013A04"
+			}
+			"crnch_tester_prvt"
+			{
+				"gid" "748EABFEA86A8A92C870BB2AE041D6CE"
+				"size" "ADA1A9C0BACA6E737241B4281DC4AFA0"
+				"download" "B657DFC5732A31C348FCD7DC5D8BF243"
+			}
+			"exclusiv_tester"
+			{
+				"gid" "EB70ABF55D12F06FECCDEE1135AB1601"
+				"size" "907532E26D00E1553A1A705B92B403E4"
+				"download" "FFEBE70E5C2D380D1F2D2403B8C174A2"
+			}
+			"exclusiv_testernew"
+			{
+				"gid" "7BEDE8CA0E45C36D1AA952F28751A5B1"
+				"size" "C0F617259D384CAD3F1F77FC89AAFB2D"
+				"download" "E4F4B7470D9E068DC81FBEFF0F84ACF6"
+			}
+			"zhint"
+			{
+				"gid" "D99DFFDD3659D70345B3CE8492E0D8A5"
+				"size" "6C9E8C817C41D6532E65DB5C0DFB0BBD"
+				"download" "21A4EEA4111699F5007BDE84EBD3241C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14598461"
+			"timeupdated" "1717520445"
+		}
+		"exbranch"
+		{
+			"buildid" "13587383"
+			"pwdrequired" "1"
+			"timeupdated" "1709883511"
+		}
+		"act_brnch"
+		{
+			"buildid" "15625283"
+			"pwdrequired" "1"
+			"timeupdated" "1725710382"
+		}
+		"crnch_tester_prvt"
+		{
+			"buildid" "15625283"
+			"pwdrequired" "1"
+			"timeupdated" "1725710392"
+		}
+		"exclusiv_tester"
+		{
+			"buildid" "15625283"
+			"pwdrequired" "1"
+			"timeupdated" "1725710400"
+		}
+		"exclusiv_testernew"
+		{
+			"buildid" "15625283"
+			"pwdrequired" "1"
+			"timeupdated" "1725710408"
+		}
+		"zhint"
+		{
+			"buildid" "15625283"
+			"pwdrequired" "1"
+			"timeupdated" "1725709605"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "M7 production _ Attrito\\Zero Hour"
+			"pattern" "*.file"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25120860"
+"_sha" "e920096256452f099f4811af0d72f7c9bedbb4d9"
+"_size" "8241"

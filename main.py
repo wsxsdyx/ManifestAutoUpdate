@@ -22,8 +22,8 @@ from steam.guard import generate_twofactor_code
 from DepotManifestGen.main import MySteamClient, MyCDNClient, get_manifest, BillingType, Result
 
 lock = Lock()
-# 改大100倍修复添加多账号导致堆栈溢出
-sys.setrecursionlimit(10000000)
+#改大100倍修复添加多账号导致堆栈溢出
+sys.setrecursionlimit(100000000)
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--credential-location', default=None)
 parser.add_argument('-l', '--level', default='INFO')
@@ -50,7 +50,8 @@ class MyJson(dict):
         if not self.path.exists():
             self.dump()
             return
-        with self.path.open() as f:
+        # 指定使用 'utf-8' 编码来读取文件
+        with self.path.open(encoding='utf-8') as f:
             self.update(json.load(f))
 
     def dump(self):
@@ -167,7 +168,7 @@ class ManifestAutoUpdate:
         self.app_info = MyJson(self.app_info_path)
         self.two_factor = MyJson(self.two_factor_path)
         self.appuserlist = MyJson(self.appuserlist_path)
-        # self.Avalidaccountlist = MyJson(self.Avalidaccount_path)
+        #self.Avalidaccountlist = MyJson(self.Avalidaccount_path)
         self.log.info('Waiting to get remote tags!')
         self.get_remote_tags()
         self.update_user_list = [*user_list] if user_list else []
@@ -219,7 +220,7 @@ class ManifestAutoUpdate:
                     if delete_list:
                         app_repo.git.rm(delete_list)
                     app_repo.git.add(f'{depot_id}_{manifest_gid}.manifest')
-                    # 修改将资源Key保存到Key.vdf，新增appinfo(保存app信息 DLC(包括独立DLC))，新增config.json(保存depot_id和dlc_id)
+                    #修改将资源Key保存到Key.vdf，新增appinfo(保存app信息 DLC(包括独立DLC))，新增config.json(保存depot_id和dlc_id)
                     app_repo.git.add('Key.vdf')
                     app_repo.git.add('config.json')
                     app_repo.git.add('appinfo.vdf')
@@ -329,7 +330,7 @@ class ManifestAutoUpdate:
                 return
 
     def login(self, steam, username, password):
-        # 密码错误次数过超过15次导致ip封禁结束所有登录
+        #密码错误次数过超过15次导致ip封禁结束所有登录
         if self.ret >= 15:
             return
         self.log.info(f'Logging in to account {username}!')
@@ -343,7 +344,7 @@ class ManifestAutoUpdate:
             if result == EResult.RateLimitExceeded:
                 with lock:
                     time.sleep(wait)
-            result = steam.login(username, password, steam.login_key, None, two_factor_code=generate_twofactor_code(
+            result = steam.login(username, password, steam.login_key,None, two_factor_code=generate_twofactor_code(
                 base64.b64decode(shared_secret)) if shared_secret else None)
         count = self.retry_num
         while result != EResult.OK and count:
@@ -352,7 +353,7 @@ class ManifestAutoUpdate:
                     self.log.warning(f'Using the command line to interactively log in to account {username}!')
                     result = steam.cli_login(username, password)
                 break
-            # 避免多次挤号导致ip封禁
+            #避免多次挤号导致ip封禁
             elif result == EResult.AlreadyLoggedInElsewhere:
                 break
             elif result == EResult.RateLimitExceeded:
@@ -360,8 +361,8 @@ class ManifestAutoUpdate:
                     break
                 with lock:
                     time.sleep(wait)
-                result = steam.login(username, password, steam.login_key, None, two_factor_code=generate_twofactor_code(
-                    base64.b64decode(shared_secret)) if shared_secret else None)
+                result = steam.login(username, password, steam.login_key,None, two_factor_code=generate_twofactor_code(
+                base64.b64decode(shared_secret)) if shared_secret else None)
             elif result in (EResult.AccountLogonDenied, EResult.AccountDisabled,
                             EResult.AccountLoginDeniedNeedTwoFactor, EResult.PasswordUnset,
                             EResult.InvalidPassword):
@@ -372,14 +373,14 @@ class ManifestAutoUpdate:
             wait += 1
             count -= 1
         if result == EResult.InvalidPassword:
-            self.ret += 1
+            self.ret+=1
         if result == EResult.OK:
             self.log.info(f'User {username} login successfully!')
         else:
             self.log.error(f'User: {username}: Login failure reason: {result.__repr__()}')
         return result
 
-    def async_task(self, cdn, app_id, appinfo, package, depot):
+    def async_task(self, cdn, app_id,appinfo,package,depot):
         self.init_app_repo(app_id)
         manifest_path = self.ROOT / f'depots/{app_id}/{depot.depot_id}_{depot.gid}.manifest'
         if manifest_path.exists():
@@ -394,13 +395,13 @@ class ManifestAutoUpdate:
                 self.log.debug(f'manifest_commit: {manifest_commit}')
                 return Result(result=True, app_id=app_id, depot_id=depot.depot_id, manifest_gid=depot.gid,
                               manifest_commit=manifest_commit)
-        return get_manifest(cdn, app_id, appinfo, package, depot, True, self.ROOT, self.retry_num)
+        return get_manifest(cdn,app_id,appinfo,package,depot, True, self.ROOT, self.retry_num)
 
     def get_manifest(self, username, password, sentry_name=None):
-        self.users += 1
+        self.users+=1
         Number = len(self.update_user_list)
         if Number == 0:
-            Number = len(self.user_info)
+           Number = len(self.user_info)
         self.log.info(f'-----------{username}: [{self.users}/{Number}]------------')
         if username not in self.user_info:
             self.user_info[username] = {}
@@ -412,7 +413,7 @@ class ManifestAutoUpdate:
         if not self.user_info[username]['enable']:
             logging.warning(f'User {username} is disabled!')
             return
-        # self.user_info[username]['update'] = 0
+        #self.user_info[username]['update'] = 0
         t = self.user_info[username]['update'] + self.update_wait_time - time.time()
         if t > 0:
             logging.warning(f'User {username} interval from next update: {int(t)}s!')
@@ -433,7 +434,7 @@ class ManifestAutoUpdate:
             return
         app_id_list = cdn.load_licenses()
         self.log.info(f'User {username}: {len(app_id_list)} paid app found!')
-        # 忽略获取app_id_list失败导致误判
+        #忽略获取app_id_list失败导致误判
         if not app_id_list and result != EResult.OK:
             self.user_info[username]['enable'] = False
             self.user_info[username]['status'] = result
@@ -441,7 +442,7 @@ class ManifestAutoUpdate:
             return
         self.log.debug(f'User {username}, paid app id list: ' + ','.join([str(i) for i in app_id_list]))
         self.log.info(f'User {username}: Waiting to get app info!')
-        fresh_resp = self.retry(steam.get_product_info, app_id_list, timeout=30, retry_num=self.retry_num)
+        fresh_resp = self.retry(steam.get_product_info, app_id_list,timeout=30, retry_num=self.retry_num)
         if not fresh_resp:
             logging.error(f'User {username}: Failed to get app info!')
             return
@@ -455,31 +456,30 @@ class ManifestAutoUpdate:
                     continue
                 self.log.debug(f'Lock app: {app_id}')
                 self.app_lock[int(app_id)] = set()
-            # 改为get_manifests获取manifests
+            #改为get_manifests获取manifests
             manifests = cdn.get_manifests(int(app_id))
             if not manifests:
                 continue
-            # 尝试获取dlc或额外内容并添加到配置文件(仅添加拥有的DLC)
+            #尝试获取dlc或额外内容并添加到配置文件(仅添加拥有的DLC)
             app = fresh_resp['apps'][app_id]
             package = {'dlcs': [], 'packagedlcs': []}
             dlcappids = {}
             if 'extended' in app and 'listofdlc' in app['extended']:
                 dlc_list = list(map(int, app['extended']['listofdlc'].split(',')))
                 package['dlcs'] = dlc_list
-                element = self.retry(steam.get_product_info, dlc_list, timeout=30, retry_num=self.retry_num).get('apps',
-                                                                                                                 {})
+                element = self.retry(steam.get_product_info, dlc_list,timeout=30, retry_num=self.retry_num).get('apps',{})
                 for appid, info in element.items():
-                    if info.get('depots', {}):
+                    if info.get('depots',{}):
                         package['packagedlcs'].append(int(appid))
                         package['dlcs'].remove(int(appid))
                 for depotid, info in app['depots'].items():
                     if 'dlcappid' in info and 'manifests' in info:
-                        dlcappids[depotid] = int(info['dlcappid'])
+                        dlcappids[depotid]=int(info['dlcappid'])
                 for depot in manifests:
                     dlcappids.pop(str(depot.depot_id), None)
                 for value in dlcappids.values():
                     if value in package['dlcs']:
-                        package['dlcs'].remove(value)
+                         package['dlcs'].remove(value)
             for depot in manifests:
                 depot_id = str(depot.depot_id)
                 manifest_gid = str(depot.gid)
@@ -492,7 +492,7 @@ class ManifestAutoUpdate:
                         self.log.info(f'Already got the manifest: {depot_id}_{manifest_gid}')
                         continue
                 flag = False
-                job = gevent.Greenlet(LogExceptions(self.async_task), cdn, app_id, app, package, depot)
+                job = gevent.Greenlet(LogExceptions(self.async_task), cdn, app_id,app,package,depot)
                 job.rawlink(functools.partial(self.get_manifest_callback, username, app_id, depot_id, manifest_gid))
                 job_list.append(job)
                 gevent.idle()
@@ -507,9 +507,9 @@ class ManifestAutoUpdate:
             if flag:
                 self.user_info[username]['update'] = int(time.time())
         gevent.joinall(job_list)
-        # steam.logout()
-        # steam.disconnect()
-        # cdn.clear_cache()
+        #steam.logout()
+        #steam.disconnect()
+        #cdn.clear_cache()
 
     def run(self, update=False):
         if not self.account_info or self.init_only:
@@ -587,20 +587,20 @@ class ManifestAutoUpdate:
                             update_app_user[int(app_id)] = []
                         update_app_user[int(app_id)].append(user)
                         update_user_set.add(user)
-                        # 导出可以账户和密码到Avalidaccountlist
-                        # self.Avalidaccountlist.update({user:self.account_info[user][0]})
+                        #导出可以账户和密码到Avalidaccountlist
+                        #self.Avalidaccountlist.update({user:self.account_info[user][0]})
         self.log.debug(str(update_app_user))
         for user in self.account_info:
             if user not in self.user_info:
                 update_user_set.add(user)
         self.update_user_list.extend(list(update_user_set))
         for app_id, user_list in update_app_user.items():
-            # 导出所有对应app所包含的账号到appuserlist
-            self.appuserlist.update({app_id: ",".join(user_list)})
+            #导出所有对应app所包含的账号到appuserlist
+            self.appuserlist.update({app_id:",".join(user_list)})
             self.log.info(f'{app_id}: {",".join(user_list)}')
         self.appuserlist.dump()
-        # 导出可以账户和密码到Avalidaccountlist
-        # self.Avalidaccountlist.dump()
+        #导出可以账户和密码到Avalidaccountlist
+        #self.Avalidaccountlist.dump()
         self.log.info(f'{len(update_app_user)} app and {len(self.update_user_list)} users need to update!')
         return self.update_user_list
 

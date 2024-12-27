@@ -1,0 +1,6626 @@
+"appid" "1466860"
+"common"
+{
+	"name" "Age of Empires IV: Anniversary Edition"
+	"type" "Game"
+	"logo" "15385a98e770d1a8fd4a1ab19942bc68b3a3b13b"
+	"logo_small" "15385a98e770d1a8fd4a1ab19942bc68b3a3b13b_thumb"
+	"clienticon" "c8f15ed47879a46a2fc175fb1720fee32678f3b4"
+	"clienttga" "0b8ea36a20f305cf23eb2dab1746277133927c8f"
+	"icon" "503acf3ef0503e24af6b5336012a1f585a2f955e"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"vietnamese" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1466860_eula_0"
+			"name" "Age of Empires IV: Anniversary Edition EULA"
+			"url" "https://store.steampowered.com//eula/1466860_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695081600"
+		"tested_build_id" "12029632"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Age of Empires IV"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "21.87857961053838"
+			"height_pct" "39.11053743252756"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "21.87857961053838"
+				"height_pct" "39.11053743252756"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724792726"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Relic Entertainment"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Forgotten Empires"
+		}
+		"2"
+		{
+			"type" "developer"
+			"name" "Climax Studios"
+		}
+		"3"
+		{
+			"type" "developer"
+			"name" "World\'s Edge"
+		}
+		"4"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Age of Empires"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1635432960"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/age-of-empires-iv\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1466860"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1676"
+		"2" "7332"
+		"3" "1678"
+		"4" "3859"
+		"5" "4182"
+		"6" "4172"
+		"7" "8945"
+		"8" "4328"
+		"9" "3987"
+		"10" "1723"
+		"11" "1775"
+		"12" "6730"
+		"13" "1685"
+		"14" "4191"
+		"15" "12472"
+		"16" "5851"
+		"17" "1695"
+		"18" "3843"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/1158957797590118925/"
+	"developer" "Relic Entertainment"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.ageofempires.com/"
+	"listofdlc" "1668560,1668570,1779350,1959430,2131250"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Age of Empires IV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RelicCardinal.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "default"
+			}
+		}
+		"2"
+		{
+			"executable" "RelicCardinal.exe"
+			"arguments" "-publicTest"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "future_live"
+			}
+			"description_loc"
+			{
+				"english" "Public Test"
+			}
+			"description" "Public Test"
+		}
+		"3"
+		{
+			"executable" "RelicCardinal.exe"
+			"arguments" "-publicTest"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "puptesting"
+			}
+			"description_loc"
+			{
+				"english" "PUP QA Testing"
+			}
+			"description" "PUP QA Testing"
+		}
+		"4"
+		{
+			"executable" "EssenceEditor.exe"
+			"arguments" "-publicTest"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "puptesting"
+			}
+			"description_loc"
+			{
+				"english" "Content Editor"
+			}
+			"description" "Content Editor"
+		}
+		"5"
+		{
+			"executable" "EssenceEditor.exe"
+			"arguments" "-publicTest"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "future_live"
+			}
+			"description_loc"
+			{
+				"english" "Age of Empires IV: Content Editor (Beta)"
+			}
+			"description" "Age of Empires IV: Content Editor (Beta)"
+		}
+		"6"
+		{
+			"executable" "RelicCardinal.exe"
+			"arguments" "-publicTest"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "practice"
+			}
+			"description_loc"
+			{
+				"english" "Practice Branch"
+			}
+			"description" "Practice Branch"
+		}
+		"7"
+		{
+			"executable" "EssenceEditor.exe"
+			"arguments" "-publicTest"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "practice"
+			}
+			"description_loc"
+			{
+				"english" "Practice Content Editor"
+			}
+			"description" "Practice Content Editor"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,brazilian,greek,latam,vietnamese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1466861"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3798853880512976127"
+				"size" "34158966169"
+				"download" "27816641488"
+			}
+			"previous_live"
+			{
+				"gid" "151320921730154340"
+				"size" "34158600439"
+				"download" "27835007040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "CA01C47462A1A2E28156AFBAF244EB9B"
+				"size" "422EDDDAFA627E5D05BCBB8305AD7EFC"
+				"download" "CD8F1257428D9F57638A23C6C6C382F1"
+			}
+			"council_preview"
+			{
+				"gid" "A356C56A6109BF11B08CE9D29E04CBA9"
+				"size" "7912BAE7479F6B3591E9AD060CA13F9D"
+				"download" "0AE156189B2E78373533AE09E6D20512"
+			}
+			"hotfixrc1"
+			{
+				"gid" "7F37677D7DDB197A7CF69B6AE903EA4D"
+				"size" "B0CDEFC5D2C2E330C9787AF1BDB761A1"
+				"download" "7DEC712CA9695F9062E72338246EAAAB"
+			}
+			"opentest"
+			{
+				"gid" "C5A16A51C99DD2806998FBF626ACAEFC"
+				"size" "764E5E1D4195B5936FE3A0FD7CD76477"
+				"download" "C76B41154259B53694D2BC484ACBD3FD"
+			}
+			"practice"
+			{
+				"gid" "BA294F6CEB9955B67DA210C384BB0F2A"
+				"size" "A5370A43CA8872FBCB438CE64722DD46"
+				"download" "EF779898E40B4993B9B99ADB4786672C"
+			}
+			"review"
+			{
+				"gid" "DD1324729E3285A11711F1BE9AAD4A7F"
+				"size" "A1C4EB5107B7280DE630CBE0F95A07D2"
+				"download" "D8EDED7FF5576A243C573F81E5E77186"
+			}
+			"future_live"
+			{
+				"gid" "C1A668C36342306CBDB9C728A4679236"
+				"size" "DF465375865F3C000E07578C97D2F36C"
+				"download" "756F0E8080B29A6EDB838E6D9C455054"
+			}
+			"puptesting"
+			{
+				"gid" "404C3472FFBDA39DC698CD9AB5467F4A"
+				"size" "0D355B68DF1A4838E99D553C25F04F11"
+				"download" "5A68830E85D02BFE26206315E8634B36"
+			}
+			"rc2testing"
+			{
+				"gid" "4D46B1C237E57AB84D84557F9B5A3372"
+				"size" "F68B3B31F840C88E2715486DFE59AE15"
+				"download" "0C342D8D61DCBB99F3F8B6AAEA3AF8FB"
+			}
+			"rc3testing"
+			{
+				"gid" "A5FE4087BCDDC9DB75585775A1BCC0F7"
+				"size" "537F551B1F10D059325CF7698C88F05A"
+				"download" "3B0CA735FA6AE92D50A89CB123FAE973"
+			}
+			"rc4testing"
+			{
+				"gid" "FFA29742264E187EBA638228ECE32ECC"
+				"size" "175A0B64DF4291ED9269E6B2C29CC83B"
+				"download" "68C0FC4C6AE0EEE980266555F5050670"
+			}
+			"rc5testing"
+			{
+				"gid" "870DF20943CF3959E76D5893ECA2B368"
+				"size" "5677C6BC3BCD9717A7DADE7DA3BD074F"
+				"download" "451C2E377CD7163D4E71B932063D8C63"
+			}
+			"rc6testing"
+			{
+				"gid" "754062303F2F952FED653A923F23EC63"
+				"size" "314F35F0FF058362DBB85FED6F70E5B1"
+				"download" "5D6F6F912BCE84D8AEF37CF6A6D0EDAA"
+			}
+			"rc7testing"
+			{
+				"gid" "8C7758AC752234148B20921EE836C025"
+				"size" "F87BCF1433034299E44E041808727F2E"
+				"download" "387E28B4089223BDAFD94C893B72E297"
+			}
+			"rctesting"
+			{
+				"gid" "3E1C818D4CBD29434A38913198B8814B"
+				"size" "A60CEA14A720613FDF723208CA19CD9D"
+				"download" "E6E1C1CD373D36765A558FA2A028B95B"
+			}
+			"releasetesting"
+			{
+				"gid" "F654BE2C9AAD51C41F812FF61A92D017"
+				"size" "5C767725EB7B8FF33043730A8D77150F"
+				"download" "4B6E88F0ED650BB0A87B776D2B7982D8"
+			}
+		}
+	}
+	"1466862"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2138528808271095152"
+				"size" "6934133398"
+				"download" "7024348096"
+			}
+			"previous_live"
+			{
+				"gid" "2138528808271095152"
+				"size" "6934133398"
+				"download" "7024348096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "F453013CEB74BB3894CC004D90AAA78C"
+				"size" "21B7B38FC0234D43914E29352A8908B2"
+				"download" "92E2916F33790F7B6034FC1EB2767C7E"
+			}
+			"council_preview"
+			{
+				"gid" "8AD519C8D1908CA455280A7BC154E983"
+				"size" "81DBCB6802A878BA6240C0D6B03D9D5E"
+				"download" "53430A2A608EB01D2385B271222761EA"
+			}
+			"hotfixrc1"
+			{
+				"gid" "B68D74FD04DBC8998DD73629676A4613"
+				"size" "70E816A831DCDDFF49D2B0D839656C1B"
+				"download" "E7A905F8AE35A647C6329B5CD68F260C"
+			}
+			"opentest"
+			{
+				"gid" "347065C95328BBDD0D6424888315840D"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "BDDD6CC7CA4C8F1E6D8EFC271D530734"
+				"size" "9CECEA8878235B32316F597231B21BF5"
+				"download" "98B841F8333FB4353F2E93D75D27DCEE"
+			}
+			"review"
+			{
+				"gid" "90E76A81D95D8D947F11D0C3034B2BDC"
+				"size" "54F9A33A7EEFD65775CD6ACECADF3EF5"
+				"download" "1EA9FB0437E9CDED7F14960B8EBC032B"
+			}
+			"future_live"
+			{
+				"gid" "96F7FEDC5080B7E5FA7EEC5A41E0E232"
+				"size" "F326556230198780CAAA20F405DE67CB"
+				"download" "9ED1A2FE55C940F41FB2B7E21E1C12A8"
+			}
+			"puptesting"
+			{
+				"gid" "E27994FD8DD43CEB16222920A06083AC"
+				"size" "1F7445EA3864047836C2530A60699A7D"
+				"download" "17365AB82F0DAE76335437FCFC829C17"
+			}
+			"rc2testing"
+			{
+				"gid" "2747B44031E8F1EB96E3249E33A44B10"
+				"size" "3112D68EC39EA2AA10DF2204212A7C8B"
+				"download" "F7533C3CD654D138A85683F03B741C16"
+			}
+			"rc3testing"
+			{
+				"gid" "0D2CBBFDDDEE09BBEE1C6EAF63D27671"
+				"size" "BD06E46B530058DE418D5944963DD0F8"
+				"download" "435147E4A0FFF3CFAF84E630ED0C064C"
+			}
+			"rc4testing"
+			{
+				"gid" "1977ECF3A88FAF3D8CAA7A2F8B10E28A"
+				"size" "D6491FC3AE99354D0007D80AA61AEE56"
+				"download" "5DE85D67C38AB3C37C866B5CCC8DD2FD"
+			}
+			"rc5testing"
+			{
+				"gid" "8CED06BC8E2D6314458143AE101D5465"
+				"size" "3E8B0D839984DDA1FBCB741D2CCB5844"
+				"download" "A9DA98AF3ACE000604627D52D50215A8"
+			}
+			"rc6testing"
+			{
+				"gid" "5F0EE47FCB7C88B9C4668D5D4C73C74C"
+				"size" "B9EBC0D5A4862B191EF8C59F4918AC20"
+				"download" "3092EAFE0BE90932D124375F8D86590F"
+			}
+			"rc7testing"
+			{
+				"gid" "EC6DBE5945DD61E30BD3D19227D879B6"
+				"size" "7F2743EB0F331A7732ABF87F5B71DDA2"
+				"download" "381C32A635AAF3E5B8C76690B6D7C8BB"
+			}
+			"rctesting"
+			{
+				"gid" "DBB74D3D20CE981BD82130870075135A"
+				"size" "CB2B1F004AD7AADCEB177DC79B0B9289"
+				"download" "E9F56EEA0815D05A4F238A8C8564902B"
+			}
+			"releasetesting"
+			{
+				"gid" "D83671ECBA46A6EE05FC79F3313AE2DD"
+				"size" "CFBD129A800BB39783FBFE8DA0B2F8A4"
+				"download" "5C47CA6B3BC1A138A06A4FDB6A6133B9"
+			}
+		}
+	}
+	"1466863"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8457278823537438692"
+				"size" "6883973486"
+				"download" "6973434224"
+			}
+			"previous_live"
+			{
+				"gid" "8457278823537438692"
+				"size" "6883973486"
+				"download" "6973434224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "ED25329141EBCE45F870A9470DC7E769"
+				"size" "9981CA1B498D8CE92C8824E209DD108B"
+				"download" "9D1E271CD7588D35AF04E1A6D31F84A4"
+			}
+			"council_preview"
+			{
+				"gid" "1B8A8400E8313B2AEEECCF87866BDBA1"
+				"size" "DADF48D78E71358A3A7A720C36B6C199"
+				"download" "05EAE2AE68FF5EF8C967B543B04DC1D9"
+			}
+			"hotfixrc1"
+			{
+				"gid" "D62EAE7D46B37D26B3A3E2CBE1042B8A"
+				"size" "04786BCBE49FE372430C87AA21076F22"
+				"download" "8CE069AC32A3E4833CA9BF18C9270B66"
+			}
+			"opentest"
+			{
+				"gid" "E26A65569D927899A83EE61EDA82E2E8"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "E45F99EC9086CF5A8B02ED0FC662EA44"
+				"size" "1A3D49B36AD51AC8EBDBE042BE2EA42E"
+				"download" "096213552C9C3E98F7F54AB32BE00461"
+			}
+			"review"
+			{
+				"gid" "D36849D93487E59E0A593071AB36FEB8"
+				"size" "FF2CC12A6199C63315744FE4F4D27ADB"
+				"download" "8A22C82D5846AF08B07E308FFCF52309"
+			}
+			"future_live"
+			{
+				"gid" "53858F512699FDC2B5B26B23FEC11FBB"
+				"size" "158FE37F66BC157547C1C0375AF9C803"
+				"download" "656739042F3B808CD42EEB0625D8E234"
+			}
+			"puptesting"
+			{
+				"gid" "FC1E781D5CCE645F5A983177E20D11BF"
+				"size" "59DB5089EDDDB20CFAA8B7CA98F8CF40"
+				"download" "7FC4245E3377E718C1EAA50FA1856182"
+			}
+			"rc2testing"
+			{
+				"gid" "31AB3195B9303E1786034FF62BB4BEA5"
+				"size" "EF9BB4AA67C44FACE1D520AD001396B6"
+				"download" "8D4ED6B6BDF40A07B962C461A4B55D6D"
+			}
+			"rc3testing"
+			{
+				"gid" "4F29182E2E02AC93048875DD21D7EEAB"
+				"size" "D9B56C295DD66FF9E112306C540AD668"
+				"download" "95FC3976E466E9EDC0749EA4370C2964"
+			}
+			"rc4testing"
+			{
+				"gid" "27237E442AFD0F1F9DF845F399E5FC02"
+				"size" "8BBCD3ACAAA37A5536DE8E6A51BA016C"
+				"download" "B3CF23D62F218751F2D9B3B9F054930B"
+			}
+			"rc5testing"
+			{
+				"gid" "D1B8F071B99EF3886F5236DF2C9CF8D6"
+				"size" "0A9A3AC2530A1BA58E75D931A4AC8941"
+				"download" "2D05978F661AA1B57022E13E5C82F881"
+			}
+			"rc6testing"
+			{
+				"gid" "D5D02E4D088167D2E726BA31BBA9DD5C"
+				"size" "0056B63540C5BBB648E82E8146DE7A8B"
+				"download" "2479ECC889B383584019DC6D93489817"
+			}
+			"rc7testing"
+			{
+				"gid" "7E965231D20234FA53DE01D07361AF55"
+				"size" "7053B0F5F1C7A2636EBCF478E48F9984"
+				"download" "A08E77F65EF895F81D24D2E204903024"
+			}
+			"rctesting"
+			{
+				"gid" "828888FCE678C88CAD2AD5575669CC21"
+				"size" "9B68012A16A0D504318D95B348FBC348"
+				"download" "408A9F66CEA65E04E32B6DC3034E922D"
+			}
+			"releasetesting"
+			{
+				"gid" "84B83751375CCE108E99E8E0BF63DC10"
+				"size" "E7F81E591144954E24A2942BBD1148E0"
+				"download" "6EAE630844E79B800D42CDFE7D246B0F"
+			}
+		}
+	}
+	"1466864"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1943056247132520381"
+				"size" "6961611623"
+				"download" "7052199008"
+			}
+			"previous_live"
+			{
+				"gid" "1943056247132520381"
+				"size" "6961611623"
+				"download" "7052199008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "177B7A228F6723A1505E3A70C7977CFE"
+				"size" "B2C1E5476804A41B4DD71029E4D32E5E"
+				"download" "971D5BA3487BA23ECF876BD7820E6DBC"
+			}
+			"council_preview"
+			{
+				"gid" "3528DF7D16A13E38A3762B3CBC1B7D8A"
+				"size" "20A6E587BCE3C2F1CBB6D310A95C171A"
+				"download" "D7160C39B810F56D2D2F7A0AA47A71E8"
+			}
+			"hotfixrc1"
+			{
+				"gid" "7F1A5015CC0D52E7685DB8AE921D59C7"
+				"size" "19ADE55975FCD4A175B6CE5742E68490"
+				"download" "91E20889B70709EE6E7856590F0E7730"
+			}
+			"opentest"
+			{
+				"gid" "598BF4C6EA95146CB13CE76E83E7EBE0"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "1710D725BA5652C33BE4E60018398E09"
+				"size" "35C11113C6FA3AAD4FB8E76BA6DC8750"
+				"download" "0CC03FC07778570ED42C1A2F6AF0F7E6"
+			}
+			"review"
+			{
+				"gid" "BF4F173498085B34FD67AE46402DE0A2"
+				"size" "9109C84BD95F491B206D5B46D1DB5487"
+				"download" "5B3F3C3EDA434B663D626A2E854BC39C"
+			}
+			"future_live"
+			{
+				"gid" "F94A71F391D9DEE4646CF09870669BF8"
+				"size" "882A564482B38CC5C7DF92E14BEA839E"
+				"download" "65481F8D3937ED1E041CAA8D68BD30A1"
+			}
+			"puptesting"
+			{
+				"gid" "057A4112E67A0B449510E41DC0EBCA92"
+				"size" "E4ED5ADC79DE727F73A0C39CE0EE8530"
+				"download" "A5FD8DE341A3C9409DFA4D6E31952BAE"
+			}
+			"rc2testing"
+			{
+				"gid" "7266ED9021D66E9B1BFF104F6FD100A3"
+				"size" "78694FB0122EF1B16A59D8B10A9CE676"
+				"download" "D9353ED4FA4CC6867AC8481E9DB8C3EB"
+			}
+			"rc3testing"
+			{
+				"gid" "729654FF8D614ECAC8E5B95EF10462CD"
+				"size" "AB979E00B82BE7CA398BFF9D9FC6B23F"
+				"download" "E7A2C642F02F9D19D927720535A72AA7"
+			}
+			"rc4testing"
+			{
+				"gid" "1F87BC73A005E7070320FF3CF3F51411"
+				"size" "9DD51BFE26536FB6C20BD7AA39BFC2AA"
+				"download" "3BA1E1DBC2A0D9B1F0FCE3EB4A05DA8A"
+			}
+			"rc5testing"
+			{
+				"gid" "5F3ED72C0203C985AEF8B1D782F1695F"
+				"size" "5EA405C531B446C490AFDA1B11791C28"
+				"download" "4893D4DCF08884A79C9D324570B6229F"
+			}
+			"rc6testing"
+			{
+				"gid" "955B9D8ED8112094E3067662DEF237D5"
+				"size" "E3D2EAF28D412F9B32A3B25782563757"
+				"download" "D71881F62D96411040AAEB1D6F344B52"
+			}
+			"rc7testing"
+			{
+				"gid" "6CB4C518D369434660D77D08F8BEE396"
+				"size" "2D2BA9CA02A05A6DC24FE0C652179D01"
+				"download" "70019ED1E932F1A8FCC51A8046DB4CE7"
+			}
+			"rctesting"
+			{
+				"gid" "56C7422FB8E2AC054C8F7947CEF13FFB"
+				"size" "8A804FB65C56E377F5F01D2DA0CE68C1"
+				"download" "01ACE86F4154DCAD57EAE5ACB2734675"
+			}
+			"releasetesting"
+			{
+				"gid" "E3F48191A3B313C8471ED2B5F90A94FD"
+				"size" "C04CCDA3289239342B5A84F1A238B222"
+				"download" "3E4864B382AC366B6CCEC139587AF69F"
+			}
+		}
+	}
+	"1466865"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8930763091142220220"
+				"size" "6942596314"
+				"download" "7032848528"
+			}
+			"previous_live"
+			{
+				"gid" "8930763091142220220"
+				"size" "6942596314"
+				"download" "7032848528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "E0A1F9479CC5234441484A49AAD82871"
+				"size" "C992711592992F5FBB7141996F90A0D8"
+				"download" "703F911837D72F7FFBEC6285A3587945"
+			}
+			"council_preview"
+			{
+				"gid" "2FC913698719BFE677D4086C9B9EBAB7"
+				"size" "293469E3AE3514710154A03C0E7F50CC"
+				"download" "8BFE57BE4F8715E7727F9829B943BA08"
+			}
+			"hotfixrc1"
+			{
+				"gid" "01A6AB822C6E1655C72014413E948DD0"
+				"size" "59B495457DD379751148995141328573"
+				"download" "2B3E5714DC272F723D30BEFEF509467D"
+			}
+			"opentest"
+			{
+				"gid" "EFE06E6C8BADF04032D3F62F11CB6156"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "96940BB665F0080172CF0F92AFD6E13C"
+				"size" "5259CEDC45841D4FA7DFEC620B632289"
+				"download" "6736ECFD72DC849E4C6401C596420784"
+			}
+			"review"
+			{
+				"gid" "5250A87ACD479D6A10725216CF936AB6"
+				"size" "A83A001EB933AF328F1FCB496A90CE2C"
+				"download" "3A8777E5BB8C4FC8737EA9E913CEDC4E"
+			}
+			"future_live"
+			{
+				"gid" "1D7CF8254ACC551056039E58C2F5EB9C"
+				"size" "E5B0B29F1FBB4103C8EB382B59BED047"
+				"download" "4E0F1D876E9FFF2A81667F3DE1239996"
+			}
+			"puptesting"
+			{
+				"gid" "779792AAAEC025843576CA2877ACA084"
+				"size" "0C261165627625CFBDB81F86499B5C09"
+				"download" "7A5E7EB578A6CF89983DBEB335D1EBD0"
+			}
+			"rc2testing"
+			{
+				"gid" "E4BCE751344D969EA6BE40C10D59AF22"
+				"size" "4F8EBA2534AB9E26F78549A2FCEC9060"
+				"download" "F99FC27A3A8FAB356E06C7A17801641F"
+			}
+			"rc3testing"
+			{
+				"gid" "9F67A6544FA3B360284610E138D07141"
+				"size" "4ADD88A5206782674B18CC57C8243FF8"
+				"download" "525610D74C39413A0BFA75AFD0341E52"
+			}
+			"rc4testing"
+			{
+				"gid" "3B3808EF0756670348C322F97D30184B"
+				"size" "666F7A87C60921EF380F0DA6174506A9"
+				"download" "521C3934F381A096C75CE708C0DC1746"
+			}
+			"rc5testing"
+			{
+				"gid" "DEBE2A63C37E8C34F4FD53368AB51539"
+				"size" "307F38FFC910110BC1958EDB41CF492E"
+				"download" "E1FA4ACFA6EBA0382744CF4AFEEBF552"
+			}
+			"rc6testing"
+			{
+				"gid" "ED33A85EA4B709851F66D65056EE5D4A"
+				"size" "4A3EBAD3A0B84837BD69F35B50701685"
+				"download" "8CECC6686B62F8A3A4EEE548F08C5D3D"
+			}
+			"rc7testing"
+			{
+				"gid" "70C094BD15BC7CE95551D7858455B6CA"
+				"size" "789521E4205A05C704B551FCC69B7C32"
+				"download" "E99139329D360AC65C95387D9D6E37B7"
+			}
+			"rctesting"
+			{
+				"gid" "035DE58F35DC0B0277A2D6089399D834"
+				"size" "C4DF89400C88723BD990F00FDBF6F79C"
+				"download" "9A6BD24361792F0658BE878DEE4832AD"
+			}
+			"releasetesting"
+			{
+				"gid" "E2DBD9972A72C68FEE55F783CB4AE8F4"
+				"size" "51957CF0CAD05F74807FB9F60AEE8E9B"
+				"download" "56511CB61A9CE001A1C57038F440E33A"
+			}
+		}
+	}
+	"1466866"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6329357928063825842"
+				"size" "6484717654"
+				"download" "6568723184"
+			}
+			"previous_live"
+			{
+				"gid" "6329357928063825842"
+				"size" "6484717654"
+				"download" "6568723184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "CCA0B259381842DD3EBF165AD79AEBE4"
+				"size" "CE7C1D58D7F1B8A0A7DE7079E9F8E4C6"
+				"download" "AC7740F82B68C8EB922FD9F790066F25"
+			}
+			"council_preview"
+			{
+				"gid" "A213D1628E24A7B5ED487605DF0CF7F5"
+				"size" "7B702E282C44E3B1255713337A6CCC46"
+				"download" "4CE6BDE9D708523BB0545A5801378788"
+			}
+			"hotfixrc1"
+			{
+				"gid" "B21EF10DF17585572069BD4151960BDC"
+				"size" "FC8ACFC821C45399E898B93DC7B90359"
+				"download" "4B33772F729DA83658ABDCF73D0B17A0"
+			}
+			"opentest"
+			{
+				"gid" "8A98D5EEEB9AB29DE60242CD4485EFA7"
+				"size" "72ABCD5BE530D71A64FD126CA940DEE6"
+				"download" "9AA6EF5F42E3B86A36A63EAAF176561C"
+			}
+			"practice"
+			{
+				"gid" "F800A37DBE213F579B9CFDF63ED5C227"
+				"size" "40082738F0307D94EAB7DFC397EC6E5F"
+				"download" "21DA4F64AA69DBDA2EEF137406398FEC"
+			}
+			"review"
+			{
+				"gid" "87D154761BB647BB7E07680730489E26"
+				"size" "A220E4F993B7F612979FB2710F721C17"
+				"download" "9DA2266CB03209EDE1CDB134AF8ABF3B"
+			}
+			"future_live"
+			{
+				"gid" "D8B26165EFFC461F5BD063C792733653"
+				"size" "FD4EA0D2BCF15D13ADF6A4D8862B74F9"
+				"download" "CA3A2FC773216B8C9E9BD3440337C8C5"
+			}
+			"puptesting"
+			{
+				"gid" "71559908FCE9697E3D38A6335FBB48A2"
+				"size" "84C25C16E90C0B6C1BEF3E03287DF033"
+				"download" "A1087E895CBF21BC280F5ED6A81570D8"
+			}
+			"rc2testing"
+			{
+				"gid" "25360F7D820B0F007F6427339687E2C8"
+				"size" "BC44F3C4F9D4448D7AE06A587E1CA7C0"
+				"download" "3BBE0F19C7F74302E704848CADE4E4D9"
+			}
+			"rc3testing"
+			{
+				"gid" "8D5A13F53D7BEBBFDA85518D6E57E494"
+				"size" "C520045264CCD9E660F4AE15BDD257F2"
+				"download" "BC4E71B16FB34CAA03F66DD3AD922E98"
+			}
+			"rc4testing"
+			{
+				"gid" "8D06E35D34490F2AAD3D24BDA96C9DDD"
+				"size" "AC8169C6066F8D6FF0C27CB97BF385C2"
+				"download" "039F2A57AC76FADE2C811CA9F3A765F0"
+			}
+			"rc5testing"
+			{
+				"gid" "D80891BDCA69D0765FD5033FE6F3896C"
+				"size" "DA700D1E4D9FB2987C5E045CAA46BD84"
+				"download" "B388F0E737A1A30A0581FB681F4A121A"
+			}
+			"rc6testing"
+			{
+				"gid" "64E83439871F1D20EFEE55C8C2BFD026"
+				"size" "46AEEE817B52273152EAC86417BD2A53"
+				"download" "B0D088C41D303DB90AFBF7E7D7B5FAFB"
+			}
+			"rc7testing"
+			{
+				"gid" "4235F9D7DA055F37E9730F79AEF4B221"
+				"size" "A41D090B56A677B5BED63184024DBF59"
+				"download" "07E49EECF9630E7041A47055837D5F50"
+			}
+			"rctesting"
+			{
+				"gid" "AE5454D3ECE54524C03CDFD45ED6252B"
+				"size" "EAB14A60C42005C43455F631CAB4005E"
+				"download" "D2F8FC631B0B82062F4CE4226A3B1758"
+			}
+			"releasetesting"
+			{
+				"gid" "1DB3ECC5F49F853C69E4BA95DAC99DBF"
+				"size" "AB74A47E2A007A8935DEF1648906169D"
+				"download" "78FB83F0051A4DBB1C39F93EF3C58D27"
+			}
+		}
+	}
+	"1466867"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8358228870702230464"
+				"size" "6883369550"
+				"download" "6972731280"
+			}
+			"previous_live"
+			{
+				"gid" "8358228870702230464"
+				"size" "6883369550"
+				"download" "6972731280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "CC2C983A34286AD6E391151F1F1E7E43"
+				"size" "D16449C60C085614F5106425FF52B18F"
+				"download" "3B50D85465BF8B82C73A4E90F254DEFC"
+			}
+			"council_preview"
+			{
+				"gid" "FACE6AB68558FC285807C96F18F838F6"
+				"size" "CAE643BE3FFAC00A5F33629E8EB2FF89"
+				"download" "625EFE50BFFF4002F03D814B33BFC7A7"
+			}
+			"hotfixrc1"
+			{
+				"gid" "9CABE3D4BFFF1FB37D35859E1DA0465F"
+				"size" "5581BE1E8A9266F7AB7D18E2A202CEE4"
+				"download" "FDA1149566900A69BA88FE5E91AB8A58"
+			}
+			"opentest"
+			{
+				"gid" "7FA79D1EF29CD62F3DC9ACD93FC07F06"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "3E264D0123E2C1496BD5177A326AD819"
+				"size" "2A8EC7E30A360D746D5060DA993B07EE"
+				"download" "8CA1F776E78D1D472D1489CFFD3B5046"
+			}
+			"review"
+			{
+				"gid" "9F25448F8BE442D34CB6A73D13BA3326"
+				"size" "F7552AE7384A7CA45F34443AACFC3086"
+				"download" "8FBC8DFFD7E0BED2CCFC759F3BA93C07"
+			}
+			"future_live"
+			{
+				"gid" "357C8F242F884FD834589E06A683B9E1"
+				"size" "48515B9DC352E29D58CD297F4EE45ADA"
+				"download" "F22FBC3CB5BD2CA1FBECA08E6D849557"
+			}
+			"puptesting"
+			{
+				"gid" "C8D65F00EAD6FC7CD7BCBEB146200375"
+				"size" "04706571A5B695DD3219D92F35760EE7"
+				"download" "8CC7664923B8545EAA08B6916B0B4AB3"
+			}
+			"rc2testing"
+			{
+				"gid" "0320EE681308DC3EE86B8B803BF624B7"
+				"size" "BEEBEB08C29E6DE1994B10C1F2F7250C"
+				"download" "25E041672E4CCFEFC2A29CBF74330EFA"
+			}
+			"rc3testing"
+			{
+				"gid" "3FCFA30B6E5300A0168DBA79EF3A8B69"
+				"size" "F5B5A84785C6046F7ECB923FCE910EC1"
+				"download" "92C1E6AB3213954F0CBAF64EE35EA2BA"
+			}
+			"rc4testing"
+			{
+				"gid" "C92D2061C8729AE51E90810DA719F9D9"
+				"size" "2D90B14B0B9C6C3F1EDA6305510430B3"
+				"download" "1FDACF593661708034DE2946995FA53E"
+			}
+			"rc5testing"
+			{
+				"gid" "29396ECFD4C54E35668C97589B013ECA"
+				"size" "F82388E7EEE13BE6D3E9B71375921B85"
+				"download" "666C2DEC5937BC2FD27FA95C54ACEEF0"
+			}
+			"rc6testing"
+			{
+				"gid" "31556E8C55A877E17610431C004AF458"
+				"size" "69B57CE14506052B3D19E6EBA173F723"
+				"download" "350F4AA61CD780645D4ACA62B2C035D7"
+			}
+			"rc7testing"
+			{
+				"gid" "7E2B907CEEDE0705450E971DE10157A3"
+				"size" "EC3D76DEA7382EB85749F7F995DA8A7F"
+				"download" "9A69EE5E75294312505A5662C6B98404"
+			}
+			"rctesting"
+			{
+				"gid" "B9E4297BBB11D05FE7EA67A2F80B1841"
+				"size" "7B57F58A17A5E2A8C4296E5A4F089F57"
+				"download" "F35B094A553F7623CABBE5E8694BE7B3"
+			}
+			"releasetesting"
+			{
+				"gid" "21776061F19A002FCA30774D912E8E33"
+				"size" "034DD5E67D93906C4C8DB99D36C5A0B3"
+				"download" "196ADBF4BA493B50E4B09BD4B0E74358"
+			}
+		}
+	}
+	"1466868"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9104427376946729213"
+				"size" "6858024425"
+				"download" "6946965872"
+			}
+			"previous_live"
+			{
+				"gid" "9104427376946729213"
+				"size" "6858024425"
+				"download" "6946965872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "A308983073133478DE43BC177B599777"
+				"size" "02F087DB47817CB43D29C616942AF83C"
+				"download" "18B34A7A9A1C45179D5AC20C91789643"
+			}
+			"council_preview"
+			{
+				"gid" "6A92B91D6F16B2074052B83CA706AB0A"
+				"size" "80B60459ACF587F2FE29506BE4361074"
+				"download" "70E2430C9B16A8842D1B273675E374B8"
+			}
+			"hotfixrc1"
+			{
+				"gid" "441EF8F4B18745CF2C25C321B19D4E26"
+				"size" "D8D9379253040B1695A763F6230C9D24"
+				"download" "0E78AB48B7C6DF7D15D01ACF69C9CB22"
+			}
+			"opentest"
+			{
+				"gid" "B6031FB177EC0AB735077F1166B7C9A8"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "1A48DFC85F97C750DDF040E5529F7B20"
+				"size" "28BDFB857F9DB87DAD956035EF1BFB8F"
+				"download" "2A0A38B04845E356F0E389AFC2AC197B"
+			}
+			"review"
+			{
+				"gid" "4781A5F040858FDDD45940EECD283F5C"
+				"size" "1FABCAD00815BE55FD651A9610131F03"
+				"download" "3614404AF2180F7D4294C1960BD1B29E"
+			}
+			"future_live"
+			{
+				"gid" "36DC6410F371B85636E3849FE89A09CD"
+				"size" "BF9F8554F749ACD9B3E3E62E2A14EAC3"
+				"download" "A32765B60B006C022CC7DE39B93A0463"
+			}
+			"puptesting"
+			{
+				"gid" "044AF9A9A3A58FB214F9D4E8E3C949FF"
+				"size" "04A31B076BA3B261B46170A24002E585"
+				"download" "A8EE4A15E02BD44457286AE2DCD9B588"
+			}
+			"rc2testing"
+			{
+				"gid" "D9643547049EAC107D587253E2811039"
+				"size" "4F93876BC5CDA72B7EB4DAC9B893FCDC"
+				"download" "65110AD514E2F5257AD9CB6AABA129C8"
+			}
+			"rc3testing"
+			{
+				"gid" "A622707D8380164A2596E84333944EFA"
+				"size" "6BBD2CFD54536EFEDD8E81B67E871504"
+				"download" "D6F0CCF765DBFECA85A1FF45EC765459"
+			}
+			"rc4testing"
+			{
+				"gid" "B1A0E05F83E3A659596F47F13BD0FCE9"
+				"size" "E0489C19D93FC6C3154FA2E7D06E5C89"
+				"download" "9316DBADDEF742D9998D3A2DD6F6244B"
+			}
+			"rc5testing"
+			{
+				"gid" "9CAD0AC25BC2ABCE5026A4000124B1F3"
+				"size" "4D93961A078D990DE807D7D183EF6E73"
+				"download" "6820193187464F9ABB7373535B53E013"
+			}
+			"rc6testing"
+			{
+				"gid" "FA3097738AE027F36CF2D1B371FD9550"
+				"size" "5F2CB794B3D08D292789C8EFB1F7BF0C"
+				"download" "C73585984FF2BA475D5E303BA3B6238F"
+			}
+			"rc7testing"
+			{
+				"gid" "66CBC3A98855D500DD33A1A75C88BE8D"
+				"size" "9775EA47D607B7BFEA0756D791BE6E0C"
+				"download" "4D50DB9DF1C9ECDD116C988852735CE8"
+			}
+			"rctesting"
+			{
+				"gid" "0143A9F66296EF65C5FD3B71F2E218AC"
+				"size" "D0D0EBBC66DE1355A9E380D38EFA7912"
+				"download" "99E8DE84B6EAC9A6CB39EE2F12475F32"
+			}
+			"releasetesting"
+			{
+				"gid" "56227CA21F0161E5723DB9A63D1E1F3B"
+				"size" "20B717A7C16770F3802CE27337B57F18"
+				"download" "E56802AD04A83887330F84C55A327CE6"
+			}
+		}
+	}
+	"1466869"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4284799955804157967"
+				"size" "6911368982"
+				"download" "7001203360"
+			}
+			"previous_live"
+			{
+				"gid" "4284799955804157967"
+				"size" "6911368982"
+				"download" "7001203360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "5E1D51F1FED760065FB99ACF29E32400"
+				"size" "D3B1AD37ABD4B76F143DA2BFC744D025"
+				"download" "9D1BA012BD4500A235EE969E1CA83513"
+			}
+			"council_preview"
+			{
+				"gid" "E6422077778893C723ACE82EA2361911"
+				"size" "1B10A02CAB28CB7BB81562241D6992FA"
+				"download" "04420D7B9144112BC1ABC71A0A283D84"
+			}
+			"hotfixrc1"
+			{
+				"gid" "5544E081AC77CA8A7CAFED781BF26E30"
+				"size" "81336BB36AE97915A6F709D87071D3D0"
+				"download" "757CC62DC9B1BE3B8A54C50248A53445"
+			}
+			"opentest"
+			{
+				"gid" "F5E93EF4BC28F357701FF3397F0C54B6"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "ECEC6C77547F1461E20093DD341EF980"
+				"size" "37ADD89F3AEA6CF0711BDD5D7FE33199"
+				"download" "D564D1EB7B727C9A5D74724704CC22BC"
+			}
+			"review"
+			{
+				"gid" "D592065C500748F7BA13B489F2665A2F"
+				"size" "3BB77069B0C84ACC5F577B862B7FD3D4"
+				"download" "B361AB2BF2624B3BB63A14164064DAA2"
+			}
+			"future_live"
+			{
+				"gid" "247162ADB0AD1E4E7BD7C9A62A4C96C0"
+				"size" "0AF1DB88A8C9417226662C481E5604C8"
+				"download" "1938AE5AA785BAE6534EA9CF01827B0B"
+			}
+			"puptesting"
+			{
+				"gid" "C20BA3BB4C81DE5E702618711A02AE1A"
+				"size" "1E0B10FA0A4A8AA55595F6A0E632FBD4"
+				"download" "87AA152A9367B6322615C565DF7B749B"
+			}
+			"rc2testing"
+			{
+				"gid" "3DB46689FEC7BEF190F5B8DB80F8FC73"
+				"size" "CCFDA99B394EC006AEE9C1B7B472B79E"
+				"download" "586DB67FD8AB6904C0245EAC8487D864"
+			}
+			"rc3testing"
+			{
+				"gid" "CEDD4C2AF10854524FF29A116DAE9850"
+				"size" "562B27380DC6F58FB1014F1258D47A70"
+				"download" "876009155F262AF1B0159F6CF192C97E"
+			}
+			"rc4testing"
+			{
+				"gid" "75487E0ED805290175DA171A9DA5DFB1"
+				"size" "BB2899A0A5C25FFACD856AA8D3F74FF6"
+				"download" "E6C1AB37F4317A78A5BF0E61FC504CFE"
+			}
+			"rc5testing"
+			{
+				"gid" "2F2715F52C55AB6F8F94C4E6E261E953"
+				"size" "C8B69A3495FC68A6FA5242FCCAAD8D95"
+				"download" "95236E0068EDB994A8C2C3CDF40AB307"
+			}
+			"rc6testing"
+			{
+				"gid" "AFF36E0443A0370F77966151A8DBE9DA"
+				"size" "49F7B998220FE51FC4590AF9E3FC3A10"
+				"download" "57C96DFB4F341889D13C331583BA1D17"
+			}
+			"rc7testing"
+			{
+				"gid" "A509D08F0D753AF2A2752C82B2E758BB"
+				"size" "7C7287BB0B2704D927DC8C584A817F15"
+				"download" "F969305A19BAC4E59FE64C733F8FE61E"
+			}
+			"rctesting"
+			{
+				"gid" "37E5FEE4D90B19C704630A702B1AE640"
+				"size" "7CE04EBE16C99C5FDFE24CB9E169FF86"
+				"download" "E31868E9049E6B8653BB82C1D06179C7"
+			}
+			"releasetesting"
+			{
+				"gid" "41A1859D934B8F52A8ACC5067B1D8E13"
+				"size" "6A7CAC3C40BB91B4D68FF227276A01F5"
+				"download" "D95ECECC24BE5EB14C7F8D284B139D71"
+			}
+		}
+	}
+	"1668576"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6197887436628168149"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+			"previous_live"
+			{
+				"gid" "6197887436628168149"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "E50FEC761574F350796D24FB3661B854"
+				"size" "42F0DBC18877C2DB144582839A9DA734"
+				"download" "B3456707A3C14E38F65096BF3BBDF462"
+			}
+			"council_preview"
+			{
+				"gid" "C4BD93B938BC01394ABC1852EC346F57"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "171C82AF376F1E17B5CF3A2669071D1C"
+			}
+			"hotfixrc1"
+			{
+				"gid" "955D414CE342140B809504F03CC2D159"
+				"size" "BFA5DB8CE8C745F4EABD9D204E1E0230"
+				"download" "863D957A1FB4C2259FC82816188EB6DF"
+			}
+			"opentest"
+			{
+				"gid" "A2FAEFA3E33EEAF179149D2B0C658B43"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "757EA502945669EAE39AD09D0E9531B3"
+			}
+			"practice"
+			{
+				"gid" "31DE80607F0C5EB22C5D7DCD7FFF3E88"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "3AF09A0DB28EBCB11DDFA1D639B73F4C"
+			}
+			"review"
+			{
+				"gid" "243CDE10AF3B636740AE16FB3BE75FCB"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "C28A82E2C7CA53A5E561E955369D3E7E"
+			}
+			"future_live"
+			{
+				"gid" "A34EA4B10BA44FF3E6913406EED0546F"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "A555A349BAE7D6CE27C279DE946096A7"
+			}
+			"puptesting"
+			{
+				"gid" "06444A4E688A6DAFF388AF35B258F12D"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "EFC7690C229BEEC7A14646825240C886"
+			}
+			"rc2testing"
+			{
+				"gid" "D019679778854D43F64E9B296C72C8C7"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "AB8977B41F4B1ACB7B68CDB47CF6A011"
+			}
+			"rc3testing"
+			{
+				"gid" "72EB3E9075C8F40D4A5C2474AED56822"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "723131745EF52196F0117328498AD939"
+			}
+			"rc4testing"
+			{
+				"gid" "B274FD43B27F158E512633148D2E18FC"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "98188C5964AF5B01333B17032463E030"
+			}
+			"rc5testing"
+			{
+				"gid" "E30D9040CB5C37693C15931B84729F98"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "B80106A973E7B395A3F99ECFA91C2266"
+			}
+			"rc6testing"
+			{
+				"gid" "A0A609C8686CA45269492D75876D0460"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "15433B6BAD3321C443E3ED7612068CEE"
+			}
+			"rc7testing"
+			{
+				"gid" "9593BF10D14F513EA7DA301ECE78340B"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "A2A7FDEA5CB9BA6C8BD29E6A98D0CEFD"
+			}
+			"rctesting"
+			{
+				"gid" "CE40D72B60C95212479C4AF7246608CF"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "4F6DE717781C2628CA41F26628C3505E"
+			}
+			"releasetesting"
+			{
+				"gid" "5ADA01A4F7940D7EFE193A8F0BE1E16D"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "1BE85EBA9FFE5ECBBE1D0D66E907F84A"
+			}
+		}
+	}
+	"1668577"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5728807486184195854"
+				"size" "6866008884"
+				"download" "6955278784"
+			}
+			"previous_live"
+			{
+				"gid" "5728807486184195854"
+				"size" "6866008884"
+				"download" "6955278784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "A599FC22E5D889AE9B8133310D007437"
+				"size" "E02FFEA9E6F03ED68823BD9F630853B5"
+				"download" "2ECD9E563269F2FFC3F6A7E342B0A4A3"
+			}
+			"council_preview"
+			{
+				"gid" "711C5DEC86DF160EEE156DADFB027764"
+				"size" "857230C1491E0AAC3D7DFF195941458E"
+				"download" "F6A2EA7F0CDEF1972BCD6C9A8DF62FB8"
+			}
+			"hotfixrc1"
+			{
+				"gid" "91A3A6CC006907F17F53705C79E685B2"
+				"size" "0DBC713A6CB51ADB9DF24525C4AAAEDF"
+				"download" "16EB27B6CD27FE0850E0D94A0B68D7C8"
+			}
+			"opentest"
+			{
+				"gid" "8F764D9F60AFA0A981B8EDBCD5FF1870"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "E44FDC71F69BE869DB745E1243FFFAF8"
+				"size" "6B2B203E302737CC57457F4C57055E71"
+				"download" "D4EAF0D7501AEF1B9C5F5C788F5EC95D"
+			}
+			"review"
+			{
+				"gid" "DF94805FB3F5A60F891528EB06D7BDB9"
+				"size" "D7771B4D110D7FC3CF12FB85937864A9"
+				"download" "2759BC99DB697353808CD3E72BBF8F3B"
+			}
+			"future_live"
+			{
+				"gid" "92C59086503A244A711FB6302AF961B2"
+				"size" "26413CD289D3F9C64E136B0B852FDB91"
+				"download" "303E3F1E6CF4E7615AC3E5269AB1EA72"
+			}
+			"puptesting"
+			{
+				"gid" "79850F69CE21D8E3F723DBB97D11A1AC"
+				"size" "7B437B166B18D99A28684506AE87E97B"
+				"download" "DC1A84397B6E217522C6963D823EBBAD"
+			}
+			"rc2testing"
+			{
+				"gid" "638BBD8DDF50B5F6D8D020CA428337E6"
+				"size" "DE656061DF05F7194039481D1C245EFE"
+				"download" "FEB7420331CB70FB89D125EE83148D14"
+			}
+			"rc3testing"
+			{
+				"gid" "37A9B09F247A53212918AC761D2D7E77"
+				"size" "DB9D9F8E4E6C1CC19B25EF1DF5521AAB"
+				"download" "696358E6FB07BABE167916F013509FEE"
+			}
+			"rc4testing"
+			{
+				"gid" "8FEF603108ED914BE9BEAB7D7DD33BE3"
+				"size" "EAD4FC58892FEE89DF8F768ED2F4FEC1"
+				"download" "39E1762DAFA7140BCC68C83B9BCDF864"
+			}
+			"rc5testing"
+			{
+				"gid" "81AD316DA7A97111F9D35C27C9C67C84"
+				"size" "0BD92E6824F75F8AC5C865DD755158AC"
+				"download" "957432783B52C05340ED1D44FD67C98E"
+			}
+			"rc6testing"
+			{
+				"gid" "3EC334C872ABF95CB68090535D2203CF"
+				"size" "EACACE43723A658A84879BF500ED3F51"
+				"download" "88F475C67837693A8047E69B199A596B"
+			}
+			"rc7testing"
+			{
+				"gid" "485D0905320529169224382AC46107EA"
+				"size" "918FBDA6DF1FB2EEBF44226FF4AC5526"
+				"download" "216ED1C2E349F8CF8387EC85987FA9EB"
+			}
+			"rctesting"
+			{
+				"gid" "11B9BC1FCC492A4D453817046746E45B"
+				"size" "672D9B91EC21C041D524EF39A8A950E2"
+				"download" "F45A5DAF3466E204FC0E6051BC38A95F"
+			}
+			"releasetesting"
+			{
+				"gid" "0BCDF0178F045FABD737B69F1A878AC0"
+				"size" "97737505FA731B12CADAB1FC88872762"
+				"download" "C38323015642EA486E342D493F1C21F6"
+			}
+		}
+	}
+	"1668578"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8482722305649088527"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+			"previous_live"
+			{
+				"gid" "8482722305649088527"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "5563B6DBB31B025A41F804FBB3E1AA22"
+				"size" "42F0DBC18877C2DB144582839A9DA734"
+				"download" "B3456707A3C14E38F65096BF3BBDF462"
+			}
+			"council_preview"
+			{
+				"gid" "8FCF38016C625709480416EFE339FDBB"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "171C82AF376F1E17B5CF3A2669071D1C"
+			}
+			"hotfixrc1"
+			{
+				"gid" "09EC39246C7385AB6FC74C316FBCDDF7"
+				"size" "BFA5DB8CE8C745F4EABD9D204E1E0230"
+				"download" "863D957A1FB4C2259FC82816188EB6DF"
+			}
+			"opentest"
+			{
+				"gid" "4FCC98DA5DAEA52A691EF0FC445967AF"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "757EA502945669EAE39AD09D0E9531B3"
+			}
+			"practice"
+			{
+				"gid" "9A5D25DDE315D9591DCFAFE629F7461B"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "3AF09A0DB28EBCB11DDFA1D639B73F4C"
+			}
+			"review"
+			{
+				"gid" "B2BAE9BA49FD03E279131CE6AD111946"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "C28A82E2C7CA53A5E561E955369D3E7E"
+			}
+			"future_live"
+			{
+				"gid" "9699A3FCE015D372B5B7C10EE37E1775"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "A555A349BAE7D6CE27C279DE946096A7"
+			}
+			"puptesting"
+			{
+				"gid" "46BE911D462F1A000FECA13F15C40C54"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "EFC7690C229BEEC7A14646825240C886"
+			}
+			"rc2testing"
+			{
+				"gid" "78DFC591F86967E350038C17BADBF03B"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "AB8977B41F4B1ACB7B68CDB47CF6A011"
+			}
+			"rc3testing"
+			{
+				"gid" "F613ACDDCACED06D5E0DC1AE57A1FF6B"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "723131745EF52196F0117328498AD939"
+			}
+			"rc4testing"
+			{
+				"gid" "892ACA9AFC047289223B891E2341BF7F"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "98188C5964AF5B01333B17032463E030"
+			}
+			"rc5testing"
+			{
+				"gid" "8BCC290655FD635A43FD14E9564AF5FD"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "B80106A973E7B395A3F99ECFA91C2266"
+			}
+			"rc6testing"
+			{
+				"gid" "ABEBC00549B0DF171B579DBD739F01DE"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "15433B6BAD3321C443E3ED7612068CEE"
+			}
+			"rc7testing"
+			{
+				"gid" "556B9DFFAA612C059BC20E580C906BDE"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "A2A7FDEA5CB9BA6C8BD29E6A98D0CEFD"
+			}
+			"rctesting"
+			{
+				"gid" "4068440CBC441E307DB7DC6A07D3AD3E"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "4F6DE717781C2628CA41F26628C3505E"
+			}
+			"releasetesting"
+			{
+				"gid" "C1DFD68A60F5BF0EA6466D11D1577166"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "1BE85EBA9FFE5ECBBE1D0D66E907F84A"
+			}
+		}
+	}
+	"1668579"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3256894060022010939"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+			"previous_live"
+			{
+				"gid" "3256894060022010939"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "EFCF8DF231C84235411239E4568650F1"
+				"size" "42F0DBC18877C2DB144582839A9DA734"
+				"download" "B3456707A3C14E38F65096BF3BBDF462"
+			}
+			"council_preview"
+			{
+				"gid" "B19F41AFDDF3E8809B70AAAF686F80A4"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "171C82AF376F1E17B5CF3A2669071D1C"
+			}
+			"hotfixrc1"
+			{
+				"gid" "6537F38D3914F59E2B7216D3304E032C"
+				"size" "BFA5DB8CE8C745F4EABD9D204E1E0230"
+				"download" "863D957A1FB4C2259FC82816188EB6DF"
+			}
+			"opentest"
+			{
+				"gid" "2FA41E8F24B667B0C402586884AE5A7B"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "757EA502945669EAE39AD09D0E9531B3"
+			}
+			"practice"
+			{
+				"gid" "1FEE1C7483DC07C6EB41725727CF6873"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "3AF09A0DB28EBCB11DDFA1D639B73F4C"
+			}
+			"review"
+			{
+				"gid" "6EE7C86C8C893E55BC81B2F403A07363"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "C28A82E2C7CA53A5E561E955369D3E7E"
+			}
+			"future_live"
+			{
+				"gid" "9A3AE4A571B9DA6FC5A1975D093B7933"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "A555A349BAE7D6CE27C279DE946096A7"
+			}
+			"puptesting"
+			{
+				"gid" "6C9D26C451BFF46ED4C7948F98281DF3"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "EFC7690C229BEEC7A14646825240C886"
+			}
+			"rc2testing"
+			{
+				"gid" "CB071B72B923A3E03E902CCEF5A46496"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "AB8977B41F4B1ACB7B68CDB47CF6A011"
+			}
+			"rc3testing"
+			{
+				"gid" "CB548CE97F103027249D2616CF19910B"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "723131745EF52196F0117328498AD939"
+			}
+			"rc4testing"
+			{
+				"gid" "B8DDB6D7C668B06F790E26555A5455AC"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "98188C5964AF5B01333B17032463E030"
+			}
+			"rc5testing"
+			{
+				"gid" "DEB92A1E7672991D36DF543E366A6AFE"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "B80106A973E7B395A3F99ECFA91C2266"
+			}
+			"rc6testing"
+			{
+				"gid" "84B3E5EB11C7EE74976030BD7603708C"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "15433B6BAD3321C443E3ED7612068CEE"
+			}
+			"rc7testing"
+			{
+				"gid" "61B8F0807F7A5F89736456EDE95400BD"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "A2A7FDEA5CB9BA6C8BD29E6A98D0CEFD"
+			}
+			"rctesting"
+			{
+				"gid" "6D7C9698027449153215F63130977302"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "4F6DE717781C2628CA41F26628C3505E"
+			}
+			"releasetesting"
+			{
+				"gid" "373F19BF94E0597EBC7625C702C43C64"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "1BE85EBA9FFE5ECBBE1D0D66E907F84A"
+			}
+		}
+	}
+	"1670951"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3948412024185962703"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+			"previous_live"
+			{
+				"gid" "3948412024185962703"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "2961E677E16E6181F96FB322B01B9BA1"
+				"size" "42F0DBC18877C2DB144582839A9DA734"
+				"download" "B3456707A3C14E38F65096BF3BBDF462"
+			}
+			"council_preview"
+			{
+				"gid" "B85F141809AEEA82A01444B92A819E21"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "171C82AF376F1E17B5CF3A2669071D1C"
+			}
+			"hotfixrc1"
+			{
+				"gid" "5455F8C4E5B90FE94A178E07607338B3"
+				"size" "BFA5DB8CE8C745F4EABD9D204E1E0230"
+				"download" "863D957A1FB4C2259FC82816188EB6DF"
+			}
+			"opentest"
+			{
+				"gid" "35A9C941B671DC870D6EDF500BFF758F"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "757EA502945669EAE39AD09D0E9531B3"
+			}
+			"practice"
+			{
+				"gid" "E95A66E1648105062CA21C59289797BF"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "3AF09A0DB28EBCB11DDFA1D639B73F4C"
+			}
+			"review"
+			{
+				"gid" "15F5FBA1D5DF77F8CC8E4CBF6F2EA631"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "C28A82E2C7CA53A5E561E955369D3E7E"
+			}
+			"future_live"
+			{
+				"gid" "327A34F82794E9EE02016776044BC663"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "A555A349BAE7D6CE27C279DE946096A7"
+			}
+			"puptesting"
+			{
+				"gid" "8061446C55B5B741B1ADAA8B7B598B51"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "EFC7690C229BEEC7A14646825240C886"
+			}
+			"rc2testing"
+			{
+				"gid" "DB360CD416EA20A50E2B54B9EA8DD418"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "AB8977B41F4B1ACB7B68CDB47CF6A011"
+			}
+			"rc3testing"
+			{
+				"gid" "6E1D35988840D5ECDBC83658AFB1982C"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "723131745EF52196F0117328498AD939"
+			}
+			"rc4testing"
+			{
+				"gid" "72284CE134B63E90A9489E81631F1361"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "98188C5964AF5B01333B17032463E030"
+			}
+			"rc5testing"
+			{
+				"gid" "8CFB6D42075C8E84E5A35BD0FD5FA310"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "B80106A973E7B395A3F99ECFA91C2266"
+			}
+			"rc6testing"
+			{
+				"gid" "D38047F4A451BFE83CBEAB0C168CBA1D"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "15433B6BAD3321C443E3ED7612068CEE"
+			}
+			"rc7testing"
+			{
+				"gid" "2EFC5BFCC8F7A208615F6E37CF94E183"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "A2A7FDEA5CB9BA6C8BD29E6A98D0CEFD"
+			}
+			"rctesting"
+			{
+				"gid" "B4DFF2A16A0FE9D59297730DCEEF62E8"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "4F6DE717781C2628CA41F26628C3505E"
+			}
+			"releasetesting"
+			{
+				"gid" "180ED0A1D3A39E9354D956FC75B8478D"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "1BE85EBA9FFE5ECBBE1D0D66E907F84A"
+			}
+		}
+	}
+	"1670952"
+	{
+		"config"
+		{
+			"language" "vietnamese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4443059076703862579"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+			"previous_live"
+			{
+				"gid" "4443059076703862579"
+				"size" "7054433651"
+				"download" "7146428592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "F20C66B32BCB52D7F806567CE20CC058"
+				"size" "42F0DBC18877C2DB144582839A9DA734"
+				"download" "B3456707A3C14E38F65096BF3BBDF462"
+			}
+			"council_preview"
+			{
+				"gid" "6ADB17F8A2C9DB7061FF93493506C730"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "171C82AF376F1E17B5CF3A2669071D1C"
+			}
+			"hotfixrc1"
+			{
+				"gid" "05E0697968FEC58A65B4D7443FCE83C6"
+				"size" "BFA5DB8CE8C745F4EABD9D204E1E0230"
+				"download" "863D957A1FB4C2259FC82816188EB6DF"
+			}
+			"opentest"
+			{
+				"gid" "E31488792143B11C68E73A86B8561999"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "757EA502945669EAE39AD09D0E9531B3"
+			}
+			"practice"
+			{
+				"gid" "E65E469C34CA069ABCBEEC839015605C"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "3AF09A0DB28EBCB11DDFA1D639B73F4C"
+			}
+			"review"
+			{
+				"gid" "1BB83DD826F7D03FF4C0299C0987F418"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "C28A82E2C7CA53A5E561E955369D3E7E"
+			}
+			"future_live"
+			{
+				"gid" "DAEC1211BBE9D5D34C0D3DA710101212"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "A555A349BAE7D6CE27C279DE946096A7"
+			}
+			"puptesting"
+			{
+				"gid" "8D52320862C966A2063BC71E0F87C8D9"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "EFC7690C229BEEC7A14646825240C886"
+			}
+			"rc2testing"
+			{
+				"gid" "D652DC3963C9EA6ABD0D3BD071FF010A"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "AB8977B41F4B1ACB7B68CDB47CF6A011"
+			}
+			"rc3testing"
+			{
+				"gid" "3A52BCAD04E3E82085563FC14B85E40F"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "723131745EF52196F0117328498AD939"
+			}
+			"rc4testing"
+			{
+				"gid" "E7EEF451257AF7316EBFD7BE26C86578"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "98188C5964AF5B01333B17032463E030"
+			}
+			"rc5testing"
+			{
+				"gid" "45D21C1BE473370BA9B85F6E5FB4EF35"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "B80106A973E7B395A3F99ECFA91C2266"
+			}
+			"rc6testing"
+			{
+				"gid" "1711522AA6E28C5F8D65B290E2E4BF83"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "15433B6BAD3321C443E3ED7612068CEE"
+			}
+			"rc7testing"
+			{
+				"gid" "E2FFA7C994DB78A44439C24D52CAFE33"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "A2A7FDEA5CB9BA6C8BD29E6A98D0CEFD"
+			}
+			"rctesting"
+			{
+				"gid" "7C4663736CB0C1258C043DCB6E2D7FE7"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "4F6DE717781C2628CA41F26628C3505E"
+			}
+			"releasetesting"
+			{
+				"gid" "539B51709B45DCBADDEBCC6443441A62"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "1BE85EBA9FFE5ECBBE1D0D66E907F84A"
+			}
+		}
+	}
+	"1668560"
+	{
+		"dlcappid" "1668560"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7520907508870012571"
+				"size" "2283023034"
+				"download" "2294112496"
+			}
+			"previous_live"
+			{
+				"gid" "7520907508870012571"
+				"size" "2283023034"
+				"download" "2294112496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "DF43E8CA50D559A32421DEA6EF671381"
+				"size" "304E5ACA5328ACB3269E2DAFA8A912C7"
+				"download" "69FB241E75ADA3D9F29317B1572DDA16"
+			}
+			"council_preview"
+			{
+				"gid" "440F273D92D2BEB4586DA563EFA10257"
+				"size" "79D434DE43E83F02C43ABABC945C4826"
+				"download" "CD2CA5401B7A215346635FCB9D40F2E6"
+			}
+			"hotfixrc1"
+			{
+				"gid" "7793502D9D78DBDCA60EDC5587BE2517"
+				"size" "B7EB0AC11608C53CA4B4C162319D12DE"
+				"download" "12B62480958A7791F58C93569B1D271B"
+			}
+			"opentest"
+			{
+				"gid" "C2DAF0CDDCFED86D9A187CC471A42235"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "FDBFA821FA56951DD392768324FEDDD0"
+				"size" "2083B01500F30EB152FF8F5425CD07FE"
+				"download" "635E1F02BE7E9786AB4A44E99BD74474"
+			}
+			"review"
+			{
+				"gid" "7D6BBDA08AAC036DDEC3D5A32ED453B9"
+				"size" "C785B4C3D61A0EC0C970A80DE217ACE9"
+				"download" "3B38C541CFC92D63CF785EFBA1B8BF70"
+			}
+			"future_live"
+			{
+				"gid" "F73300D1931227AD3F078B9C795B35C3"
+				"size" "3F78B5AD8C4CB7DAC83749E6240D1142"
+				"download" "058F409882B4977029542B162F6BCB41"
+			}
+			"puptesting"
+			{
+				"gid" "C36D3567585383FB670E03A6954FA074"
+				"size" "7F4C17B13F97ED7C61E32EDD18AFBA8A"
+				"download" "FEB52EA48BD4ED81E9FA410FF7546EC7"
+			}
+			"rc2testing"
+			{
+				"gid" "DEA2BFC4D0BEC817C7A77674F2A24A60"
+				"size" "8E9AC5DFBE78664FCBA8D31AA385E7A8"
+				"download" "EC9371EA5344F0BC487439C84659E893"
+			}
+			"rc3testing"
+			{
+				"gid" "8885A21BFA29A847628F7FE39AE5ED10"
+				"size" "2D74BBFC8406C472E5FB7FEE575DB17F"
+				"download" "A36881B57C33FCECDE5D602FC1185602"
+			}
+			"rc4testing"
+			{
+				"gid" "2A9E719A2A534522D8DED18382F826AC"
+				"size" "6EAECAB25C72C39D4BDCE1A07FF753AB"
+				"download" "D31A99D3E593ECA87FFCA170C5197FF2"
+			}
+			"rc5testing"
+			{
+				"gid" "487C18ABC968AC3DC5538DB9472870D1"
+				"size" "B3C98837F33D423E0D5BD506E0A6E461"
+				"download" "B66A9335BF577A2C29FCC548C63578F8"
+			}
+			"rc6testing"
+			{
+				"gid" "302FD6DC4F291F3BD067CAC71F263BD6"
+				"size" "85BD38E22DAE75FE0ED877A08D3BD71B"
+				"download" "6BB8268E0AF4CFC1BB9915A79A4A4BF0"
+			}
+			"rc7testing"
+			{
+				"gid" "506C43AB7805952B70D4855C5CB0D910"
+				"size" "21B26E3214CE36850B8C2C898ACE2C95"
+				"download" "9B1532F22F0A1BAFD0A26F4B4BCA590C"
+			}
+			"rctesting"
+			{
+				"gid" "F8C5C1571C7B30868B03D626CBE8AF6F"
+				"size" "793E61EFB62F51E60EB686424A57BDEE"
+				"download" "C666DA1E37EFFDDE05FC25616C50D34D"
+			}
+			"releasetesting"
+			{
+				"gid" "E448C0FFE9905E77D3A2220F10E7AF61"
+				"size" "FBE487238E16980A3747BF2627DDF31C"
+				"download" "68CE58664CBB859648CDB5986F2DB0A8"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "1668560"
+		}
+	}
+	"1668561"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "brazilian"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5477369601472219127"
+				"size" "13023934676"
+				"download" "13200339760"
+			}
+			"previous_live"
+			{
+				"gid" "5477369601472219127"
+				"size" "13023934676"
+				"download" "13200339760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "B0E8B93A1E6A8A1389034AE48CF246C2"
+				"size" "77C3093ADA31875F785421B3D8F3EB9E"
+				"download" "12A447A5556C9692C4AB14760F8C2BA6"
+			}
+			"council_preview"
+			{
+				"gid" "B3B7D5A4994C1A84A69EA5DEA09B190C"
+				"size" "0F229A09432CFB96E67C559DF695D308"
+				"download" "9EB64003E7AD839213C62B8D52963576"
+			}
+			"hotfixrc1"
+			{
+				"gid" "5BBA1CE0041FCE787EE939191EB49F95"
+				"size" "D647128FF5E7E0F776A055301B4EC46A"
+				"download" "DBD11F9E1AF85D2AA43FA117C5F3DB5F"
+			}
+			"opentest"
+			{
+				"gid" "D69252ABB5A34D65C2196DB978973799"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "5CD00E73B301F73AD7B330FE8FDFA7B6"
+				"size" "43CB5986153FCC8EAFE8FFC735182939"
+				"download" "35286D9506EF673FE9C3499823565EE0"
+			}
+			"review"
+			{
+				"gid" "F380DBA52E479EB16D23316C194F5211"
+				"size" "A86CFC0CA474E927B68007A0B6E58C05"
+				"download" "DEA1CEF0C94D7AFA6EEDF6E5424730BE"
+			}
+			"future_live"
+			{
+				"gid" "18370FF02509780A025CF9E2405B390A"
+				"size" "D07659683B39333F1A4B28E3E23E16EC"
+				"download" "A19579193755CDB0D5FCFD64EDE1D30E"
+			}
+			"puptesting"
+			{
+				"gid" "23A2B9162D6B04337A2C30DCF4689BFA"
+				"size" "84DCCD32A9643BF1015D66465B4C7E8A"
+				"download" "980A9C0CC27AD6539DB98620F3806326"
+			}
+			"rc2testing"
+			{
+				"gid" "C083075F1DB8636CF66B7590CEC2B71A"
+				"size" "18D603680690666AEA5F881EE5947E7E"
+				"download" "0ABD5F809A76F28045B2906AF6E6FEE3"
+			}
+			"rc3testing"
+			{
+				"gid" "EE8CF2629A224C8B0C58C04CA2761B24"
+				"size" "08DA28ED3A6E72456F7D6A58BA1D25C8"
+				"download" "3F6C4604533333938561DFEF7EB3A72D"
+			}
+			"rc4testing"
+			{
+				"gid" "33FBA3204CB7C532E3FE265A34F7799D"
+				"size" "B4D8F33D0FBED682B31B9F884A45B19D"
+				"download" "AA5A7AB66736638EA3499E9A71083063"
+			}
+			"rc5testing"
+			{
+				"gid" "23A5F0088AAEC5DA427E56670E90DC94"
+				"size" "2AE58116B232C53974E3F5785097ABCF"
+				"download" "77C7A1D9652D13ACD68E2C390551952D"
+			}
+			"rc6testing"
+			{
+				"gid" "C199F57B866C4BD090E85A50FACAF23A"
+				"size" "C126F84A4152473E9398C368B69E8CD6"
+				"download" "6732E1822942FB8006D0527BD318752A"
+			}
+			"rc7testing"
+			{
+				"gid" "5F57C5280B5AD8F3EFDA810888267B20"
+				"size" "0EC038D9B8D28E30E040C796C3CC04F8"
+				"download" "6B431EA1015579BCB3B4C1568CD009A0"
+			}
+			"rctesting"
+			{
+				"gid" "668E34A17E846D07F5B80766369494E8"
+				"size" "19BB215E80FF5BF8FE12E0B11290E525"
+				"download" "788B347766BD7F7C35633410446BB646"
+			}
+			"releasetesting"
+			{
+				"gid" "4FD2F8BAF09996897A8C22FA04B4FC3C"
+				"size" "7D48BAC461F24DAEA133CDEB22ADA1DB"
+				"download" "D1743DE74B484A9A7545BBCF34E14C67"
+			}
+		}
+	}
+	"1668562"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "english"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6549698333908356662"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "6549698333908356662"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "E3AFC0667F2970D8CD0FFD7917E0D5CA"
+				"size" "5F00ABF16B519617228CBE53810F0D64"
+				"download" "2406D0DA75A4A61D8D44FA73493B8B28"
+			}
+			"council_preview"
+			{
+				"gid" "DA361EE77F369C7259797CE839326052"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"hotfixrc1"
+			{
+				"gid" "F8C0C86295688C1DA702B7F0FF12B2D3"
+				"size" "9208A9CB48814F396B9263A0E86024B6"
+				"download" "2019284626E6255DAD4A0B3F998DEE8C"
+			}
+			"opentest"
+			{
+				"gid" "ADEB7A25C80D4342D6634FEF3E8BED12"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "4F7D5BC7EC80D13862429344D2090AB1"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "DF137548B470CD730D20C36EB2488528"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "C24BACC137551BBFF2ECC44F2AA03C54"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "FBAEC26A44ACDCDE4CBD25FE3180543E"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "8B265FC9A2F67A089BACC9123BE7E555"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "A5F89736D05F57DEDEC3DEC01DED4E59"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "874AD3F7C170BA9FCDF35AC8C2BEEF04"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "17267EFD1464D0C01EE0430C75CBCCFB"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "16DF05BC46F85847455607DF09A8F4FC"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "65E6F2F2790F7B66F04C6EB4B685B876"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "AC035B9892FAE1122BF9C0F1C1F06E40"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "B51C70A445DC0EB5F578E9E8653361AF"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1668563"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "french"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "492570845073703563"
+				"size" "13081261691"
+				"download" "13258408352"
+			}
+			"previous_live"
+			{
+				"gid" "492570845073703563"
+				"size" "13081261691"
+				"download" "13258408352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "CF3A827932FB93A131ACC09D73AAA65E"
+				"size" "527333CF34CE9BFE5F618BB6CD019523"
+				"download" "EAC0F271DC733A8D8A7104C9D35393CC"
+			}
+			"council_preview"
+			{
+				"gid" "4D65834AEEC85F597F3F015B4636E760"
+				"size" "AC757B628332F61BBD75A98780FFDE47"
+				"download" "87B8C443181AE2CFCF45FCCC0B16ED95"
+			}
+			"hotfixrc1"
+			{
+				"gid" "BCB6D157602F680AB18645F92E5DDA2E"
+				"size" "296562F8711BECFC0FF76A2852D26690"
+				"download" "8135669BCB8E724AAB9D9A4EBC3D1C48"
+			}
+			"opentest"
+			{
+				"gid" "19535A736DEECA28EC1435C059210DA0"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "8D947A50FAAC82590E4E245CE0E2911C"
+				"size" "27D4B5D82643C92C32F4ED409CA80421"
+				"download" "3DA924EF74CDF62144AD0C52D9FC6F22"
+			}
+			"review"
+			{
+				"gid" "A089D01DD67A1C7EECB84DE48EFF9B5C"
+				"size" "8C202E3CB1658749626E8F29FFC2BD34"
+				"download" "F7154C9BEE386FE74EA9EE88F710F9E1"
+			}
+			"future_live"
+			{
+				"gid" "53E148D641F118C8F1D1F32A8B2531C9"
+				"size" "8BD1258B51EE383CBC9B0E7247634FC8"
+				"download" "159494E7CFCE76BC64DAA8916B7D0A1E"
+			}
+			"puptesting"
+			{
+				"gid" "C4F0B2176F44B4C0B7E55FB7CF51C8C8"
+				"size" "8110FFFAA6702B133C0E826AB2C1FB5C"
+				"download" "275FE3215FCC223DC0D5AA3DFBC66E83"
+			}
+			"rc2testing"
+			{
+				"gid" "4EFCE7C8CCCB396E8BCAA41F16294935"
+				"size" "845161FF826FBC99BB89C65D11F305BE"
+				"download" "64E0905661B69B93E6180347E3B1F985"
+			}
+			"rc3testing"
+			{
+				"gid" "341D36966B14633C2C07770775A66BB1"
+				"size" "3ACEBB5EF83BE8ED563A804739F9246A"
+				"download" "307946C6101EF249DC22592353063845"
+			}
+			"rc4testing"
+			{
+				"gid" "EB9BDD5B9DAA75346943D4B2DD420E81"
+				"size" "19798DF32D6EF1CD73E6207F9B2C7262"
+				"download" "7147F94BA65B8C90B50815D244A4A8BB"
+			}
+			"rc5testing"
+			{
+				"gid" "9741C4A4332AC9E187F6955D3E84BFA8"
+				"size" "D35C502E86E43BF2E7B65312B6642B5B"
+				"download" "73246E9C51D11AAD3958303D8A59B253"
+			}
+			"rc6testing"
+			{
+				"gid" "64784A94ECFB119CEBCB1E84AA201CCC"
+				"size" "C3C07343BB4E313C61B22D21FACBB2C8"
+				"download" "346016F5E45FB409A51D84C479D455A7"
+			}
+			"rc7testing"
+			{
+				"gid" "EF4778CFA2EBFDF6F766F9AB13E39BF1"
+				"size" "138026B5F7D84447BA7796E2ADB82D68"
+				"download" "D4D6014FB82057F61A747BF168AC7041"
+			}
+			"rctesting"
+			{
+				"gid" "EC4C850A1BA70808FFC90EBDCDDC0DFB"
+				"size" "6862C7E57B4B633407C0797C1BECA53F"
+				"download" "187824DD2DC03C49B9205630ACF5AFEF"
+			}
+			"releasetesting"
+			{
+				"gid" "3FB48521BB806BD2FC248E4F2DC0EAC6"
+				"size" "6EC3A5ABD95C21053CAA883D47D3C48B"
+				"download" "A1FAB3E7F86118BFF0A2C5F52C852759"
+			}
+		}
+	}
+	"1668564"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "german"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1754271301489404944"
+				"size" "13063133828"
+				"download" "13240047648"
+			}
+			"previous_live"
+			{
+				"gid" "1754271301489404944"
+				"size" "13063133828"
+				"download" "13240047648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "3945C23CB5079B476E589A4115C22735"
+				"size" "57CF9AF9BBD60D24677455CC89765865"
+				"download" "673EF437B7A48B573A79E1779C2962B5"
+			}
+			"council_preview"
+			{
+				"gid" "E7C1801F3949B0128A7C156B52D9D09B"
+				"size" "84C8A325DEABD78EFC038FAEF5A0F334"
+				"download" "D21CD736417059797B883D7F061A41D7"
+			}
+			"hotfixrc1"
+			{
+				"gid" "B62C38299981DDCE1980D878AB0B3675"
+				"size" "D2E84AC6C4A719C692C23B9E15B465FC"
+				"download" "C83BBF5EC125A5628E23C570921464F0"
+			}
+			"opentest"
+			{
+				"gid" "B2DA90959FC0CDDEB94E6493EB18E706"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "26076D6DF00E7A148B9B82444A514AA8"
+				"size" "A61406A3155A24B147EE7D4A4D41A602"
+				"download" "8DE44E2826432FCE50D255787A65E6AE"
+			}
+			"review"
+			{
+				"gid" "5A83D2277410A9E5E39FC7BF542BC36E"
+				"size" "A2CC5E6EDD7B3156B4EF42EB3FEC6696"
+				"download" "641B41A78E8392130172C73E87269E6F"
+			}
+			"future_live"
+			{
+				"gid" "2C062403D0F98559EF6FD26987A643D4"
+				"size" "F552EC6BAC676FFC74E4E986B71B8DDD"
+				"download" "D655513100A79E70708238442B339BB8"
+			}
+			"puptesting"
+			{
+				"gid" "CA3BA06BAE305152C97E7E2453DA3C37"
+				"size" "9867574C8147D0DB0902C1D16396E672"
+				"download" "8000628858759B8410F74CAACCC59FD2"
+			}
+			"rc2testing"
+			{
+				"gid" "61EC4378945213A9CAC5D018A4E5CEFC"
+				"size" "A910C05CB8D4F1DDA98A23AD172C1460"
+				"download" "45F214EB71F1DDC19D61EC4239336008"
+			}
+			"rc3testing"
+			{
+				"gid" "B902F17193ECBF31544F3FE9B1C8995F"
+				"size" "67C02966B29E0CBCB51E3D9B87D4ADD5"
+				"download" "70FF6FF1C7AE955E028F4893E2C4C728"
+			}
+			"rc4testing"
+			{
+				"gid" "F3B5F12250DBDFDFEAA4FE696290939A"
+				"size" "F46AA211A213F2483E7891B6D66D055D"
+				"download" "8B5FD6FC4D98BA9FFD322B0A84B30DF3"
+			}
+			"rc5testing"
+			{
+				"gid" "A62A99C1A7CBD53B857AB455536ABD1D"
+				"size" "6C7C3E489CB89344E28CBC3DB71FBE71"
+				"download" "C8417ABB29436F2F0E73A7563047F4EA"
+			}
+			"rc6testing"
+			{
+				"gid" "A1E2982FCE2EE55F445AF6E6A0A9DA9E"
+				"size" "1DF4C4A432571CE182B270E73A458583"
+				"download" "7835B03F4C01D01300C078E1DCFE2066"
+			}
+			"rc7testing"
+			{
+				"gid" "A2404FE99C790A0D715E396E141A29C5"
+				"size" "DB4D21D04908376303F56890C9AC198C"
+				"download" "9C3AAE0682BBCA8F8C58EF0D88B276E2"
+			}
+			"rctesting"
+			{
+				"gid" "314FAF7B88C972747F5D73E79BD63289"
+				"size" "FBEABCBD77F54BAEB984AF89933EA2BB"
+				"download" "7DFE7A427B51CFFDDF60D3F9CA0DF859"
+			}
+			"releasetesting"
+			{
+				"gid" "E3911E7EBE7B7F64C4783885A457B770"
+				"size" "D73A3FA49DCB1B8570BE34C2433B0DF3"
+				"download" "5044DB3B4090B11921E63C84731F33FC"
+			}
+		}
+	}
+	"1668565"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "italian"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3034855857581089779"
+				"size" "13068014687"
+				"download" "13244984512"
+			}
+			"previous_live"
+			{
+				"gid" "3034855857581089779"
+				"size" "13068014687"
+				"download" "13244984512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "2C714FAA6428185CCB09B8F615792D83"
+				"size" "4B78B966C0536950DDE876FEF821F62B"
+				"download" "3C741B9A7AA75DF7918DA39B93104416"
+			}
+			"council_preview"
+			{
+				"gid" "8FDF3004AFFF0129D77693610CF0B998"
+				"size" "7DACAA09AD8C6E3C3456BAD76FD9B5D4"
+				"download" "F44E7E07A630DC62AC21A0F80A41E16B"
+			}
+			"hotfixrc1"
+			{
+				"gid" "C600261A215427B83F493115BC8A260F"
+				"size" "D7670CD5C191A857FB8DB95778B25F06"
+				"download" "92AF87A9CEFFE6046C4E270AB095D3BD"
+			}
+			"opentest"
+			{
+				"gid" "0F1D81FE8233BA57962FEEE790777E8B"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "36F94674DBD121E990A434E0E5883D55"
+				"size" "46DAB45BF9181DE3EC8ABC72B4B807E5"
+				"download" "5BCC249BB130C14E20A433D8AEF5C71E"
+			}
+			"review"
+			{
+				"gid" "629A29A53D154EC5A03380C42A10BB31"
+				"size" "06E580382DBDB49BA195A960F3AE1921"
+				"download" "0953052D8396F65FDA09F56D402AE83A"
+			}
+			"future_live"
+			{
+				"gid" "2A1F9D86FAF8FDD531E3B42B55E9B432"
+				"size" "05C7884148C2A9F69E077A3C3D08B85B"
+				"download" "D126E88F691C15BE036E349945692411"
+			}
+			"puptesting"
+			{
+				"gid" "54C35187C649C0C4B474FCC8AB8E6533"
+				"size" "F16EF7D387F0B78A38C4AFE39D02AE6E"
+				"download" "1923250092563A305261ABD8C84A2750"
+			}
+			"rc2testing"
+			{
+				"gid" "508D4209C3F445D25E3A43771CCAEB08"
+				"size" "6F06F2F9CAAFA82FD308962CB79348E9"
+				"download" "2798AAA14881F4AF379A11670CF7105A"
+			}
+			"rc3testing"
+			{
+				"gid" "FCBA996C6F49CDED39EAF40BA69E39F2"
+				"size" "C44E0838AA16C4A3810801BDDEEFEB36"
+				"download" "4C66D63E146A21CE8E1193843CE6708D"
+			}
+			"rc4testing"
+			{
+				"gid" "EE29B9B94FC693A2BC5BD905929868C6"
+				"size" "7F27DE8AD986490F2C449FEB9E3E93E9"
+				"download" "94EBFC68DDF51938C07D975CABCC1D84"
+			}
+			"rc5testing"
+			{
+				"gid" "B1BF1717D3C512BAD11EF76F15308DDE"
+				"size" "69FBD9452F3285AFD81426B2A89E726B"
+				"download" "86BB9D202A4E9B2C24203064E04129F1"
+			}
+			"rc6testing"
+			{
+				"gid" "97B7F124FAE153063B0601C3E8833978"
+				"size" "10B58A58B785F9C2CEA37D945AD537D8"
+				"download" "F911CF445BA131D9A5DBF29E6B830F25"
+			}
+			"rc7testing"
+			{
+				"gid" "17CA59E50AF5D7AB85973B0613F52803"
+				"size" "7E3A430EC6454C0DEB0E54BC71197B3C"
+				"download" "4ADCBBBBECD78A6E31581A32EAE9E585"
+			}
+			"rctesting"
+			{
+				"gid" "1AC86129BE9EA620FAFFDE1214247859"
+				"size" "5FBD045F1EF3A72BD2E77B4B83AA354A"
+				"download" "521B05CF1C563C4A6FE13A0FAEAAC638"
+			}
+			"releasetesting"
+			{
+				"gid" "E4133DAB0DCA19938FA559B68D400603"
+				"size" "C83303F847CA369CA74E1E6FD991C666"
+				"download" "5B2BFBA4DDF437424999977DA1DABA6D"
+			}
+		}
+	}
+	"1668566"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "japanese"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1447188873334377391"
+				"size" "13011978015"
+				"download" "13188156144"
+			}
+			"previous_live"
+			{
+				"gid" "1447188873334377391"
+				"size" "13011978015"
+				"download" "13188156144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "86D0D7673417EF15D896DB2C04DAE888"
+				"size" "816A2CCAB2CC4EC6B002C72753CB5AA0"
+				"download" "A14E0988EA19EAD7B93F2600F9A746F1"
+			}
+			"council_preview"
+			{
+				"gid" "0C5C015587AC5F7EB3D986E4C1D9ABB4"
+				"size" "2432DB6D8F6762E3D13EC0D3AFD21847"
+				"download" "5320BBDE8D8B8AF573D3D193B59DD32D"
+			}
+			"hotfixrc1"
+			{
+				"gid" "4F599DA773068671E749CD0C4CD0F3BF"
+				"size" "CADBF41FDB5B03D5C6BAA617B75021AE"
+				"download" "BB142F91DCD9A4ACC75791E7B42E39A9"
+			}
+			"opentest"
+			{
+				"gid" "ACB61A7C8A48D5E88C284798123B8FF7"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "D3E52390B38F3D83E045B4ABE35D6466"
+				"size" "678029DC5A50996B4F305DD941737B6C"
+				"download" "2CC9B3513C0CDB8A3382E6ECDE1BE07F"
+			}
+			"review"
+			{
+				"gid" "A46C78409DBB7C5C242F6D2C00E721C2"
+				"size" "082333EFED5E915C3DA41A79A0B439BE"
+				"download" "19C11F1B971F652CEE092231C9B11073"
+			}
+			"future_live"
+			{
+				"gid" "4C4E239EEB87D959EE0C18742E73F681"
+				"size" "AC3805EE26648279786DC8C074945E0D"
+				"download" "B524F19AF83B8846CE86F19D5901159B"
+			}
+			"puptesting"
+			{
+				"gid" "BC8008DDC249686921E3EE8E9128DDF9"
+				"size" "6BBDD58C3BF1300E7E5628A4790FCE12"
+				"download" "C65D97271530976DCD3877BBFBF5B054"
+			}
+			"rc2testing"
+			{
+				"gid" "5ECF1E4A6B6170D22943CE8040156626"
+				"size" "82F235F2D64A2A942A9D9BCA78DA7B7E"
+				"download" "8F0CE736D82302842377EE4E56AB99EE"
+			}
+			"rc3testing"
+			{
+				"gid" "41DEC0820DA6F743C1B4EB4CB2B5737C"
+				"size" "4B185284D1F6D64FEEE363C9F5E4A988"
+				"download" "0F1BC294C9E3B3613EE91A0D0449D5FB"
+			}
+			"rc4testing"
+			{
+				"gid" "3A3E07CCA6CFC5AC2E0DA339BA20B397"
+				"size" "5FE4D7B20DB7B2811FA30C45E7E64C87"
+				"download" "3A9759E8FF7D869DD09BED6E2B662DD5"
+			}
+			"rc5testing"
+			{
+				"gid" "FEF4C90C6E5D9D9F3FA4949BAE61CBCA"
+				"size" "A5E81F95921C0B304972395FC307DD45"
+				"download" "494AEC90ACE1F4508C7845AF6BD16427"
+			}
+			"rc6testing"
+			{
+				"gid" "8CC216A84CCB93A0C83E1AE1A2A390EA"
+				"size" "F217B1C87E0CA1FB5AC338997FD80740"
+				"download" "B6FC6E52DBF027551E48ADD3DCE2AB0D"
+			}
+			"rc7testing"
+			{
+				"gid" "4620E226160070EC7A9384DE90B38750"
+				"size" "4C86016400DCC13493594A4E1000544D"
+				"download" "161B46923E82198F55B382FFD1D1E289"
+			}
+			"rctesting"
+			{
+				"gid" "FEFD7A7309438427CD46C7A79D36A8DE"
+				"size" "BBFBF22B92A7CA7479F1E3B5C9E77D3F"
+				"download" "DAA1E774FF1DD38ADEB3B8DF706E7626"
+			}
+			"releasetesting"
+			{
+				"gid" "2665A58212822F009A23F7BC2C8B0C31"
+				"size" "ABCD62ECA317D8863A796B9DEE64436C"
+				"download" "08DD99FBB7E70BF1F83C8D063E6EC4FF"
+			}
+		}
+	}
+	"1668567"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "koreana"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3704394592305333844"
+				"size" "13059481197"
+				"download" "13236329488"
+			}
+			"previous_live"
+			{
+				"gid" "3704394592305333844"
+				"size" "13059481197"
+				"download" "13236329488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "3064468A9933F4D4E0722CE2670D2E12"
+				"size" "03050434AE7C59801DEBC78838DFA394"
+				"download" "7C990509CA7CE6BEB8AD28CABA31DE96"
+			}
+			"council_preview"
+			{
+				"gid" "5DEC351CCD4E5FA1B8EB101BCE9A1876"
+				"size" "72B0884245469B147F4188049661D9EC"
+				"download" "ECABAF25D4E2A24CD936F610A6F7EAEC"
+			}
+			"hotfixrc1"
+			{
+				"gid" "42E4A0DDAD4E10A015E9212721EF04AD"
+				"size" "E7AC63628E2FFC49902D75A98AE9BB98"
+				"download" "1A57BB5E30FDFB879EB04429351E6FCB"
+			}
+			"opentest"
+			{
+				"gid" "EC89B407B2A9F1A524F746A12FE6386C"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "0A1E4EF545CC30931C6EF0454BEDBF6E"
+				"size" "3D87AE50F5FE90AE823932AD2279A100"
+				"download" "7777ABF33554C4A5CAEDAF780D606AA5"
+			}
+			"review"
+			{
+				"gid" "BCE55509222DCE7B1067C6B7F33BC969"
+				"size" "EE8E42F4933EAA99EBBD28B87569C89A"
+				"download" "F7BDFD8A499303746B4CEFC5D163618B"
+			}
+			"future_live"
+			{
+				"gid" "061221CB1970EBC7D9D891A0AD675E4C"
+				"size" "885DE7C158FF5D0510495716349638CA"
+				"download" "393CA75F19C5C346D9F4BD00069C79CD"
+			}
+			"puptesting"
+			{
+				"gid" "F38F2EC4A59BE26B4A77B3E7CFE7CD82"
+				"size" "093F24F9440D1DC11C68DD9D4ACDAB19"
+				"download" "15A1A0D91137FD36B0596E71F916A41C"
+			}
+			"rc2testing"
+			{
+				"gid" "1A5C17C7A0CF4A59ACC09517EC242C07"
+				"size" "B9A0A30857C7E853FB0746BDD702628F"
+				"download" "69BE5EB31AF0F60061BBC530A19F2203"
+			}
+			"rc3testing"
+			{
+				"gid" "877AD0FEAC230F8F6BFB6955DCD6F3BE"
+				"size" "0B7E99E1E174C007A4E86E2118B40003"
+				"download" "C76F7000EAB5AFD3319228EC33A0798A"
+			}
+			"rc4testing"
+			{
+				"gid" "686F2B705DB6697ECDB80FD4CB1427F0"
+				"size" "2030903BFA3442A06B10F669F0C2A09E"
+				"download" "516D5B127EDD25795FB904D2B7D4B85F"
+			}
+			"rc5testing"
+			{
+				"gid" "F44D7EADFC388676EDC755BBA7622276"
+				"size" "9AA3DED6C6127DD59CCC0F73D4EE3EC4"
+				"download" "7CC11AB44365A2153AE27C258B1226EC"
+			}
+			"rc6testing"
+			{
+				"gid" "1F0CDAF75640C50768195B55F0BBBB07"
+				"size" "535F4FDF4B1E2D7AC9E8B6A954A60D1A"
+				"download" "6C103D3256F2886051E1E8511D814982"
+			}
+			"rc7testing"
+			{
+				"gid" "AC91463E9CAA70199CC5683EEC9EBCBF"
+				"size" "B43B249F654614154093D841003AD62B"
+				"download" "050901632A62708595703D031BE15DC2"
+			}
+			"rctesting"
+			{
+				"gid" "B4D29CD0231DBC8380132934A32420C1"
+				"size" "FD960C475739FDF65889BD5D96172B4F"
+				"download" "E11FDE24F04FCEDC481E555C104E713E"
+			}
+			"releasetesting"
+			{
+				"gid" "E4D67C8DBCFB61C347C7FF0905C753B9"
+				"size" "ECB3229682555BCCE970077A9B40E17B"
+				"download" "4F487CB0EF32300CAE5DCD0C29FD630C"
+			}
+		}
+	}
+	"1668568"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "latam"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "755431912528671787"
+				"size" "13077921035"
+				"download" "13255048512"
+			}
+			"previous_live"
+			{
+				"gid" "755431912528671787"
+				"size" "13077921035"
+				"download" "13255048512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "F10B97C5063EFF58C2A01D0BC8F96256"
+				"size" "21A0B7DF8890E5E9342F379339EF680D"
+				"download" "C310A2A2024947310B51AFBB0C306433"
+			}
+			"council_preview"
+			{
+				"gid" "C316EA5A104BFB8FA2E36E16A9EA6AFA"
+				"size" "316FE957EB44684C7A5B788264189112"
+				"download" "35B1DE5B140B941FE65212CFB9EC0EDA"
+			}
+			"hotfixrc1"
+			{
+				"gid" "87067DE4014185E6658BD6640CD8FBBA"
+				"size" "DC9982834679800705B5001C4199018B"
+				"download" "613BE879D8071770B666EEAF06E41D69"
+			}
+			"opentest"
+			{
+				"gid" "2628C8CD61A7D740894C4BD43BF05539"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "AF42CEDA8B8BF9D9EA032707D21FB7FE"
+				"size" "9DEC7C76509B791379A57779FFF0248B"
+				"download" "71DF59CDD3B88C529D52E1B24711EFA2"
+			}
+			"review"
+			{
+				"gid" "1BED66174CC3C17A5FD60DD12EABCCF2"
+				"size" "DECDC1225FB78BB7D2F75279B168D31F"
+				"download" "21064469932EB107D823494D3B237CC4"
+			}
+			"future_live"
+			{
+				"gid" "90F6624AE6F19F07E54C90B81C3D462D"
+				"size" "F08F040DC432B6EC000023ED70F6EA59"
+				"download" "C8CF8ACEB197C4B86B76482871572A5F"
+			}
+			"puptesting"
+			{
+				"gid" "5ABC93EAE20FEC0454DEDB9FDB3FB8FC"
+				"size" "3E156622A43128E6547DEF0C991CF408"
+				"download" "90F7FD4A9F22960C1018F65A498992B2"
+			}
+			"rc2testing"
+			{
+				"gid" "96B2FD3E32686CD15144C67072C28ACA"
+				"size" "7AE1D9FD2A87A29BDBCFFE42C864B077"
+				"download" "67B3D1ADCD34F674A4723D9E66424A79"
+			}
+			"rc3testing"
+			{
+				"gid" "4BE89517C89CB1371AE2E03944225BEA"
+				"size" "481FB45BFF83107DD644B0B5418F5C4F"
+				"download" "E28A58A69917BA2C38615162B4716D9C"
+			}
+			"rc4testing"
+			{
+				"gid" "A68AFBAE3250B5771BF808F52F19B5D1"
+				"size" "8638684AC17A873DD3AD15FA9D9668DF"
+				"download" "5F968BCF55B17E8E552D3A147DC64FE3"
+			}
+			"rc5testing"
+			{
+				"gid" "E3C70949991304BBE0F69F38C9032D22"
+				"size" "93930A222EE218922F4F204040BA3778"
+				"download" "77CC1F542ACF2A9E65E7FAE69FA6BF3A"
+			}
+			"rc6testing"
+			{
+				"gid" "4AF0C386C30AEF1368D18D6FB8F75CA0"
+				"size" "B1679658C035E446E07F7CE5C2335BD4"
+				"download" "88A2FD5C55A8E3440905AE6FE4ED46D1"
+			}
+			"rc7testing"
+			{
+				"gid" "A7D8EA6C5741B95FA3AFCD1DA53683FC"
+				"size" "EF34B6445C3AB3BB11CDE87ABD208690"
+				"download" "0B2EF486766DBA80F558FEDB97B06CC2"
+			}
+			"rctesting"
+			{
+				"gid" "D864320EC4D0ECD2EC2A2C33F8F5E517"
+				"size" "8C3CF7EC6526033CB0752645C89245D9"
+				"download" "B3131FE32772C30DD795F1FC9057E721"
+			}
+			"releasetesting"
+			{
+				"gid" "55B5DFA8A97057DB76C2BF82207C2BD4"
+				"size" "C59C265AA61A42CA1CF71C3A691FE0A8"
+				"download" "1EFCF46894FC1B70328CFDDD54AB7A7D"
+			}
+		}
+	}
+	"1668569"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "schinese"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7646206649279646764"
+				"size" "13075693260"
+				"download" "13252766464"
+			}
+			"previous_live"
+			{
+				"gid" "7646206649279646764"
+				"size" "13075693260"
+				"download" "13252766464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "F5B5C6B6E7DF0D14E9CAD85BF445DAC1"
+				"size" "74F82359C56EFDA01B79F11646879004"
+				"download" "7CEEC2EB2277335A796F51D6F68BB8AA"
+			}
+			"council_preview"
+			{
+				"gid" "2CEC3931E2C1D411F98FF8C270C49715"
+				"size" "624843E6B0B56469197145371E363D5E"
+				"download" "E768399ABE76E84EDB95FB339F65C952"
+			}
+			"hotfixrc1"
+			{
+				"gid" "3C59E9B9DE9CB4D4F5FBEC903547AD9B"
+				"size" "D25C80D413BB59942D35BE3B9314E727"
+				"download" "E5507B7399089DE4DF7B9166FC0E0176"
+			}
+			"opentest"
+			{
+				"gid" "04A1D60706A621D74F85D22544275C7E"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "04BACD4958296F4E9EA0E8917845765A"
+				"size" "63C130F0B2D13989A4B83B100F79A1FC"
+				"download" "810DCF9D6BBFFCFB82E4D46018004ACD"
+			}
+			"review"
+			{
+				"gid" "3B6669881155A3BD705DB14BC8B92C64"
+				"size" "B142997ED243CC966D1C057ED81DE2A1"
+				"download" "47AE1D567C89F687BB7E75BEAADCC3FB"
+			}
+			"future_live"
+			{
+				"gid" "0D29383D4194E544D0FE657E94DD4932"
+				"size" "37FDB6B8A2677B87EEF101D3E00C28BE"
+				"download" "CC1D0CAC61A897AA3094143B219603E3"
+			}
+			"puptesting"
+			{
+				"gid" "FEC5C5E4AC6B2F0C4DFAF486D0D24B18"
+				"size" "0E0506B15513BD593BF696C731DF8346"
+				"download" "D7543C2E739BBE6C3DBBBB51D4563C9C"
+			}
+			"rc2testing"
+			{
+				"gid" "0D0FCB98737E352790EA7AA5E3DB9755"
+				"size" "ADB8960A607517CF9BA1D32797383FD0"
+				"download" "1449F812AF219DA56B008F2DB05A7F55"
+			}
+			"rc3testing"
+			{
+				"gid" "F4716D5AD52F14D935FD28AA57618F31"
+				"size" "7C6296BC8E7038F36FFAA4534373E630"
+				"download" "26846A8BE907F4F0038A887204243FE1"
+			}
+			"rc4testing"
+			{
+				"gid" "87F6D5B440D5696E76137B1D81F45230"
+				"size" "B57F7E89E89F46853592247CE2E40775"
+				"download" "76A37CD3D683D0FB3D481C97E285D2C8"
+			}
+			"rc5testing"
+			{
+				"gid" "DD760CFD5322FD6F4062DAC043738D31"
+				"size" "A5704DF3B20EC4AE30C40E060B5E1DF2"
+				"download" "5D7F63DB903D273674D5A2B5DF927B48"
+			}
+			"rc6testing"
+			{
+				"gid" "033E73B417FCA66E358C469DED65CD72"
+				"size" "654E4792CAA115BD4026D0D6302ADA3B"
+				"download" "74DE94B29BA87FE2D640CB45C3A1A16D"
+			}
+			"rc7testing"
+			{
+				"gid" "99F1305E777A14C30B568C37F8BACE48"
+				"size" "6F16102425DEE0F83475829B5978D81A"
+				"download" "5C1F68CE0CBB25E37FC2961E6B9BF8BA"
+			}
+			"rctesting"
+			{
+				"gid" "78C273F4F8BC91221C13A95649E6EC84"
+				"size" "BD28AFFCCE318CAB53B7BE8430FE19CA"
+				"download" "63F113B7733A9475D1DDF140D56D94FD"
+			}
+			"releasetesting"
+			{
+				"gid" "DC500149AC1A86E6317BC32D7291C26B"
+				"size" "C826E8EA8ED01E83521E2DA4D7B85652"
+				"download" "F0EBA2CE1A3F65980A32DC5B9EB81C0B"
+			}
+		}
+	}
+	"1668571"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "spanish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5805122192946586344"
+				"size" "13077921035"
+				"download" "13255048512"
+			}
+			"previous_live"
+			{
+				"gid" "5805122192946586344"
+				"size" "13077921035"
+				"download" "13255048512"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "DEE7A37DF5FBAF89F45EC30E77EE9080"
+				"size" "21A0B7DF8890E5E9342F379339EF680D"
+				"download" "C310A2A2024947310B51AFBB0C306433"
+			}
+			"council_preview"
+			{
+				"gid" "CF32458AD9E080B60DCA201F0985280E"
+				"size" "316FE957EB44684C7A5B788264189112"
+				"download" "35B1DE5B140B941FE65212CFB9EC0EDA"
+			}
+			"hotfixrc1"
+			{
+				"gid" "665AF13F49395919975B1F233FAD3E7C"
+				"size" "DC9982834679800705B5001C4199018B"
+				"download" "613BE879D8071770B666EEAF06E41D69"
+			}
+			"opentest"
+			{
+				"gid" "E7CC5607ECB4B390868574992CBCB000"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "F1D40FCF738D4CD8E237BFDDD444DAD6"
+				"size" "9DEC7C76509B791379A57779FFF0248B"
+				"download" "71DF59CDD3B88C529D52E1B24711EFA2"
+			}
+			"review"
+			{
+				"gid" "901979AFFCFB9E8B17697A776F69ABE7"
+				"size" "DECDC1225FB78BB7D2F75279B168D31F"
+				"download" "21064469932EB107D823494D3B237CC4"
+			}
+			"future_live"
+			{
+				"gid" "EC096FB6749C0EE8190D47D588C28359"
+				"size" "F08F040DC432B6EC000023ED70F6EA59"
+				"download" "C8CF8ACEB197C4B86B76482871572A5F"
+			}
+			"puptesting"
+			{
+				"gid" "A7522604B915B7B5A41EA1FD4045EFC6"
+				"size" "3E156622A43128E6547DEF0C991CF408"
+				"download" "90F7FD4A9F22960C1018F65A498992B2"
+			}
+			"rc2testing"
+			{
+				"gid" "5DD781F5D208C28CA486CD7D161A62EA"
+				"size" "7AE1D9FD2A87A29BDBCFFE42C864B077"
+				"download" "67B3D1ADCD34F674A4723D9E66424A79"
+			}
+			"rc3testing"
+			{
+				"gid" "91EB3F2323D5457EA95584063AEBA2B2"
+				"size" "481FB45BFF83107DD644B0B5418F5C4F"
+				"download" "E28A58A69917BA2C38615162B4716D9C"
+			}
+			"rc4testing"
+			{
+				"gid" "FE7888FA2B8F5364E1B803290F232EBA"
+				"size" "8638684AC17A873DD3AD15FA9D9668DF"
+				"download" "5F968BCF55B17E8E552D3A147DC64FE3"
+			}
+			"rc5testing"
+			{
+				"gid" "0733A509EB3708CBFF3AB9754A7EBAAF"
+				"size" "93930A222EE218922F4F204040BA3778"
+				"download" "77CC1F542ACF2A9E65E7FAE69FA6BF3A"
+			}
+			"rc6testing"
+			{
+				"gid" "11D8DE0A2CAE88BFD6EBC3A3BE24F1B3"
+				"size" "B1679658C035E446E07F7CE5C2335BD4"
+				"download" "88A2FD5C55A8E3440905AE6FE4ED46D1"
+			}
+			"rc7testing"
+			{
+				"gid" "01E7A6C4B11441ABBA85BFB4D88DF3DC"
+				"size" "EF34B6445C3AB3BB11CDE87ABD208690"
+				"download" "0B2EF486766DBA80F558FEDB97B06CC2"
+			}
+			"rctesting"
+			{
+				"gid" "938EE9DBA1B54BF3BB9E4C6017E53071"
+				"size" "8C3CF7EC6526033CB0752645C89245D9"
+				"download" "B3131FE32772C30DD795F1FC9057E721"
+			}
+			"releasetesting"
+			{
+				"gid" "FE99FAF5D5CA0196851794C5131ED341"
+				"size" "C59C265AA61A42CA1CF71C3A691FE0A8"
+				"download" "1EFCF46894FC1B70328CFDDD54AB7A7D"
+			}
+		}
+	}
+	"1668572"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "russian"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "501093048546748912"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "501093048546748912"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "2D023F42B94949C89DAF8F89FEB5504D"
+				"size" "5F00ABF16B519617228CBE53810F0D64"
+				"download" "2406D0DA75A4A61D8D44FA73493B8B28"
+			}
+			"council_preview"
+			{
+				"gid" "9F7E288A95E8A8E25CC7F467503FE3EE"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"hotfixrc1"
+			{
+				"gid" "59B833A04B64D2807ABE50D2F06F2535"
+				"size" "9208A9CB48814F396B9263A0E86024B6"
+				"download" "2019284626E6255DAD4A0B3F998DEE8C"
+			}
+			"opentest"
+			{
+				"gid" "0A11DF8BB2DCE01C6776055498447901"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "75BCEAA4FFB88AEEF3AB18B8C7FD9552"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "CF240CD8D7466EC3EE08CA76B7473B9F"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "EA380092BB8D6C521AA9C200A17D5224"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "CE597A41207A5C6DF617E7607C6C7215"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "1271A4EB833F44672BB90D8C485572C0"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "55FF8B41B4CE31EC0163392D1202EF35"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "95BD35E846257B1EFD56B0CFF6832235"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "90A8468D083FE7F85F75602489D384B5"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "46E15412288E6A7BE28DD5BDEF2A4CEC"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "810623A9CCED574547BB1D3CF85AB772"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "501E54B2EB3C58E6CFF39B5B13A08771"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "26A85938FB2E84400D7D76DA228F1813"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1668573"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "tchinese"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7426142869141921231"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "7426142869141921231"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "28B572EDB5113736979C3C28641A3778"
+				"size" "5F00ABF16B519617228CBE53810F0D64"
+				"download" "2406D0DA75A4A61D8D44FA73493B8B28"
+			}
+			"council_preview"
+			{
+				"gid" "0B829714ABA4BB7273A89D8C4E1F60BF"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"hotfixrc1"
+			{
+				"gid" "291673BDEBAD98D8F888AE442EF6844B"
+				"size" "9208A9CB48814F396B9263A0E86024B6"
+				"download" "2019284626E6255DAD4A0B3F998DEE8C"
+			}
+			"opentest"
+			{
+				"gid" "2CE65063C976356093719450B3AD42DF"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "05E9A0374EA459AE0482FEDD9E4468D3"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "B269AE598FB749F07F5779052DCFA47E"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "5A297F83C290FAE3E8BC939E0351BF92"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "7D9498D3CAC10DCA5A64D22727DCFE2D"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "B960BB1E45FC61C3161EBE6BB3336802"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "415194702491E94EC5B01BD3FA1029E5"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "A9E222F94392AE56F72289E4FD5A98C7"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "02DFE8161E558992C6EDAED281F18399"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "8D71D329E42634C8C9265D61289978F3"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "FD3EE1E9FEED3F640CE472F4AAFDA19D"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "0FE3A22524ED61FD0CBB9ACE747D9B60"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "5B04129372E1EA7948500622F20F74EA"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1668574"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "turkish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5451306710457090161"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "5451306710457090161"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "89763314F886EE7252442743C1624631"
+				"size" "5F00ABF16B519617228CBE53810F0D64"
+				"download" "2406D0DA75A4A61D8D44FA73493B8B28"
+			}
+			"council_preview"
+			{
+				"gid" "D55ED9FA5F5FD418B58925CC8349A384"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"hotfixrc1"
+			{
+				"gid" "B1D6D5BE5D6AC0BB5393DD009A047033"
+				"size" "9208A9CB48814F396B9263A0E86024B6"
+				"download" "2019284626E6255DAD4A0B3F998DEE8C"
+			}
+			"opentest"
+			{
+				"gid" "4AE54257D54BCCDAFCC1FD71F42385C5"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "03F7DF7D09D93CFE72745532783896CD"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "AFE2710E52467554B27A9A3FEB0F3AE4"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "E21110EFBA91ED5F4346FEAB10553C24"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "34D8FE90FC5153BFFE3E351E356CBB0E"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "F00C419CCCE37A99574C2C8C4C871DF1"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "BC1FBA9E1912FC9FF788C9F97795916F"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "243D11265E89E2603CF357A3C9E21A46"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "D6832D5B89BA2EE94145A6D03902085A"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "666BD3A731DF70EB30A560E3D8463453"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "24F79ABD1FE66431FBFA63BC4FA67995"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "3E5B4C8A7338D579BE18E7F86E532405"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "239C49C6A68BAFA8B8B0CC915F620A94"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1668575"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "vietnamese"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3528078400764547325"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "3528078400764547325"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "28DA588E27E912B33E021A8E0B4347C1"
+				"size" "5F00ABF16B519617228CBE53810F0D64"
+				"download" "2406D0DA75A4A61D8D44FA73493B8B28"
+			}
+			"council_preview"
+			{
+				"gid" "A005C42D38BCC66461D55DC4E3889BCA"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"hotfixrc1"
+			{
+				"gid" "40BB56843E3184B123B26075C6AFD89B"
+				"size" "9208A9CB48814F396B9263A0E86024B6"
+				"download" "2019284626E6255DAD4A0B3F998DEE8C"
+			}
+			"opentest"
+			{
+				"gid" "5659E0D020BEB55D9050E6F171E1B35E"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "B851AFB974FC3F6AEEBFF67780D27473"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "2F5355AD388F38F46ECE23CCA8132A63"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "D28960F0C9542DA103402058D2CA3D80"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "903E47A46E7038792DC200C8A629872A"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "415D1440F08CA6898837E06626411A6F"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "E1A3D5D68E3E36DB0569FCEC677DC36B"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "6D61C998855E74FE12B0FA8C58C40848"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "8804A382B59E64664D4B6EB97518BD39"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "B802736E230EE8B3B5F2A59AB18FC103"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "A10329D83840A929BD57E00BAE1BC148"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "266087E87D48DB99B49D321CFDC484DB"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "9624785767E4049BEA1FE11E4B0CD5A0"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1668570"
+	{
+		"dlcappid" "1668570"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5021418869429789881"
+				"size" "69860445"
+				"download" "69682992"
+			}
+			"previous_live"
+			{
+				"gid" "5021418869429789881"
+				"size" "69860445"
+				"download" "69682992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"active2"
+			{
+				"gid" "82397ED1684D3DE218128912B2FC2789"
+				"size" "58C9855CD5FB825B472654D9846C0F78"
+				"download" "C5B3168F7A606F67003FCC6CC546D217"
+			}
+			"council_preview"
+			{
+				"gid" "DB66D3B3D9BF6445CB9758C72CB54F69"
+				"size" "3125BD9BF0D575CBC179488BE90F4CAB"
+				"download" "5811B1AF3ADC6561C28C2D9BC4960020"
+			}
+			"hotfixrc1"
+			{
+				"gid" "68BA3D2D61B135772C733BD0618B6E8B"
+				"size" "F2D31D9E2C97D282E813473A679B5CAD"
+				"download" "293BE22A9394F388F5612099387C834D"
+			}
+			"opentest"
+			{
+				"gid" "5E0328D475430A4EBA506068BE844A45"
+				"size" "347645DF5E1D992626B890DAFA1932D3"
+				"download" "1ED721E80500235F1BAF61CFF4935208"
+			}
+			"practice"
+			{
+				"gid" "1A7691B8C611185427F3DAD408805979"
+				"size" "ECCA9D090AD3A4E49725F47C3D70EA63"
+				"download" "3D6C471761B8D39C55CB045FF50A39DA"
+			}
+			"review"
+			{
+				"gid" "8D1E8662C2F40B7DEE554C6CB6D3AB20"
+				"size" "7BB64B16D91A946007CAF20CC1CA46EB"
+				"download" "09D2EC9DFD25CB268433DA632DE3035A"
+			}
+			"future_live"
+			{
+				"gid" "140FDD34BDF5DC67F3828F4F5D9FE49B"
+				"size" "9695BA58116AFA646CDCB51342D291C8"
+				"download" "AE75A617D636A18ABAEECA1629346865"
+			}
+			"puptesting"
+			{
+				"gid" "FB7107409351B3AA7D5F7D7C627555EE"
+				"size" "9D1BD4BB9BD7DCEC35A169231C258469"
+				"download" "D57C13D3E169CF98A5574A0A3791BBCD"
+			}
+			"rc2testing"
+			{
+				"gid" "33193CAACC0FEAC5AB2BAC3276021926"
+				"size" "3432D1D1F72067CE3BD6D017EACACED3"
+				"download" "EC25B3BD8EF8E0A7834FC4FD478D9248"
+			}
+			"rc3testing"
+			{
+				"gid" "D6421993364DA7984BD07BCEF05CC70E"
+				"size" "156BD3F82A79A53217B7BD1A6DD4E2CD"
+				"download" "E7E686A127895C78E9EE0971D9982B96"
+			}
+			"rc4testing"
+			{
+				"gid" "ACA0C07794768EBB57241A3BBDEE2702"
+				"size" "553A03F8110689E8C75A8FE4CE69FDF3"
+				"download" "9DFF2D387DB8ED30E5835B4B72F1735B"
+			}
+			"rc5testing"
+			{
+				"gid" "BDD97E87445072ADB34F75EC35B351BA"
+				"size" "FF7DA822DE975DC1FA9CBCDED49C55FA"
+				"download" "4E710F911BAA6609418E2C4EF2E5BFB3"
+			}
+			"rc6testing"
+			{
+				"gid" "DFE57612D8DD3C52867A313B9174FE7E"
+				"size" "7DBEED6C72B4A19C83D21D2583404733"
+				"download" "D87998B8D06A2A02CC19054BDC2C29A4"
+			}
+			"rc7testing"
+			{
+				"gid" "06557DDB65C8487BBE93AC1072780CE9"
+				"size" "D9E5C1E1BE232AA60AF51227FB802488"
+				"download" "6C668FF6046168784FB7B7B68FB8DA83"
+			}
+			"rctesting"
+			{
+				"gid" "527FFE8C8D9AE0947E259E45F86E8225"
+				"size" "56CA45E3B8439B60D01B7725CFB9E589"
+				"download" "3C8AD0135A88AC335BAA91051D87C320"
+			}
+			"releasetesting"
+			{
+				"gid" "C22126E7633829734D279223E1AF42B3"
+				"size" "5FF3CED927AE02614363F950CF80568E"
+				"download" "4C8A9C6E250A1EFE9BDEE49A29C12E2B"
+			}
+		}
+	}
+	"1670953"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4253041586394188699"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "4253041586394188699"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "47922E222E3A16CEA7F94E527D108E76"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "8F893210E8628D386C59E84ED04AFF20"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "F2DF717BC982A738FB238700DF84863D"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "A619CD02DB3855A08E0611ADE77E6FAA"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "B866A7D106975CEBCC72FDB14C07D85C"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "BAD35218B0A1498B7DB17EF9F047D399"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "E8F20EAD58AEA242BEC4F872CEFAA025"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "86CD29E080BC1F7E40730049059825F4"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "4B21B0397641E51BE524FD2CE46D800A"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "17137BF1F6FCE4A0FB073FFEE24152AD"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "AEB5411B29BB07053BFA4E1815657FB4"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "5A0A558C4B05D16D5737A31FC7832352"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "A07D4190A80C0CBBE659FA54E227DFA2"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "6D5A97250D3853E01BECB15F9B87E673"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670954"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6367010708482491009"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "6367010708482491009"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "BE1971EBB3A43353671FFDBD39AE6DD6"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "6F9F6FD91F899C65B8C3722D9C7106B9"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "9AC94CC16912688A319F8D49B9C830C9"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "CDF5F5BD4CE2C73FB1F3A7FE7B014933"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "4CC6E40CAA83ED5F598D7B0F7EF90822"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "4CD2B2BB9C00A8458DDBB26B53D2D522"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "F08B6F94528CE079933AF3A10F9F26F3"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "3C4867C389812D9D5587B3706D1EEE2B"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "46D2C82767154E7FC2709C7C911411B6"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "632AD754377F8D8185E4670D4E696587"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "B8A9B522CFE641949AEAC9E25460FC77"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "3C3C9A5BD4A3B2DCCE6AA34C68FA7E91"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "0ED6CF4CE58716D025618937C7CBB5DF"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "02FB7AD2B444CB1F1510977B349DDC2C"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670955"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "585728217411223452"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "585728217411223452"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "49F023A61A72A07D2FF91414285C7D81"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "3099C5B36F557CCB01668BE4D878CBE7"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "D77F1C6D4F83DD71EE0C34229A20DB73"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "02305F0D473AE8EAA1387A63DB34CAB9"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "99BB61076D5E3C82FFAE25AD34F8B272"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "44156EE11146C72CA3332BC68A9B8F84"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "98FAF25CF58CCA7D89788F109A8A56A3"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "2B874C62BAA395AC410405927F94F047"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "CBACDB655E4E80F40B3ADF1287551768"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "CF6BCF2BBC0114F6E15341A6BC903E3D"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "664D8CE07F05B51DCD8F328367547E51"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "CB21FD7A118C9EE2936AD7A697C44742"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "F2DD19E7382254D60FC089220F764953"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "A33D433D2FD328EAAC17D5D0B7D3D5BF"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670956"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1729642957247212743"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "1729642957247212743"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "D0F68276ED8BFD38613353FFE59D7A4A"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "166F8DC9D60EFF0CCCE4931BC81558CA"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "F4BB4C330347BBC734441A4246E5F1BA"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "488E8C75025BAAD2748940270BA46D5C"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "CED0E08CCEE45E5897645FC4EA980377"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "120D4FA83D252C0FD31DB028422308FD"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "D6F24968EC3AEF9BCB1ED5B11C43706C"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "D79E2B6D4D8E1F040440487B514AB823"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "5DD5CD5EB9DA6ACB8B37E82325384C57"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "98BDB33E518FF2593D876DC2F2A52F6C"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "BADFE841C8FF3B5B267B3F4E8FC77CD3"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "DA5E821225C46C8181BB5E3B75B14F23"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "7589C2D098C75CDAD70F75CD77CC5096"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "354BADEDB37F85D661F7C8683622E491"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670957"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7514243931778415354"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "7514243931778415354"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "02DCDD39BD7D7E733F7BABDFCF536DD7"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "4BFC9472806173C19C5F52FB579E1FA7"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "A5DD433DBFDCA0DF5419B7D33EA1CA1D"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "650A5DE74049C06F034D4328255B7794"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "F479BA39A7DFA95ACDE91B28C6DE43F6"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "CA5FF6BE0CC1B4DF8723A73FDDE8E37D"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "4E0E15DE3A501125651785294FA54C8F"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "471408DD117806E8209726EEC4435289"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "1C0306CD915B8FDFBE531C817CB7E57D"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "61A9CF0160D6AC909C083232472B678B"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "7BB4B796A04F2BCD7D2239BAE24D55E9"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "DF08B2689056314EAE9FC6235736BB2B"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "6383E87443EAD8F39348872EF482F5DC"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "1F37B7B35FBE8E90BB3D27AB5780E383"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670958"
+	{
+		"config"
+		{
+			"language" "greek"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2235052579887438470"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "2235052579887438470"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "8B57B6AC5C1BD3A169A321EEE975E702"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "E34747C75830B4AFDFC115FA1641E261"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "1A45FD2BD12950741E7F5A69479A3E35"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "0E3B5A3AC6D7B4EAF99952C022F31A1D"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "1F5C18190D3C1399C8AB284ACA1966D6"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "019B521318B7147E90FB647F9D1ECC24"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "5BDAAC9D3EE8D5080725C3CFCF724E5E"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "052D2BF07A743BA910E5C9F27607EC4A"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "4F7C819FB97179B32260AB3D1302EBCC"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "8492F7D436EE89722A570E0F89AEAAA0"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "EE873645EEA852BC45A94206EA2C1F9C"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "18A32A95008D8B9EE82534804BDFE6D5"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "2647A3055B042AB5498E31F8686E731D"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "1FE43DCA1C037A17B2E16C6DEFF9BF9F"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670959"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4802484337921804048"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "4802484337921804048"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "900DA70FC2FD915F2906B1E961B7C552"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "2B1BE3DE876ABAE1E939F37C918F6879"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "396AF9541945B031DE5F280D73EE6E8C"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "C7CE9C4FE8CAAACDE7D3BBD5073D9131"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "F6BFC457A861C85862E092DC20DE262C"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "17BC1BA52D11A114453D5EA27640C9C0"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "E065B1A88BFFDB6C303DFD66AD8634B3"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "2D471C7FB742B7C80F7ED8CBADB7F61B"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "CB96A87A8ACDCBDB11ECB85AA9A42321"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "40E5F4E28D740D2246C35E1FFE48B8F4"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "3CA51681ABEA42F9C3F8C6DACDB4B142"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "CF727458AAEC1C901D4805B7C83314BD"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "F75EEFB570FA7FFAADBF46B416FF815B"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "C99B1E1AB8B1607CCCE103A996BC73E8"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670960"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2491597714700569132"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "2491597714700569132"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "06F46692D686E08F2ECC8DE48B801E6E"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "B8A5CEC3F4C277E13CE109EA7D049373"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "180547A9DCC265F8127F1CC5AED0BDA1"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "AE621398EA832FCEBE03BC55CE26B90C"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "49467F9E5A05F2CEAAC467DE9D82D4DC"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "539BC7DC38CD3156A7326C1634EF9A74"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "4ECD7DF5038DF1B57239AE94619D35AA"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "BA2777402E5357815E30E0E79B50FC4C"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "AC91A8488C1487C2BEB0964FE4ED51E6"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "D7645596DE1678826E28621AADDA5346"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "C24209B57ECE3E65F8DE4EB3CAB427B0"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "25A6DFFAE4F1037EC53D35412A77E6C2"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "02C1E3FA8EFD05A2B313DDD43EDE3717"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "391D3BB26160736ACF7C37DC7ADDFD95"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670961"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "224682145922665762"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "224682145922665762"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "5B63D83510A2DC96F633B2001F475FA4"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "8C75CFA8C573C8F9151BB6F50EFDFE30"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "B02E1FDFBE1D1E7567C73663DBB30518"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "00044BAF21B9364F86073D413542E336"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "2FFE828A63A7823F701321A280C6D61B"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "3D59F8F85D813E42BEDD9E988F7F130B"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "CC5CBBD2F46BFBD0FF49D2DAA876D6B4"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "A779185D790F8297649C152F074F62D1"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "07BAC44639DBB9A0430D76E507650AF1"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "E21B0628013FCC2D0817A1230E969B3C"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "48AC0C76EBD5CABC40466668BC3F720A"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "14B063BEB341DF6DCC03A710637D1BFF"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "362B1CE98C6152AAC09F7E8F34102EE0"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "BDC17F7F0CD3DBF5765F075D729B2EE3"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670962"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "277249696168568416"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+			"previous_live"
+			{
+				"gid" "277249696168568416"
+				"size" "7054433651"
+				"download" "7146426192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "DD1995533CEBCAD8E9077191170949E6"
+				"size" "EE1C22CC473EF6419249144DDBD3EB9C"
+				"download" "D4E91C6F0672B55BBB338F94EDAB85B3"
+			}
+			"opentest"
+			{
+				"gid" "C88DEBA0FB1454D7BA906D11A5EF128B"
+				"size" "6F89A9892E9AD2625FDDE57F3A6D310F"
+				"download" "417F99719DEB55FDDAF61CBA396A17A0"
+			}
+			"practice"
+			{
+				"gid" "616CD0FFFD354DA5DE51F5744EF828B6"
+				"size" "A36397AFD70C19334CB2A782D2064B99"
+				"download" "FF7FD251A8F7A60B8AA28216FCBB0132"
+			}
+			"review"
+			{
+				"gid" "65E40DB538AF4144C9C4045138132D09"
+				"size" "1D0FE74A283B949B67BD03A74376E96B"
+				"download" "359B32956ED8F56BDAFF1D3F685701CB"
+			}
+			"future_live"
+			{
+				"gid" "BBCE9046F80665EFE32ED9425E0676F8"
+				"size" "D808D59523F2873E9402DCD9689B6D23"
+				"download" "F5891113D2A652B5F3BD86EDBB052344"
+			}
+			"puptesting"
+			{
+				"gid" "929208E3D499039E8A7602635B394F59"
+				"size" "842824A6491C1C2793C2D2E37583A6E6"
+				"download" "43150F4B1722E58F2AD5C8C69444469B"
+			}
+			"rc2testing"
+			{
+				"gid" "B5937832E15FB71BB89650366214D171"
+				"size" "37F45F831B36574B325E4F64E1125BC5"
+				"download" "F89D6000CB7AB7B180BD5CA7A71FE4DB"
+			}
+			"rc3testing"
+			{
+				"gid" "D8C4F947879EA5791CF8D1D2FF7B314D"
+				"size" "076F860B3393B7E30230459552CFDC7E"
+				"download" "AEBD055D804FC370D4259EB8B65A7BDA"
+			}
+			"rc4testing"
+			{
+				"gid" "B03045EE2132F1253F24F1CBDE960FD4"
+				"size" "4C954A4E59D451FE4DDAB14B3F60A417"
+				"download" "5F884D5B19BC1C36A2062AB08E2C815F"
+			}
+			"rc5testing"
+			{
+				"gid" "354A06389B5764576F442C5CAEFA0B05"
+				"size" "DC4CE25FCF4C88D71228BB1436B1AF70"
+				"download" "47232E968A1886B795B1DAA4DC84444E"
+			}
+			"rc6testing"
+			{
+				"gid" "BAE89A10FBF5EC1E92DE8A30DB60D38F"
+				"size" "E81E74E48929DBBBA2AE57A1DB751EBC"
+				"download" "9F0B6EBA36C7AEDC72CAE54845454CEB"
+			}
+			"rc7testing"
+			{
+				"gid" "F60121A457908396322145E2637BBCA0"
+				"size" "8EA7E68399734F6FEE79B5D5E4CA1013"
+				"download" "1CA23DBB3CE20AA651F001F1AADDD35B"
+			}
+			"rctesting"
+			{
+				"gid" "60AB277B88777AD2FABCACE0177D1F3F"
+				"size" "ADBE8CCC4F341147FAF49594DF7177DA"
+				"download" "43F9E4DD5FD9F6CA779724C3D2318686"
+			}
+			"releasetesting"
+			{
+				"gid" "78439BCE4A076A2A109AF13530C565F6"
+				"size" "B1AF08E8B0A1311BED6FF8A4B151BB99"
+				"download" "11469306816D04BAEF360FD1DF4F33B2"
+			}
+		}
+	}
+	"1670964"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "dutch"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7812655020914186380"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "7812655020914186380"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "3B65E208F077FFC9A1E7E85C1B8AE35B"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "E8A72E092A21131A242CA3A9C810A98C"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "8156654165D4CE55AEBFC24E600A93AF"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "C9EB47A7950078B6FB170DA7AA276DD2"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "41B7CFF6D9D2BD7C388A18ACB4FE2754"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "4E885E43EACD8861CBC3BB1D3DF649A4"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "0F27BEE1B9D30F87BC637234DCE03BB6"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "58932C4BFCEE37E7080B2E455390FE41"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "2316D2410C7B470EA4F10CB1E43FFE0B"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "24DF1F39DFE7427883ADD2F4C53C7237"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "F3D8E2CA9BAD303875AFADA6E009AD4C"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "3DFC11DFDE2A2C3A2D4D519ACF9B67AE"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "86D2A13BCEB5A430047D43E266AD4B7E"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "8583BF2E15B3A2F0707EFD70355B53AA"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670965"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "danish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1582218669874149641"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "1582218669874149641"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "C25FEBD240121A9AABBBB64490EB0208"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "1554432FE71C1E280632341C02B4D1AA"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "18EEE29C8CA58E206A734F2371771BE2"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "38A9513C9556E36452BC4B808B8AAF62"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "F0141FFD6FB64F3832B51DCC959B6521"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "9AA49B1C9EB6811C597F1B23C0A7F0C7"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "5DAEC5EBC23AEA863F42CEC6FC45D145"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "D0B3857E8C2AAD3C9BF74A03EEFEDDC6"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "7A9A93E2EDC898F96169968DE23343AA"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "851F553920AEEFE49E15E11E53EF95B3"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "00699897BE698F40ADAD5BCC5CAB738C"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "3D3BE05741ACC16D7C84C9C5F6571179"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "8C743395BAE30F9FD72BAF360840EF31"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "95CBDB8D8D8437CB65DAF851DF1F1D90"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670966"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "swedish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "670444913470643007"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "670444913470643007"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "8480101CCD99C6322657FC687F4794F8"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "A957D8274C8987B9CF54E079D7405369"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "4665000148E996539B6A61943B273E49"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "536B9BA2830653536A064DDE9B9F7DC8"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "88E5547DFBC447A793ECDF55237ABFEE"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "39C5256951D5529AD5BF830D92CAFA34"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "8F56556A87E6DD48C3DFAE2CE6AD6665"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "ED7F105C211E59FF2994131344D6BADF"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "4D35912074CE926516D919995A385B70"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "D8E8A73BA755E60440F28AF1F9AC79B0"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "733A884D04FDE8D7FEB944799DDE6B94"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "B6F5237612C72C47D6077B0D2721F214"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "4877BA0AEAF5DD2A3AC4D778470AE9E0"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "E5C72F3AFEA960610F937715F1C8182C"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670967"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "czech"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8117301583025580887"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "8117301583025580887"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "1B76489CC6A05CDAEB0AAC61A98B3A6B"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "673A059234EA45D31EFA3743E07841A2"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "5AB8212DD015F709CDF1FC9B2FD1A992"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "3A2BE745E1E0812368CB8C16864F80F7"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "47D82AF7D38288FB2B7F1872F856FFD8"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "63911420BD9776A16D3FF82365704E0A"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "0A9903D34C1B3098EE5542048223B798"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "E21449A977A98631E73DD1C06FF6C254"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "F7A9F37CDC8985F39370A839441F7BCA"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "7842330D00703302E0A546F1722A378C"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "2E68DD26D79CF74D8D3E65F542839A06"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "D1D516FB0F6D356E61DF8AB98FB1A450"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "138AF6FD234590FDA78B59F8E429FE7F"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "C14B1FF0AE3637F312D4D81AD6E15FCC"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670968"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "norwegian"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5137141778673678818"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "5137141778673678818"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "7BE1E82B9353877D6A7A26043B36F38D"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "2EAA7D9C767ABF8E57C8CB0A75052068"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "7C33DBA9AD0F8C43A74B3B42857BD5D7"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "DBFAFBA6F4EE5CB5D593D6E0F7EFAABE"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "830EF0AF8B3933B90235EB9DDD1287F1"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "A8E364FE3DAF8DCB114B98E391405421"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "9624916C046E35ACA515DBF9C264B54C"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "756100E338D232C89FEAE14B6E97EA10"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "877A1690638F2760BC4E2FEA0E9377E6"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "C11492CD8CF51E6D61D0F4BEB0E57C69"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "C15DA4766CE63189AB5C6C3475C2980F"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "C0E534489E641C50B46D316029D95B7E"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "9E2F4EDEB8B2DF967CE5D16DA8214055"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "3AC1CE419CD8ED354971D94BF8A7FA23"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670969"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "greek"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4872448515233483244"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "4872448515233483244"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "EF3C171F2D2EF912987E6D9448390E08"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "01BE47623FC19D6B70716D9621A2A558"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "41185EB0B832413EB92EB00AC7504CAF"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "9594CF77FD260661FB30F6BCE8FE64A1"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "00EBAF7D2CBB0571BB33899D1384A387"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "BD57D43844A2A09490AA00E4EEF7044C"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "1C29CBF3F1D71DA796A1A015B755B9AA"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "0AC40388796E4DF70BFABC7593749DEB"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "B52C4D6F3AAA477F3A6F88B1ECC72635"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "782864295A10C58A034A1C1C536A72A8"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "DD8BA47B61ABF33C9FBBEF9B1DD02E57"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "A780EE463585D408806F6E2B6899E7C7"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "CB5190079B00544127CE59D1B9045AAF"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "6839544887B7FDB6B2D064ED64BCB3C3"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670970"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "hungarian"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5439377956453704871"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "5439377956453704871"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "592069403EC02BFF519DD82277DD322D"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "BC573B346E42010A2221F5995D3C2D1B"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "B820C8675921E0FA9462DD49AB45F1E6"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "31C2D4351404280F09DC9139F9B1CCB3"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "05D6CAB795F8423A7BB63567ACB4C4B7"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "C2AB005FD07D47DD22FA3D54E3CDD3B6"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "C9488119CB0A899D254AF6348136CE9B"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "5BA78B47A6BC5CE1D75381C828DC5BD9"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "6522956CEB505C335A30C2A4688EC2C8"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "5A33BEDF4F96872C93FC5BE3089FC87A"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "080C1A4ABDBD252F9AD5909ED9C4825D"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "AEE49E61FC73C33CAC36E726F56F8865"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "1C41BED744FB0B103C84D3FB6357FAEB"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "D1AC19FB74B5ABDF1B080B288A3DD478"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670971"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "polish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3636830549104194720"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "3636830549104194720"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "9CC0DCC756C07FB1C95739A5497D704D"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "C8B10F7AD53661784ED5E606BBFC1100"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "453BC7C18A5CEA638F393347F69E848A"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "66D10F66CA02BC786A50916F0A0E4708"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "AB1521FD7AC0FA27AB424C7DA397AE6F"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "084D6D3E0C7C9E2D9DBB57AF91E789E3"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "F33701EDE3C4866655169EDA884E2D71"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "67BAD3451772B0001B10137C2F46C8A4"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "37C31A2B39834DAA8AE8FB0EC866EF4D"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "B0D1D43EE24BE27EDE5C64174D307AB9"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "41AFE08A7C0D66903E58D6409B00A7F9"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "6AA4B51151313CA1EE793A7FAF878275"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "52723A7B247B9CEA21CCEE70E0C861CF"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "BE1D195A217AD8769A62E7A99A71B16E"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670972"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "finnish"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5587384387490018518"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "5587384387490018518"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "A9F35E71C5071BBA4AA50BA81E31B027"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "311CCC16411DABED936F3B81500D04E7"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "3C2BE5031387AFFDB5F7523540DB9097"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "20945DB8D70169961A5DE8CEA89D83F7"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "C8C60E528A64543668CBECE75D504C61"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "D76D2D7AED7E4E44C8EEF64F6E3C35E5"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "C273F76C26AEE31E3587FDA677F04CB6"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "FCA22B44EC2B0C03E7E9D92789FAF977"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "4B13D2DA28009817A7AA8DE93B05540B"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "D9A38C2CBDA5F0287CB167425936A8EB"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "3B45EC0A07CD4643D7368CF35BA4EBBC"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "E70CCBDD498205C7E7C645B3CBA02868"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "E2CB5A22C804123B8A81EDD098B50DD0"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "E25FBE8CC76F180A26B562D37E7D70AF"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1670973"
+	{
+		"dlcappid" "1668560"
+		"config"
+		{
+			"language" "portuguese"
+			"optionaldlc" "1668560"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2619726927987078136"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+			"previous_live"
+			{
+				"gid" "2619726927987078136"
+				"size" "13247800937"
+				"download" "13427262256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"council_preview"
+			{
+				"gid" "698E985D38211677757B6139B640A691"
+				"size" "0C1E8A7FC7A18EE8349DDFD9E320DF78"
+				"download" "BE4BEA3A6BFC8F8A88EA436129982CCB"
+			}
+			"opentest"
+			{
+				"gid" "406ADC5F93F74CCB8A90D3D023ACFDAF"
+				"size" "EC6B5088667D3D1CBA365A916F2AA3AF"
+				"download" "EC6B5088667D3D1CBA365A916F2AA3AF"
+			}
+			"practice"
+			{
+				"gid" "BA8ECA5C33A46508D67157B4200398F3"
+				"size" "72C0AF869515E3382731D0773615C22F"
+				"download" "3F2B94CF052C323529AE1273BD4706E6"
+			}
+			"review"
+			{
+				"gid" "B399B7B616D382DE2D65CF69419EC73C"
+				"size" "1BBF610AF3559C42CF785DABF23E8BD0"
+				"download" "7447128D3EE47D061F217185448BDC20"
+			}
+			"future_live"
+			{
+				"gid" "6AF5F7C09E9DFB802810B0C46C9B95CA"
+				"size" "73C7A6634B3A20B2E4EA864644F9C3C5"
+				"download" "FE51E6497258F6F7B78B9588A86AFD00"
+			}
+			"puptesting"
+			{
+				"gid" "D71C0EA500EBF79D3E52818AE226491D"
+				"size" "82D86F992E39B6937821EDD2CF03BCB6"
+				"download" "EC56489970BA6872D2957A537B1D43E5"
+			}
+			"rc2testing"
+			{
+				"gid" "DB02930A30BCAE34550A439F0F221034"
+				"size" "B6AACF0D3653703AD962DE757532E736"
+				"download" "D0C6D0BE03ABCB29947BD2E70D66D4A2"
+			}
+			"rc3testing"
+			{
+				"gid" "98411F4659FCA880BC823E6BB051BFA8"
+				"size" "7C20F634791D46FDCE77DD9F8918A47D"
+				"download" "633BBA5D570D1AD4E4C6EC14BF885189"
+			}
+			"rc4testing"
+			{
+				"gid" "71C4ECBF0A03C8F7FBBBB74FBF79760E"
+				"size" "B329DA3D5232E174F253F26C069176A1"
+				"download" "BC933C11DFCDCF5163313B3BDD10685F"
+			}
+			"rc5testing"
+			{
+				"gid" "8ED56329C20B86810B7B8C6C7CAA141C"
+				"size" "2CE75A6DD11E2A338FD9BE8F290265E6"
+				"download" "7ADDDF9289EDB1B57D54DFF80F924F49"
+			}
+			"rc6testing"
+			{
+				"gid" "55C52F74C6147C4D9A36A1DE0E079912"
+				"size" "09CAEF297AA55C8538B5AD7909E571A9"
+				"download" "EFAEA905CD7E4D39329F44D3639C3A59"
+			}
+			"rc7testing"
+			{
+				"gid" "D4D842A9E635118E5D5A445714799418"
+				"size" "B85176AABC31C7D2D98C2E32456887E1"
+				"download" "1459A5361EEEA70A4D9447763661DB07"
+			}
+			"rctesting"
+			{
+				"gid" "920C6CBF12F31D1A54672BAFDB95BEC8"
+				"size" "508937BAB93A326401FD223ECC448CB0"
+				"download" "CC1B00D155D1ED52152353CDDD204A94"
+			}
+			"releasetesting"
+			{
+				"gid" "288ECB7715B7A618F5B575D738B6DF28"
+				"size" "0A577239AEC3EC27A8D1A114F7A4B9D3"
+				"download" "4CC4793A5BD9DFDCD044C97B75E5DF67"
+			}
+		}
+	}
+	"1959431"
+	{
+		"dlcappid" "1959430"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16495672"
+			"timeupdated" "1733245647"
+		}
+		"active2"
+		{
+			"buildid" "9524498"
+			"pwdrequired" "1"
+			"timeupdated" "1663259473"
+		}
+		"council_preview"
+		{
+			"buildid" "13366497"
+			"pwdrequired" "1"
+			"timeupdated" "1707244324"
+		}
+		"hotfixrc1"
+		{
+			"buildid" "9395818"
+			"pwdrequired" "1"
+			"timeupdated" "1661537154"
+		}
+		"opentest"
+		{
+			"buildid" "11942542"
+			"pwdrequired" "1"
+			"timeupdated" "1692069322"
+		}
+		"practice"
+		{
+			"buildid" "9627932"
+			"pwdrequired" "1"
+			"timeupdated" "1665781757"
+		}
+		"review"
+		{
+			"buildid" "12536677"
+			"pwdrequired" "1"
+			"timeupdated" "1698453507"
+		}
+		"future_live"
+		{
+			"buildid" "15718817"
+			"pwdrequired" "1"
+			"timeupdated" "1726587644"
+		}
+		"previous_live"
+		{
+			"buildid" "16386362"
+			"description" "Archive of previous live build"
+			"timeupdated" "1733244782"
+		}
+		"puptesting"
+		{
+			"buildid" "15718817"
+			"pwdrequired" "1"
+			"timeupdated" "1726516110"
+		}
+		"rc2testing"
+		{
+			"buildid" "16478792"
+			"pwdrequired" "1"
+			"timeupdated" "1732206425"
+		}
+		"rc3testing"
+		{
+			"buildid" "16245941"
+			"pwdrequired" "1"
+			"timeupdated" "1730341178"
+		}
+		"rc4testing"
+		{
+			"buildid" "16355851"
+			"pwdrequired" "1"
+			"timeupdated" "1731340756"
+		}
+		"rc5testing"
+		{
+			"buildid" "16386362"
+			"pwdrequired" "1"
+			"timeupdated" "1731512269"
+		}
+		"rc6testing"
+		{
+			"buildid" "16495672"
+			"pwdrequired" "1"
+			"timeupdated" "1732287154"
+		}
+		"rc7testing"
+		{
+			"buildid" "15990619"
+			"pwdrequired" "1"
+			"timeupdated" "1728574808"
+		}
+		"rctesting"
+		{
+			"buildid" "16427846"
+			"pwdrequired" "1"
+			"timeupdated" "1731946748"
+		}
+		"releasetesting"
+		{
+			"buildid" "15326017"
+			"pwdrequired" "1"
+			"timeupdated" "1731602111"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26474115"
+"_sha" "0d49c4fc9b905ecc32c25d1e25c9274984944a05"
+"_size" "168196"

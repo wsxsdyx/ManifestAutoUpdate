@@ -1,0 +1,738 @@
+"appid" "699130"
+"common"
+{
+	"name" "World War Z"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "84c33868a40176a686138af3c530e998c66c8b00"
+	"logo" "8ddd59c7472385b6c6d68446254911fded2a117e"
+	"logo_small" "8ddd59c7472385b6c6d68446254911fded2a117e_thumb"
+	"icon" "0f9e81a6be6e3f5d2a40551ee3aaf63329048b7a"
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"clienticon" "031966373e4d45c2a83816580597a651c822dd38"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "699130_eula_0"
+			"name" "World War Z: Aftermath EULA"
+			"url" "https://store.steampowered.com//eula/699130_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "8493108"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "45d7b33709e18280f68a8504861296453f41e932/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "8df6e0e79fa1423d05157b76ce8a76ec4d6e6158/library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "eb278dad7c4801b8975fd7e08c11bf0bf96f0531/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "eb278dad7c4801b8975fd7e08c11bf0bf96f0531/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "a1886f984827408d3bf8736832c291c8df44d368/logo.png"
+			}
+			"image2x"
+			{
+				"english" "a1886f984827408d3bf8736832c291c8df44d368/logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "cc46384861ce2be97ef925d3bc422aa264034eb5/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733932271"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Saber Interactive Inc"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Saber Interactive Inc"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "World War Z"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1632227520"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "699130"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "3859"
+		"2" "3843"
+		"3" "19"
+		"4" "1685"
+		"5" "4182"
+		"6" "1774"
+		"7" "3814"
+		"8" "6730"
+		"9" "1663"
+		"10" "3978"
+		"11" "4345"
+		"12" "3835"
+		"13" "5765"
+		"14" "4747"
+		"15" "3839"
+		"16" "1697"
+		"17" "1667"
+		"18" "4667"
+		"19" "3993"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Saber Interactive Inc"
+	"publisher" "Saber Interactive Inc"
+	"homepage" "https://wwzgame.com/"
+	"listofdlc" "1640650,1708020,2170270,2226070,2243210,2313390,2475060,2540380,2614650,2614660,2962180,3100200,3245120,3245130"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "WWZ"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzRetail.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Retail"
+			}
+			"description" "Retail"
+		}
+		"2"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzRelease.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "beta_home,references"
+			}
+			"description_loc"
+			{
+				"english" "Release"
+			}
+			"description" "Release"
+		}
+		"3"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "fh_branch"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"4"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "sbr_qa_main,references"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"5"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "kochprostest"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+		"6"
+		{
+			"executable" "en_us\\client\\bin\\pc\\wwzProfile.exe"
+			"workingdir" "en_us\\client\\bin\\pc\\"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hm2_playtest"
+			}
+			"description_loc"
+			{
+				"english" "Profile"
+			}
+			"description" "Profile"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2627804454"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2627810252"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,sbr_qa_main,sbr_qa_stable"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,russian"
+	"699131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8196023375922955932"
+				"size" "71616920500"
+				"download" "45344368736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_branch"
+			{
+				"gid" "B8AB25C626932ECC04FE31D188BE8CEF"
+				"size" "F3FA58E9FD3DCA64C95B8F0D12FC1276"
+				"download" "C4985963E985E9DF1D3AC92E87114A2E"
+			}
+			"bg_steam"
+			{
+				"gid" "44F7F8CC111CFF4EE369E92B017A7F1B"
+				"size" "184DD16638BD8E0A3A9E771EC06DFE58"
+				"download" "A2E989A23F54594FEAB931278024A210"
+			}
+			"fh_branch"
+			{
+				"gid" "902AA259E0FFE306406F48AE35CDA67F"
+				"size" "C3CE771B72D82B2D7112E15FBC9FB481"
+				"download" "DAC09C44C432A687CB144E9382B88AD9"
+			}
+			"h2_branch"
+			{
+				"gid" "0F0DC552AD45146C3A3A5BD7B9FE7D0A"
+				"size" "E54E0943EFE70DDF1E0B4C6B7E655C90"
+				"download" "10555F61496233D657766BC1FA8E17C4"
+			}
+			"hm2_playtest"
+			{
+				"gid" "A81438943E4BE5DA10147D68D46A00F7"
+				"size" "8360FB048F5BA9323AD1CA2EBF175F1A"
+				"download" "E463FB28521DD5EC9C070C643183BD94"
+			}
+			"hmxl_preview"
+			{
+				"gid" "E76AE763D4487A2E2BDDDA64199BA4A3"
+				"size" "DC49D3BA899453A2615779E4ED110ABA"
+				"download" "595BB0082089A5AB03D0A4DB33FEDC7D"
+			}
+			"kochprostest"
+			{
+				"gid" "825BA1C7244CBCF5642D2786526B30EC"
+				"size" "05D337EE30A7636563ACE24B6482B6EA"
+				"download" "C9188D41973942C3E4A5EB2FB05E6DF5"
+			}
+			"references"
+			{
+				"gid" "6E7605DC082260357144E58B7BA94EAA"
+				"size" "15E8D3131AC9A7DEE441284C74756F70"
+				"download" "FC73F42B115E450163E67938A6160C8A"
+			}
+			"release_branch"
+			{
+				"gid" "DFD131EE27EB43411CB0AAC9BB8E9A1B"
+				"size" "13667423C03D6EEAB86DD4C17236F7D0"
+				"download" "D7E3C902C9A00D6A5766315E7AD14A60"
+			}
+			"sbr_amd"
+			{
+				"gid" "00DB888A94D0E25DD9C0212EDD0C5B93"
+				"size" "0F9037336B9B4580ED3472E6C86B1AF8"
+				"download" "0A6573E678078555D14A62E4C92C57E2"
+			}
+			"sbr_grac_kr"
+			{
+				"gid" "A903BB8143DBC614DF9805786E3D66FF"
+				"size" "A331F5ADC1C2B9582D29B1C9FC4E17E4"
+				"download" "66C109DEC2FE73E18E9ECE3147358011"
+			}
+			"sbr_nvidia"
+			{
+				"gid" "E1672AB5D90B1753887EDEF03730E121"
+				"size" "805C8A4386BD33FE4FCE47A195A3E985"
+				"download" "C53971E9E8F35F7F2E5D231F4C1860C2"
+			}
+			"beta_for_mrktng"
+			{
+				"gid" "7FB4D675A8A0E683CCD0678176F121B8"
+				"size" "15FBA6473BA3C7B054E581C2FF8B6D06"
+				"download" "5A43F57D4CDACAC8307F9C64B33E1D4A"
+			}
+			"gd_playtests"
+			{
+				"gid" "9DCBB6D8D63A32E166F5EE6A8B622E2B"
+				"size" "8D5F172119730EE65140A1493D682F60"
+				"download" "C1B61C25786AFD0F5A509650C9AE5E49"
+			}
+			"gd_playtests_2"
+			{
+				"gid" "40477DC6065F9C9F9A6EBADF1DA67A85"
+				"size" "50DB041350F417BC414AAF51195FDD91"
+				"download" "F3C59D3E6854128FD085CF99F63E0658"
+			}
+			"ld_playtest"
+			{
+				"gid" "9956D63F50BF7F9063EB44FF8FDAA508"
+				"size" "18D82400187AC91E39F492E71D0A9047"
+				"download" "7ABA6388CDA032B6240111FD7CD42AAB"
+			}
+			"new_features_playtest"
+			{
+				"gid" "481B1A4BD1D77BF502EB1031F798397B"
+				"size" "F7AF4705E4E38EE6C21BCDC75A48E8AA"
+				"download" "7ED1233B0074D66DE2EB9472D86417C7"
+			}
+			"romexl_preview"
+			{
+				"gid" "BE022228442C866DFC1B0036DD969710"
+				"size" "26EC0B0CF2319F2C0725D43F65D628CF"
+				"download" "BAA469446297A1CBFB18AEB1E520FCB2"
+			}
+			"sbr_press"
+			{
+				"gid" "4482B098EB3A3D85505BF2CBEAA6994F"
+				"size" "24F64E303C0E166278271F5BF70B7AF4"
+				"download" "1B07D866E632E0263E5254CA7853CA6F"
+			}
+			"sbr_qa_main"
+			{
+				"gid" "7CB25829C5CD32BB39135BC407FB3420"
+				"size" "B1E09E108195148ED796D886DFC6BD58"
+				"download" "5A012A58983B58D400C1AC14F575128E"
+			}
+			"sbr_qa_stable"
+			{
+				"gid" "830BD43980838E1CABC1E7F63BBE63CB"
+				"size" "9178AD2844994777379C76AC7B152029"
+				"download" "829F3675DB7C378E4E64E5DE7BDAC344"
+			}
+			"streamers_preview"
+			{
+				"gid" "FB22A2732C3AD4685F7A8B4C8CD987D4"
+				"size" "6E7567781C0977D6701E55AFD89AA14B"
+				"download" "1A6F77BC42A15D544E8310B2F24B5C2C"
+			}
+		}
+	}
+	"699132"
+	{
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"beta_branch"
+			{
+				"gid" "FBE24C8AC0561E6F48118C57CC55ED78"
+				"size" "BE5A4452A8A1318ED670200BE18FBF1F"
+				"download" "59B38E55059CBF8B475E6BA82AAB3747"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16600329"
+			"timeupdated" "1733421593"
+		}
+		"beta_branch"
+		{
+			"buildid" "6879242"
+			"pwdrequired" "1"
+			"timeupdated" "1623849382"
+		}
+		"bg_steam"
+		{
+			"buildid" "10665987"
+			"pwdrequired" "1"
+			"timeupdated" "1677738688"
+		}
+		"fh_branch"
+		{
+			"buildid" "8339945"
+			"pwdrequired" "1"
+			"timeupdated" "1646829440"
+		}
+		"h2_branch"
+		{
+			"buildid" "7018420"
+			"pwdrequired" "1"
+			"timeupdated" "1626948061"
+		}
+		"hm2_playtest"
+		{
+			"buildid" "9113220"
+			"pwdrequired" "1"
+			"timeupdated" "1659354654"
+		}
+		"hmxl_preview"
+		{
+			"buildid" "9966965"
+			"pwdrequired" "1"
+			"timeupdated" "1668771479"
+		}
+		"kochprostest"
+		{
+			"buildid" "8355712"
+			"pwdrequired" "1"
+			"timeupdated" "1647018358"
+		}
+		"references"
+		{
+			"buildid" "11218426"
+			"pwdrequired" "1"
+			"timeupdated" "1683897924"
+		}
+		"release_branch"
+		{
+			"buildid" "12012349"
+			"pwdrequired" "1"
+			"timeupdated" "1692790578"
+		}
+		"sbr_amd"
+		{
+			"buildid" "11219498"
+			"pwdrequired" "1"
+			"timeupdated" "1683905389"
+		}
+		"sbr_grac_kr"
+		{
+			"buildid" "7242164"
+			"pwdrequired" "1"
+			"timeupdated" "1629820361"
+		}
+		"sbr_nvidia"
+		{
+			"buildid" "7332741"
+			"pwdrequired" "1"
+			"timeupdated" "1631265356"
+		}
+		"beta_for_mrktng"
+		{
+			"buildid" "16523592"
+			"pwdrequired" "1"
+			"timeupdated" "1733843148"
+		}
+		"gd_playtests"
+		{
+			"buildid" "16757478"
+			"pwdrequired" "1"
+			"timeupdated" "1734343710"
+		}
+		"gd_playtests_2"
+		{
+			"buildid" "16773284"
+			"pwdrequired" "1"
+			"timeupdated" "1734440189"
+		}
+		"ld_playtest"
+		{
+			"buildid" "16733772"
+			"pwdrequired" "1"
+			"timeupdated" "1734086577"
+		}
+		"new_features_playtest"
+		{
+			"buildid" "15519505"
+			"pwdrequired" "1"
+			"timeupdated" "1725877786"
+		}
+		"romexl_preview"
+		{
+			"buildid" "15676461"
+			"pwdrequired" "1"
+			"timeupdated" "1726154019"
+		}
+		"sbr_press"
+		{
+			"buildid" "15392394"
+			"pwdrequired" "1"
+			"timeupdated" "1723797895"
+		}
+		"sbr_qa_main"
+		{
+			"buildid" "16757963"
+			"pwdrequired" "1"
+			"timeupdated" "1734347765"
+		}
+		"sbr_qa_stable"
+		{
+			"buildid" "16786855"
+			"pwdrequired" "1"
+			"timeupdated" "1734526286"
+		}
+		"streamers_preview"
+		{
+			"buildid" "16515074"
+			"pwdrequired" "1"
+			"timeupdated" "1732522354"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "16"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SavesDir"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26762753"
+"_sha" "c31bc5b017b403e65ee22a6ccf1d1ea8ad02bf01"
+"_size" "14957"

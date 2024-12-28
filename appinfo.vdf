@@ -1,0 +1,1582 @@
+"appid" "990080"
+"common"
+{
+	"name" "Hogwarts Legacy"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "a9ecb94f249768d0ee5ccecbffe8d8c06d9bed59"
+	"clienticon" "a734421278d0fe3aadea50dc72c45630afe2e891"
+	"clienttga" "a5ddce516d19fb8b885e03c9545923e6e764b58e"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"koreana" "호그와트 레거시"
+		"schinese" "霍格沃茨之遗"
+		"arabic" "تراث هوغورتس"
+		"japanese" "ホグワーツ・レガシー"
+		"french" "Hogwarts Legacy : L\'Héritage de Poudlard"
+		"tchinese" "霍格華茲的傳承"
+		"polish" "Dziedzictwo Hogwartu"
+		"russian" "Хогвартс. Наследие"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "990080_eula_0"
+			"name" "Hogwarts Legacy EULA"
+			"url" "https://store.steampowered.com//eula/990080_eula_0"
+			"version" "2"
+		}
+	}
+	"releasestateoverride" "released"
+	"releasestateoverridecountries" "ZZ"
+	"releasestateoverrideinverse" "0"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1675382400"
+		"tested_build_id" "10424701"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Hogwarts Legacy"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "61.62790697674416"
+			"height_pct" "88.22132510092614"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "61.62790697674416"
+				"height_pct" "88.22132510092614"
+			}
+		}
+	}
+	"store_asset_mtime" "1676412335"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Avalanche Software"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Warner Bros. Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "WB Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1676051820"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hogwarts-legacy\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "990080"
+	"store_tags"
+	{
+		"0" "4057"
+		"1" "1684"
+		"2" "1695"
+		"3" "4182"
+		"4" "21"
+		"5" "122"
+		"6" "4747"
+		"7" "3834"
+		"8" "1742"
+		"9" "1697"
+		"10" "4106"
+		"11" "4166"
+		"12" "4231"
+		"13" "19"
+		"14" "3993"
+		"15" "6426"
+		"16" "1664"
+		"17" "1756"
+		"18" "4342"
+		"19" "5350"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Avalanche Software"
+	"publisher" "Warner Bros. Games"
+	"homepage" "https://www.hogwartslegacy.com/"
+	"listofdlc" "1880830,1880832,1880833,1880837"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hogwarts Legacy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test)"
+			}
+			"description" "Phoenix (Test)"
+		}
+		"2"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "development"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"3"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gobo_playtest"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test)"
+			}
+			"description" "Phoenix (Test)"
+		}
+		"4"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gobo_playtest"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"5"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test)"
+			}
+			"description" "Phoenix (Test)"
+		}
+		"6"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "milestone"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"7"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "playtest"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test)"
+			}
+			"description" "Phoenix (Test)"
+		}
+		"8"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "playtest"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"9"
+		{
+			"executable" "HogwartsLegacy.exe"
+			"arguments" "-CFRelease -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "release"
+			}
+			"description_loc"
+			{
+				"english" "Hogwarts Legacy (CF Release Env)"
+			}
+			"description" "Hogwarts Legacy (CF Release Env)"
+		}
+		"11"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test)"
+			}
+			"description" "Phoenix (Test)"
+		}
+		"12"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "staging"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"13"
+		{
+			"executable" "HogwartsLegacy.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"14"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\" -SavedDirSuffix=User1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Playtest"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test) - Playtest User 1"
+			}
+			"description" "Phoenix (Test) - Playtest User 1"
+		}
+		"15"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\" -SavedDirSuffix=User2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "Playtest"
+			}
+			"description_loc"
+			{
+				"english" "Phoenix (Test) - Playtest User 2"
+			}
+			"description" "Phoenix (Test) - Playtest User 2"
+		}
+		"17"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "main_development"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test)"
+			}
+			"description" "Play Phoenix (Test)"
+		}
+		"18"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "main_development"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"19"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ratings"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test)"
+			}
+			"description" "Play Phoenix (Test)"
+		}
+		"20"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "ratings"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+		"21"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "branch_development"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test)"
+			}
+			"description" "Play Phoenix (Test)"
+		}
+		"22"
+		{
+			"executable" "Phoenix-Win64-Test.exe"
+			"arguments" "-cleanpsocache -cleanuserdata -SaveToUserDir -UserDir=\"Hogwarts Legacy\""
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "branch_development"
+			}
+			"description_loc"
+			{
+				"english" "Play Phoenix (Test) and clean files"
+			}
+			"description" "Play Phoenix (Test) and clean files"
+		}
+	}
+	"steamconfigurator3rdpartynative" "8"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"990081"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5173511114843368548"
+				"size" "73853914281"
+				"download" "70447555424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E245D9377E7D9D8483A626D99DBD20A2"
+				"size" "37F9A77DC5D1E4EEA87769203813DB1F"
+				"download" "CC5249BCF0F70B38E6AAD477C49AC504"
+			}
+			"ratings"
+			{
+				"gid" "DD7D79D71D0B20EDAF86488C32AF4A2F"
+				"size" "AD3D873C5908BFFFCBD0F5312B47B915"
+				"download" "7B805DA01906941103C37BB361312A1A"
+			}
+			"beta"
+			{
+				"gid" "81292C614B3BC8607D2441F03E822202"
+				"size" "4603A9234033DBA363595A8F8FB0DCC2"
+				"download" "0B179469839A3952DAB9B7BF45C5D258"
+			}
+			"branch_development"
+			{
+				"gid" "85F9B805BA0F811B83B3D45CCFA405E0"
+				"size" "EE88B1A84B7536DA6D8EA380E5467B35"
+				"download" "3B84E6AD596184F6A7D2DE082E0BBFDD"
+			}
+			"development"
+			{
+				"gid" "6FEDBD52CA2914C20CE82891FCF89005"
+				"size" "4AE2EA5900819797C54EA4DA26937A73"
+				"download" "990E5B9FEF6864FFD4E18FD2EAA45D6D"
+			}
+			"main_development"
+			{
+				"gid" "95670E6BE3D3EE16FD1738E9E0857A18"
+				"size" "058DEFA1305543E46E4B0DDBFD9B9904"
+				"download" "1D6E1D9F9B44D050C451210CAD5095ED"
+			}
+			"milestone"
+			{
+				"gid" "84E078141AC28970FA8DFC2D4BB86FBF"
+				"size" "640E04C870003C59BD7D45B1339C2BCC"
+				"download" "BA0425ED12ADE2AF5F9FBA8BC8749FBB"
+			}
+			"playtest"
+			{
+				"gid" "115BA55D623C79AAC9572EBEB3E0A9C0"
+				"size" "AF1FBB8C2E4670DF3D577332148C9E18"
+				"download" "3F81AB69B9CC3B4ACFAB160A371A15B8"
+			}
+			"release"
+			{
+				"gid" "1DB3BD2915008E082AF9911F24E1AAA2"
+				"size" "10D19EBFAD1E6C2F40ADB7C9A161FACB"
+				"download" "B16D65D2E6913CCD94DDC9C117203519"
+			}
+			"staging"
+			{
+				"gid" "BB221EA29A72E787A67B3A21163C4795"
+				"size" "43D4B7FB6F8EA3558BEF2FBE78578FBB"
+				"download" "B4ACE612771040D1BD4AC0FAFD8ADE76"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "DC538D5F1D12C70BBD05AABCEDCCCA67"
+				"size" "371B6F7E73C4509822D2BB4DA8B0F2CB"
+				"download" "602A2519E60CB6AEA637F0ED8ED5B8C9"
+			}
+		}
+	}
+	"1377040"
+	{
+		"dlcappid" "1377040"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"1386970"
+	{
+		"dlcappid" "1386970"
+		"config"
+		{
+			"language" ""
+		}
+	}
+	"990082"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8531422653198090772"
+				"size" "2387444893"
+				"download" "2290799168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4807C14DD39CAC7355CDFA45C182B888"
+				"size" "B13BD1014406BF106846D1823EAA4D50"
+				"download" "B59F965E3D10D650733B8E267182D2B0"
+			}
+			"ratings"
+			{
+				"gid" "35BC3586457D0C0F7DF6062FC324B485"
+				"size" "D83FCA1E893DF0DA9634BF4CEE25A602"
+				"download" "62074EC3CEA1D5A414BEF771F91283C6"
+			}
+			"beta"
+			{
+				"gid" "02CEA119A0D99B8E62713B08841A82EB"
+				"size" "E380D61B59D53EAE92662012A956A7C6"
+				"download" "ED57E7582BBA988E26588365FF296993"
+			}
+			"branch_development"
+			{
+				"gid" "1E9446D69F8F3939B46176566D780258"
+				"size" "26EB40C7335A78564DAA29EE9B8ED6AA"
+				"download" "0BFD88F57012DBE594D0F111AB2E8937"
+			}
+			"development"
+			{
+				"gid" "63B74532296862B3627F1424598E95DE"
+				"size" "5E51A61A1105E85F2EB73659FAFE2087"
+				"download" "5BCCAE5870034668DE8F4B1E0BAEEB09"
+			}
+			"main_development"
+			{
+				"gid" "E7F78424DB111D13B17AF66D38B57491"
+				"size" "68F4674D9A6A736DB5BF6E118FE0EC79"
+				"download" "FCF77DD7CF3AB3E7441A150D4B3D158F"
+			}
+			"milestone"
+			{
+				"gid" "8C34DDF9F143E934DBFC92EBACBDB764"
+				"size" "8DD81C5F4A05481E1FCA9BB63F0DDAF7"
+				"download" "0DFCEFF34C7C76173665568C9E47AFE5"
+			}
+			"playtest"
+			{
+				"gid" "AA01B16F75C94B15D9CDC050722784F3"
+				"size" "0CAECDE0A9C070E7D8F6DFFCCD78211F"
+				"download" "1597EF19E643E967A62CC0015E2C74F3"
+			}
+			"release"
+			{
+				"gid" "EDE957DCB92454395B0222DC256E46EA"
+				"size" "02AD1B4C87C21813F56FB4EE5A9CDE30"
+				"download" "91C2391A5F868380862C51C449C29C0E"
+			}
+			"staging"
+			{
+				"gid" "3C223354B96B2E683A59D51B758DA982"
+				"size" "3B292D06416E673F1BBDFBCA2ACF5326"
+				"download" "8EF410B52672F8C2B9F17DABA9CF0955"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "BAF20FEF627B8F21667D90185DED46E1"
+				"size" "9AAF68D00498A4919D8AB364A9F041B3"
+				"download" "B66C84683E9B96B0FB450E05E552FDB1"
+			}
+		}
+	}
+	"990083"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "89772845445825722"
+				"size" "2604043674"
+				"download" "2494553696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "1B06886AA3837357D71C64D731883A96"
+				"size" "7AD71176B7362546D4C8F0AB77DFD665"
+				"download" "4698967FE8A4D115896997DE19780DC6"
+			}
+			"ratings"
+			{
+				"gid" "0954C2B12BBBD7E194AB37B800D98935"
+				"size" "6BE670E86142164410DB8433F64DF6E1"
+				"download" "3ADE31E2C0FA2AE8D6EACA482AE77724"
+			}
+			"beta"
+			{
+				"gid" "C4B0E398F3B326010B5561ED75E93CCC"
+				"size" "43BF7B6BABA2EE6577515C7719716FE5"
+				"download" "3E0DE790836C630110C28588A2BE0462"
+			}
+			"branch_development"
+			{
+				"gid" "1E451053C1C0F9F2D680BC07B51BA2C4"
+				"size" "780BBD21E6B9F24828CC492DA1A94D0B"
+				"download" "CFD8F29859BAAC60A43B105A421F9C36"
+			}
+			"development"
+			{
+				"gid" "3BB6F9B9F44ADAACF94ED8A90BB28327"
+				"size" "A918667ED2D06A69A5C5775E2260AE4B"
+				"download" "A39B53116816175CAFC5380D0235A85B"
+			}
+			"main_development"
+			{
+				"gid" "E2A5C47F114C827FF960B56590132AE3"
+				"size" "F202521217D163440EA42A3BAC4CE8AD"
+				"download" "F334F268BCA0F6D70649EA3FAFF0DB27"
+			}
+			"milestone"
+			{
+				"gid" "1E6CFFE651B4B2757CAE798687C1FBCD"
+				"size" "2E08526DDBDCE13028889B10EDDD7234"
+				"download" "A0AEC08CA8BB632AD2D4BCC317CA08CB"
+			}
+			"playtest"
+			{
+				"gid" "19C7D2BD63E0E0A4A2ED8A735FB03930"
+				"size" "221BA0215F97D0F3353C907494FBFC85"
+				"download" "641B1776F76042F0C7F05C3627E41DFD"
+			}
+			"release"
+			{
+				"gid" "85BD17A5A5F700EFB9C0ACEC2B08B059"
+				"size" "F1C4425D5F280A7E72FE2BC4DDD011FD"
+				"download" "EA26D45F40DD4BAAAAF7C66C629382A0"
+			}
+			"staging"
+			{
+				"gid" "C1D98C1A1D521217649275765972012D"
+				"size" "288F9C37529A8AD8A9A9FB3EBB053001"
+				"download" "0B4978C0C933A8901E890F0316BD5640"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "932B84505861F6A801F161AEB4A4F8F9"
+				"size" "69A3D8CB1A56DD63E04371742B1BE26D"
+				"download" "3F1B95EF5D79B0E79E406CB6DC364662"
+			}
+		}
+	}
+	"990084"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8800687371274275755"
+				"size" "2596061826"
+				"download" "2485159632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D022945BE8763F41B759F965EA99EEFD"
+				"size" "7F83A3685E0AA0C92AB6D7A89C9A6490"
+				"download" "F19A6FA4D3A48523C47F024E899E1AD2"
+			}
+			"ratings"
+			{
+				"gid" "47B5DD3F50BB9E5CD28325FA2FB77C4E"
+				"size" "9CC416630EAC95B02855009CE0D4A24C"
+				"download" "7C1DEEC5475AE0908BDAA685469F1279"
+			}
+			"beta"
+			{
+				"gid" "EE062ECAEE3817402DF18136C970D958"
+				"size" "83F5CD00AB26419298FD4E50AC254AEA"
+				"download" "BBB334E629A16E612282A4CB843F74A0"
+			}
+			"branch_development"
+			{
+				"gid" "88865B870B1B21A2FC331EE9E06E55FA"
+				"size" "E07A5FB5967F5BCB959EED17A0CC0E83"
+				"download" "31BEBC1D1F199A1F4290DFD9770433DF"
+			}
+			"development"
+			{
+				"gid" "1AF5CD642D577F0A57B75C6E7300A94B"
+				"size" "2699CDC85D7F356E0B45D56D48890598"
+				"download" "2C41DDF2D40D59B6146108A2E5AF5927"
+			}
+			"main_development"
+			{
+				"gid" "553370B38D881012C2BEC50D626116D2"
+				"size" "A5AA6FDED0770F14FC754302D5C58802"
+				"download" "E32B8B60347FB924FF3EC4B8B0C92D6F"
+			}
+			"milestone"
+			{
+				"gid" "42DF06867C1DD5661F39E9825525F38F"
+				"size" "36CAAAE845AC9B0AD5E8CB1F7FBE8978"
+				"download" "9B452A15D177AC480E5798C15A987B64"
+			}
+			"playtest"
+			{
+				"gid" "F90DE2EE57DE5396841DCE9DFA40A1E6"
+				"size" "7ABC9EBC9B180D645B8C8449E80AE6DE"
+				"download" "267763DE1CCD046BD38E629377236CE7"
+			}
+			"release"
+			{
+				"gid" "A033E1B10507DE7CDC311DB08ECFB015"
+				"size" "4DE0298E1170CB2F66EE31538FFD449B"
+				"download" "1CB3013213E17EE69CB031B7B90CE2BE"
+			}
+			"staging"
+			{
+				"gid" "6C05D4454AF313078059111FDC886FC8"
+				"size" "2AD43D70EFE891E705139C02C1B8F77E"
+				"download" "9F13A5E0B0B47BF97A71FD8568C9FAB4"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "066080C0241D4AE94B5359FED1ADBB14"
+				"size" "A5AF55E66FD06150FC9EAC56E4C7B6EB"
+				"download" "CDFCA96ADFA4B9C2749CD83E46B9F7DD"
+			}
+		}
+	}
+	"990085"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8874137397801291722"
+				"size" "2696435109"
+				"download" "2587234064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F378749DFAB7FADFD618FC79519FD58B"
+				"size" "C448821AE7E6C3B0C1E0D61053AA9FB5"
+				"download" "C6CF47AEB4AD474B3EBA6A31F67E7068"
+			}
+			"ratings"
+			{
+				"gid" "3FA35D3A3AD76F5CB0E5481AB95F45FE"
+				"size" "273808639F2F4630CBDE929BF000337A"
+				"download" "87C0469E7D19C2CD7DD07051984C120E"
+			}
+			"beta"
+			{
+				"gid" "8DA27B8F8A072AD84695F87613EB5262"
+				"size" "8702973884EDB9027B25882D2D3FB5F1"
+				"download" "008522B04371133746BD39227B3302DF"
+			}
+			"branch_development"
+			{
+				"gid" "50BFC9E14EFD308217EC8486CED8D6C8"
+				"size" "8B0C898F4629CAE080A4F712F3665790"
+				"download" "4E8251342D5FA8D5C75744C248AB2DA0"
+			}
+			"development"
+			{
+				"gid" "48A7AD2E00D7573196F0519358479606"
+				"size" "95473F0EDA8AB6832E3C1275D50581CB"
+				"download" "3CB04AACD22E6C78088BD79809E1F89C"
+			}
+			"main_development"
+			{
+				"gid" "BCF4EEA89A439143F7805264E8793972"
+				"size" "8A20FBD1536C561A014F36C501808917"
+				"download" "C3AF567B1149637653EFF40FCECCADD4"
+			}
+			"milestone"
+			{
+				"gid" "19A7B037271ADC42EC4203673A5CF7D1"
+				"size" "F14DCFA6B8188BF341725B12439D26B7"
+				"download" "1F167FCDCAEA12BA4F5FD4D2EB5CC1FF"
+			}
+			"playtest"
+			{
+				"gid" "B77B622B8D76238F3741C8B029766861"
+				"size" "7C03D7C7E4F05BF2573D4F281C3C895A"
+				"download" "D8736A09DCE87ED342CB9623C0ECFA44"
+			}
+			"release"
+			{
+				"gid" "B3BC24D307404B26A521D258375FB943"
+				"size" "BE862154DCC3DF4721ABFCD549B6F908"
+				"download" "19B2D094BC3CA462D2BC59B565CCEBD9"
+			}
+			"staging"
+			{
+				"gid" "31B1DFDB92E805C8DD51833DE94E6A23"
+				"size" "ED3835FA6B6D583A0A275EC110845A14"
+				"download" "CC51E55B8060A65690E1EFEFFE5168FE"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "187B946DED4448CB2D3043C1627776E6"
+				"size" "F58FD2F71DD0CD8AA5712FC1318EBFC0"
+				"download" "9A6B8FDBCB612D76BFC0469552924D84"
+			}
+		}
+	}
+	"990086"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5523403087932183471"
+				"size" "2703373410"
+				"download" "2591832624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "1909EBCF8C0DC283BA43B67A1940121F"
+				"size" "0004702F24424B1839FC180378475A98"
+				"download" "687C8E795E288709EB7B360FA203DE6F"
+			}
+			"ratings"
+			{
+				"gid" "7FCC51915550E3F1F036EFB7A9AAD8D7"
+				"size" "33274518AEF00EE796BCEB2B1F562D83"
+				"download" "A0A58B961A6B76DFA9FE9B9764DA0026"
+			}
+			"beta"
+			{
+				"gid" "0975816F16C3A9701A06471DE456AD2C"
+				"size" "0D94AE0481BE8811EDFAA5E9CFA6E9CC"
+				"download" "36D53974BCA88E71DCF57F02BE58B7B5"
+			}
+			"branch_development"
+			{
+				"gid" "52A3E2F10ECB09F24C9FBF96DD191974"
+				"size" "19A6C7026A904A84303ABE6757222018"
+				"download" "C7448BCCFC9B9D8231F7C0E711554AC9"
+			}
+			"development"
+			{
+				"gid" "661DBFCAAF04C2628DEB797009761A4D"
+				"size" "ECD4F0C1B650E070D3E7053CCD75D942"
+				"download" "444300B176E0E6A7A15F77844EC83955"
+			}
+			"main_development"
+			{
+				"gid" "C287F5EF1AF746C2DA1FE7603D875051"
+				"size" "DBDD13C80656513D04931F9C8B7CAD30"
+				"download" "0A404019FDB1B6993AADA40F15E40433"
+			}
+			"milestone"
+			{
+				"gid" "34FB42F40482FBFCC40626F7051004C0"
+				"size" "1FB30F8A2A543D3AF6AC61B85A72C72F"
+				"download" "A6CB2F70870E2C01086866C0213FAD8E"
+			}
+			"playtest"
+			{
+				"gid" "9BC867495A4E87902C99EAB8D3D0906F"
+				"size" "ECD2C9CBF2300B26D6F1A3EFFB61E736"
+				"download" "21B1E8DE2976E923650B02464C057A5C"
+			}
+			"release"
+			{
+				"gid" "6C9B391DB1805C5434EE39587F6296B1"
+				"size" "FB6FAAD20B2371743145DBB77335C9AA"
+				"download" "CEE3322FEFFC5DFA5BB320A4FB022A31"
+			}
+			"staging"
+			{
+				"gid" "5F1F3970679D25E70B129CCBDC907B2D"
+				"size" "D327CFE2C0A8C4EF6B576DE886734884"
+				"download" "7CC93CF6C50FD2A0DA5AB76F2DA39E41"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "73B9EDECD2412564BD07EFD3E2C9AB5B"
+				"size" "B7AD8DFE3FE240DBFA2B42310AEF7F50"
+				"download" "BFDFA845347E07E34435C3EBE6B89216"
+			}
+		}
+	}
+	"990087"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "890184530098470474"
+				"size" "2685733999"
+				"download" "2571918544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "9C2724066DFDA9157337930C929DCFEA"
+				"size" "FDEE1F3106768DC28A2A25B30D17E524"
+				"download" "A648225906A721A6346A1BEC15A92539"
+			}
+			"ratings"
+			{
+				"gid" "6E75908022D60E49B4DA37228AC5E463"
+				"size" "4347FC868CA35DC27D837B47E5B1EA3A"
+				"download" "F98BCCA11B17A1419DCB03158B52C7D1"
+			}
+			"beta"
+			{
+				"gid" "1E3E4091CCD9EFDA89B122F323090D5D"
+				"size" "61058F8DD100D20334243D1653A22C41"
+				"download" "14721DACB462D0F0159C4D93B9FD782A"
+			}
+			"branch_development"
+			{
+				"gid" "8F47170A76CB0AEBAC234EBAD712D2E4"
+				"size" "3932582D92DBAC04976437CF7472F487"
+				"download" "E79AEDD9734FDA70814763DB4839BEDC"
+			}
+			"development"
+			{
+				"gid" "B09B73D41C9F921B23045502DF75D4DD"
+				"size" "DDEF888F0A64D8FB3730CA300AEF7391"
+				"download" "6677B4A5BC1EF16029A6BF77B920BCA1"
+			}
+			"main_development"
+			{
+				"gid" "F7C58CA90D5E16C40CD22DB7286E4B8D"
+				"size" "65BE2D5F3A5F73A8B0CCB431213C564A"
+				"download" "F52CA9FE15B57DE51B1928EC83910617"
+			}
+			"milestone"
+			{
+				"gid" "7D52B3C693884F3DE35635295DFE4E64"
+				"size" "76B226FEAFFC608C7E6A18D50FE4F6A4"
+				"download" "7753AAF86CFDFDFEBD876F57B278E4A7"
+			}
+			"playtest"
+			{
+				"gid" "ABDAC38E6897D01B4C6F93471F2A71DF"
+				"size" "2E4740B121A878CA35E230B8A0F0A1AB"
+				"download" "4BE1207AC7E491C44F642B23CF3A5DD4"
+			}
+			"release"
+			{
+				"gid" "EB0DAFCAA0A755D3B57F3CE7611D3209"
+				"size" "2322F252526ECCEE3729C3BEEDCF3188"
+				"download" "72D6B2E9DAF74E775979AF70909FF010"
+			}
+			"staging"
+			{
+				"gid" "3B922E907A53202FC108B13E3503A9DB"
+				"size" "E257CA5E627A6F43BF16AE0F760B8DC1"
+				"download" "8C9C1F65A806A8D99A7E54B12719F219"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "3410DCAE428C91960054AE4C9C3BF3B8"
+				"size" "40988F1F30C39574885D349F3D670564"
+				"download" "F3EDA62AFCF9679F5427E58D41AC353B"
+			}
+		}
+	}
+	"990088"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8184017849805092980"
+				"size" "2615339809"
+				"download" "2505518112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "CA9AB3147A3079397190EE2651CD3D80"
+				"size" "1FCCB1D68D202E5CDC2AE439FC6A8C97"
+				"download" "ADC149BC8E2D0C1892D3DC27B7048999"
+			}
+			"ratings"
+			{
+				"gid" "A7A0070469A5EB4204FDBEB28F39E7D9"
+				"size" "A892E199A5A0C45D8E30A752BCFC0E7B"
+				"download" "032B66FAE23466D0C270238A017D659C"
+			}
+			"beta"
+			{
+				"gid" "484208731629186C667B52CFF4D20A9C"
+				"size" "D44894B1B6D1B559B1B6DEB4393CE283"
+				"download" "84B08F42215B37EDDAA89EE23F4E675A"
+			}
+			"branch_development"
+			{
+				"gid" "7718914992AD0437EBCD1EDCF05AE64F"
+				"size" "BAA1D23B401FF6E18D84E55C771E5F96"
+				"download" "F834ACA0ACF4AE0C8454DDD6AA7A7030"
+			}
+			"development"
+			{
+				"gid" "F50AA00E6BDA88827143F851E3714E5B"
+				"size" "E6CB4965219EC7FD28E173A972018FCD"
+				"download" "97A858CF6DC69F55FEFE30AED99D1877"
+			}
+			"main_development"
+			{
+				"gid" "FB37F7BCF2D7EA19DDC0B41ABF9539BF"
+				"size" "CAFA94A951517F02DB1F81DE6FC41CB8"
+				"download" "EAFEBAC2229E30F7A4EB5F4E063289D7"
+			}
+			"milestone"
+			{
+				"gid" "398A055F77960AD329204551E47BC1DF"
+				"size" "D0371616A5183E582D4B6414DED83A1D"
+				"download" "0E10866BD307FDA6BE8E1A72D802A019"
+			}
+			"playtest"
+			{
+				"gid" "26FAECF366E3874302C614D5757F445C"
+				"size" "FDBB51CD19A225BD5711B9D187BC7E34"
+				"download" "05F1DBA1FC99A30174E0E317B48F7AFB"
+			}
+			"release"
+			{
+				"gid" "940AE642F9EDEFBB9383F8E16D047478"
+				"size" "846F41162F97EE0EDBF94DBC19C5CD01"
+				"download" "9C2CEECC433D22B795E528A11948DBF7"
+			}
+			"staging"
+			{
+				"gid" "75049C653175937DC2141F8A7CD0F9FB"
+				"size" "A9D8DC15C8079C759071ADB1876D1904"
+				"download" "9A4E97A12CFFA69F818A665586D26D16"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "1AC8D2E0D88DDFB08D1B554EE2B159F5"
+				"size" "ECADB1DAA6E8B57E063E0AB78914DDAF"
+				"download" "970FB0B4FF4313F6DE4979F396CF865C"
+			}
+		}
+	}
+	"990089"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6673026734034950114"
+				"size" "2572015009"
+				"download" "2461936240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "9C280A8ED0C74CAEDCD57FDAC9C2B615"
+				"size" "6717EBA2C189065B6BEB5DA2587F866F"
+				"download" "7804DAD385DD74C75638D17475C4C118"
+			}
+			"ratings"
+			{
+				"gid" "EDA8A5FFC130BE2348A4241412C19781"
+				"size" "C377ADCCDC8A59B4EE5DCB6A85FEEDAD"
+				"download" "E575681B839DE2EBAD5650EFB0290AF4"
+			}
+			"beta"
+			{
+				"gid" "ECF21B32239B84ECD67260D1DC2B1722"
+				"size" "9D179A10B5DE30C11982C97258CDA1B5"
+				"download" "1429211FB434F97571ABC4AF0F1B5437"
+			}
+			"branch_development"
+			{
+				"gid" "7341018309D5B52765C59C254AB79078"
+				"size" "1A0A2FD97A9203AB6B2F59DBF9BCA0BD"
+				"download" "1F69C46C84B32AA5B72A58CC9FAEB0DE"
+			}
+			"development"
+			{
+				"gid" "B5FCDAC7CCEC7281A566289F4C99936E"
+				"size" "45A9C224B7BD3D01248F5056D717FF85"
+				"download" "8BC1A3E03027E55177C80FBA14FA2A46"
+			}
+			"main_development"
+			{
+				"gid" "D984E9C59333DA3079DF4D96ECB92B6F"
+				"size" "FD40481FD279473AFE6CD35F23259066"
+				"download" "74FBD32684DBB5353BE8E578D17FB4EF"
+			}
+			"milestone"
+			{
+				"gid" "3D4358B58EED019E295B5094114FC43D"
+				"size" "9122A92DB82347044425310BD3CF235B"
+				"download" "CFB762ECE7BCC4FABEB259EC54771633"
+			}
+			"playtest"
+			{
+				"gid" "5AF25488B5C4A4D7D7219720BF689061"
+				"size" "318165DC86460665B9E7CC9FA02E408F"
+				"download" "459E0BE188CB4F79652340B981445480"
+			}
+			"release"
+			{
+				"gid" "632AFDB8B98CCA27F7D04C0839FFF656"
+				"size" "BC180F0BE9CAE2D1BAA44860350D4035"
+				"download" "DFDBF0F88C2AEBC7B2F8488A359F8BC4"
+			}
+			"staging"
+			{
+				"gid" "7476AFAEED9FF139F14F5FCDEC0DC6DE"
+				"size" "33634980455F50C8A269E109A6B40011"
+				"download" "A50BF3A9617F2414992806F301F1C3DB"
+			}
+			"steamdeck_beta"
+			{
+				"gid" "5C9BB32C5A385E13F8A5C4A4FD4DEFD3"
+				"size" "7E4A966C6D5CBDCF343930E2A292E839"
+				"download" "EE527CF98C3138F4641A262E8A3BF1DA"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15069070"
+			"timeupdated" "1721926837"
+		}
+		"alpha"
+		{
+			"buildid" "7688194"
+			"pwdrequired" "1"
+			"timeupdated" "1636756392"
+		}
+		"ratings"
+		{
+			"buildid" "10003896"
+			"pwdrequired" "1"
+			"timeupdated" "1669656048"
+		}
+		"beta"
+		{
+			"buildid" "16823439"
+			"pwdrequired" "1"
+			"timeupdated" "1734781159"
+		}
+		"branch_development"
+		{
+			"buildid" "16816410"
+			"pwdrequired" "1"
+			"timeupdated" "1734711565"
+		}
+		"development"
+		{
+			"buildid" "16844121"
+			"pwdrequired" "1"
+			"timeupdated" "1735057244"
+		}
+		"main_development"
+		{
+			"buildid" "16824779"
+			"pwdrequired" "1"
+			"timeupdated" "1734800529"
+		}
+		"milestone"
+		{
+			"buildid" "16601958"
+			"pwdrequired" "1"
+			"timeupdated" "1733158995"
+		}
+		"playtest"
+		{
+			"buildid" "16343436"
+			"pwdrequired" "1"
+			"timeupdated" "1731340389"
+		}
+		"release"
+		{
+			"buildid" "16562916"
+			"pwdrequired" "1"
+			"timeupdated" "1732807826"
+		}
+		"staging"
+		{
+			"buildid" "16816147"
+			"pwdrequired" "1"
+			"timeupdated" "1734710031"
+		}
+		"steamdeck_beta"
+		{
+			"buildid" "14413787"
+			"pwdrequired" "1"
+			"timeupdated" "1717770010"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"9"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Hogwarts Legacy/Saved/SaveGames/{Steam3AccountID}"
+			"pattern" "*.sav"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Hogwarts Legacy/Saved/Config/WindowsNoEditor"
+			"pattern" "Input.ini"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26774614"
+"_sha" "8d2d0315a20b524b9bf7ff7aacf31f1a9a084ee6"
+"_size" "35808"

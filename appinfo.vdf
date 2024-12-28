@@ -1,0 +1,1123 @@
+"appid" "1498570"
+"common"
+{
+	"name" "THE KING OF FIGHTERS XV"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"logo" "67ed2145febcc0ff37df6fed97f788b21e893eab"
+	"logo_small" "67ed2145febcc0ff37df6fed97f788b21e893eab_thumb"
+	"icon" "66b75e0a9bb33320565802f743f18a62fe25396b"
+	"clienttga" "707ad4da9e341ac0193e2e95aa6fd61a498f6bfc"
+	"clienticon" "ca0ee481c6d0e3c0a0d1429dc99fcebabe2a3ecb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1498570_eula_0"
+			"name" "THE KING OF FIGHTERS XV EULA"
+			"url" "https://store.steampowered.com//eula/1498570_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1653004800"
+		"tested_build_id" "8746705"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The King of Fighters XV"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "74.53488372093025"
+			"height_pct" "85.71598195203038"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "74.53488372093025"
+				"height_pct" "85.71598195203038"
+			}
+		}
+	}
+	"store_asset_mtime" "1642148122"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SNK CORPORATION"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SNK CORPORATION"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "THE KING OF FIGHTERS"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_23" "1"
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1645084740"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-king-of-fighters-xv\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1498570"
+	"store_tags"
+	{
+		"0" "4736"
+		"1" "1743"
+		"2" "19"
+		"3" "1775"
+		"4" "3859"
+		"5" "4191"
+		"6" "4182"
+		"7" "4085"
+		"8" "1773"
+		"9" "3878"
+		"10" "1756"
+		"11" "12095"
+		"12" "4975"
+		"13" "7368"
+		"14" "7208"
+		"15" "6650"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"absolutemousecoordinates" "1"
+	"remoteplaytogethertestingbranches" "debug,qa_debug,remotecheck"
+	"remoteplaycursorscale" "2.0"
+	"developer" "SNK CORPORATION"
+	"publisher" "SNK CORPORATION"
+	"homepage" "https://www.snk-corp.co.jp/us/games/kof-xv/"
+	"listofdlc" "1835740,1835741,1835750,1835751,1839450,2005310,2005311,2101210,2193910,2193911,2302800,2351530,2428540,2507300,2574580,3253320"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "THE KING OF FIGHTERS XV"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "KOFXV_Steam.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65520"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian,latam"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229000"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1498571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8689622201147451792"
+				"size" "52132776425"
+				"download" "48588795984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "4D267BC2772403333792F922CD23BBA9"
+				"size" "05D180C052454D6D7667A4C82E6FFBEA"
+				"download" "924E609BA14CB39F99593E23E4C05104"
+			}
+			"qa_debug_02"
+			{
+				"gid" "E9D5FE9FAA3BFF1E5CAE97AE2ED2898D"
+				"size" "0AA9A4CB579A101EFEFDB8A0CBABDD89"
+				"download" "2AFB7BF49003E14D3828B1D2FA66E8A8"
+			}
+			"review_2.20"
+			{
+				"gid" "C4B5FF1936020961FACDEE1AC894BCE8"
+				"size" "282D871C555B8EB3027131D02B25DD43"
+				"download" "57240CD853750774C84EFF1FE4C2D3B7"
+			}
+			"main"
+			{
+				"gid" "35FBAA3E2F5DEF21DA06981AB8BD7CD4"
+				"size" "7652B9400B1F2111D377A3AE1623BDF7"
+				"download" "89F945AE45DAAC19779ABA01AA03849C"
+			}
+			"qa_debug"
+			{
+				"gid" "3226C44C810960995CA16F92B23D5C53"
+				"size" "D2E8B0E15443B21B28CDA8543DA6F37A"
+				"download" "A392BE0A5F8D2FEE543B52543B962568"
+			}
+		}
+	}
+	"1835740"
+	{
+		"dlcappid" "1835740"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5641671009723606793"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "D4B2D2D32B150CE40A63C4EAFA1D439A"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "D09FE232223F560D577262D1C2BBE9D5"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "1D670AD3E237B47432D5B6F3206AAD8D"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "844129DCECDD6B0A127B63559D44A28B"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "86335543F447B9A48DAC8B2C6FACD317"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"1835741"
+	{
+		"dlcappid" "1835741"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6932933056072794967"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "8804CC01AA46DD046E025782F5DEE571"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "7E32A3A5BCF178626052FACB4C9AF416"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "41E1583EF734A3D2155D9C258E42105C"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "E2BA7A4818BE7B7BC25CA5D5EC9FCBB6"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "5433C163A1342D66BE74F5738596FD64"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"1835751"
+	{
+		"dlcappid" "1835751"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4456296354678155327"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "EED06E66EB4BBD0F0772A0A15CEEC47A"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "0BFB305DC59B66D5AB72698661352BD3"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "FE4BB6D9D9EBB66B9DB2BC28FD7191D1"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "5181314F4E3CB89FEDDE56A4E889BC1A"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "E1503ED544309E09D96CE8EBFC0F418C"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"1835750"
+	{
+		"dlcappid" "1835750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4948707711134307510"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "2184B4EB1C9D93EBD839BEE8D75CAD7F"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "86A57EE5865C1AE8A61014394C5181CD"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "3287B3D0A08B3AF4823F5C1243382E7C"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "5D6F3ECB82D5C6AC2A2B00E2B0C9A78D"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "3894D3F9D0DA5DEB1168F6D3C9D84C13"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"1839450"
+	{
+		"dlcappid" "1839450"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8488089317892685381"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "4BB00EC9AB9DBAB7B8B3E0AD756A1167"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "23BB24689A9D5EE1E01B4E1B446DA11A"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "CEF052E4D4ADBF26AAD868635AE6C729"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "3C573C0F03F36CEE31747D8D412DC603"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "B44282368A7BF37DE9D9B1E6CE1A8583"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2005310"
+	{
+		"dlcappid" "2005310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9221810974797287711"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "284D1220AFF77EDE84E7EA25308472D1"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "13F5AD97B471B8EBD2777BC6946A6335"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "BEFF0978C125595F4C5F761571D1CF41"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "4F78F2B767704163B045985748673E03"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "C447B42D60ED9C62608FA63A78E8F88D"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2005311"
+	{
+		"dlcappid" "2005311"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8948454583586901447"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "B6DE7EF45BA1281DB47FD169A28AC189"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "A1B3EFB0FDFE723E348D7D9A897ACDEF"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "FEEFFCF3D541683F5249E65A2EDEA958"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "1DBDC96D7E8B8A99F39841557657D59E"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "ED0F03EA5D4F88CDB177372690709B4C"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2101210"
+	{
+		"dlcappid" "2101210"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9083339335875490533"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "D856CB62D186B213939649BB464221CD"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"qa_debug_02"
+			{
+				"gid" "0175F2C7C3540BC4A8BD397375E0D20B"
+				"size" "249063D7EC1BAE6DD1CED154F2626D79"
+				"download" "CE2B7A4CC9BBE94782956D955B3DC7DD"
+			}
+			"review_2.20"
+			{
+				"gid" "77F33EE9AE6DF02A1DE7E6F7D0C0EFC1"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "442BE9F185AE00F933852591DDE04116"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "0DD2493ACDF09C49FC95E0836DA99790"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2193910"
+	{
+		"dlcappid" "2193910"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9211877908464552928"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "63471ED91345615FBEB176878B6C1440"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"review_2.20"
+			{
+				"gid" "9D4308935D0E0022005DFE465B701B22"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "87BBA2059563E7EFD191DF497129C73B"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "FE399660737F94837243F8ADB99B0563"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2193911"
+	{
+		"dlcappid" "2193911"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9212723267824047356"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "B34B3A096482274F4353C29153D3C8DC"
+				"size" "E52E881A4555B447F1245C9DCCEA4ED6"
+				"download" "A9A3D4E9B177F246E58CB9AB4FC5DA20"
+			}
+			"review_2.20"
+			{
+				"gid" "6E060A9D8A44FE94CBF3576636E27577"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "21E2371AC3B481F1183B8D5F9166782E"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "2D1F4B14DA241C1B31D90DC8483F6141"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2302800"
+	{
+		"dlcappid" "2302800"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9197399049446375795"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"review_2.20"
+			{
+				"gid" "8E344A37AB7B04B5FE9D49B6377E6DBE"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "48088CAADDCCAA09C790FA5E7A59C606"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "C351CDAD9447580C0228D10882252FF1"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2351530"
+	{
+		"dlcappid" "2351530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9066134640191549475"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"review_2.20"
+			{
+				"gid" "049F2B0684CDAB16530C0819266FE0FA"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "E10392F88DCE17BE4FFCC85D2C15168D"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "6B196FB59146AA7FBFB03B0C28704429"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2428540"
+	{
+		"dlcappid" "2428540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9130861549258612947"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"review_2.20"
+			{
+				"gid" "336E4E7C542C0AB4486F759E5143C5D8"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "C468EA712CE4C4C928A7EC04AC7B948B"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "9B150EF196595D84441BB73C29DDFE69"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2507300"
+	{
+		"dlcappid" "2507300"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9039017923140295814"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"review_2.20"
+			{
+				"gid" "15D62CF707AB5760E6182AD15C26ACE2"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "1CD21FBCD5FAB8232B1B90A741F42D75"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "945FD37EF25CB92828EC653B910C9D87"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"2574580"
+	{
+		"dlcappid" "2574580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9173661543920999306"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"review_2.20"
+			{
+				"gid" "CCC96AE063C5730F553CF425DCE93D3C"
+				"size" "32BCF9F37A58227484BCF6854E085F67"
+				"download" "B39F7EEE77CC6ED03CB939D568531614"
+			}
+			"main"
+			{
+				"gid" "60DFD5DD7FD29FE00BCE3DBF629740D7"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "A1BDB7079801290A9ADFD6B6D073117A"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"3253320"
+	{
+		"dlcappid" "3253320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1011525499009414992"
+				"size" "8"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"main"
+			{
+				"gid" "23160F4DA872AB9AD9809C755C477F80"
+				"size" "5E30B942BD3328A28AD079E0F5FCF2E6"
+				"download" "50891CC063F6411225AECFF35A70E9A5"
+			}
+			"qa_debug"
+			{
+				"gid" "1743756CBB775A029D9E22DCAFAD84F9"
+				"size" "79BAF73A817431753CC1F261A661C33B"
+				"download" "4CD600353B61C4953010635506B08AEC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16572902"
+			"timeupdated" "1733990400"
+		}
+		"debug"
+		{
+			"buildid" "10292605"
+			"pwdrequired" "1"
+			"timeupdated" "1673834125"
+		}
+		"qa_debug_02"
+		{
+			"buildid" "9786636"
+			"pwdrequired" "1"
+			"timeupdated" "1666657081"
+		}
+		"review_2.20"
+		{
+			"buildid" "12412404"
+			"pwdrequired" "1"
+			"timeupdated" "1697019768"
+		}
+		"main"
+		{
+			"buildid" "16572902"
+			"pwdrequired" "1"
+			"timeupdated" "1732841548"
+		}
+		"qa_debug"
+		{
+			"buildid" "16582620"
+			"pwdrequired" "1"
+			"timeupdated" "1732905657"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "125829120"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "KOFXV\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "KOFXV\\Saved\\SaveGames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26758794"
+"_sha" "1bf5f37aaec03047042d1c474791e0d44828022c"
+"_size" "23285"

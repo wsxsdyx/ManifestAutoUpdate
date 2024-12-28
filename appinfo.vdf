@@ -1,0 +1,585 @@
+"appid" "605740"
+"common"
+{
+	"name" "Flashing Lights"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "7bd24a0e6e3f27205de1a575cc32c85662d60ca8"
+	"logo_small" "7bd24a0e6e3f27205de1a575cc32c85662d60ca8_thumb"
+	"icon" "b6306adcac895a9e69bd6b6217b37fa3fccb9ee4"
+	"clienticon" "1ce73a811e979da4e08ebaabf15e6139e828262f"
+	"clienttga" "508fd21600e7d0937ce1220c400e839fa5e64035"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"name_localized"
+	{
+		"schinese" "Flashing Lights - 警情，消防，急救"
+		"tchinese" "Flashing Lights - 警情，消防，急救"
+		"german" "Flashing Lights - Polizei, Feuerwehr, Rettungsdienst-Simulator"
+		"japanese" "Flashing Lights - 警察，消防，救急業務シミュレーター"
+		"russian" "Flashing Lights - Полиция，Пожарные，Симулятор экстренных служб"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1645833600"
+		"tested_build_id" "8088658"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Flashing Lights"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "6d83cf853791539015c3d1b8e6787197b3f1041d/capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1724834838"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Nils Jakrins"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Excalibur Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Excalibur Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "3"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"latvian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1684169964"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "605740"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1644"
+		"2" "599"
+		"3" "1100687"
+		"4" "3968"
+		"5" "1774"
+		"6" "6378"
+		"7" "1695"
+		"8" "4175"
+		"9" "3814"
+		"10" "5363"
+		"11" "122"
+		"12" "3810"
+		"13" "1697"
+		"14" "3859"
+		"15" "3834"
+		"16" "1663"
+		"17" "13190"
+		"18" "128"
+		"19" "19"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Nils Jakrins"
+	"publisher" "Excalibur Games"
+	"homepage" "http://www.excalibur-games.com"
+	"listofdlc" "2449260,2649400,2649410,2649420,2649430,3051230"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Flashing Lights"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "flashinglights.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "flashinglights.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"605741"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1884521484394615802"
+				"size" "3527478328"
+				"download" "1808219232"
+			}
+			"old_map"
+			{
+				"gid" "8772036907362442765"
+				"size" "7562183346"
+				"download" "2276267856"
+			}
+			"unstable_test_branch"
+			{
+				"gid" "1884521484394615802"
+				"size" "3527478328"
+				"download" "1808219232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"crashfixtest"
+			{
+				"gid" "CCA8EEDB83539ADC0322F0180A4320E0"
+				"size" "1431FD573AA1834A6D0E398C2B13DC9A"
+				"download" "0DC5C02BC99BBB100801FF50E0B5CCB1"
+			}
+			"map2.0"
+			{
+				"gid" "448A1492B47948ADC49CD7C7718A6648"
+				"size" "51B86AF64C27305BCBB941C7BE8C9954"
+				"download" "1E32CC25771F3AAD7CEE8C594359A16F"
+			}
+			"public_patch_test"
+			{
+				"gid" "327C683A67ECE0E341FBF051AF217FDC"
+				"size" "C4A468DD811EE2DB5E203AA97C66832B"
+				"download" "97E2F3F7790E5EA9F27A86FBB89849B6"
+			}
+			"testify"
+			{
+				"gid" "F69FE06EDEC2B16F6CBB75C066C7FFA4"
+				"size" "BA08C5A719167C1D02AEBF42AAF67BE9"
+				"download" "1A4E936567781DACCE36D47A8BA24C9B"
+			}
+			"customer_testing"
+			{
+				"gid" "ED10947A9D608AC3388B0EF5CBA19822"
+				"size" "BAE531ABE83B148B3D7C66CB76402989"
+				"download" "3F8F12F7DF45BACE7700E22FD89E39C3"
+			}
+			"dev_testing"
+			{
+				"gid" "019C944013102BB1BD94BD8B71376FCB"
+				"size" "21D349971BB4DD09B52F7DCECEC6F68F"
+				"download" "D9DDA25B884A69DE00ED2A65FA45A83C"
+			}
+			"internal_testing"
+			{
+				"gid" "9F765019AC3F30015F9EAE698FD6C694"
+				"size" "502F622AE7477050864B9BC30E325A24"
+				"download" "CD01E775DC14C55ED64B71C39966259B"
+			}
+		}
+	}
+	"605742"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4936653853769337281"
+				"size" "3573517652"
+				"download" "1816596688"
+			}
+			"old_map"
+			{
+				"gid" "3370068569719073531"
+				"size" "7575607984"
+				"download" "2281591728"
+			}
+			"unstable_test_branch"
+			{
+				"gid" "4936653853769337281"
+				"size" "3573517652"
+				"download" "1816596688"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"crashfixtest"
+			{
+				"gid" "BC05E9EA13DAA4546DB62DD107FB7557"
+				"size" "01541A7326E257940DBF338645BB50B0"
+				"download" "29DE1D69314A464B5F3458799EBD0FA3"
+			}
+			"map2.0"
+			{
+				"gid" "E8314205E7DDB8E2F3AE8D93D260523C"
+				"size" "B620922FC2212135EC6DC37B76608FCB"
+				"download" "733673EF760C79177681ACD2B960F07D"
+			}
+			"public_patch_test"
+			{
+				"gid" "10BCEEECAB7431FBF7EDF3E5C9C06C72"
+				"size" "B70C254247020B34D3368284896D3AC2"
+				"download" "0AE141D080B378FDF4E632434DE005DC"
+			}
+			"testify"
+			{
+				"gid" "5DEFF253522515E66E1451C1FD3958D3"
+				"size" "E56B03EE1E74E8AB95606A455A2C03E4"
+				"download" "E9A4CD14D76BA0B37B39D57EA3EB1B59"
+			}
+			"customer_testing"
+			{
+				"gid" "D30599D7E27F4D2374AA3F7BA3D27B28"
+				"size" "BCA847E3298ECBF5AE68F6BEE80B57ED"
+				"download" "E8799717BC4CB91C6B12117C65C8BCD9"
+			}
+			"dev_testing"
+			{
+				"gid" "31BB1B5CC0D644359CB094B402EC64B9"
+				"size" "4C0A4F67694C0F76B2668BA0B309C16A"
+				"download" "75363448228E132783D78DB350095EA6"
+			}
+			"internal_testing"
+			{
+				"gid" "1E8315EE75609B65CB04E23B43587C1B"
+				"size" "57C8F320E13137DFA636C2847F9AA3E0"
+				"download" "EF47C7A3E9F9AB459E5F45500DAFF68F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16721774"
+			"timeupdated" "1734447711"
+		}
+		"crashfixtest"
+		{
+			"buildid" "10728333"
+			"pwdrequired" "1"
+			"timeupdated" "1678361267"
+		}
+		"map2.0"
+		{
+			"buildid" "7764733"
+			"pwdrequired" "1"
+			"timeupdated" "1637769410"
+		}
+		"old_map"
+		{
+			"buildid" "7095580"
+			"description" "Branch which has the old map"
+			"timeupdated" "1637672687"
+		}
+		"public_patch_test"
+		{
+			"buildid" "12751312"
+			"pwdrequired" "1"
+			"timeupdated" "1700582259"
+		}
+		"testify"
+		{
+			"buildid" "10728333"
+			"pwdrequired" "1"
+			"timeupdated" "1678361291"
+		}
+		"customer_testing"
+		{
+			"buildid" "15123194"
+			"pwdrequired" "1"
+			"timeupdated" "1721729831"
+		}
+		"dev_testing"
+		{
+			"buildid" "14976475"
+			"pwdrequired" "1"
+			"timeupdated" "1720527566"
+		}
+		"internal_testing"
+		{
+			"buildid" "16721774"
+			"pwdrequired" "1"
+			"timeupdated" "1734009642"
+		}
+		"unstable_test_branch"
+		{
+			"buildid" "16721774"
+			"description" "for unstable test builds"
+			"timeupdated" "1734015621"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NilsJakrins\\FlashingLights"
+			"pattern" "*.save1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NilsJakrins\\FlashingLights"
+			"pattern" "*.bac"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "NilsJakrins\\FlashingLights"
+			"pattern" "*.mission"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "NilsJakrins\\FlashingLights"
+					"replace" "NilsJakrins\\flashinglights"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26679704"
+"_sha" "a1ed015162d3b4afd129bc848f9ada19b06a0c48"
+"_size" "11104"

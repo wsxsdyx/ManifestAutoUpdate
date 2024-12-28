@@ -1,0 +1,421 @@
+"appid" "666150"
+"common"
+{
+	"name" "Prehistoric Kingdom"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "9f852a12a0566e1cc353f484aec260bee98bf51b"
+	"clienttga" "16b150f7c367132a84d333cc442fc1c3239188a3"
+	"icon" "a847533e91166400a638e53fb563ba09d18eba5c"
+	"logo" "dfb770ceedac2dddacbc74b0e48e07adbde51962"
+	"logo_small" "dfb770ceedac2dddacbc74b0e48e07adbde51962_thumb"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663286400"
+		"tested_build_id" "8966224"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Prehistoric Kingdom"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.681446907817964"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.681446907817964"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734923722"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Blue Meridian"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crytivo"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Crytivo"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1651078822"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "666150"
+	"store_tags"
+	{
+		"0" "5160"
+		"1" "599"
+		"2" "12472"
+		"3" "3810"
+		"4" "1643"
+		"5" "4182"
+		"6" "9"
+		"7" "8945"
+		"8" "4191"
+		"9" "4166"
+		"10" "4695"
+		"11" "1036"
+		"12" "493"
+		"13" "5300"
+		"14" "3942"
+		"15" "4364"
+		"16" "5794"
+		"17" "492"
+		"18" "1676"
+		"19" "21"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Blue Meridian"
+	"publisher" "Crytivo"
+	"homepage" "http://prehistorickingdom.com/"
+	"listofdlc" "2562770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Prehistoric Kingdom"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Prehistoric Kingdom.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,spanish,schinese,russian,portuguese"
+	"workshopdepot" "666150"
+	"hasdepotsindlc" "1"
+	"666151"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8532589582990197254"
+				"size" "14500979484"
+				"download" "8419848224"
+			}
+			"ptb_public_testing"
+			{
+				"gid" "6041931796474147980"
+				"size" "14495598405"
+				"download" "8414251888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"pax_2019"
+			{
+				"gid" "155027335AA343570B979A8D20914197"
+				"size" "5443C7D6CB9C8E91D10764E683AB6F44"
+				"download" "DA3BC1C3F0122A29624C2E83F5A40A5A"
+			}
+			"content_creator"
+			{
+				"gid" "BE9E5D461867AA5EC972F8DBA38D31AB"
+				"size" "A5BD7F56C8D4EBEEA0B5FD438375DC15"
+				"download" "1A8F3B47711957EDC98805B6C4580D9B"
+			}
+			"crytivo"
+			{
+				"gid" "401D8E11C65BBEF43CAEC3B6AA85AD1D"
+				"size" "2674CDD8B33478A3A6DFAA37803241AA"
+				"download" "13A51EE9A70717498D2BF6EFCD43F966"
+			}
+			"development"
+			{
+				"gid" "1058B7640C44F06938F8FB9CB08066C2"
+				"size" "ABDCD20D0EDAA652929340E198F98CB6"
+				"download" "852024127BAE9C158E501E72D51900CC"
+			}
+			"development_dev"
+			{
+				"gid" "570E1D289DB094925D9A5AA37A4AE64D"
+				"size" "0D20DA8443D27EEFEBA0C715A7816E41"
+				"download" "A9982A2E9A1F3050EADB2243A1A6EF4C"
+			}
+			"development_release"
+			{
+				"gid" "90EDCE2E7188EE1C6B1ABFEEF4CD4432"
+				"size" "182965F604099DADECA8863C83DD3F2C"
+				"download" "3729D456D98C951392C65C5265D70E08"
+			}
+			"qa_testing_dev"
+			{
+				"gid" "34DC73D33C8078F3E34FAACFCDECE601"
+				"size" "CE52DCD8DC419445CCE83D82E29373BD"
+				"download" "71D50DF596FB9E15919CF26859ECAC8C"
+			}
+			"qa_testing_release"
+			{
+				"gid" "09E96E52A481035A2684D213D8194E4F"
+				"size" "3B817F5E21AB88FE50E9594A754C88CD"
+				"download" "8F8392B3B685AC156E6830FF68E016EC"
+			}
+		}
+	}
+	"2562771"
+	{
+		"dlcappid" "2562770"
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16825105"
+			"timeupdated" "1734810762"
+		}
+		"pax_2019"
+		{
+			"buildid" "4153262"
+			"pwdrequired" "1"
+			"timeupdated" "1657275173"
+		}
+		"content_creator"
+		{
+			"buildid" "16570215"
+			"pwdrequired" "1"
+			"timeupdated" "1732906867"
+		}
+		"crytivo"
+		{
+			"buildid" "16333224"
+			"pwdrequired" "1"
+			"timeupdated" "1731017651"
+		}
+		"development"
+		{
+			"buildid" "16825105"
+			"pwdrequired" "1"
+			"timeupdated" "1734806250"
+		}
+		"development_dev"
+		{
+			"buildid" "16291665"
+			"pwdrequired" "1"
+			"timeupdated" "1730749202"
+		}
+		"development_release"
+		{
+			"buildid" "16825105"
+			"pwdrequired" "1"
+			"timeupdated" "1734806267"
+		}
+		"ptb_public_testing"
+		{
+			"buildid" "16820480"
+			"description" "Public Testing Branch for upcoming releases"
+			"timeupdated" "1734741136"
+		}
+		"qa_testing_dev"
+		{
+			"buildid" "16291665"
+			"pwdrequired" "1"
+			"timeupdated" "1730749214"
+		}
+		"qa_testing_release"
+		{
+			"buildid" "16825105"
+			"pwdrequired" "1"
+			"timeupdated" "1734806278"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "26769995"
+"_sha" "61eb5a23896f617259ec4d12e40d473942dd95f0"
+"_size" "8089"

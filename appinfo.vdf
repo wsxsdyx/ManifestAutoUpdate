@@ -1,0 +1,180 @@
+"appid" "361580"
+"common"
+{
+	"name" "Wreckfest Dedicated Server"
+	"type" "Tool"
+	"parent" "228380"
+	"logo" "13f6074af0fee36a42410a9bee71443b0db5486b"
+	"logo_small" "13f6074af0fee36a42410a9bee71443b0db5486b_thumb"
+	"icon" "2c93b44a991870cff51b8f77096969201771d2e9"
+	"clienttga" "d1f643e4867de974d5e4dde253ce5159f133986e"
+	"clienticon" "ee8be8f5d1185588eb91dabead08fc20071fa02a"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "361580_eula_0"
+			"name" "Wreckfest Dedicated Server EULA"
+			"url" "https://store.steampowered.com//eula/361580_eula_0"
+		}
+	}
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "361580"
+}
+"extended"
+{
+	"gamedir" "wreckfest"
+	"serverbrowsername" "Wreckfest"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Wreckfest Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_server.bat"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"361581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "487758712969272554"
+				"size" "5980263063"
+				"download" "5305048432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bbtest"
+			{
+				"gid" "1D2790B80DD8446DAD892B853A661723"
+				"size" "F83F48E9D953BF5C816006F30922F819"
+				"download" "BFA89021933107F0F69B69B055E0A294"
+			}
+			"developer"
+			{
+				"gid" "C0E5F0B76A3197BD9FE9FD7436D1EC4B"
+				"size" "2116350B0E76D5FBF17AFA9A3A350D7B"
+				"download" "83E3102ADD8B4F58CA6D72AFAA2CAA48"
+			}
+			"qatest"
+			{
+				"gid" "1E98158ACD81030A1B7A5E2CAE08F322"
+				"size" "3945F0066C40AE53D319AC036EDB2360"
+				"download" "33A8A7B39FB357DEEB3FB3EAAF0DCAD0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13773514"
+			"timeupdated" "1735061651"
+		}
+		"bbtest"
+		{
+			"buildid" "9062466"
+			"pwdrequired" "1"
+			"timeupdated" "1657011983"
+		}
+		"developer"
+		{
+			"buildid" "16454649"
+			"pwdrequired" "1"
+			"timeupdated" "1731998637"
+		}
+		"qatest"
+		{
+			"buildid" "16780152"
+			"pwdrequired" "1"
+			"timeupdated" "1734482198"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26775064"
+"_sha" "116545c128b8da57eafe6e5cc88459f7f41fe5f1"
+"_size" "2986"

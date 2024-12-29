@@ -1,0 +1,298 @@
+"appid" "1670340"
+"common"
+{
+	"name" "Craftopia Dedicated Server"
+	"type" "Tool"
+	"parent" "1307550"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "286820a18f6f348343a3767cf79dda5544325180"
+	"logo_small" "286820a18f6f348343a3767cf79dda5544325180_thumb"
+	"icon" "51d2ce598e11bb589644d746f674f73e53a22eab"
+	"clienticon" "b6eabc569cbd4aef7355abca16037d5c20b0f755"
+	"clienttga" "0a13b8ab342e36699b198f01b24fbadd8e43ea70"
+	"releasestate" "released"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "1670340"
+}
+"config"
+{
+	"installdir" "CraftopiaDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Craftopia.exe"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Craftopia.x86_64"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1670341"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4780218944747247309"
+				"size" "30926622200"
+				"download" "20119653728"
+			}
+			"alpha-unstable-edge"
+			{
+				"gid" "5075740589620391959"
+				"size" "3210344946"
+				"download" "1247557728"
+			}
+			"alpha-unstable"
+			{
+				"gid" "4780218944747247309"
+				"size" "30926622200"
+				"download" "20119653728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_test"
+			{
+				"gid" "4788F8CBF88F379CB5371318428ADF35"
+				"size" "91F382AC3E54026DCF934A92790E898E"
+				"download" "C79C98E729B5EA047DDF0E28B30F20FA"
+			}
+			"private_dev"
+			{
+				"gid" "E7954A281BB7500E14AD54C06199F3AF"
+				"size" "CF018D36D7ED730AE742CFDBEEEFAF50"
+				"download" "1D13AF6BEBDE9B5A843C33D76FC00032"
+			}
+			"private_net"
+			{
+				"gid" "85A8F9D74FBE850EC4B696FB020F3525"
+				"size" "B0C1EFED2C24B3BA93B26BD5AA21194D"
+				"download" "8980DCC3D08AD370C5F1CD864CDF1B8B"
+			}
+			"private_ow"
+			{
+				"gid" "EC75703E11C543532ED8E9ED2962F6EC"
+				"size" "913F80E4AB87E7F9142E6EC01EE39500"
+				"download" "D72AE30C19D7F7F96C38D08DDE7D3A99"
+			}
+			"private_qa"
+			{
+				"gid" "1950279124CB163E7D5BF8B59D2E2409"
+				"size" "6AFC25A34F92685BF24F4A89A99B587E"
+				"download" "2518F4CAAF03CF75C33B3A147776DB6F"
+			}
+			"private_qa2"
+			{
+				"gid" "863ECE23A48959D7EF67867AE0CB456B"
+				"size" "372B2549CD405C07B68020D0F847C49F"
+				"download" "36FB372E8340EF0455EC581EE60CE130"
+			}
+		}
+	}
+	"1670342"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3851475181751977201"
+				"size" "27098798199"
+				"download" "16953210656"
+			}
+			"alpha-unstable-edge"
+			{
+				"gid" "9139767168242332731"
+				"size" "4029577247"
+				"download" "1383102896"
+			}
+			"alpha-unstable"
+			{
+				"gid" "3851475181751977201"
+				"size" "27098798199"
+				"download" "16953210656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_test"
+			{
+				"gid" "ACA8898F8B02CD3140582D4EED8E2D97"
+				"size" "8E92CB7FDA270B76BBB837703EEBAC86"
+				"download" "ACF8FD62DB85E92840384F6A637097E1"
+			}
+			"private_dev"
+			{
+				"gid" "A89C4C4351353232F1D4E8C692717BDF"
+				"size" "B40DFC556453A38FC452C00A06AAC68A"
+				"download" "198FB239177DECA4294A0156A07F75F4"
+			}
+			"private_net"
+			{
+				"gid" "16D2B81C87DCC28F36487AFE13B5FE89"
+				"size" "A562DF7FF8D1BF75F8ACA0E447FD6B4C"
+				"download" "BCBB14422FAF40C994A83C4B39B0F010"
+			}
+			"private_ow"
+			{
+				"gid" "1A67F5E81F1365F99BD2D904DC7F94DF"
+				"size" "89BEDA7D7EA04F6315BAAC9633898B22"
+				"download" "0DA8968BF2A5155E16D9BC36E43B7106"
+			}
+			"private_qa"
+			{
+				"gid" "22926390B276FA0A7ADEC4E7EC339112"
+				"size" "06375AD6FAF8B884EAD0449B4B92F6BB"
+				"download" "565C88A3A4E4C9F8ADD65DB8615E4AE7"
+			}
+			"private_qa2"
+			{
+				"gid" "DB1047659863B8F51C3D68D6D6287F5F"
+				"size" "521A0E9A8146D23680DE15153587B5AB"
+				"download" "4DF8BE59ECC953C92146E4A49F0AAEE5"
+			}
+		}
+	}
+	"workshopdepot" "1670340"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16842378"
+			"timeupdated" "1735189265"
+		}
+		"alpha-unstable-edge"
+		{
+			"buildid" "8272753"
+			"description" "This branch is literally unstable.\t"
+			"timeupdated" "1646028165"
+		}
+		"private_test"
+		{
+			"buildid" "13893710"
+			"pwdrequired" "1"
+			"timeupdated" "1711711949"
+		}
+		"alpha-unstable"
+		{
+			"buildid" "16842378"
+			"description" "This branch is literally unstable."
+			"timeupdated" "1735095196"
+		}
+		"private_dev"
+		{
+			"buildid" "15588792"
+			"pwdrequired" "1"
+			"timeupdated" "1725445107"
+		}
+		"private_net"
+		{
+			"buildid" "16858207"
+			"pwdrequired" "1"
+			"timeupdated" "1735273905"
+		}
+		"private_ow"
+		{
+			"buildid" "16866751"
+			"pwdrequired" "1"
+			"timeupdated" "1735404951"
+		}
+		"private_qa"
+		{
+			"buildid" "16842378"
+			"pwdrequired" "1"
+			"timeupdated" "1735037107"
+		}
+		"private_qa2"
+		{
+			"buildid" "14807938"
+			"pwdrequired" "1"
+			"timeupdated" "1719116385"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26805506"
+"_sha" "5547d8f25c6c175dd148fe45811d1eeeb42ff19f"
+"_size" "5815"

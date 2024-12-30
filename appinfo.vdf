@@ -1,0 +1,743 @@
+"appid" "867210"
+"common"
+{
+	"name" "Songs of Conquest"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "4267f0fed07bbb4ec662e29072b0e9f01720ca5a"
+	"logo_small" "4267f0fed07bbb4ec662e29072b0e9f01720ca5a_thumb"
+	"clienttga" "92093c4e333569c96fbf79eb6aeef857a6341ffa"
+	"clienticon" "6dd4ec9b572884165658be23cf3e93a8c47227e8"
+	"icon" "c97f86d7b9e49311a1023fd9b48492cd04e22c85"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "征服之歌"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"swedish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1702339200"
+		"tested_build_id" "12912677"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "41.92111668034207"
+			"height_pct" "93.75"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomCenter"
+				"width_pct" "41.92111668034207"
+				"height_pct" "93.75"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1734425748"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lavapotion"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Coffee Stain Publishing"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_1" "1"
+		"category_17" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716217489"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "867210"
+	"store_tags"
+	{
+		"0" "7368"
+		"1" "14139"
+		"2" "1670"
+		"3" "1708"
+		"4" "1741"
+		"5" "4325"
+		"6" "1684"
+		"7" "17305"
+		"8" "9"
+		"9" "3964"
+		"10" "4057"
+		"11" "4166"
+		"12" "3854"
+		"13" "4004"
+		"14" "1742"
+		"15" "21725"
+		"16" "4975"
+		"17" "3916"
+		"18" "7481"
+		"19" "1685"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Lavapotion"
+	"publisher" "Coffee Stain Publishing"
+	"homepage" "https://www.songsofconquest.com/"
+	"listofdlc" "1979540,2977420,2977430,3260210"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "SongsOfConquest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SongsOfConquest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "SongsOfConquest.app\\Contents\\MacOS\\SongsOfConquest"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "AdventuresAndConquest.exe"
+			"description" "(develop)"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "prototype, twoandahalfd"
+			}
+		}
+		"3"
+		{
+			"executable" "AdventuresAndConquest.app\\Contents\\MacOS\\AdventuresAndConquest"
+			"description" "(develop)"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "prototype, twoandahalfd"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"867211"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7675837668462433923"
+				"size" "2272968752"
+				"download" "1580729104"
+			}
+			"console-crossplay"
+			{
+				"gid" "297123444654529094"
+				"size" "2583273281"
+				"download" "1418286352"
+			}
+			"public-test-realm"
+			{
+				"gid" "7675837668462433923"
+				"size" "2272968752"
+				"download" "1580729104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop-release-build"
+			{
+				"gid" "FFAD15EDD5BA63A7CDFFFE2B9C1D54B3"
+				"size" "B01C9D750433A09986E6E0721B0EC165"
+				"download" "B64CC24AB149E474880B5D3BD7372356"
+			}
+			"balancing"
+			{
+				"gid" "113F6EC9D4F95BDBDD897B6E57DAA6E4"
+				"size" "9AC6A59B81B09A0345A2935F28D9CF4D"
+				"download" "1685A1BC42FA7CCBC0B073F497ACEFF6"
+			}
+			"prototype"
+			{
+				"gid" "F8FD757AABB1EBFE83F6017253E0FD7F"
+				"size" "E1B2A3D42E8B21DCA8407C3C0328D8CD"
+				"download" "AF63CD1DB2D2683786A843D475E8DBEF"
+			}
+			"pre-master"
+			{
+				"gid" "B2BC798333AB3D270269E4A83AF34FEC"
+				"size" "9488BF5D5294E62035B312284754E1D8"
+				"download" "8DE8F3CDE06FC1706F888177B20DBAE1"
+			}
+			"hillar"
+			{
+				"gid" "F17DD92394986F45F218A8FF51816786"
+				"size" "53B50F2DAA2FB791006D3B780E3528A5"
+				"download" "DB5F5495843F2C12BCC8F90F29EE6CCD"
+			}
+			"develop"
+			{
+				"gid" "494829C8BC7E26624A9E9511FFA981AC"
+				"size" "7603197FAEDB9BD9643B2E0BE7E645F1"
+				"download" "9B69AD596D5E7B14D60315528234E5D1"
+			}
+		}
+	}
+	"867212"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "312561465437061804"
+				"size" "2358180782"
+				"download" "1599953856"
+			}
+			"console-crossplay"
+			{
+				"gid" "3865623015053651789"
+				"size" "2668217667"
+				"download" "1435315232"
+			}
+			"public-test-realm"
+			{
+				"gid" "312561465437061804"
+				"size" "2358180782"
+				"download" "1599953856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop-release-build"
+			{
+				"gid" "F7D44A2BEB692D8845A667AA4547CFD1"
+				"size" "B9895D6590A28988F378E1B258DB6A71"
+				"download" "60B5915D90739CA1A17D500A959D7BA0"
+			}
+			"balancing"
+			{
+				"gid" "248489DE7E023B74886F9D1B424E8F03"
+				"size" "DADE6C07315B1684533E13787134669D"
+				"download" "3FF53319F2C1DE26D2C01DBE35864A2C"
+			}
+			"prototype"
+			{
+				"gid" "307A8AA5F372B4BF8E005C36245B4296"
+				"size" "40916DB13CAB992CC1EAE5FD3076C995"
+				"download" "09CEDEF5E325DB47F2F8EFBAEF7E78D2"
+			}
+			"pre-master"
+			{
+				"gid" "450212ED38CC3247A3953B00B276D7C7"
+				"size" "9F901C1FAD0EB7A1A94295D086E3F63B"
+				"download" "5A70AA0593890240B8C5264C9AF8FAA4"
+			}
+			"hillar"
+			{
+				"gid" "9BD8ADA79D2AC6A958F81140560748A2"
+				"size" "E8D740129E7F2D29EA425AC761F4D0EE"
+				"download" "3A10200F5396844AEE5AFB6FA24AFDBE"
+			}
+			"develop"
+			{
+				"gid" "FAE60FE22F79DE1ED70979524DC7E5BE"
+				"size" "FDF2BC4E804DCCD535BBEF16CC049D2C"
+				"download" "BFBD4D2A06CE2E29EFBFBDBBFAAC2F42"
+			}
+		}
+	}
+	"1979540"
+	{
+		"dlcappid" "1979540"
+	}
+	"2977420"
+	{
+		"dlcappid" "2977420"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1248492940110103068"
+				"size" "221205814"
+				"download" "156948144"
+			}
+			"console-crossplay"
+			{
+				"gid" "1248492940110103068"
+				"size" "221205814"
+				"download" "156948144"
+			}
+			"public-test-realm"
+			{
+				"gid" "1248492940110103068"
+				"size" "221205814"
+				"download" "156948144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop-release-build"
+			{
+				"gid" "36F167739F810464AE533C1E341EAD64"
+				"size" "D0BFFA0FB6A4CC660490F2A0718C44F6"
+				"download" "E5424E5AC70EDEE0C10FAAC337494064"
+			}
+			"balancing"
+			{
+				"gid" "AFF4911282C229A66C3DC8331C80186D"
+				"size" "117D49F26400FA4AA7CB989246D49946"
+				"download" "77331941A8EABF0A2F162AB69EBB759D"
+			}
+			"pre-master"
+			{
+				"gid" "F3EADC2E4C6E42E37503AC8E4C2AA464"
+				"size" "F26320DE071F4AE3D33EE9DCDA8517E0"
+				"download" "634E3C2D403C6D44C67F96DC06692879"
+			}
+			"hillar"
+			{
+				"gid" "A8233067229B9FF4E865022F4DEB2970"
+				"size" "03716A749BAED0FF946C43CA52EE2F68"
+				"download" "91C6CAB3C1314C31504C06139FE34CA9"
+			}
+			"develop"
+			{
+				"gid" "76CC9E0B1B1A2721957E22ECC3AD2946"
+				"size" "B03E898B2B9CDB183D4E1D968BB120D1"
+				"download" "7C92985695900AAC2D20A377971E613D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16802865"
+			"timeupdated" "1734624845"
+		}
+		"console-crossplay"
+		{
+			"buildid" "15887362"
+			"description" "Branch that keeps the game at the same version as on consoles"
+			"timeupdated" "1733220427"
+		}
+		"develop-release-build"
+		{
+			"buildid" "16854755"
+			"pwdrequired" "1"
+			"timeupdated" "1735222312"
+		}
+		"balancing"
+		{
+			"buildid" "16763614"
+			"pwdrequired" "1"
+			"timeupdated" "1734381537"
+		}
+		"prototype"
+		{
+			"buildid" "3411604"
+			"pwdrequired" "1"
+			"timeupdated" "1545209121"
+		}
+		"pre-master"
+		{
+			"buildid" "16802865"
+			"pwdrequired" "1"
+			"timeupdated" "1734623286"
+		}
+		"hillar"
+		{
+			"buildid" "16790133"
+			"pwdrequired" "1"
+			"timeupdated" "1734543471"
+		}
+		"develop"
+		{
+			"buildid" "16854527"
+			"pwdrequired" "1"
+			"timeupdated" "1735219083"
+		}
+		"public-test-realm"
+		{
+			"buildid" "16802865"
+			"description" "Experimental branch where you can test the next version or patch before it goes live"
+			"timeupdated" "1734624803"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/Savegames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/Campaign"
+			"pattern" "*.cmpsav"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/Levels"
+			"pattern" "*.bytes"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/Savegames"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/Campaign"
+			"pattern" "*.cmpsav"
+			"recursive" "1"
+		}
+		"5"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/Levels"
+			"pattern" "*.bytes"
+			"recursive" "1"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/CustomArmies"
+			"pattern" "*.army"
+			"recursive" "1"
+		}
+		"7"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/CustomArmies"
+			"pattern" "*.army"
+			"recursive" "1"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/Misc"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/Misc"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lavapotion/SongsOfConquest/WielderVault"
+			"pattern" "*.wdr"
+			"recursive" "1"
+		}
+		"11"
+		{
+			"root" "MacAppSupport"
+			"path" "Lavapotion/SongsOfConquest/WielderVault"
+			"pattern" "*.wdr"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26803469"
+"_sha" "e77239c8e7181680254c0fc06a760fdffeaee05c"
+"_size" "14712"

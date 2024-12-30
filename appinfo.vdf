@@ -1,0 +1,1048 @@
+"appid" "581320"
+"common"
+{
+	"name" "Insurgency: Sandstorm"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"logo" "49fa8c4d22576c88120d924f9a9daf565b09f299"
+	"logo_small" "49fa8c4d22576c88120d924f9a9daf565b09f299_thumb"
+	"clienttga" "8eba259c22e90df29fd2f5f157b4394cd7074a9e"
+	"clienticon" "df54c9719cb2383dbbb29ec6b89b108c9dbe9f22"
+	"icon" "d279a836f1d2df271dadbefda9fee7fc65c5fe87"
+	"clienticns" "0199959ac37e88df594c1a6aee5ede379d172d7c"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "581320_eula_0"
+			"name" "Insurgency: Sandstorm EULA"
+			"url" "https://store.steampowered.com//eula/581320_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1716508800"
+		"tested_build_id" "12831468"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Insurgency: Sandstorm"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "22.959907814182245"
+			"height_pct" "32.31885120899142"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "75c05f824fc0b445c16d2b57b9ae9a5094e28b71/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "75c05f824fc0b445c16d2b57b9ae9a5094e28b71/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "75c05f824fc0b445c16d2b57b9ae9a5094e28b71/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "22.959907814182245"
+				"height_pct" "32.31885120899142"
+			}
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1734023810"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "New World Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Focus Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Insurgency"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_15" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1544634000"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/insurgency-sandstorm\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "581320"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "4175"
+		"2" "1774"
+		"3" "4168"
+		"4" "1708"
+		"5" "3859"
+		"6" "19"
+		"7" "3839"
+		"8" "1678"
+		"9" "3843"
+		"10" "1685"
+		"11" "4345"
+		"12" "4667"
+		"13" "4166"
+		"14" "4026"
+		"15" "599"
+		"16" "1695"
+		"17" "128"
+		"18" "492"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"gamedir" "sandstorm"
+	"serverbrowsername" "Insurgency: Sandstorm"
+	"anti_cheat_support_url" "https://www.easy.ac/en-us/support/sandstorm/bans/\?steamAppId=581320"
+	"developer" "New World Interactive"
+	"publisher" "Focus Entertainment"
+	"homepage" "https://www.focus-home.com/games/insurgency-sandstorm"
+	"listofdlc" "996220,1308180,1308181,1308182,1308183,1409140,1409141,1409142,1409143,1481110,1481111,1481112,1481113,1575020,1590710,1590711,1590712,1590713,1711180,1711181,1711182,1711183,1759140,1760280,1763080,1763081,1763082,1763083,1836470,2062370,2062371,2062372,2062373,2062374,2062375,2062376,2062377,2432520,2432521,2432522,2432523,2606030,2606040,2606050,2606060,2606070,2606080,2606090,2606100"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "sandstorm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Insurgency.exe"
+			"arguments" "-noeac"
+			"description" "Sandstorm No EAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "unstable"
+			}
+		}
+		"2"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"arguments" "-clickedreplay=373d2264-9310-48b2-ae53-e73f322f3bcb"
+			"description" "Town replay"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_perf"
+			}
+		}
+		"3"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"arguments" "-clickedreplay=f4fbf0e8-7bff-4a2b-bb41-277c686253a2"
+			"description" "Precinct replay"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_perf"
+			}
+		}
+		"4"
+		{
+			"executable" "InsurgencyEAC.exe"
+			"description" "No argument"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "focus_qa,focus_loca,focus_safe,focus_community_loca"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" ""
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"581322"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5285077923543335737"
+				"size" "28554194321"
+				"download" "24527315008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"recording"
+			{
+				"gid" "FF546DD0AA345712A4A11CE68A465823"
+				"size" "1B995483CA9A73E1C977082F2C64FEB7"
+				"download" "EF946D0CBFCE81BF0574B3240B5D4705"
+			}
+			"streams"
+			{
+				"gid" "518C609F650C9042547A438D6D75E479"
+				"size" "DE637CC9257B1B91DA11DA7BB00D2CD9"
+				"download" "427CC319535149BCBEA84D16BE978179"
+			}
+			"tournament"
+			{
+				"gid" "CDEEFD9A9FEA32BED0DE1E1BDB55BBF4"
+				"size" "5C6C550D8A7BEC9E6F3383F575435FE4"
+				"download" "81D8F13A94C770331B99BBFBB368C20A"
+			}
+			"unstable"
+			{
+				"gid" "9F123CE578F732605A0EE1D568ECFB08"
+				"size" "18B397BEF2AD3DAA502265F8C04B2A2F"
+				"download" "FA352F6D104B10242B84E6D2A9B98CFD"
+			}
+			"fe_aqua"
+			{
+				"gid" "9F85B0126787B6D75B224F7DCC798DFD"
+				"size" "5F36E7D09FA97B4D51504F68B4222AF9"
+				"download" "C8AFDA235DD26A53B2FD46CD3FB730B4"
+			}
+			"ss_evaluation_1"
+			{
+				"gid" "70444A95146C7E45DC939ABA55143841"
+				"size" "FFC78426954340D399ED0F536FAFA22F"
+				"download" "01256F8A2FBDA1B1CB751B9DA4A5903D"
+			}
+			"ss_external_1"
+			{
+				"gid" "5E31112EC2BC46402A3DB69326F49D04"
+				"size" "F3BE00477096A5FC28C58BC43FFDA49F"
+				"download" "D532B20B4070CFDF2C4E62FA2426B58E"
+			}
+			"ss_external_2"
+			{
+				"gid" "1F94C3075EBE7DB719B15EB466F50634"
+				"size" "0F2AA5207D6FE234760670B23A31C0A9"
+				"download" "47142F1C851D57601E23C079C9237095"
+			}
+			"ss_external_3"
+			{
+				"gid" "B94CB858696D7F5AC7E9DFEEF43D6786"
+				"size" "646B4F9FF1072A6E9B7AD8DD5A13352F"
+				"download" "9E1CED922F3997A235CC7A1336547FE9"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "6FEE2D2931BB5C7D73459F713018DF27"
+				"size" "32171B4E23EEA7CDCD8506B77D4FF912"
+				"download" "83DCBE26B7775F4C6D5CBDC9DBED20E8"
+			}
+			"ss_main_1"
+			{
+				"gid" "D906631AC8541B799594B29BEFAEB574"
+				"size" "D6444A39FEA9AD3535BE568DBF9F62D6"
+				"download" "9677686F7707C63460EA0805B8D059C5"
+			}
+			"ss_main_2"
+			{
+				"gid" "B19829E3A1973938912F1AC3AF568353"
+				"size" "3D77B47C53A2D2A8AAADF03A4FA47034"
+				"download" "3EE10A183395483C0FF57BEDE26590AD"
+			}
+			"unstable_shipping"
+			{
+				"gid" "0B5D9F942EBA10B7F23D30E8DFA50EFC"
+				"size" "FA15EB7C336D2FAE35023508AC67B2EB"
+				"download" "F823FD42CA01F4C6BEAF70A30471E594"
+			}
+			"unstable_test"
+			{
+				"gid" "E21D65D6F8B1B075A43EF9445D6A8CF9"
+				"size" "E5B68F0BE6C8DDA6E124C8BD1C2816B1"
+				"download" "788D0F30A7D21DB309744B67C247931C"
+			}
+		}
+	}
+	"679891"
+	{
+		"dlcappid" "679890"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1967577759971224614"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"recording"
+			{
+				"gid" "D6283DAB8754C988AA08A41100B90215"
+				"size" "C23EED500B40EEA74D4FF28AB526DFB1"
+				"download" "C23EED500B40EEA74D4FF28AB526DFB1"
+			}
+			"streams"
+			{
+				"gid" "EA1F89A52D6D2FE01F11E3D0C93D026D"
+				"size" "727DAD3539EA9DABE20AAC2DBA461FF6"
+				"download" "727DAD3539EA9DABE20AAC2DBA461FF6"
+			}
+			"tournament"
+			{
+				"gid" "6664276F16E0B652DA862925FEDFCB26"
+				"size" "A6285FEF9E1C070CC243F72671670D4B"
+				"download" "A6285FEF9E1C070CC243F72671670D4B"
+			}
+			"unstable"
+			{
+				"gid" "F5937A7444FE1C1ED8BEBDE50FEEF15E"
+				"size" "B9E8AC9D2E8C25FE19A54288EB3FB0AD"
+				"download" "B9E8AC9D2E8C25FE19A54288EB3FB0AD"
+			}
+			"fe_aqua"
+			{
+				"gid" "06B1633C54F3E32E300A8E4F84119E44"
+				"size" "8127741587EDC0BE328F69D8810CE6AA"
+				"download" "8127741587EDC0BE328F69D8810CE6AA"
+			}
+			"ss_evaluation_1"
+			{
+				"gid" "99C9550B8E9DA950F9F2341BAFC69D13"
+				"size" "55FF0B01155AD84B159B46E4C67652B4"
+				"download" "55FF0B01155AD84B159B46E4C67652B4"
+			}
+			"ss_external_1"
+			{
+				"gid" "C013B77578D78A44AD8D0A488CF59C87"
+				"size" "F61134EAB5E6BCCE17D99935F7CE622F"
+				"download" "F61134EAB5E6BCCE17D99935F7CE622F"
+			}
+			"ss_external_2"
+			{
+				"gid" "81689D58CEDAFBA56240B879EC3840CA"
+				"size" "9ED4225F8DF7BE80D845DC75AC7DE90B"
+				"download" "9ED4225F8DF7BE80D845DC75AC7DE90B"
+			}
+			"ss_external_3"
+			{
+				"gid" "E293D2171DF0527A2CE28C8F0986C6AF"
+				"size" "4ACD38FBA85B4630E67615439D60C02D"
+				"download" "4ACD38FBA85B4630E67615439D60C02D"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "FC8D2ED1428F4B8D707DB271DC81FC93"
+				"size" "8E1927A46B9446C0A05603F12F12C64A"
+				"download" "8E1927A46B9446C0A05603F12F12C64A"
+			}
+			"ss_main_1"
+			{
+				"gid" "984306652C070A11D175FAC45B12B9F1"
+				"size" "366E89F23AD859BE1F2EA2692FAA1B62"
+				"download" "366E89F23AD859BE1F2EA2692FAA1B62"
+			}
+			"ss_main_2"
+			{
+				"gid" "FA1A8F95F3FA1CEB10858FF0CEC408F6"
+				"size" "2B7C4CEC393C8E176C7B419AF74F9168"
+				"download" "2B7C4CEC393C8E176C7B419AF74F9168"
+			}
+			"unstable_shipping"
+			{
+				"gid" "1C2E0E663CD7466F7CACFA8CE19010BE"
+				"size" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
+				"download" "2F68B0AAC69152BC46A7C9C3CDBBA7BA"
+			}
+			"unstable_test"
+			{
+				"gid" "B33AD3FEE9A4C4311087956311BA014B"
+				"size" "82624BB266185110DA8041423A30B1CA"
+				"download" "82624BB266185110DA8041423A30B1CA"
+			}
+		}
+	}
+	"581321"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+	}
+	"581325"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+	}
+	"581326"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+	}
+	"581327"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+	}
+	"581328"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+	}
+	"581329"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+	}
+	"679894"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+	}
+	"679895"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+	}
+	"679896"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+	}
+	"679897"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+	}
+	"679898"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+	}
+	"679899"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+	}
+	"915621"
+	{
+		"config"
+		{
+			"language" "thai"
+		}
+	}
+	"915622"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+	}
+	"915623"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+	}
+	"915624"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+	}
+	"915625"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+	}
+	"915626"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+	}
+	"915627"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+	}
+	"915628"
+	{
+		"config"
+		{
+			"language" "hungarian"
+		}
+	}
+	"915629"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+	}
+	"917181"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+	}
+	"917182"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+	}
+	"1575020"
+	{
+		"dlcappid" "1575020"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1379428503423729152"
+				"size" "7377544248"
+				"download" "6248013584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"streams"
+			{
+				"gid" "8ED144B8A315D71B90EF549406632D4B"
+				"size" "8F0711AC354E26427E5CA6B1BE85EB80"
+				"download" "C42AB233FD3159F989BCACB7CFC4B07E"
+			}
+			"tournament"
+			{
+				"gid" "9E278E9E0B4A230EDC08992F3C6FA2E1"
+				"size" "F798A241F3A7481298CEA7C4C4ABD3D1"
+				"download" "2B53DA38FEA60B8E2CCAD20B2B9A7078"
+			}
+			"unstable"
+			{
+				"gid" "E2DF6726B746FC5181A997961575B7FE"
+				"size" "2AC6B184B99023324A046BCF69678B09"
+				"download" "2DDD66C75A99C028D3B682BE1E16F966"
+			}
+			"fe_aqua"
+			{
+				"gid" "8890304A3E991A0EE6F2F388C1A99AE6"
+				"size" "7CC2BA1359745763279739DB3B555646"
+				"download" "42353C50F77423D7FB6DEE7D2C28A851"
+			}
+			"ss_evaluation_1"
+			{
+				"gid" "47640128A9629C556F34FDC75B16A05A"
+				"size" "179003F080396272FD74A5A6249EAFE0"
+				"download" "6C84C6AC69D6E2A6EF9A9C8DC4246728"
+			}
+			"ss_external_1"
+			{
+				"gid" "33967237F742E4815366CD76C5733F2A"
+				"size" "AB658C94EBA874DE3EC4E92AF5DCD92F"
+				"download" "63711DD03ADCDF4FD09FB8537FD70993"
+			}
+			"ss_external_2"
+			{
+				"gid" "68E8908289D76928DA34D4252A753F5F"
+				"size" "12B963693B8F0CC0C474FF9F2451F43C"
+				"download" "5CDAA3BF5CC2B2103468A50BCFF5BD00"
+			}
+			"ss_external_3"
+			{
+				"gid" "8267B73C2008ECE90037357390D84864"
+				"size" "390EA690C09C8A43E63EE353AB258E1F"
+				"download" "5EBBE928384B695F490FD97E97E36292"
+			}
+			"ss_internal_temp_test"
+			{
+				"gid" "58EF2C8C31151EB12128D6EBA06B5489"
+				"size" "967D4B88F7F6885E3EDEA67F651A23A4"
+				"download" "71012519EC8A5910CA8027ACBA9178EE"
+			}
+			"ss_main_1"
+			{
+				"gid" "9BE8E6F70D6A4B1B68CC04AA7C26C87E"
+				"size" "3406DD6AF54682F2BE0C4B3C09F8E97E"
+				"download" "85744E2BACDC96252FE1E0604D7D8DAB"
+			}
+			"ss_main_2"
+			{
+				"gid" "3D26E4AACC2DAF7E25519D9D115225EB"
+				"size" "B7C245D909429E8B9B1C946915BD52EB"
+				"download" "5861347A853EB5105A72CBEC3292BEC0"
+			}
+			"unstable_shipping"
+			{
+				"gid" "4BFC784397D6814D21D831DA4F1928AC"
+				"size" "74F355F201394F91DA7F45C2C35E3AFA"
+				"download" "2E6584862FD9A0E62762B80D64DE07C4"
+			}
+			"unstable_test"
+			{
+				"gid" "44F976DE3D75E0BDD93D811721D1F175"
+				"size" "DFC680165F3A4F29E7C3880D46BE5229"
+				"download" "F328C2833CB9368D0D354BD562D5BAEA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16619711"
+			"timeupdated" "1734022422"
+		}
+		"recording"
+		{
+			"buildid" "3361079"
+			"pwdrequired" "1"
+			"timeupdated" "1543964714"
+		}
+		"streams"
+		{
+			"buildid" "9857368"
+			"pwdrequired" "1"
+			"timeupdated" "1668117651"
+		}
+		"tournament"
+		{
+			"buildid" "13233176"
+			"pwdrequired" "1"
+			"timeupdated" "1706083629"
+		}
+		"unstable"
+		{
+			"buildid" "8433581"
+			"pwdrequired" "1"
+			"timeupdated" "1648150512"
+		}
+		"fe_aqua"
+		{
+			"buildid" "16619711"
+			"pwdrequired" "1"
+			"timeupdated" "1733743816"
+		}
+		"ss_evaluation_1"
+		{
+			"buildid" "14463188"
+			"pwdrequired" "1"
+			"timeupdated" "1717756910"
+		}
+		"ss_external_1"
+		{
+			"buildid" "16619711"
+			"pwdrequired" "1"
+			"timeupdated" "1733902853"
+		}
+		"ss_external_2"
+		{
+			"buildid" "16802105"
+			"pwdrequired" "1"
+			"timeupdated" "1734938790"
+		}
+		"ss_external_3"
+		{
+			"buildid" "16870499"
+			"pwdrequired" "1"
+			"timeupdated" "1735483747"
+		}
+		"ss_internal_temp_test"
+		{
+			"buildid" "16843576"
+			"pwdrequired" "1"
+			"timeupdated" "1735205197"
+		}
+		"ss_main_1"
+		{
+			"buildid" "16870608"
+			"pwdrequired" "1"
+			"timeupdated" "1735485147"
+		}
+		"ss_main_2"
+		{
+			"buildid" "16293775"
+			"pwdrequired" "1"
+			"timeupdated" "1731486859"
+		}
+		"unstable_shipping"
+		{
+			"buildid" "16619711"
+			"pwdrequired" "1"
+			"timeupdated" "1733302997"
+		}
+		"unstable_test"
+		{
+			"buildid" "16658942"
+			"pwdrequired" "1"
+			"timeupdated" "1733501277"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "8192000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26810799"
+"_sha" "521c775c876548bfee0b5756ac790e3a1c761a42"
+"_size" "20662"

@@ -1,0 +1,890 @@
+"appid" "463530"
+"common"
+{
+	"name" "Empires of the Undergrowth"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"clienticon" "a5e04175aaf071b644e394e2a068cc783f042452"
+	"clienttga" "526e303fe2db316ab7e4b292fa2dab7505d3feac"
+	"icon" "ba6ae8dac9333776689f4603da09346e41c5cef6"
+	"logo" "0fe973baa6b26f7de4ef16cda0284b8d9aba92ac"
+	"logo_small" "0fe973baa6b26f7de4ef16cda0284b8d9aba92ac_thumb"
+	"releasestate" "released"
+	"osextended" "macos64"
+	"name_localized"
+	{
+		"schinese" "地下蚁国 Empires of the Undergrowth"
+		"tchinese" "地下蟻國 Empires of the Undergrowth"
+		"japanese" "Empires of the Undergrowth エンパイア・オブ・ジ・アンダーグロウス"
+		"koreana" "Empires of the Undergrowth 엠파이어 오브 더 언더그로스"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664582400"
+		"tested_build_id" "9194475"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "f8c76fdca0bdd4d135895b686bd26e50e3bd98bd/capsule_231x87.jpg"
+		"schinese" "3320ce629e49bfb9e3b03af9d2ec6f986d62161d/capsule_231x87_schinese.jpg"
+		"tchinese" "f3f9f35eb3ba61534437e5ba414ca1e50034c032/capsule_231x87_tchinese.jpg"
+		"japanese" "0bce741a8f6afbf80ad0357917ae05222f11624c/capsule_231x87_japanese.jpg"
+		"koreana" "39ddc0c0a3d704e65fb32f9d68573061d6617907/capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "zh-cn,zh-tw,en,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.34772462077012"
+			"height_pct" "79.10334443421783"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.34772462077012"
+				"height_pct" "79.10334443421783"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"english" "library_header.jpg"
+				"japanese" "library_header_japanese.jpg"
+				"koreana" "library_header_koreana.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726589268"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slug Disco"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Slug Disco"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717776732"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "463530"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "7332"
+		"3" "4328"
+		"4" "220585"
+		"5" "1643"
+		"6" "12472"
+		"7" "8945"
+		"8" "4364"
+		"9" "1669"
+		"10" "1676"
+		"11" "3810"
+		"12" "1662"
+		"13" "1695"
+		"14" "4182"
+		"15" "1670"
+		"16" "3987"
+		"17" "4711"
+		"18" "7107"
+		"19" "4695"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Slug Disco"
+	"publisher" "Hooded Horse"
+	"homepage" "http://www.eotugame.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Empires of the Undergrowth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EotU.exe"
+			"arguments" "-DX11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Empires of the Undergrowth with DirectX 11"
+			}
+			"description" "Empires of the Undergrowth with DirectX 11"
+		}
+		"1"
+		{
+			"executable" "EotU.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "EotU.sh"
+			"arguments" "-vulkan"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Empires of the Undergrowth with Vulkan (experimental)"
+			}
+			"description" "Empires of the Undergrowth with Vulkan (experimental)"
+		}
+		"4"
+		{
+			"executable" "EotU.sh"
+			"arguments" "-opengl3"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Empires of the Undergrowth with OpenGL 3"
+			}
+			"description" "Empires of the Undergrowth with OpenGL 3"
+		}
+		"5"
+		{
+			"executable" "EotU.sh"
+			"arguments" "-opengl4"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Empires of the Undergrowth with OpenGL 4"
+			}
+			"description" "Empires of the Undergrowth with OpenGL 4"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2865494147"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,alpha,beta,expandedalpha,openbeta,presspreview,translationtest"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"463531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1406841710592888681"
+				"size" "5540744550"
+				"download" "5335103856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eotu2020"
+			{
+				"gid" "0BD85AB4E9710369B45ADD2B9E5B14E1"
+				"size" "C1C54B2B5552B67FE93F401EAB94418C"
+				"download" "3EAF8EA8039DB566F612097127D72D83"
+			}
+			"touringmode"
+			{
+				"gid" "9B55EEAAA159686F8E4E3C5FC3403A8D"
+				"size" "D503E769D637CD19F67E5DFC9AD38C38"
+				"download" "40A6875BBDFCF5AFADAF84F0931F1CB7"
+			}
+			"alpha"
+			{
+				"gid" "4F602072B93B4518E0A7EC53145D747E"
+				"size" "31AF696AE164DC292E26C3D3EA1061D6"
+				"download" "6E8C208323199012F271EEE2591F4F30"
+			}
+			"artpreview"
+			{
+				"gid" "64206AE7EF9EAF7531EDC7C960B7F7C7"
+				"size" "548B871204ACB6CB449A871829CDA8F8"
+				"download" "E04D07BCB076DCAB9460FA48705F03E4"
+			}
+			"debug"
+			{
+				"gid" "F559951F37E4634BC94B457EB24DE9D6"
+				"size" "ECCEBBD056AAFBB1F6998828067F5C50"
+				"download" "6DB19882F4B62E974A265F9826476A7F"
+			}
+			"expandedalpha"
+			{
+				"gid" "D3B9CF5985B0B284B3829C023F4E20AD"
+				"size" "9A18E09E5BC70074701198925053B162"
+				"download" "B9D20FBF72EE0D4897DAE07DCC5532CF"
+			}
+			"localisation"
+			{
+				"gid" "C8081D8EE7CAB2C8A4C21578C98E8EC8"
+				"size" "F99E4EF50FF92B939BFDBB9613426FD0"
+				"download" "EB2CE7967390A8A52B8ED3A2573EE890"
+			}
+			"openbeta"
+			{
+				"gid" "91B98DE8CA51F0CC781BCBE829B706E7"
+				"size" "4284D77A5DDD107C2C0A1F321F9B2856"
+				"download" "1F9387652D14F35865C8796807F88FDD"
+			}
+			"presspreview"
+			{
+				"gid" "90E14D3853169914DA627758A1809394"
+				"size" "706ECA946076B751CF10C2447B47C9E6"
+				"download" "89CB992E243EC477194000B7D3350E85"
+			}
+			"trailer"
+			{
+				"gid" "79210CB85ACC8E7E7F90042D9E065AD7"
+				"size" "7CDE6DD1F27C49218BE1053E90733A7C"
+				"download" "432DA0A97FAAF626802CF7968DEACE44"
+			}
+		}
+	}
+	"463532"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8740411461507035877"
+				"size" "5930473396"
+				"download" "5783634528"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eotu2020"
+			{
+				"gid" "C4D081713E07FFDE6574C7A9EF616A8F"
+				"size" "4097F115099409F15AA84D4A5E0EBF92"
+				"download" "BAECAAF88A89715D6EF20E3B2430E9B7"
+			}
+			"touringmode"
+			{
+				"gid" "E6644B4197B85C7DBC041A4E8FC0F8AC"
+				"size" "0D8077FB02D23B57688B655382F8F01B"
+				"download" "D0A1080DE58DCE92C8925E6667DB770F"
+			}
+			"alpha"
+			{
+				"gid" "546A866B1EA5DCD68BD60199151E878D"
+				"size" "FF7925CF8650342AEB6A594F5CA9866B"
+				"download" "4C305313E610CDB85019CED5495DB4C9"
+			}
+			"artpreview"
+			{
+				"gid" "36866069832A373394D23BB9F8CD79C9"
+				"size" "5BD6E524B1BED04E3D0607AAD5DC9C41"
+				"download" "65171CC00500DA9324EB917B44236036"
+			}
+			"debug"
+			{
+				"gid" "D19DFED75C50DBBF169C58488BA34183"
+				"size" "56C80F05E49A0FCCA5D3FEFD3BB4E1E2"
+				"download" "CE72E0193610EE0A251E19EEB7D8F2B5"
+			}
+			"expandedalpha"
+			{
+				"gid" "46BC50192668389C97EB4A38F52FF98D"
+				"size" "1B9E01B0005A2C904FEC909D04A2CA0A"
+				"download" "772964E6784B30922DDFB6F4398D262A"
+			}
+			"localisation"
+			{
+				"gid" "0FDAEFB2AEC126605FE2B56EC5AC2BA6"
+				"size" "8689102BDECDE6086720C6C873BE3C70"
+				"download" "7FB64691B92125CF64D68AE20C51C282"
+			}
+			"openbeta"
+			{
+				"gid" "2BD407440E510FFA9CC6BA7DD0B91B4B"
+				"size" "927260D866858B579328574CEE038E33"
+				"download" "867178D221A036CA962C27D4C21525ED"
+			}
+			"presspreview"
+			{
+				"gid" "23225505FBE90751800EA92B647BB414"
+				"size" "7D076C4D9EC3CF26FB5265D36D0ECB27"
+				"download" "A4D0B02D8552B7B37E6928C1424631B9"
+			}
+			"trailer"
+			{
+				"gid" "CB585F9E2AE091840DF4D61EF98CFB1C"
+				"size" "736EDAD1DEE4DB7A8CBB7F51A5BF8B0E"
+				"download" "E39EA94D413ECFDB2E8A99A5605F1487"
+			}
+		}
+	}
+	"463533"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5863906363843821727"
+				"size" "5847954340"
+				"download" "5522143584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eotu2020"
+			{
+				"gid" "6C5B6B630B5B853404D3C872A0DA8F0B"
+				"size" "5BACBFAEFEE7DBA90E1DBCC9E58525DE"
+				"download" "4E20D54FDBAE2A1EB979FED5793FABF3"
+			}
+			"touringmode"
+			{
+				"gid" "9ADC3190F6026E7123A760D28793BABC"
+				"size" "F2CFADF2FD45D98D7AC212792A4742AC"
+				"download" "FA45B21CC5E73AC8C46F1AC83A7FBAEF"
+			}
+			"alpha"
+			{
+				"gid" "24984086D8017A29696E93CA26B4394E"
+				"size" "B2539EEF8A4F0A9E1CBE40EEE6ECD3C8"
+				"download" "39E4F0C5CDE1D8B6FC9C87A0DD6AB6D6"
+			}
+			"artpreview"
+			{
+				"gid" "7A55EC3D7FD5B6F78A06CEEC6FD2AE3A"
+				"size" "6B9EE369C97ED7E4B70C1BFAB1227066"
+				"download" "98E18C0D764DC281F685116E06BE3A0D"
+			}
+			"debug"
+			{
+				"gid" "4C4F8900809818D08575484A82BE6B92"
+				"size" "819C96D1231126A6946A1FC137480597"
+				"download" "BFC54620FF7B56A5EB0237945BF00197"
+			}
+			"expandedalpha"
+			{
+				"gid" "B90344980CA74D28AA8E8196BCDAF0B0"
+				"size" "5E5D02079869AB6CD69A4DAA995DDCC8"
+				"download" "831250C3E9EFB3F41D92DBF9B3C0D3F1"
+			}
+			"localisation"
+			{
+				"gid" "EE82C83929BE4CAD665E65B35BA6149F"
+				"size" "082238FBCEEA00009DB952B5C1F53A75"
+				"download" "0C8B09FD24BB82B2DADA5BD08FCF4B99"
+			}
+			"openbeta"
+			{
+				"gid" "FC8D1AB413330A496BAC8BD1F448FAE8"
+				"size" "E4BEA69EEF95B8898AB7BF851F64BF67"
+				"download" "56E1F5718E01EB71F7A6B14FC7BB3482"
+			}
+			"presspreview"
+			{
+				"gid" "1286093C647832D191A0B9E09E03ED7D"
+				"size" "EE9DE13EA8E526FA82EDA0815A0FA943"
+				"download" "B0248220CE495101C75ECD23654D40DE"
+			}
+			"trailer"
+			{
+				"gid" "3879F63F049C8BF270C2FC46D75A16AC"
+				"size" "BF79BC3E5DC63633CF9CBD5798B21787"
+				"download" "C2FD64BE859BF9BBE3A6F0D701852FF2"
+			}
+		}
+	}
+	"463534"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4928343751148336280"
+				"size" "3553255409"
+				"download" "3368202000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eotu2020"
+			{
+				"gid" "EDC72588A4B1A24464BE4140BDFF4B3B"
+				"size" "348DD4C287D64F7B1F8A8E6A40294AF4"
+				"download" "DCBE4766D210359831EDC8BEB900AA91"
+			}
+			"touringmode"
+			{
+				"gid" "707219767FA2EC53F3FEC4CCC78C5A94"
+				"size" "E0BC4B7283C5DBFB6C8646004F19BB3D"
+				"download" "A07A6859FBB1C62145414DEFC24D782A"
+			}
+			"alpha"
+			{
+				"gid" "89FCFD3E8877DFCC93633B1E8DC51FD1"
+				"size" "385CBEE10E440B30D9D10F2B3C76C06C"
+				"download" "5048369A5874DE60CB26BEC0D3CCAA62"
+			}
+			"artpreview"
+			{
+				"gid" "5013CBEC3612523D67B7B477CB222A22"
+				"size" "037C0C7DBEEF52BE150769DD1FA08676"
+				"download" "64C22AD376BB6192AE0AD41A9E196878"
+			}
+			"debug"
+			{
+				"gid" "97B2AB11D960CED8CD10EF8C1DFC34D7"
+				"size" "19C8E358F5D81B71C424EEDB66FB617F"
+				"download" "A809723EA85D0F6DEB932198B1960553"
+			}
+			"expandedalpha"
+			{
+				"gid" "04B1ABBC62F428D239C3DB47759FDF0A"
+				"size" "6F5019880098A4D806AD222FA27B4413"
+				"download" "D16F919A8CECBC980CE868C5DB9C630F"
+			}
+			"localisation"
+			{
+				"gid" "7937F66928DE7FE71450E5B924BD1784"
+				"size" "8BEC31886D5A52C6D45D060DD03E5CE7"
+				"download" "2E9BB6A24021657644860C02DA6B2BDB"
+			}
+			"openbeta"
+			{
+				"gid" "C31E5AEA946F10E050B3FB5F303C6339"
+				"size" "3768CA83DD7745E17EFD817CEAAF0D84"
+				"download" "72C44CB62B8F39F93158A39C20660B67"
+			}
+			"presspreview"
+			{
+				"gid" "37FF8DD97D77C939EB4FC086C87B411E"
+				"size" "B4E1B1A67FC3369BB654479EE960ACF2"
+				"download" "5986BF50FC1678523728DCADDA19FF98"
+			}
+			"trailer"
+			{
+				"gid" "23A1E6E12090F80172FE5CDE11B624E6"
+				"size" "CAB3BB68E58C318691CC2930A6E89DF4"
+				"download" "5DD31F37DD881EAF844396746EEE80A7"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16828767"
+			"timeupdated" "1734957762"
+		}
+		"eotu2020"
+		{
+			"buildid" "6007439"
+			"pwdrequired" "1"
+			"timeupdated" "1617722828"
+		}
+		"touringmode"
+		{
+			"buildid" "12176834"
+			"pwdrequired" "1"
+			"timeupdated" "1694598574"
+		}
+		"alpha"
+		{
+			"buildid" "16828767"
+			"pwdrequired" "1"
+			"timeupdated" "1734951434"
+		}
+		"artpreview"
+		{
+			"buildid" "14588900"
+			"pwdrequired" "1"
+			"timeupdated" "1723809916"
+		}
+		"debug"
+		{
+			"buildid" "14565201"
+			"pwdrequired" "1"
+			"timeupdated" "1717184651"
+		}
+		"expandedalpha"
+		{
+			"buildid" "16828767"
+			"pwdrequired" "1"
+			"timeupdated" "1734871006"
+		}
+		"localisation"
+		{
+			"buildid" "16828767"
+			"pwdrequired" "1"
+			"timeupdated" "1734951825"
+		}
+		"openbeta"
+		{
+			"buildid" "16828767"
+			"pwdrequired" "1"
+			"timeupdated" "1734882753"
+		}
+		"presspreview"
+		{
+			"buildid" "14635647"
+			"pwdrequired" "1"
+			"timeupdated" "1717779945"
+		}
+		"trailer"
+		{
+			"buildid" "14576305"
+			"pwdrequired" "1"
+			"timeupdated" "1717329252"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "2000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "EotU/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EotU/Saved/SaveGames"
+					"replace" "Epic/EotU/Saved/SaveGames"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EotU/Saved/SaveGames"
+					"replace" ".config/Epic/EotU/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26785934"
+"_sha" "b43a4cad84c6fdda0d20bd00ab4bd5b8e705a62a"
+"_size" "18920"

@@ -1,0 +1,1963 @@
+"appid" "770810"
+"common"
+{
+	"name" "Good Pizza, Great Pizza"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"logo" "3896dff389592da587e31055bf07686e7521b2ee"
+	"logo_small" "3896dff389592da587e31055bf07686e7521b2ee_thumb"
+	"icon" "8f4fe09d2bee70f5d912abaece1f95495f67bb0b"
+	"clienttga" "637007f5b87495c33b4dc2aa38fcec6d2930eae3"
+	"clienticon" "32dd2f99b04f22f680374e2ce8eb84de0ea109ab"
+	"name_localized"
+	{
+		"koreana" "좋은 피자, 위대한 피자"
+		"schinese" "可口的披萨，美味的披萨"
+		"tchinese" "可口的披薩，美味的披薩"
+		"german" "Good Pizza, Great Pizza"
+		"spanish" "Buena pizza, gran pizza"
+		"japanese" "グッドピザ、グレートピザ"
+		"italian" "Buona Pizza, Grande Pizza"
+		"turkish" "İyi Pizza, Güzel Pizza"
+		"french" "Bonne Pizza, Super Pizza"
+		"brazilian" "Good Pizza, Great Pizza"
+		"polish" "Good Pizza, Great Pizza"
+		"russian" "Хорошая пицца, Отличная пицца"
+		"latam" "Buena pizza, gran pizza"
+		"arabic" "‫بيتزا جيدة, بيتزا رائعة – محاكاة لمطعم بيتزا‬"
+		"portuguese" "Good Pizza, Great Pizza"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1683072000"
+		"tested_build_id" "10974236"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Good Pizza, Great Pizza"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"french" "capsule_231x87_french.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"turkish" "capsule_231x87_turkish.jpg"
+		"english" "capsule_231x87.jpg"
+		"arabic" "capsule_231x87_arabic.jpg"
+		"portuguese" "capsule_231x87_portuguese.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"polish" "header_polish.jpg"
+		"portuguese" "header_portuguese.jpg"
+		"russian" "header_russian.jpg"
+		"spanish" "header_spanish.jpg"
+		"turkish" "header_turkish.jpg"
+		"arabic" "header_arabic.jpg"
+		"italian" "header_italian.jpg"
+		"french" "header_french.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"latam" "header_latam.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,tr,ko,zh-cn,zh-tw,ja,fr,it,pl,ru,es,pt-br,de"
+		"library_hero" "en"
+		"library_logo" "en,pl,pt-br,de,tr,ko,zh-cn,zh-tw,it,fr,es,ru,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "51.1441647597254"
+			"height_pct" "64.43837568273571"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"turkish" "library_600x900_turkish.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"french" "library_600x900_french.jpg"
+				"italian" "library_600x900_italian.jpg"
+				"polish" "library_600x900_polish.jpg"
+				"russian" "library_600x900_russian.jpg"
+				"spanish" "library_600x900_spanish.jpg"
+				"brazilian" "library_600x900_brazilian.jpg"
+				"german" "library_600x900_german.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"turkish" "library_600x900_turkish_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"french" "library_600x900_french_2x.jpg"
+				"italian" "library_600x900_italian_2x.jpg"
+				"polish" "library_600x900_polish_2x.jpg"
+				"russian" "library_600x900_russian_2x.jpg"
+				"spanish" "library_600x900_spanish_2x.jpg"
+				"brazilian" "library_600x900_brazilian_2x.jpg"
+				"german" "library_600x900_german_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"polish" "logo_polish.png"
+				"brazilian" "logo_brazilian.png"
+				"german" "logo_german.png"
+				"turkish" "logo_turkish.png"
+				"koreana" "logo_koreana.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"italian" "logo_italian.png"
+				"french" "logo_french.png"
+				"spanish" "logo_spanish.png"
+				"russian" "logo_russian.png"
+				"japanese" "logo_japanese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"polish" "logo_polish_2x.png"
+				"brazilian" "logo_brazilian_2x.png"
+				"german" "logo_german_2x.png"
+				"turkish" "logo_turkish_2x.png"
+				"koreana" "logo_koreana_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"italian" "logo_italian_2x.png"
+				"french" "logo_french_2x.png"
+				"spanish" "logo_spanish_2x.png"
+				"russian" "logo_russian_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "51.1441647597254"
+				"height_pct" "64.43837568273571"
+			}
+		}
+	}
+	"store_asset_mtime" "1713222626"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "TapBlaze"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "TapBlaze"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_22" "1"
+		"category_2" "1"
+		"category_25" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1673029212"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "770810"
+	"store_tags"
+	{
+		"0" "3920"
+		"1" "599"
+		"2" "97376"
+		"3" "597"
+		"4" "1742"
+		"5" "35079"
+		"6" "4182"
+		"7" "8945"
+		"8" "492"
+		"9" "4747"
+		"10" "4195"
+		"11" "4726"
+		"12" "4136"
+		"13" "3871"
+		"14" "5125"
+		"15" "84"
+		"16" "5350"
+		"17" "9204"
+		"18" "4004"
+		"19" "6426"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "TapBlaze"
+	"publisher" "TapBlaze"
+	"homepage" "http://www.goodpizzagreatpizza.com"
+	"listofdlc" "1499790,1863040,2066190,2177930,2177931,2177932,2177933,2177934,2177980,2206770,2206780,2206781,2206782,2206783,2243630,2243631,2243632,2243633,2243634,2243635,2243636,2299310,2299311,2299312,2299313,2299314,2339920,2339922,2352650,2352651,2352652,2352653,2392190,2392191,2392192,2392193,2410240,2410241,2410242,2410243,2410244,2446750,2477810,2596990,2597000,2616950,2616960,2616970,2648470,2648480,2648490"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Good Pizza, Great Pizza"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PizzaBusiness.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "GPGP_Mac.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "GPGP_Mac.app"
+			"arguments" "-windowed"
+			"description" "(Windowed)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "PizzaBusiness.exe"
+			"arguments" "-windowed"
+			"description" "(Windowed)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"770811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3591714620048597519"
+				"size" "1576141551"
+				"download" "1544459200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "38006AD06B74983F24A5D379405CD0DF"
+				"size" "BCE40159B3FDCE38AAD1A550DCEE9A1F"
+				"download" "7B086E6E801FE1FD05EF80BDAD2A6499"
+			}
+			"beta"
+			{
+				"gid" "D3582D5CEC7C385F99EF5C0DB53ABE8E"
+				"size" "B6A10BB54C89FC4DA298C998C4DEE7E8"
+				"download" "92C2C5FF567E6A8E0C7EABC424ED6A0D"
+			}
+		}
+	}
+	"770812"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3817847140239267593"
+				"size" "862678060"
+				"download" "837178976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "363CB5B951423BE39CC46809D73E71EC"
+				"size" "07EEF42B7253BFC42A2FC4FABE5A7404"
+				"download" "F8A4944734F7A03B8364385964A9C266"
+			}
+			"beta"
+			{
+				"gid" "6BFF6748E9174C426509878B05D67DEB"
+				"size" "457A22A4B56EE8AC5732106A1BE0AABA"
+				"download" "EEB2E919E93E9FAFDDEB841FCA77309E"
+			}
+		}
+	}
+	"1499790"
+	{
+		"dlcappid" "1499790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7442574575861511439"
+				"size" "298180"
+				"download" "301744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "5614F7496AEF9B8B2D56AD483A9FC9B9"
+				"size" "6AC862FD03E7722F6EFFD99EEFB17C7B"
+				"download" "A7D901EE92E3B3C48F4D0B3CC387B20C"
+			}
+			"beta"
+			{
+				"gid" "A1DD8DAFD297D1861AA63D2FAF3525F5"
+				"size" "362462D647C3D281A2ECCCA9731903D4"
+				"download" "617A32359F72606781513176D843156C"
+			}
+		}
+	}
+	"1863040"
+	{
+		"dlcappid" "1863040"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9085119277803129729"
+				"size" "1177405"
+				"download" "1191664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "13FCCC302606AE71F6A2E2C6DED75BE9"
+				"size" "057BFF75758D408906C916CD85CA78E4"
+				"download" "E4AAB8C4F4FDC84F7B47F7395EACA64D"
+			}
+			"beta"
+			{
+				"gid" "B5D22E4BBFD0BE81350C8D7D25BF891B"
+				"size" "383FFA0F62FCBB98C299F990D2A1655F"
+				"download" "E9656E52FCC850A273FB5C7F8AC60C2E"
+			}
+		}
+	}
+	"1934960"
+	{
+		"dlcappid" "1934960"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "8EC4BE9F5ABC0BB01A57B579DB2033A7"
+				"size" "D887B33BFC05736CDEE1442ADB7A1A1F"
+				"download" "60C067F875F667F1B949CC4B3CEDE3CA"
+			}
+		}
+	}
+	"2066190"
+	{
+		"dlcappid" "2066190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6665168784716223506"
+				"size" "2060787"
+				"download" "2086000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "740817506DA55F12BF2BD148E8125BAE"
+				"size" "3CD6734680CB11F800A465AD43CE5799"
+				"download" "2757D3966029B6ADA6B3FF158558354E"
+			}
+			"beta"
+			{
+				"gid" "A37FE76EBC8DBE6C2CBE7214EC68D41A"
+				"size" "2533F1D2D8E01184C909344854359B9E"
+				"download" "E4DBF0C751E136745373B51BCFE813D4"
+			}
+		}
+	}
+	"2158790"
+	{
+		"dlcappid" "2158790"
+	}
+	"2177931"
+	{
+		"dlcappid" "2177931"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2000579884433422062"
+				"size" "1293019"
+				"download" "1309552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "469F29BB0BBB20F28D03A38F5C6ABB55"
+				"size" "0D17FEDEB7DDC846BE547C586F5D3D1D"
+				"download" "5369AFA6676F00244A9AD37470658E1C"
+			}
+			"beta"
+			{
+				"gid" "D9BB489DBB5A58C1CB8245907A22082E"
+				"size" "AF7F41D1AB6EB1C7F31D3CE6E0C15911"
+				"download" "6CFC72D6678B50AF66D19880D0910368"
+			}
+		}
+	}
+	"2177980"
+	{
+		"dlcappid" "2177980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8091542638805051733"
+				"size" "4170634"
+				"download" "4226960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "5EE2F657DCF34DF249542D7A4A320B15"
+				"size" "62785013BC470E139CAC52ED58A296BB"
+				"download" "41CED3E563360EA33F66BAA2B0798368"
+			}
+			"beta"
+			{
+				"gid" "BE9CD1C26756EE9FD0DF9346234D1854"
+				"size" "E23540B06A285343256BE1811BC61A2C"
+				"download" "04E6A0592197F1F44C127334C07C93E1"
+			}
+		}
+	}
+	"2177932"
+	{
+		"dlcappid" "2177932"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6868498442225524356"
+				"size" "2985834"
+				"download" "3024928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4955398A7388841E7AD4C302B9BCA1C4"
+				"size" "0E39964C82425371C3611B5DB25981D5"
+				"download" "E8BD7F072AC0A695B2D72F2699A2146B"
+			}
+			"beta"
+			{
+				"gid" "CD37BC2079BD490952C2363CCAF833F7"
+				"size" "B0E6D472E25158210040E34F2F7F6A27"
+				"download" "2D17E6990276C99BFC9E488CFE8164C5"
+			}
+		}
+	}
+	"2177930"
+	{
+		"dlcappid" "2177930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9148804161130888871"
+				"size" "2108982"
+				"download" "2137456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "FFF60C13A4B762F293DB9F58A5C91225"
+				"size" "0E8DC41B15D80DA6E888E3F2D39CDE0A"
+				"download" "B6D46B5575E43E59F5284AC7DDD5D97B"
+			}
+			"beta"
+			{
+				"gid" "627486A1CEA5C9D98385404F09030AC1"
+				"size" "A66701143B490FA024912B4AE9F8B3E5"
+				"download" "7EB39E50E06DBFD59A137ABDA869C355"
+			}
+		}
+	}
+	"2177933"
+	{
+		"dlcappid" "2177933"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2674072442739848862"
+				"size" "3933693"
+				"download" "3981888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "967A227F284CC240CCDE15A707206674"
+				"size" "34DF20049D422750382BF6C3D2A19B9C"
+				"download" "D4335B073A56D12860CB1B591266A4CB"
+			}
+			"beta"
+			{
+				"gid" "DE98C309EEC531F962A1137EF16BEEFC"
+				"size" "3A5613F0D07325D70E90580CA660DABB"
+				"download" "532D50C2F1C0987390B59A773C566784"
+			}
+		}
+	}
+	"2177934"
+	{
+		"dlcappid" "2177934"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3079244926586779591"
+				"size" "89746"
+				"download" "89920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "201C41D7FC6D93A7FDC085E5FAD34F0F"
+				"size" "037CA1D46FA13A5B42F58716245AFE9C"
+				"download" "507674B27BBD6F200EB1C0AF5493360A"
+			}
+			"beta"
+			{
+				"gid" "CFF77687753745322680EF6C29AA4B82"
+				"size" "F4E88FE1D64F150D08145464D72402DF"
+				"download" "8E99AC42A75D56642BE51F61F149ADE6"
+			}
+		}
+	}
+	"2206770"
+	{
+		"dlcappid" "2206770"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8779896697991241356"
+				"size" "9164366"
+				"download" "9275072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "DC9440BF38E153E8C7419DD07DAC5E33"
+				"size" "9DAFA5F85638A3DF91813C98BAC7FFAD"
+				"download" "F652F8BDDAEE4DADD537039648BE9B36"
+			}
+			"beta"
+			{
+				"gid" "E8AC799AE36739B06A18B8E79D585E2B"
+				"size" "D38A749496CCF6BAA5B4FC857C3D9A6B"
+				"download" "C1E31B7BD34753945362BE09CCA9FFEC"
+			}
+		}
+	}
+	"2206780"
+	{
+		"dlcappid" "2206780"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1661216368347213416"
+				"size" "4283616"
+				"download" "4340944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "514572C885CE30F431A3435A730ACDA1"
+				"size" "FF5EB2F1751D11289C795554B06E3ADF"
+				"download" "00BAD51FCE2B811699C73DCC513D5EBB"
+			}
+			"beta"
+			{
+				"gid" "45EFFAD1FFE08827D977156F4756F05F"
+				"size" "EC71B136A81F73EA8A7836906EC104EF"
+				"download" "850F2EEEFC7E9FA2E39F0FEFB72E9F90"
+			}
+		}
+	}
+	"2206781"
+	{
+		"dlcappid" "2206781"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5706086177514404814"
+				"size" "4461581"
+				"download" "4522080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "90E3B2BBBE3FDC501F7D05F9CF2E5B34"
+				"size" "D15A7DFE181EA4D683175F4A0C2FE4FA"
+				"download" "D9FA324B78A41553D1654DC0FD26645C"
+			}
+			"beta"
+			{
+				"gid" "40A2DC2D89D8789C577DEE995A9601CE"
+				"size" "4A8E38599E907AB024CA0F8079C27201"
+				"download" "5CCC80887EE4E514D01EC06C175E77DE"
+			}
+		}
+	}
+	"2206782"
+	{
+		"dlcappid" "2206782"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8447507258261088455"
+				"size" "3957884"
+				"download" "4007584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "8C3BE03AB3198690C2213179017A83EC"
+				"size" "6D29012F908C4A7B3F8C32F068529179"
+				"download" "AEE1874AD538545FCA314837108635E0"
+			}
+			"beta"
+			{
+				"gid" "0DC232501D3D7385C658DF0E840A03D0"
+				"size" "BC46C3761E6BE39176F3C2C91B7B8D36"
+				"download" "80147B936CBF48B018BA8F0272285B4B"
+			}
+		}
+	}
+	"2206783"
+	{
+		"dlcappid" "2206783"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9118959957827122930"
+				"size" "838840"
+				"download" "848096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "1D639CEE2FFC7473A524F65C3D9A858B"
+				"size" "2CEB830A2A01A152D9DCF25120E85BD2"
+				"download" "F54371B16F0278E8DC3A4495E1D7D428"
+			}
+			"beta"
+			{
+				"gid" "FE56C1223C6BBF433F1AFF1ED6994D37"
+				"size" "0F5809E2A1E570F0611B450F10B5B3F0"
+				"download" "6D0FD154CCBA66AA6DC1736B465220B1"
+			}
+		}
+	}
+	"2243630"
+	{
+		"dlcappid" "2243630"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8133654948446209424"
+				"size" "4325797"
+				"download" "4383040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "10FC46305E2F688308EBC6242B8A0D94"
+				"size" "4016319A02A6785F0F3D990C6FC5E7BB"
+				"download" "0568C49F628233F9F0A8D1D5EA225DA9"
+			}
+			"beta"
+			{
+				"gid" "B016A1E3E7BAC9D2ED2C2D738C2AE9B4"
+				"size" "B5512D8BBE1232156D9816C37428C9C6"
+				"download" "45A32A873FCFE71AD1FBF20693EA7BA8"
+			}
+		}
+	}
+	"2243631"
+	{
+		"dlcappid" "2243631"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8344985702667662075"
+				"size" "4640877"
+				"download" "4702256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "AB8B96193A3C2E9C3F1B6F07B51DF855"
+				"size" "09B6DD8A7AC0D25D885EB5CE2E3819C9"
+				"download" "02D604CB3F250E9B025CE2AA2F312230"
+			}
+			"beta"
+			{
+				"gid" "B3FDDD5035CD94A81AF7C760BECE8D1F"
+				"size" "3F9A9DD37D9E1D33C7E4FC95A3E7724E"
+				"download" "C6C7B6F20A1131F39D7144925142D7BE"
+			}
+		}
+	}
+	"2243632"
+	{
+		"dlcappid" "2243632"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8910897654592695067"
+				"size" "4136016"
+				"download" "4191024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "15EB1A22A676DF2AA2B2B3375920D361"
+				"size" "F778D04569E6BBE48D01A88B9A961B63"
+				"download" "ACECF7BD210E57606BB433281A5FB7DA"
+			}
+			"beta"
+			{
+				"gid" "2DEE9ADA407DD99AD15A539118218A3F"
+				"size" "350F70E4F2FFF7FE2F1573FC7A5D0E77"
+				"download" "1A9A283BC61161B44C7F640F4AFF6C0D"
+			}
+		}
+	}
+	"2243633"
+	{
+		"dlcappid" "2243633"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8810082036247887422"
+				"size" "8566506"
+				"download" "8680336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E6695182DA5C75452EE79E2AC4C07380"
+				"size" "6DDBDF30319631940738EA66962DFD8E"
+				"download" "8CB99AA6FA99F816843B4962CDFD36FA"
+			}
+			"beta"
+			{
+				"gid" "F13333158B78278A79E6AB3F52088392"
+				"size" "B80289BB6CAB6FC17C6288F28620E0E6"
+				"download" "9192C92DFF2786D8BCBB9DD29C00B4B4"
+			}
+		}
+	}
+	"2243634"
+	{
+		"dlcappid" "2243634"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8024103297722643397"
+				"size" "2741843"
+				"download" "2778800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "16BC0349E1FEA5203A89C3EE89D3C33B"
+				"size" "2C5D912E8152BFE86E0F3FF40AF8D994"
+				"download" "F6959FDDBA1F53A1028E6647004F3827"
+			}
+			"beta"
+			{
+				"gid" "E9283822087487A14683D8F89AADC85A"
+				"size" "A953D695F96753CB5F13E2FBD460E7BD"
+				"download" "3221D9AB45C0DDE589C31E9578E0C83F"
+			}
+		}
+	}
+	"2243635"
+	{
+		"dlcappid" "2243635"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8630008894954480628"
+				"size" "4175018"
+				"download" "4221200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "182A04BBCF4BAF239B2A9936A4FD7847"
+				"size" "E7E7B7A3443434112FB173D4A62D46DD"
+				"download" "04AAD9F891679461B4E010023733A50F"
+			}
+			"beta"
+			{
+				"gid" "90CF820AA72100628CA95FDDAAD9E8E2"
+				"size" "3FA0DE6B59C1D2AE3EB6783376EB18F9"
+				"download" "A65DF1E9A6FB4C8DC48995BF33F69285"
+			}
+		}
+	}
+	"2243636"
+	{
+		"dlcappid" "2243636"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5902311429227376700"
+				"size" "108312"
+				"download" "108816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F6A27C1BDBF7B874FCB5408252526130"
+				"size" "0F7A96575684149832FBCB6328A6D5AD"
+				"download" "83536CC0AE1B812AA7AE1310094E5D24"
+			}
+			"beta"
+			{
+				"gid" "ED7A35E1823848408B829DD47C9521E3"
+				"size" "07B7D70136D0530CF2BA2FE1B554D87B"
+				"download" "5D739B88DB1DB6C72FC65D775D03339C"
+			}
+		}
+	}
+	"2299311"
+	{
+		"dlcappid" "2299311"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8366766649767080511"
+				"size" "829675"
+				"download" "839424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "876B633304382445395C2EDC6259C985"
+				"size" "AF09FB40E7EFED50E2FA58BD2395EA98"
+				"download" "FF65E72266743C94A722BE9651381153"
+			}
+			"beta"
+			{
+				"gid" "E61A699B3E511E8DC25C26ADF323A126"
+				"size" "7F8F39233EF691E781AA4C1243201F41"
+				"download" "D0FD9856889F8FB67D30698BD32A3FA2"
+			}
+		}
+	}
+	"2299312"
+	{
+		"dlcappid" "2299312"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4625099020942838616"
+				"size" "2181679"
+				"download" "2209728"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "8C2374B33DBC964CC1E194F7D4B388B1"
+				"size" "BC9C7B55CDFC5FD5E721D9E3A02CF3FA"
+				"download" "25CDA63D494FC01F9DAA386CBFBE95AC"
+			}
+			"beta"
+			{
+				"gid" "8D1FB103583375A29824B91FAC41BF60"
+				"size" "F30D47489B1716B6678D72D47EAB3A02"
+				"download" "9731E65F27F75B3E2A0C33E5B9C091D3"
+			}
+		}
+	}
+	"2299314"
+	{
+		"dlcappid" "2299314"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7976271539682850792"
+				"size" "1070731"
+				"download" "1083360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "0F69FA663750010AAB2DA091449A9076"
+				"size" "7DB4A5EA595B42F86D28ACF42CD40E8E"
+				"download" "A42CD64E42FD9730BBCE6A4255C36FA5"
+			}
+			"beta"
+			{
+				"gid" "3A9A2A30EE06D75E2E41DFBA04E869A0"
+				"size" "5A5D1671B94F70B298E889646DBE7BD7"
+				"download" "12771C72E518DBE11D19022FD5DBB79E"
+			}
+		}
+	}
+	"2299313"
+	{
+		"dlcappid" "2299313"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6912295152108846287"
+				"size" "108537"
+				"download" "108944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "753AB9E35DD05C88947935D1080A5499"
+				"size" "645CB66C631AA46855DE0F006E45AF46"
+				"download" "85E7DC3B0B1D20874411984631EE5D15"
+			}
+			"beta"
+			{
+				"gid" "FDB88F61CE923827F81BE3B4F7E52525"
+				"size" "37C03368C1DD197B4E485FF1160C2263"
+				"download" "87247613E980109CB92D5AE6203A2502"
+			}
+		}
+	}
+	"2299310"
+	{
+		"dlcappid" "2299310"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7074399587565654318"
+				"size" "2919254"
+				"download" "2958048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "89D55F144FAF9B12258D1D14098B038D"
+				"size" "D6B6040C728BCCD2AF4DA252DD9F5476"
+				"download" "D15817B2985FE76760B65667E4BEC31F"
+			}
+			"beta"
+			{
+				"gid" "89AF5AE5E06986DDD5F2C614F9916DAF"
+				"size" "EF732A2E4DE79CDD44EE115C4CB368D7"
+				"download" "BA6ADADF254BC1E961872F19BEDD4EB9"
+			}
+		}
+	}
+	"2352650"
+	{
+		"dlcappid" "2352650"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7944416506812465471"
+				"size" "1478310"
+				"download" "1497056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D9A6238070DD089A76A1F9EEF5B48D8D"
+				"size" "7AA009370689CBFB4160FC4F522B67DE"
+				"download" "47A752D5706D9DDE968F280F796D8158"
+			}
+			"beta"
+			{
+				"gid" "A0E7229E26C4058F858CAA1553C3ED08"
+				"size" "C0AACDFE82C61329048343C85077F15B"
+				"download" "478B6539236CF04E90DE4E0B17AEFD0B"
+			}
+		}
+	}
+	"2352651"
+	{
+		"dlcappid" "2352651"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8314463261945959922"
+				"size" "2233394"
+				"download" "2262064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "069240E46F5B241A5EF8315B3D043AFE"
+				"size" "07AF95B8E422B2E0874D3D12F1C084F2"
+				"download" "BC986D71FCB6ECE4ABDA14FD297905FA"
+			}
+			"beta"
+			{
+				"gid" "75B3766A634DB7604F4E7A0809B854D2"
+				"size" "A7B2A5ACFDEFE5BAB64317C50322A1FC"
+				"download" "AA54097B2229A38892FE28C55428CC15"
+			}
+		}
+	}
+	"2352652"
+	{
+		"dlcappid" "2352652"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8482599988822598130"
+				"size" "96711"
+				"download" "96944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "2B38422386114B870BC465F02806492B"
+				"size" "F864949FCF10666D3DE4A26BC084E6CE"
+				"download" "F47E59A557E39A663F1A91688A3861EC"
+			}
+			"beta"
+			{
+				"gid" "770542CBC0062440EC52964052FA452F"
+				"size" "FB175627BB12F1E8A569A55BA46A161C"
+				"download" "36A6B46550C2125C4F54A8C6B64FF7FE"
+			}
+		}
+	}
+	"2352653"
+	{
+		"dlcappid" "2352653"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8834461279436504875"
+				"size" "2703113"
+				"download" "2738608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E34185C1F3A4A45F49A4C003A6E68E15"
+				"size" "373AC3029DCAF0E090465F22AD0CE584"
+				"download" "72CB0D337247B7BD5D66E484FC69F579"
+			}
+			"beta"
+			{
+				"gid" "B97CE4F809B798DD40166336D7DDD661"
+				"size" "89630CB1478CF1FB69735485BED6B3A0"
+				"download" "BEA09400934C0F0FACDADD855CF6CB62"
+			}
+		}
+	}
+	"2392190"
+	{
+		"dlcappid" "2392190"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8820138085492551731"
+				"size" "2914384"
+				"download" "2950896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F4BC88E82D54FE4EA3A9A964CD3A37D5"
+				"size" "D0CD19253BB57F7C2934778917B1D188"
+				"download" "F9DC0B18311C5184654387ABBCA99F50"
+			}
+			"beta"
+			{
+				"gid" "A4EF63301F06F837A4B4537E6F562C80"
+				"size" "40BBB204073DEC70E0D5E7F6B348B52E"
+				"download" "6F8AD5C8945EA7AB573A8F434B128036"
+			}
+		}
+	}
+	"2392192"
+	{
+		"dlcappid" "2392192"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7435593840205201362"
+				"size" "488340"
+				"download" "494416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "02941FCD5F05F415709AB7BD5DC0E373"
+				"size" "4BB34CBE7A851A3CF24A15955D92D052"
+				"download" "6A51A5A711C292242B188BF7EE74AD78"
+			}
+			"beta"
+			{
+				"gid" "22E292133A31FA49BFFE0E4C9F84E546"
+				"size" "3E7D2554A10376BD2C8EFF86D681B93E"
+				"download" "993DCAC0F4DA7B2DBDB2E4FD5D3E302E"
+			}
+		}
+	}
+	"2392191"
+	{
+		"dlcappid" "2392191"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8756107406588379685"
+				"size" "5741143"
+				"download" "5817696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F42C4EC5D67968AEB96B7AC7988D554E"
+				"size" "89E6B0B4E20DDE136EB9105574B7054A"
+				"download" "D2D4C0200B098DD7223F7595F5D190A5"
+			}
+			"beta"
+			{
+				"gid" "EE7FD366473A1FF549BDB8BD0850A2E6"
+				"size" "509A77BB7E655B0F179349F4C1A63E6A"
+				"download" "07D7CED4E3607CE652B2F0858FBA5ACB"
+			}
+		}
+	}
+	"2392193"
+	{
+		"dlcappid" "2392193"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8674520356739985081"
+				"size" "2002188"
+				"download" "2024496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "ACDDF1FA98034AE0D6455D4623314FBE"
+				"size" "BB86FFC255234CD38D06146CC91DA847"
+				"download" "4BAC5A34B390D350607DB1EE734D463D"
+			}
+			"beta"
+			{
+				"gid" "BE11B46A559351E079B50D1491815E17"
+				"size" "13BFD8FB3C9A842C15D76E24C207E09B"
+				"download" "D34CAF745BA1FC68A1EC50F34596F56D"
+			}
+		}
+	}
+	"2410240"
+	{
+		"dlcappid" "2410240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8762368466042005108"
+				"size" "511971"
+				"download" "518848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "2D01B1B87359F1DC2E102B0F0BA363D6"
+				"size" "580692BECF0B5E2E15EADD14BAFDA58B"
+				"download" "735C1D0DE4F802BFF757A6C1F0A27C41"
+			}
+			"beta"
+			{
+				"gid" "01E2A24458A06DC6D9E964A15F83F92D"
+				"size" "B37575FCE180077121BDBD3479229BD3"
+				"download" "53163DA5C81DB3FD5E991262123DE20C"
+			}
+		}
+	}
+	"2410241"
+	{
+		"dlcappid" "2410241"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7999285643803132744"
+				"size" "1331211"
+				"download" "1349408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "CDF650BC7DAFCE0A82A2861F963F0D46"
+				"size" "DEB6D3C9CB093C17BBDF43416150BEFE"
+				"download" "30ABFD13E542D2F3EE965A14065EF4FF"
+			}
+			"beta"
+			{
+				"gid" "717E14A615BF7472F036A87B431324CA"
+				"size" "090C9ECAD31B1602B472C17208269227"
+				"download" "1D336135E203556333D10F8DFB6CF009"
+			}
+		}
+	}
+	"2410242"
+	{
+		"dlcappid" "2410242"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5152864827386584854"
+				"size" "1285965"
+				"download" "1303472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "8E3BBC66342E7AA2EEBD3749D219D0EA"
+				"size" "F8B6036511DDBBD0B4A9B39417D825F8"
+				"download" "4227D7A03DF7B742BE273FA1C27EBBCC"
+			}
+			"beta"
+			{
+				"gid" "9D4E422881D64D58AD65E88CBB3B3B35"
+				"size" "D0619DE06D02CE37C3737E42655306D8"
+				"download" "A8014FE31FB8E8BBFDF348A4DC5611CC"
+			}
+		}
+	}
+	"2410243"
+	{
+		"dlcappid" "2410243"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8495055025273890976"
+				"size" "1239345"
+				"download" "1256272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "4306E82137FE2C739CD441F1ECD45752"
+				"size" "733E6C264B9DE4911961C86132B2AF66"
+				"download" "5154C3001A9C1E7F5ABEBFBC20C13525"
+			}
+			"beta"
+			{
+				"gid" "152F553B9A3256FE0C4DDB16A8D01D4D"
+				"size" "297F3B5E752CDF7292C8631D2453FE4A"
+				"download" "F0087CC928D71E269F41116F93CE9B4B"
+			}
+		}
+	}
+	"2410244"
+	{
+		"dlcappid" "2410244"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8704276439741659989"
+				"size" "1081173"
+				"download" "1095920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "BC3DF5C5B1DED237BD40C8B3C93BADFF"
+				"size" "AAD56B8EED77AD254B5272ECEE3C17E5"
+				"download" "F2D7F76747DBA50B4C557DB00C073AAE"
+			}
+			"beta"
+			{
+				"gid" "7175983C73BD7FF740C2DC0570AF586F"
+				"size" "29862621C07B7948B35286D365A5EE4C"
+				"download" "BFB774E3D57CB79B606AB590866586B4"
+			}
+		}
+	}
+	"2446750"
+	{
+		"dlcappid" "2446750"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8769803358934617842"
+				"size" "747385"
+				"download" "757408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "06A8A44E37D5104FE210AA0DBF1012BC"
+				"size" "F91B03B36CC9F3ECD1036A7E334691C7"
+				"download" "4B071A7ED5004485572899FA1281A1C8"
+			}
+			"beta"
+			{
+				"gid" "FB69A4E02F7577FF519FC69F6081D102"
+				"size" "13384CB8FC1E1ED3C3B62200C8188F84"
+				"download" "2142B6D27CDC94520F426ADFF838909A"
+			}
+		}
+	}
+	"2477810"
+	{
+		"dlcappid" "2477810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9194430125514155320"
+				"size" "701353"
+				"download" "710800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "D79701F07C696690838D0E114FB185B0"
+				"size" "5724F57F98B2282F19834BA64EAB0C52"
+				"download" "85E38329F53D8AAA0E3BFCE94C388248"
+			}
+			"beta"
+			{
+				"gid" "E24E0DA295C66090ABDEC48060ABA45D"
+				"size" "BFED8B695188E2B46C13905BCD0A11EF"
+				"download" "3B84A25D1EAE940985CF401371B23170"
+			}
+		}
+	}
+	"2596990"
+	{
+		"dlcappid" "2596990"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7540908273818469375"
+				"size" "1855771"
+				"download" "1881008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "F1C50D002722238A5CBDF2A9AA784440"
+				"size" "CB4DC5E07046389E24112DA2E68AD259"
+				"download" "E198DD039469292E3310ED7824C262AD"
+			}
+			"beta"
+			{
+				"gid" "8E7839EA5E493352A454241AF14F09CC"
+				"size" "BAD7A44DE5538DD66AAA9446BC752BF6"
+				"download" "C89184992ACAC61ABDFB3E0B5BF6C364"
+			}
+		}
+	}
+	"2597000"
+	{
+		"dlcappid" "2597000"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6835339965923917573"
+				"size" "1883949"
+				"download" "1909600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "E77856103F4FF2BE50E9E68E9863E0CC"
+				"size" "B660A6C25560C4ABC1AF00A5E463AE52"
+				"download" "B1BCC9B90A84BB30BAA507707E9D4F96"
+			}
+			"beta"
+			{
+				"gid" "A313F076D54D6C599FAAE71F8D028F9B"
+				"size" "052ABB1498D1BA69AE808DAC6859C035"
+				"download" "1814C9675F72AB18DC3C3E853C408695"
+			}
+		}
+	}
+	"2616950"
+	{
+		"dlcappid" "2616950"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7627039415360453759"
+				"size" "790476"
+				"download" "801136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "A672A58EF1296D1517B46D8F2E2B2AEA"
+				"size" "60EA050BE39943DD772D045078FF721A"
+				"download" "C64E58F1EF8789A36CC806C06A587503"
+			}
+			"beta"
+			{
+				"gid" "89B5D9D0E9704F2CCA92A8B8B73E9E2C"
+				"size" "7E1BC67C6920FE7D442897D8CBD2C0EC"
+				"download" "AC96F0696FB7C490FD08B38A41EAE3D5"
+			}
+		}
+	}
+	"2616960"
+	{
+		"dlcappid" "2616960"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5200989004629527586"
+				"size" "699121"
+				"download" "708496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "7A25D012D10F95DEF6A272D4BBA9DD26"
+				"size" "B303D9EB8ECF1ADE9600DCBE81B96CAF"
+				"download" "2B12855D94FB7B86D8532DFE4A039FCB"
+			}
+			"beta"
+			{
+				"gid" "5106C78F4A2A4D29FB2749E0F1A4C780"
+				"size" "8C5ED7E829896AC2DE1D65B7C71DBE5A"
+				"download" "60584F39E575AFD1ECE6F6AF755FBD2D"
+			}
+		}
+	}
+	"2616970"
+	{
+		"dlcappid" "2616970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9090168045537489218"
+				"size" "823739"
+				"download" "834816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "3AB3CF9C60CE13FF611B9A81D6F039F9"
+				"size" "2FD6E980B3E899313E6914B9E2DF6EB8"
+				"download" "F778CE4F5DEA2E4DF4C079FAA7B60CCE"
+			}
+			"beta"
+			{
+				"gid" "907C869C95E0307A8DEFBFBFC0F6B864"
+				"size" "039E9BD2B9A4D0F75254DB774EFFDC0A"
+				"download" "166F418894E1745309FF2558A98E4E87"
+			}
+		}
+	}
+	"2648470"
+	{
+		"dlcappid" "2648470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8391226266260570390"
+				"size" "869585"
+				"download" "881312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "9A75264E2254FC53BDB48397409EAC2B"
+				"size" "629705A23C19265F74A8914C2A40DC37"
+				"download" "E551E0F6B66BD2AF0E4E21BA3AC744B8"
+			}
+			"beta"
+			{
+				"gid" "4B78B452A416225F459F60E96D71DDB5"
+				"size" "B6D7F5A78868E015AF5E75D8FDCA1240"
+				"download" "D3D07088D2E079F6F1897330B615B0C2"
+			}
+		}
+	}
+	"2648480"
+	{
+		"dlcappid" "2648480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5533327972295535258"
+				"size" "1126411"
+				"download" "1141808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "789925AED02A2BA6A6A3C39ADB3DC196"
+				"size" "F38402AEDE51BEB324D70B81094B0DB5"
+				"download" "FB2898E68C32794DC117C67B69175944"
+			}
+			"beta"
+			{
+				"gid" "079AB78CD08794A3218F071409CD02D9"
+				"size" "82A8D12C4DEE0B9EB91F01ECBB537B76"
+				"download" "78F231470C3CE6CEB5B8EFA86E9B95CD"
+			}
+		}
+	}
+	"2648490"
+	{
+		"dlcappid" "2648490"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7235732663167257742"
+				"size" "890830"
+				"download" "902832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "0CEDDF77E4D46A6CB0F1AF62229A6E0D"
+				"size" "EDBAE1C390EF574CC806F2E6086D5EAB"
+				"download" "AAD1DD40331B8A2B467E0F373452542B"
+			}
+			"beta"
+			{
+				"gid" "2531CFE5CE60F90E8AE533F8413DFEEF"
+				"size" "0177CD61791EBB2D1359BEFD23347515"
+				"download" "6081A8DA8F64B1E6345BA426A3FD9E87"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16859222"
+			"timeupdated" "1735337239"
+		}
+		"alpha"
+		{
+			"buildid" "16791688"
+			"pwdrequired" "1"
+			"timeupdated" "1734553170"
+		}
+		"beta"
+		{
+			"buildid" "16859222"
+			"pwdrequired" "1"
+			"timeupdated" "1735289711"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26800378"
+"_sha" "40fadd1c045b10847a8ba72faeb10066030cc328"
+"_size" "40102"

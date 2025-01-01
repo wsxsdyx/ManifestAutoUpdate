@@ -1,0 +1,637 @@
+"appid" "692890"
+"common"
+{
+	"name" "Roboquest"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "3312e8dd4028e24c438abefeea65c28f21aeeaf9"
+	"logo" "5da7e707b9e3b73efee43ef7b3feed6175b8c820"
+	"logo_small" "5da7e707b9e3b73efee43ef7b3feed6175b8c820_thumb"
+	"clienttga" "d31e69aea42e943a9797fe11072fe11794eb5a29"
+	"clienticon" "fe634bd380a567e3fdb0601af0cadf0c553e34a0"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"brazilian" "1"
+		"bulgarian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "Roboquest (机械守护者)"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1700006400"
+		"tested_build_id" "10470407"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"proton_compat_config" "nomfdxgiman,"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "618b592eea186e7f5d4d14b380d541427f98d7c1/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.216406846799998"
+			"height_pct" "55.07707063134503"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "29.216406846799998"
+				"height_pct" "55.07707063134503"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732720146"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RyseUp Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RyseUp Studios"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Starbreeze Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1699363920"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "692890"
+	"store_tags"
+	{
+		"0" "1663"
+		"1" "42804"
+		"2" "3959"
+		"3" "1685"
+		"4" "1774"
+		"5" "3843"
+		"6" "1734"
+		"7" "353880"
+		"8" "4885"
+		"9" "19"
+		"10" "3835"
+		"11" "492"
+		"12" "3942"
+		"13" "4252"
+		"14" "1759"
+		"15" "3859"
+		"16" "3839"
+		"17" "1716"
+		"18" "4305"
+		"19" "4182"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "RyseUp Studios"
+	"publisher" "RyseUp Studios"
+	"homepage" "https://www.roboquest.ryseupstudios.com/"
+	"listofdlc" "2729110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RoboQuest"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RoboQuest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"692891"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1315916808717050386"
+				"size" "5429724362"
+				"download" "5165847744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gamescom"
+			{
+				"gid" "11EECA7E64C8E4B151A98299A3798FEE"
+				"size" "F920B32CA489673AC683A5D50AECEE0F"
+				"download" "4AF96666216A9B600C1734621DFB8718"
+			}
+			"dev_crossnetwork"
+			{
+				"gid" "3002ADBCAA99D4F07E57C84CCED9DEFE"
+				"size" "14D54E03F3A143E7E4444F3F003ED7D0"
+				"download" "F728F2D0F7E0FE83C2C67D4855959874"
+			}
+			"developer"
+			{
+				"gid" "DEDD0A4373E1B8436C48FF673904CF93"
+				"size" "CAE8C2A4F5048B894B6860271F467C84"
+				"download" "EEDE50BC135539D422E2E3E7390B5F7C"
+			}
+			"playtest_council"
+			{
+				"gid" "B83A3EC3F4ACDF45FEDB772257248004"
+				"size" "39FA5A3A8A8E9F17D6B1360464F8FF78"
+				"download" "46CEE0F28AF672C338BD75548F8B852E"
+			}
+			"prerelease_cellsupdate_private"
+			{
+				"gid" "4E66C8054D7D893916E7F817EF1F12C5"
+				"size" "275E550C3543D9FB74AB70C5F71C5DAF"
+				"download" "1668F473865D3517053F3A3341FFCF24"
+			}
+			"prerelease_creators"
+			{
+				"gid" "0548F3783BFA9A05617E52AE9A3E05B6"
+				"size" "9A99A780AA8BD58BE46EE428FFB9576C"
+				"download" "D8ADAE1383081699CEA04EDE02F9C785"
+			}
+			"prerelease_endlessupdate"
+			{
+				"gid" "C49A8654E87D32CA924F846467347607"
+				"size" "E3CA0557D424AA25AEBD54EE7939C1B3"
+				"download" "3EE3A593006A310AAF57CF69986DF559"
+			}
+			"prerelease_localization"
+			{
+				"gid" "CC844E1FBB34A98CE4AF392597058619"
+				"size" "71D0E251F34DB70FAEBE34C1897DD68B"
+				"download" "402B69B38074CA0EF73F3B0AB5A8F46A"
+			}
+			"prerelease_pingle"
+			{
+				"gid" "A176626979EBA5E3B92748F71CDF0107"
+				"size" "355461EEAF6AF1A7DE108B8A8E44744D"
+				"download" "2DD06A30A15287F35C82AC3862A04294"
+			}
+			"rqdemo"
+			{
+				"gid" "3E6F7755BC53DD37C89A6AFA13BD1734"
+				"size" "F3C9CE0705418FB6A4758D4D0C2E1DA7"
+				"download" "D97588EE705CB9AD659D650FFCAA795F"
+			}
+			"staging"
+			{
+				"gid" "DD6F299D71D0A0980355637F93555B46"
+				"size" "AC11868DC423B3B8BF3C921A74A53CEB"
+				"download" "0615153FB6366E4F94CAD617D0EA6C97"
+			}
+		}
+	}
+	"1410960"
+	{
+		"dlcappid" "1410960"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2729110"
+	{
+		"dlcappid" "2729110"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3922345365598588541"
+				"size" "172477001"
+				"download" "153358928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_crossnetwork"
+			{
+				"gid" "28C5A174D880EE93DAB92CB0E46A70C9"
+				"size" "C45BDE88E6E00611D7ED093CA189F3D5"
+				"download" "D64140BDF10568E4836DA3B9BFA700AE"
+			}
+			"developer"
+			{
+				"gid" "86D09A3E5BDD4C95EF547E59D25A23D8"
+				"size" "599AD9E2382A1D5117805D692AA4AE2B"
+				"download" "378DEE0FC63264E37277DE9B24006D34"
+			}
+			"playtest_council"
+			{
+				"gid" "ED402120981A4FC9BE73A13DE8EC057D"
+				"size" "54A424F2B3FE6266BD22162AE4FF0D0C"
+				"download" "08C914E0893DC438614D4F706A455009"
+			}
+			"prerelease_cellsupdate_private"
+			{
+				"gid" "59E052ACCAAA4A48393EF0AEC20B41B4"
+				"size" "3F01966FA55DD0C1ED181AAC08C778E9"
+				"download" "68A4B45F08CDA66164DC3ECF0F9CFB83"
+			}
+			"prerelease_creators"
+			{
+				"gid" "CE27767C7AC0E36F2B0793D5F60767B9"
+				"size" "30BC976E26B8F4ADD08167079E21EDAE"
+				"download" "81882E3330F2DD47A70EC52919AA6F9E"
+			}
+			"prerelease_endlessupdate"
+			{
+				"gid" "42E1B1CD3D3C2B5A45E6B5E9A812C147"
+				"size" "83B0A629BDBC8257471EECD7F5EF09D0"
+				"download" "C6A5AD6AA05B4A9164C4B30E99D2F171"
+			}
+			"prerelease_localization"
+			{
+				"gid" "EE7F5F13280B4829E7B0717F10AC420C"
+				"size" "C34851DC1D2C8ACAB3B83E13CC0D6659"
+				"download" "C51BC5C82F2EFFF62C835D4A8C96FCFC"
+			}
+			"prerelease_pingle"
+			{
+				"gid" "43583BC536C1627F8354B314493B006C"
+				"size" "3176DE3FC2514B70D77231824B1B0A20"
+				"download" "3F9077894E4219FD62B2A8E94C632E91"
+			}
+			"rqdemo"
+			{
+				"gid" "A4DCED5B07AD430232CA944B0C7BB359"
+				"size" "88763F53FC356E50839B8B5C9817418B"
+				"download" "F4CD04FE5A51303F693660DE893F22D9"
+			}
+			"staging"
+			{
+				"gid" "5392B36C4EFC045769D60A1108295175"
+				"size" "37056D3DBF1313A5BA5EF6E3C8BD53B6"
+				"download" "CF1FE3A27CC2418D33BEFAE411F9C5E2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16739069"
+			"timeupdated" "1734114337"
+		}
+		"gamescom"
+		{
+			"buildid" "12461476"
+			"pwdrequired" "1"
+			"timeupdated" "1697613311"
+		}
+		"dev_crossnetwork"
+		{
+			"buildid" "16377830"
+			"pwdrequired" "1"
+			"timeupdated" "1731417720"
+		}
+		"developer"
+		{
+			"buildid" "16733802"
+			"pwdrequired" "1"
+			"timeupdated" "1734086303"
+		}
+		"playtest_council"
+		{
+			"buildid" "16696071"
+			"pwdrequired" "1"
+			"timeupdated" "1733848799"
+		}
+		"prerelease_cellsupdate_private"
+		{
+			"buildid" "15135494"
+			"pwdrequired" "1"
+			"timeupdated" "1721814824"
+		}
+		"prerelease_creators"
+		{
+			"buildid" "15290044"
+			"pwdrequired" "1"
+			"timeupdated" "1723032854"
+		}
+		"prerelease_endlessupdate"
+		{
+			"buildid" "16526947"
+			"pwdrequired" "1"
+			"timeupdated" "1732563488"
+		}
+		"prerelease_localization"
+		{
+			"buildid" "16290159"
+			"pwdrequired" "1"
+			"timeupdated" "1730740477"
+		}
+		"prerelease_pingle"
+		{
+			"buildid" "16540929"
+			"pwdrequired" "1"
+			"timeupdated" "1732640031"
+		}
+		"rqdemo"
+		{
+			"buildid" "15950693"
+			"pwdrequired" "1"
+			"timeupdated" "1728290808"
+		}
+		"staging"
+		{
+			"buildid" "16696071"
+			"pwdrequired" "1"
+			"timeupdated" "1733848784"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"5"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQProfile.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"6"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQControls.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"8"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQSettings.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"9"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RoboQuest/Saved/SaveGames"
+			"pattern" "RQProfileCopy.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26812839"
+"_sha" "1da1eb03ea928d7eddc78d78d01fc235763d7fc0"
+"_size" "12413"

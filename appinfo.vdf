@@ -1,0 +1,499 @@
+"appid" "1266840"
+"common"
+{
+	"name" "The Last Stand: Aftermath"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "f11694b90bd7028f6378fc5f98f05d3bdd37119f"
+	"logo_small" "f11694b90bd7028f6378fc5f98f05d3bdd37119f_thumb"
+	"icon" "7c041a91b5f8219c78c2b2dbcadea30d4b6efd76"
+	"clienticon" "8946e88a78bb9fa8507b90a692f6ff22a714e527"
+	"clienttga" "84679cb2505b8ba55ea92c0f0aed3ef87a84f04b"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1651708800"
+		"tested_build_id" "8507710"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "52.14075226258629"
+			"height_pct" "57.769673389472366"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "52.14075226258629"
+				"height_pct" "57.769673389472366"
+			}
+		}
+	}
+	"store_asset_mtime" "1637073477"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Con Artist Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Armor Games Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Last Stand"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_13" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1637073785"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1266840"
+	"store_tags"
+	{
+		"0" "1659"
+		"1" "1662"
+		"2" "3835"
+		"3" "4637"
+		"4" "3959"
+		"5" "1774"
+		"6" "4182"
+		"7" "42804"
+		"8" "21"
+		"9" "4791"
+		"10" "19"
+		"11" "1759"
+		"12" "4166"
+		"13" "4667"
+		"14" "4711"
+		"15" "5125"
+		"16" "4342"
+		"17" "1702"
+		"18" "4191"
+		"19" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Con Artist Games"
+	"publisher" "Armor Games Studios"
+	"homepage" "https://www.thelaststand-aftermath.com/"
+}
+"config"
+{
+	"installdir" "The Last Stand Aftermath"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TLSA.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1266841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6999322842252064069"
+				"size" "4395489967"
+				"download" "3622840672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "49651F2BECED01FBFD15FF51D93370BD"
+				"size" "31D3188438E6B4548A2180D88A3D87C2"
+				"download" "38054862A98C263D1E620E206093CE06"
+			}
+			"beta-rc"
+			{
+				"gid" "455D8A6033A33E2FA1ADE6066743FCCC"
+				"size" "1243C9AD73BED77CE03AEF661CA83638"
+				"download" "91168F7CB1D5061679EEB009A3DACE26"
+			}
+			"demo"
+			{
+				"gid" "CF59D21EE62BC4AD0F7D873A9C83A242"
+				"size" "369258189416AADB4663D74C50AB5AAB"
+				"download" "2F968FE2ED1BE32B81B549D41A577F55"
+			}
+			"demo-rc"
+			{
+				"gid" "6A9C16730D824E5159A99B30BFBEC1C6"
+				"size" "6A9467220AB44A194E165B22123CAD73"
+				"download" "1469EE055B2A4B3AAE28ACE6472567E3"
+			}
+			"development"
+			{
+				"gid" "85C8E5795A540F1DE33E2BDF20E211B8"
+				"size" "D36C47185B2FB9A75D357EB6A8FF5F21"
+				"download" "447BE1695F6F1BDE8669BD969BA519F5"
+			}
+			"experimental"
+			{
+				"gid" "AF1D2B3D1A1B1251D6C750A0B8FC6879"
+				"size" "FBFB9E824A23A7302E1DF1B2676F1231"
+				"download" "08A621F5184B0C4744055AE23E771437"
+			}
+			"macos"
+			{
+				"gid" "4DC08B695E59F22D42D6542684FA0906"
+				"size" "744036E499D17CC474D2E18E3210AE06"
+				"download" "62FAC6D085879F5F0ADBDAC3A8E7871E"
+			}
+			"nvidia"
+			{
+				"gid" "29252261E12D69FC99B7A5704917CA68"
+				"size" "1D92A5CA4FF92B390AE066643CD3CBC7"
+				"download" "43C6D9754AA40676763F0C100A1BCAC8"
+			}
+			"publictest"
+			{
+				"gid" "D789B293ADD48D08C56F780A88FDA21B"
+				"size" "BF902EB85ADFA449F98A73B54EA922F2"
+				"download" "B569F06A505BD152A3D27E953C814336"
+			}
+			"review"
+			{
+				"gid" "4EEB27CA60A4C7E7A36907E50562D226"
+				"size" "8F7ED0E332C805155F7C9C8E98116ED4"
+				"download" "3F244C54E881954A9BBB178D11076DF4"
+			}
+			"showcase"
+			{
+				"gid" "032F03F57FB7A7152F7E816B57CAB459"
+				"size" "B7352E111AE88F7611051C84FA98D045"
+				"download" "B2313050A3653884C3FCFE87D32AE53B"
+			}
+			"staging"
+			{
+				"gid" "D1F140301AD9018A90E0B1D13DEC50B9"
+				"size" "06524BDFF3128D8CAC286AD1EBD69E93"
+				"download" "CA9D998E04357A98D9A47653D9946C49"
+			}
+			"trailer"
+			{
+				"gid" "B6CCD58DE1A9F8B81C2079F321D4C5BC"
+				"size" "0216E7E2B8F133A56707A9AFFD6EEB52"
+				"download" "07AEA0B58FF34F71C25C42075A6EAB98"
+			}
+		}
+	}
+	"1266842"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"macos"
+			{
+				"gid" "A28B48C92E728D5A17D3A9966EDBFC03"
+				"size" "9C7F79CA5CB62BD713A5A2095184CB55"
+				"download" "F0FD77998431C6BBE69E93B9183AC270"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10671253"
+			"timeupdated" "1678130413"
+		}
+		"beta"
+		{
+			"buildid" "7241647"
+			"pwdrequired" "1"
+			"timeupdated" "1629851058"
+		}
+		"beta-rc"
+		{
+			"buildid" "7241647"
+			"pwdrequired" "1"
+			"timeupdated" "1629814454"
+		}
+		"demo"
+		{
+			"buildid" "6161816"
+			"pwdrequired" "1"
+			"timeupdated" "1611980470"
+		}
+		"demo-rc"
+		{
+			"buildid" "8638091"
+			"pwdrequired" "1"
+			"timeupdated" "1651110383"
+		}
+		"development"
+		{
+			"buildid" "9831384"
+			"pwdrequired" "1"
+			"timeupdated" "1677573998"
+		}
+		"experimental"
+		{
+			"buildid" "5700115"
+			"pwdrequired" "1"
+			"timeupdated" "1603044226"
+		}
+		"macos"
+		{
+			"buildid" "7556313"
+			"pwdrequired" "1"
+			"timeupdated" "1634600090"
+		}
+		"nvidia"
+		{
+			"buildid" "10671253"
+			"pwdrequired" "1"
+			"timeupdated" "1678130435"
+		}
+		"publictest"
+		{
+			"buildid" "8435744"
+			"pwdrequired" "1"
+			"timeupdated" "1648427076"
+		}
+		"review"
+		{
+			"buildid" "7661156"
+			"pwdrequired" "1"
+			"timeupdated" "1637119523"
+		}
+		"showcase"
+		{
+			"buildid" "5550494"
+			"pwdrequired" "1"
+			"timeupdated" "1600227644"
+		}
+		"staging"
+		{
+			"buildid" "10671253"
+			"pwdrequired" "1"
+			"timeupdated" "1677733664"
+		}
+		"trailer"
+		{
+			"buildid" "7466331"
+			"pwdrequired" "1"
+			"timeupdated" "1633164140"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "20000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Con Artist Games/The Last Stand_ Aftermath/{64BitSteamID}"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26487873"
+"_sha" "2c29b7c7ddb0b0e8ce3c8d03f6d3f295d081f666"
+"_size" "9236"

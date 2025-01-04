@@ -1,0 +1,1249 @@
+"appid" "1128920"
+"common"
+{
+	"name" "EVERSPACE™ 2"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "8c85afd78e1ecfd907b495b2651dc227a3a0a47f"
+	"logo" "b43c376c3e54263fbb08946b85c4eba5c2abce65"
+	"logo_small" "b43c376c3e54263fbb08946b85c4eba5c2abce65_thumb"
+	"clienticon" "088c88948b71c2bc62ce4bc181fef191d956c3d6"
+	"clienttga" "5365a8c6ccc20df1a6ce17e0f41658bd7fc0095f"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1128920_eula_0"
+			"name" "EVERSPACE™ 2 EULA"
+			"url" "https://store.steampowered.com//eula/1128920_eula_0"
+			"version" "1"
+		}
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "永恒空间2"
+		"tchinese" "永恒空间2"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695427200"
+		"tested_build_id" "11753700"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "EVERSPACE 2"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"koreana" "header_koreana.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ko,ja,zh-cn,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ko,ja,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"koreana" "library_600x900_koreana.jpg"
+				"japanese" "library_600x900_japanese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"koreana" "library_600x900_koreana_2x.jpg"
+				"japanese" "library_600x900_japanese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "100"
+				"height_pct" "100"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"koreana" "logo_koreana.png"
+				"japanese" "logo_japanese.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1714328379"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ROCKFISH Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ROCKFISH Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EVERSPACE™"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680799740"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/everspace-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1128920"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "4236"
+		"2" "1755"
+		"3" "353880"
+		"4" "3834"
+		"5" "1695"
+		"6" "4231"
+		"7" "4106"
+		"8" "1742"
+		"9" "21"
+		"10" "19"
+		"11" "6730"
+		"12" "3993"
+		"13" "599"
+		"14" "122"
+		"15" "15045"
+		"16" "4182"
+		"17" "3814"
+		"18" "1697"
+		"19" "3942"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "ROCKFISH Games"
+	"publisher" "ROCKFISH Games"
+	"homepage" "https://everspace.game"
+	"listofdlc" "2606620,2873460,2911770,2915570"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "EVERSPACE™ 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Everspace2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 12"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 12"
+		}
+		"2"
+		{
+			"executable" "Everspace2.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "EVERSPACE™ 2 - DirectX 11"
+			}
+			"description" "EVERSPACE™ 2 - DirectX 11"
+		}
+		"3"
+		{
+			"executable" "Everspace2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"4"
+		{
+			"executable" "The Art of EVERSPACE™ 2.pdf"
+			"config"
+			{
+				"oslist" "windows"
+				"ownsdlc" "2606620"
+			}
+			"description_loc"
+			{
+				"english" "Open Digital Artbook"
+				"german" "Digitales Artbook öffnen"
+			}
+			"description" "Open Digital Artbook"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2361257447"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+		"2361299790"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,dev_branch,preview_branch,qa_branch"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,brazilian,latam"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1128921"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3891424963955743868"
+				"size" "35400986243"
+				"download" "30743604208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "46B4A682D301A8D0D6108B17D4E583EB"
+				"size" "1011F549BB13D5DF4C784606B3D5E8F4"
+				"download" "8A04EFF3E768904C7BB2F741F1EBB13E"
+			}
+			"cert"
+			{
+				"gid" "0279773CE42ABD4AE4F80203B9ECFB64"
+				"size" "1E64E4959A0D695D556F0B0E07EC13E1"
+				"download" "A6C32AF14280120632FF9EE2B8665041"
+			}
+			"dev_branch"
+			{
+				"gid" "BC9E1A5E35C727F9BDBF7A57339F04FE"
+				"size" "5B4D3E2535B70928A961692C691E4867"
+				"download" "CC25A979A47C64EF2EB4CDD242A7F4BC"
+			}
+			"dev_branch2"
+			{
+				"gid" "8FDDD412328569640E4E12AD2CF9B28C"
+				"size" "9A58E1EB949B816060C3081E77343DA5"
+				"download" "DA6D293692D3291C14D9C485D283C5FD"
+			}
+			"ks_branch"
+			{
+				"gid" "69D5DC1E8D4F2B446BFDC143B62E8000"
+				"size" "1BF913FA4D6B50A885E675264D529F49"
+				"download" "2F75809069A48905E4564635A416B233"
+			}
+			"preview_branch"
+			{
+				"gid" "67A9188FDE6639F3AF77262B6CC0A986"
+				"size" "97A19AB58C2F46FD0A8098FC73F68297"
+				"download" "E5964F28A97A265D75F2EC858DDB1B44"
+			}
+			"qa_branch"
+			{
+				"gid" "E64E72CDA17062C034686F3AA80C2036"
+				"size" "FE4EF7B607F79C0A5835CFB4E568DF70"
+				"download" "88554CB70A81FF1087007C86E52F3DFE"
+			}
+			"qa_branch2"
+			{
+				"gid" "BFEA390DF516C373936FEBAA825ABFAC"
+				"size" "45DB685E4FAF7A07F9B12760543A168D"
+				"download" "140DFBF5125EB323716E054774782E8D"
+			}
+			"review_branch"
+			{
+				"gid" "FB1BC1567ED9165A4C3ED41D4FA21B30"
+				"size" "62EEC6C87FDE7530DC87117298A41D07"
+				"download" "34E9E8E8DB2FC2168A6E020583175FAD"
+			}
+		}
+	}
+	"1128922"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8554032321995029812"
+				"size" "34483546557"
+				"download" "31682125424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "5512D040997C656CC62CDAD5DE2D458E"
+				"size" "3B07FCFE1D7A695C13FF060F0DF2F498"
+				"download" "ACA369782927E54BBE821D260CA19E18"
+			}
+			"cert"
+			{
+				"gid" "766C3CC8EE75243076C60603E46EB1F7"
+				"size" "EC59F7A69DB16949FF650FF5318A0C9A"
+				"download" "A4ABE62B8316EB23EEEA42AAA650C763"
+			}
+			"dev_branch"
+			{
+				"gid" "0CCA06F1DF7E5C8F1E3B12F57B884AF4"
+				"size" "B356260159EF23BFA394D29756A370F0"
+				"download" "DB2FB615A20EC75461CC6B12610D01E1"
+			}
+			"dev_branch2"
+			{
+				"gid" "D49D8495629A3E1800D3C551D7706B6E"
+				"size" "2B44B67595CB7A07089693CB7C5D7E5A"
+				"download" "82507AC61EFA5CC424BA52DCC1E3834D"
+			}
+			"ks_branch"
+			{
+				"gid" "3026DE474FA3B19128D884A5891771D7"
+				"size" "A0153371228B86D44EC5D20DC921D1A0"
+				"download" "4939B80F85B91489F388A939DCB7F65D"
+			}
+			"preview_branch"
+			{
+				"gid" "BA1FADCC97565364386227530A18586D"
+				"size" "88717D126B2F5624214C6008C3F3DB7B"
+				"download" "7647C389CF1F09D761BC7702107A2CDC"
+			}
+			"qa_branch"
+			{
+				"gid" "06A579B8BE5C9F0A745B22F30AB67A02"
+				"size" "CC6789663F8C71A9D8FD3417E4563907"
+				"download" "A70C699EE3DC2653388A2E6F8D0EE5C7"
+			}
+			"qa_branch2"
+			{
+				"gid" "F0C5884341127CD1C587DE2AE983A370"
+				"size" "8FD1008E4F80A8DE10999683AA396B08"
+				"download" "B29495F42066B6BCF1643B6E82C75688"
+			}
+			"review_branch"
+			{
+				"gid" "959B3FD41B5AE8C2CED0A78EFA12D8B4"
+				"size" "FCDB7523E9DDBFBCE2771C2E02E136F6"
+				"download" "57C97B7E1B16BE3B9D8A70284570BFB7"
+			}
+		}
+	}
+	"2606620"
+	{
+		"dlcappid" "2606620"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "195865514797556095"
+				"size" "607075697"
+				"download" "599821072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "5E137B4E19D5BAC517F138716ACC5C4D"
+				"size" "DE17B6356EBABD6A2669DBDF2567F1B2"
+				"download" "7134F8B2379C0EE9F0EF4D90CDA6E236"
+			}
+			"cert"
+			{
+				"gid" "54FCDBF54693779F913C88620BF76F8D"
+				"size" "A134E8A4897F85383D6A259977A21276"
+				"download" "09C5AD5B74C30B5AB1284515898B15F7"
+			}
+			"dev_branch"
+			{
+				"gid" "276201D4E02AC37D337F9E0C0F4D6851"
+				"size" "1737BE37E86003D6A1D8FE309241065F"
+				"download" "E35670D4F303BBDB6351999A86573CD2"
+			}
+			"dev_branch2"
+			{
+				"gid" "231E0E0653EC2D65967768E3D02A0F44"
+				"size" "14BD5B7CAC9713C25829E40EF630C9D3"
+				"download" "DA49B29D3F4E109A5F30E4288C7BAAAA"
+			}
+			"ks_branch"
+			{
+				"gid" "21C40CD3B83273DCD4949E2C65FC01DB"
+				"size" "A3E81225C484F83445380A62D3D7B10C"
+				"download" "E72CB230C404F0B59705519D26CA9A30"
+			}
+			"preview_branch"
+			{
+				"gid" "5A8EC8B8AE888D4E89B2A67DF3032D8F"
+				"size" "754F115B49B90FECC521CF4BC748AA1C"
+				"download" "C1778F03308EE67B964085FBDEFE35F1"
+			}
+			"qa_branch"
+			{
+				"gid" "62EE72EA7ADB7F3DE2F63C5770F848B0"
+				"size" "2DB6BA8864368FF903CDE32C8DCA6E5F"
+				"download" "F5715745D420CD5FE7AD40790880D7D7"
+			}
+			"qa_branch2"
+			{
+				"gid" "8E646689D81A8DCEE9C266C3C8E164FF"
+				"size" "4CA63F390D9C5C0A4DA3725FE2FB4E9E"
+				"download" "20B39A9F4BF190A59685BA0C9DA5A7AB"
+			}
+			"review_branch"
+			{
+				"gid" "47C2B0249107033FF74850D9584C5145"
+				"size" "C20E55E2106BDC939855F4952A7A4C18"
+				"download" "FE068E7855DF3F90BCF7412FD8C5CE1D"
+			}
+		}
+	}
+	"2873460"
+	{
+		"dlcappid" "2873460"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7415357329579237865"
+				"size" "424868882"
+				"download" "418097664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "3AE14B305863EA9D4BDEE916CE92584B"
+				"size" "2A3CF8BC7A5161ECF4058568AF4E1B94"
+				"download" "F5F3F2D2C6C42820A0D562FF4DAE71D0"
+			}
+			"cert"
+			{
+				"gid" "F0244141D0B5A6310043A2CE13485887"
+				"size" "F9661EFE0830C5F707FD1A5C19F95D90"
+				"download" "E3C29A47FBE6B5144E7A21462F294AC3"
+			}
+			"dev_branch"
+			{
+				"gid" "436F215FAB975B2FFB8D5F042CACFC13"
+				"size" "731E43EC204A3CE6AB15C68266E7283D"
+				"download" "1921AE311D3E0FC1329AD73FA7C05974"
+			}
+			"dev_branch2"
+			{
+				"gid" "9132CA21F8683811BCFC34D5BE91C071"
+				"size" "A91797A16913A79DF71575DA100F255E"
+				"download" "C234EAE9F11A9D65198B9D81AC080CAA"
+			}
+			"ks_branch"
+			{
+				"gid" "F8F61FD71C2F3F63EEAF27B84DBE1C2F"
+				"size" "FE7BC363B5855E1ACCCA3DD3BF73DADE"
+				"download" "D86C58E02A6ADF7664AD40EC01B6C3A9"
+			}
+			"preview_branch"
+			{
+				"gid" "32684121DD09D7A3D7AFBEDC4F1054A5"
+				"size" "7462271276B8E5CADA3E940D1349F1CB"
+				"download" "E8E41D2FD132ED4A11E6BCD5D09F5967"
+			}
+			"qa_branch"
+			{
+				"gid" "A8D31FC8E07CF3C98D6E8A7A11F6BDD6"
+				"size" "7C13C33C77B6A4D870B3A07E2C86B297"
+				"download" "475727F27B4EA7BE0C3D0DE7A6D64E32"
+			}
+			"qa_branch2"
+			{
+				"gid" "66BACC1C0954A530D9734CD7CF103BBC"
+				"size" "C3F7B45570F3206D1711AA628788A5D4"
+				"download" "395272D3C88865D0D422280AE572C022"
+			}
+			"review_branch"
+			{
+				"gid" "8E04F34344A35F9F3ED58126B6B38FA3"
+				"size" "6A2DA3CC78F0336FBFE76F0DC5B97491"
+				"download" "96CEB830E90624A33F99F88C94D46BFC"
+			}
+		}
+	}
+	"2873470"
+	{
+		"dlcappid" "2873470"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2400209119289260242"
+				"size" "5448997896"
+				"download" "5198993088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "D706FAEB17BB24D3FC5DBF0260AB355A"
+				"size" "9637DA1EA23E98CBC5BF8B9571A7A8D4"
+				"download" "D194F338CCBF88893B75577FCE22716F"
+			}
+			"cert"
+			{
+				"gid" "3DBF324D2281B2ABB26FE236EF551236"
+				"size" "43CDFA60254611663DB7A8F750844C20"
+				"download" "C6C5227657B73AB88593AF4E6D86B97F"
+			}
+			"dev_branch"
+			{
+				"gid" "ABB7096246F20C0ED267E9BB0EF98648"
+				"size" "5808CA7D7F4C5ACFFED12A324B010CA3"
+				"download" "25C09E74BD855939C4E96F0906B05F89"
+			}
+			"dev_branch2"
+			{
+				"gid" "4BEEAB7C080043CE8D37D7720582AB20"
+				"size" "485672C7CB2AF827ECFD7635F8FAA2A3"
+				"download" "D48C29C90659651314EF5498563431D8"
+			}
+			"ks_branch"
+			{
+				"gid" "3DC5C30F449BD91C85FA35B08ABA2E62"
+				"size" "4D9D3B6D2FAC01143AB3A2858FD35111"
+				"download" "4B8A25C65F71F6F5687AF189DAC6DAE5"
+			}
+			"preview_branch"
+			{
+				"gid" "274507024852F5E2F4CDE80C56C013BC"
+				"size" "F69FD4659F85CABA8C52661DF6C1BC9B"
+				"download" "36D803B982B1CBE33795CFB0FE1C872C"
+			}
+			"qa_branch"
+			{
+				"gid" "3C5B7FB2CD11A298AB22F35778CEE2E1"
+				"size" "58231CE71BC71458E3A71A6EAD0106BF"
+				"download" "41F6D8929BDEB5859E8666286E19D7CE"
+			}
+			"qa_branch2"
+			{
+				"gid" "D85A2E56DC09642AA7049FA3B3AA9410"
+				"size" "5153DBCED53F1340888F017BCC995F6C"
+				"download" "C0033AD4C19B5A2945570C57B5D99E6E"
+			}
+			"review_branch"
+			{
+				"gid" "89BD9C4616C7B2A0C0A38AF313B4C855"
+				"size" "26D3D5F23E9DEA0AD817586968936182"
+				"download" "D8DD09998A08FE1101976A1160EE3332"
+			}
+		}
+	}
+	"1128923"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2278166748315113962"
+				"size" "35400986243"
+				"download" "30792147696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "70F9A52D1AAE31F0B69942C1570D752E"
+				"size" "1011F549BB13D5DF4C784606B3D5E8F4"
+				"download" "A68E82B8A5FEB34545AFD1C034CC0BC2"
+			}
+			"dev_branch"
+			{
+				"gid" "96C1E2DD65A2D48834F5C97D0B518D95"
+				"size" "009329D33F6A4BBB16210A021A417F15"
+				"download" "E59FCB0A5C2EE346284C3C8FFE5DB092"
+			}
+			"dev_branch2"
+			{
+				"gid" "1CD53DD2F46252AF7DD5174175AB3874"
+				"size" "3EC0029DF717ADBAB3F66F981FB9987A"
+				"download" "21C02E0798BDCE39DF0B5462D0823136"
+			}
+			"ks_branch"
+			{
+				"gid" "FBF3F43E508F88BEEB356593059F5331"
+				"size" "1BF913FA4D6B50A885E675264D529F49"
+				"download" "5A66E9C8A79C2D9C756AF50EBAB99BC8"
+			}
+			"preview_branch"
+			{
+				"gid" "5119E84DF60B9320D755CB2496C08B72"
+				"size" "97A19AB58C2F46FD0A8098FC73F68297"
+				"download" "927DBED1D796ADD16085BD34BCE3E40F"
+			}
+			"qa_branch"
+			{
+				"gid" "0310585287894B86C5D802DE4BF2EE2F"
+				"size" "FE4EF7B607F79C0A5835CFB4E568DF70"
+				"download" "E1FC68E541C26CBB154222649826D00E"
+			}
+			"qa_branch2"
+			{
+				"gid" "BDD483A8AA6B9EAC9FB58BC9E204B946"
+				"size" "533C01BF51CAF35FC9E2412719DFCBC7"
+				"download" "42F1E447BCDEEFABE997530358A7E6C2"
+			}
+			"review_branch"
+			{
+				"gid" "CDEA72EF092F0D0A3CF4FA3B36B9BBD1"
+				"size" "62EEC6C87FDE7530DC87117298A41D07"
+				"download" "F968F4B7ADB8BAA9D6FF720EC72B991D"
+			}
+		}
+	}
+	"2873461"
+	{
+		"dlcappid" "2873460"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3623310737991872776"
+				"size" "423820362"
+				"download" "418049600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "1A9F0D26CE3D60650110EF560BAFF8BD"
+				"size" "0966FF3134874230517ECB14A52607A1"
+				"download" "ED16A97AF9766ACAE4DE7BA8A1D8F669"
+			}
+			"dev_branch"
+			{
+				"gid" "E36F0520721F817E49C6BCFBE6285F2E"
+				"size" "F53C8347F8164437C4D5ACD38494C80A"
+				"download" "C19840F6FB9B423328A5AE3DCC144F81"
+			}
+			"dev_branch2"
+			{
+				"gid" "9451E286193E1A6ECA458C4E114C5CD3"
+				"size" "F81413C4B8E53BF044EB1362A5AD9BC2"
+				"download" "3BE919BB3E0D1A0526B47DA219655055"
+			}
+			"ks_branch"
+			{
+				"gid" "D2052FADD14EA9BB8C6AFC90801DEE09"
+				"size" "7B7CF15705759572DA128668B0813C6B"
+				"download" "84609136C880B47C2C21B033268F261F"
+			}
+			"preview_branch"
+			{
+				"gid" "ABC229F3966788FFA702727968C6663A"
+				"size" "43D1B86352D48F11B613C67D955F08CF"
+				"download" "CF9F392185B0965A573F80F3525F25BC"
+			}
+			"qa_branch"
+			{
+				"gid" "554186C2F4E4983B7C2E7A1942AE43D4"
+				"size" "E865B07C1C269C0920661ECB1AE73D05"
+				"download" "881A50177005B7F0D7AA2D525D8F6CE6"
+			}
+			"qa_branch2"
+			{
+				"gid" "3E545BE3DCC662A2A95DC90838296559"
+				"size" "CDD2F8E3A1F86894BB2E601636E12F0F"
+				"download" "3DF9861E30CB1BB2A64B93ED5049A716"
+			}
+			"review_branch"
+			{
+				"gid" "06F748DA30D963EE4D73288CD1B43B57"
+				"size" "3BCD4CD4DDC1D036DC0ABE861BF7DFC7"
+				"download" "25D813A789C0BB7EC361BFC62F979FB3"
+			}
+		}
+	}
+	"2873471"
+	{
+		"dlcappid" "2873470"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "253350956780648251"
+				"size" "5345172840"
+				"download" "5145538320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "AE690B48D485D1A3D69E7A6BABDC2542"
+				"size" "A96BC95D0A7981ED70C3AF2143A8B199"
+				"download" "EC8769AEBF5178372DF08F8B2772108B"
+			}
+			"dev_branch"
+			{
+				"gid" "8D292BC1C763812AFD929C8B05A4DDF1"
+				"size" "EDF35CB7E68EC92437EAB63100C7A01E"
+				"download" "20FCF21FD619BB68615559C48A10386E"
+			}
+			"dev_branch2"
+			{
+				"gid" "50F3836511B7A4C8BFC03A143D4396AD"
+				"size" "0FF094499F6E8B6DCAA53F039BBA8097"
+				"download" "56B57956B40F7A9AD76C9FD7C8FA3250"
+			}
+			"ks_branch"
+			{
+				"gid" "BC7EEC85EDA1131F6926242BDEAF1984"
+				"size" "DA58F2816F07C4F6CB207F9381C7606E"
+				"download" "7695DB8B0F51B166EFF3DFEB55D2CB2C"
+			}
+			"preview_branch"
+			{
+				"gid" "7133227ABD8794CFB2B44664F63D60BC"
+				"size" "FC6CD923484CE4182516E902BF74D6DA"
+				"download" "F325EF592DD77F9D1D9AA760472F11D9"
+			}
+			"qa_branch"
+			{
+				"gid" "207BA8FB780ED4BAA5C41B802C5F6AB4"
+				"size" "D4F8F7ACEC3BCCCA5643B046B2085D07"
+				"download" "CE1A16834D905FA421D9883E1D1830EF"
+			}
+			"qa_branch2"
+			{
+				"gid" "B594BEB1E961DAD1550A52396EE436E1"
+				"size" "65A91E22AC3127451D69F4D9B9445189"
+				"download" "8D4832C6097F8F7C3815C69E26889CD7"
+			}
+			"review_branch"
+			{
+				"gid" "4E6F51BA457196DB2FFE4F33AB5F1AF0"
+				"size" "47E191328EEBDEC1970D7B8BDFDD93BA"
+				"download" "B801687F436AD0BABAD9B7284987580E"
+			}
+		}
+	}
+	"2911771"
+	{
+		"dlcappid" "2911770"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4235370435524516347"
+				"size" "1659"
+				"download" "1264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "A0D37A2B14BC9E65554BC52273422B1E"
+				"size" "CADA4CF2B739815DE26BA271D45918E9"
+				"download" "5F2198419CCA5B5C67263062B967E73A"
+			}
+			"dev_branch"
+			{
+				"gid" "A11AE5F144D54407F81910FA2A95EC37"
+				"size" "BCDE52B3AF94EAB28003C08528B1F8E4"
+				"download" "66DBC617E5FDC367BCF7970B049AE329"
+			}
+			"dev_branch2"
+			{
+				"gid" "BF8077097FE34276CC1A72684A55E28A"
+				"size" "EBFB82067061DF8BAE19701AFC1554A2"
+				"download" "EDE4C563483939E1617B81F59B1D3EC7"
+			}
+			"ks_branch"
+			{
+				"gid" "28BA8A6659C5B55A0BADEF06CCCB65AB"
+				"size" "1512E50A82B8AA4AD1582881FE61A12C"
+				"download" "9826D973A53E9CF4BF870E7200C4514D"
+			}
+			"preview_branch"
+			{
+				"gid" "B981C6579B435F9968FFD9724DECB5FC"
+				"size" "EFFBF343678D2E6BDC07A58DA38B9070"
+				"download" "804FB975182979457609666733F1C086"
+			}
+			"qa_branch"
+			{
+				"gid" "AEF183B97593ACC4D5D8944696860D03"
+				"size" "33E650AFCAF63323B156499F6D71D2FB"
+				"download" "39FC29A743DD9FCA868E10D5B529A72B"
+			}
+			"qa_branch2"
+			{
+				"gid" "BA955E4DFF623CC4EB715022FD044E50"
+				"size" "77253D7C0BABEF90F2007F69D17256BD"
+				"download" "64CC0A4243E184D93685C380C5F27DF2"
+			}
+			"review_branch"
+			{
+				"gid" "09C7520638C5287905235DE92EF5030C"
+				"size" "E092DD474D3F789E46FC79A5810C1104"
+				"download" "771C972E71088AD5AEE803F8C1D3F30D"
+			}
+		}
+	}
+	"2911772"
+	{
+		"dlcappid" "2911770"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "938197630289205625"
+				"size" "1667"
+				"download" "1264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"balancing"
+			{
+				"gid" "A7C508FFAB4A1C4AF2F329962D8D9DFB"
+				"size" "3430EC7EB90E782CFED4AE00CB16D4EC"
+				"download" "5F2198419CCA5B5C67263062B967E73A"
+			}
+			"dev_branch"
+			{
+				"gid" "F60675E91E705EF5C653DE89392F8270"
+				"size" "05D8873EA1841705AAD0DD194DE65B0E"
+				"download" "66DBC617E5FDC367BCF7970B049AE329"
+			}
+			"dev_branch2"
+			{
+				"gid" "2C6E11B761A74651E8F62714E71EABD6"
+				"size" "306006DF5F10BDD317B276AE4A8E4449"
+				"download" "EDE4C563483939E1617B81F59B1D3EC7"
+			}
+			"ks_branch"
+			{
+				"gid" "828532113D117AF8D0F50A529118BF50"
+				"size" "8F59BAF9F07E3F6D3E4CF475CA2D0F47"
+				"download" "9826D973A53E9CF4BF870E7200C4514D"
+			}
+			"preview_branch"
+			{
+				"gid" "6C3241CBE88B5663B075E77446122C1F"
+				"size" "84F18822348C82DA3B9DDC68452C280D"
+				"download" "804FB975182979457609666733F1C086"
+			}
+			"qa_branch"
+			{
+				"gid" "5B675D321EECA9319C38A083E2BC91CC"
+				"size" "7C1C06A08F12CE6530C16766F89149FB"
+				"download" "39FC29A743DD9FCA868E10D5B529A72B"
+			}
+			"qa_branch2"
+			{
+				"gid" "64367AE223BEFF98E1358029FECA49AC"
+				"size" "DBF6BC9DB777966BEE4DFC500869028D"
+				"download" "64CC0A4243E184D93685C380C5F27DF2"
+			}
+			"review_branch"
+			{
+				"gid" "5E105B4A58EB6E6DE4EB74F44C2BDD65"
+				"size" "4A5E198557E84F7BD946A6BFF1591D90"
+				"download" "771C972E71088AD5AEE803F8C1D3F30D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16407650"
+			"timeupdated" "1731596276"
+		}
+		"balancing"
+		{
+			"buildid" "16407650"
+			"pwdrequired" "1"
+			"timeupdated" "1732003636"
+		}
+		"cert"
+		{
+			"buildid" "14303762"
+			"pwdrequired" "1"
+			"timeupdated" "1715612016"
+		}
+		"dev_branch"
+		{
+			"buildid" "16798334"
+			"pwdrequired" "1"
+			"timeupdated" "1734600690"
+		}
+		"dev_branch2"
+		{
+			"buildid" "16578134"
+			"pwdrequired" "1"
+			"timeupdated" "1733401310"
+		}
+		"ks_branch"
+		{
+			"buildid" "16407650"
+			"pwdrequired" "1"
+			"timeupdated" "1732003777"
+		}
+		"preview_branch"
+		{
+			"buildid" "16407650"
+			"pwdrequired" "1"
+			"timeupdated" "1732003788"
+		}
+		"qa_branch"
+		{
+			"buildid" "16407650"
+			"pwdrequired" "1"
+			"timeupdated" "1732003803"
+		}
+		"qa_branch2"
+		{
+			"buildid" "16534692"
+			"pwdrequired" "1"
+			"timeupdated" "1732627601"
+		}
+		"review_branch"
+		{
+			"buildid" "16407650"
+			"pwdrequired" "1"
+			"timeupdated" "1732003823"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ES2\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "LinuxHome"
+			"path" ".config/Epic/ES2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "ES2\\Saved\\SaveGames"
+					"replace" "Epic/ES2/Saved/SaveGames"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26739033"
+"_sha" "d5e7a93caec82ddade9d98fcbc0e93f8b0db73ce"
+"_size" "27875"

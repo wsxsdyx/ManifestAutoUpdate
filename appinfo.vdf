@@ -1,0 +1,245 @@
+"appid" "346680"
+"common"
+{
+	"name" "Black Mesa Dedicated Server"
+	"type" "Tool"
+	"oslist" "windows,linux"
+	"releasestate" "released"
+	"osarch" ""
+	"icon" "40e930f14e623018eff62e7bb38f44a7dd7c302d"
+	"clienticon" "1415b1b6fac6fda330c576e7de3a5e8bcc852f2a"
+	"clienttga" "294f739d2bf9ef4734cb1a11bec8b9dc23c05c4d"
+	"freetodownload" "1"
+	"associations"
+	{
+	}
+	"gameid" "346680"
+}
+"extended"
+{
+	"no_revenue_accumulation" "1"
+	"gamedir" "blackmesa"
+	"serverbrowsername" "Black Mesa"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Black Mesa Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "srcds.exe"
+			"arguments" "-steam -game bms"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"346682"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9159837158737103288"
+				"size" "45204520"
+				"download" "14485776"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6717280190829659861"
+				"size" "112573334"
+				"download" "37045904"
+			}
+			"black-mesa-de"
+			{
+				"gid" "6651014900891771239"
+				"size" "112643990"
+				"download" "37065392"
+			}
+			"april-2024-rollback"
+			{
+				"gid" "9159837158737103288"
+				"size" "45204520"
+				"download" "14485776"
+			}
+			"public-beta"
+			{
+				"gid" "2822371714927711640"
+				"size" "46491216"
+				"download" "14916736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "3D4F4778383E94CEC1DE36EC1C3F1DF2"
+				"size" "A7F527189044974BE66CE6C2B9957F0D"
+				"download" "591160AC7099B552E60901693AA37712"
+			}
+		}
+	}
+	"346683"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4821938341305737070"
+				"size" "85439887"
+				"download" "23021712"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6909355390652833361"
+				"size" "65293658"
+				"download" "16944720"
+			}
+			"black-mesa-de"
+			{
+				"gid" "3281609962914482076"
+				"size" "65325359"
+				"download" "16957280"
+			}
+			"april-2024-rollback"
+			{
+				"gid" "4821938341305737070"
+				"size" "85439887"
+				"download" "23021712"
+			}
+			"public-beta"
+			{
+				"gid" "8241029522223488155"
+				"size" "85447402"
+				"download" "23024192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "ABE146FFA6919EC424020472A5E93719"
+				"size" "88087BC185A3E809CC374D7C6160F638"
+				"download" "1F1890AC38DCD2A4BEF126A35E3FEF36"
+			}
+		}
+	}
+	"346681"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6332553555188295499"
+				"size" "29572220272"
+				"download" "12806079856"
+			}
+			"black-mesa-1-0"
+			{
+				"gid" "6421219417975466847"
+				"size" "27900582069"
+				"download" "12458952352"
+			}
+			"black-mesa-de"
+			{
+				"gid" "5265910307883701012"
+				"size" "29492190564"
+				"download" "13095509168"
+			}
+			"april-2024-rollback"
+			{
+				"gid" "6332553555188295499"
+				"size" "29572220272"
+				"download" "12806079856"
+			}
+			"public-beta"
+			{
+				"gid" "8670107969863158838"
+				"size" "29573784583"
+				"download" "12806396672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developer"
+			{
+				"gid" "341E7E636C31B7966D5CFB5E7086FB90"
+				"size" "E953312EEB4F4970FCD5D4A6C2FACC94"
+				"download" "BFE0645C461064BFA59624973CA14315"
+			}
+		}
+	}
+	"221145"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4937448015887180629"
+				"size" "802575181"
+				"download" "599018544"
+			}
+		}
+		"depotfromapp" "221140"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14122831"
+			"timeupdated" "1713898997"
+		}
+		"black-mesa-1-0"
+		{
+			"buildid" "4815927"
+			"description" "The March release of Black Mesa 1.0"
+			"timeupdated" "1603678780"
+		}
+		"black-mesa-de"
+		{
+			"buildid" "7336718"
+			"description" "Definitive Edition"
+			"timeupdated" "1713200359"
+		}
+		"april-2024-rollback"
+		{
+			"buildid" "14122831"
+			"description" "Rollback before reimplementation of DXVK"
+			"timeupdated" "1731521319"
+		}
+		"developer"
+		{
+			"buildid" "16703694"
+			"pwdrequired" "1"
+			"timeupdated" "1733897728"
+		}
+		"public-beta"
+		{
+			"buildid" "16239606"
+			"timeupdated" "1731019143"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26587894"
+"_sha" "5eba489c5ba1be90f7abc68eb3f8830a90b3b601"
+"_size" "4405"

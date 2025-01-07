@@ -1,0 +1,1250 @@
+"appid" "1058830"
+"common"
+{
+	"name" "Spin Rhythm XD"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "6c21f277041bc09df611dba61c70aa6d26e00e41"
+	"logo_small" "6c21f277041bc09df611dba61c70aa6d26e00e41_thumb"
+	"icon" "588e1d9d4f206a77bdfe2f25f941d74498a30540"
+	"clienttga" "9210ca16fd0d5f2cdeb95feb54f720ee336030d0"
+	"clienticns" "afdd373494a656f95a1e11a9953c766cea55d3b0"
+	"linuxclienticon" "3dc18a97337379f9c210f36548e1109762d69ced"
+	"clienticon" "126023285f77e60ded7073c7072515437ccb5101"
+	"releasestate" "released"
+	"osextended" "macos64,macosapplesilicon"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"openxrsupport" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1677888000"
+		"tested_build_id" "10203178"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Spin Rhythm XD"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "49.973454567461516"
+			"height_pct" "81.29566488066244"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "49.973454567461516"
+				"height_pct" "81.29566488066244"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+	}
+	"store_asset_mtime" "1721630433"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Super Spin Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Super Spin Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_28" "1"
+		"category_33" "1"
+		"category_2" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_17" "1"
+		"category_1" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_49" "1"
+		"category_52" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1678806405"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1058830"
+	"store_tags"
+	{
+		"0" "1752"
+		"1" "1621"
+		"2" "492"
+		"3" "597"
+		"4" "19"
+		"5" "4026"
+		"6" "3859"
+		"7" "7481"
+		"8" "4182"
+		"9" "1734"
+		"10" "1773"
+		"11" "4305"
+		"12" "4295"
+		"13" "1755"
+		"14" "4191"
+		"15" "1027"
+		"16" "493"
+		"17" "5608"
+		"18" "5055"
+		"19" "15045"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "Super Spin Digital"
+	"publisher" "Super Spin Digital"
+	"homepage" "https://www.spinrhythmgame.com/"
+	"listofdlc" "1664540,1668790,1668791"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Spin Rhythm"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SpinRhythm.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "SpinRhythm.app\\Contents\\MacOS\\Spin Rhythm XD"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "SpinRhythm.exe"
+			"arguments" "-xr"
+			"type" "openxr"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2531287379"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "ea12,ea13,ea14,ea15,ea15_2,ea17,ea18_3"
+			"use_action_block" "false"
+		}
+		"2534192490"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,communitysneakpeak,latest"
+			"use_action_block" "false"
+		}
+		"2946885482"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,communitysneakpeak,private1.0beta"
+			"use_action_block" "false"
+		}
+		"2946891901"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+		"2946905234"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,brazilian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1058832"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3546695776785407582"
+				"size" "1121845013"
+				"download" "918394896"
+			}
+			"update16"
+			{
+				"gid" "3967904376693158476"
+				"size" "746476537"
+				"download" "605983152"
+			}
+			"vr_disabled"
+			{
+				"gid" "6912864021028673610"
+				"size" "1121845013"
+				"download" "918394896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"buildtest"
+			{
+				"gid" "5BDBB6E0B0EE8177C85F0A72A1274500"
+				"size" "96056D36B1114D748D7C703F75B9CBEC"
+				"download" "18CD92AA048DCE3ED9C62104A84F6C9E"
+			}
+			"debugpublic"
+			{
+				"gid" "FC8DC18DF9EB82C727F963280F11625E"
+				"size" "C3B2594FDF2DF74333987EACA042563D"
+				"download" "2B81C5ED23EEAA8DF304A161DCC75920"
+			}
+			"ea10"
+			{
+				"gid" "F55FB58A189CBC5A3BC4A1335741F024"
+				"size" "2FFED1AE4273B30A38B5C96A743468F1"
+				"download" "EED2C168D605FE3B89DD8F37BE1471C3"
+			}
+			"ea11"
+			{
+				"gid" "E968178E24A9C1CDB277C2E606842B36"
+				"size" "E685771198B9459365F7722EF2276DA4"
+				"download" "33FAEA8E85D3E617E1AD87359BBD18A6"
+			}
+			"ea12"
+			{
+				"gid" "475372B4E3FC30E3D8AE4087607BD923"
+				"size" "471AA2873CC883C16B4BBF37E2278214"
+				"download" "55724E65FD440A8BEC1C002B42F0AEAD"
+			}
+			"ea13"
+			{
+				"gid" "5F8C74659841A7C7BE79AEF07CC06488"
+				"size" "2D172C93D1B25B2207317D056620BB66"
+				"download" "F009A22F605846876840D96781D588CF"
+			}
+			"ea14"
+			{
+				"gid" "C640B730813674E9403051624D0A70C1"
+				"size" "C8DCAE84BDCFFBDEDC9C6674166FBC13"
+				"download" "D37C5FB89F7A6E4A8A1D678F21BF45C0"
+			}
+			"ea15"
+			{
+				"gid" "EEF75FAA83D028F41B0626CBAA07BD8A"
+				"size" "0FE374BA16643C3F5118725B57D7FF67"
+				"download" "2ADAA68763F616428207402EA98413AC"
+			}
+			"ea17"
+			{
+				"gid" "999B8624137350F49C4BF81F7A2CA052"
+				"size" "95C4044C73F3656712B03023CCA4C839"
+				"download" "9525CF3EABA4BB7F42136E214603ED00"
+			}
+			"ea18_3"
+			{
+				"gid" "A065B7FA94885D59AE6D9A9F0BD44C2D"
+				"size" "3B5706EC38FE6DC872D9FA7064CAE061"
+				"download" "1949CC25A227BD285DB9B486842588B5"
+			}
+			"gamepadtweaks"
+			{
+				"gid" "9E1AD9F347F911F97A3F2C9FAA463BE8"
+				"size" "F307B4CA1947CAE6F9B6B395D4934D6B"
+				"download" "CAB217F01268763F800423ABBC03390A"
+			}
+			"giffable"
+			{
+				"gid" "5B3DBA4234FDD91039A61E0511137E08"
+				"size" "90206A0E7EFAF3D78C90D3C35BC78BD8"
+				"download" "75BA60DEDC4B256683FF58B191B8815B"
+			}
+			"il2symbols"
+			{
+				"gid" "B4BB5E7707797B7D2CFF40296FE233B1"
+				"size" "318EC674B197335C17C1C6953CCA0CCC"
+				"download" "2F523FFE9CAD249276E40128794C80E5"
+			}
+			"nextupdate"
+			{
+				"gid" "E981EC230137DA6F84F4BB414914103A"
+				"size" "1AF46EE5D7BEA729CFE0A0E1B67CFD06"
+				"download" "02E0F34516739A18259C0F7224C7A074"
+			}
+			"private1.0beta"
+			{
+				"gid" "DDA8D1EFA5A53D6ACF68C62CF74A4DDB"
+				"size" "3D12EB24B3CB43233159647197C71668"
+				"download" "DAF224828B5D3425487BD640E83B62C3"
+			}
+			"radiopublic"
+			{
+				"gid" "F2D2A27F841F88B5E2EB36C5EFA6F409"
+				"size" "3480D5A1FE437E27CA2B9D53927F4D39"
+				"download" "32CC310D862CEA1B8A03E476AD1628FF"
+			}
+			"communitysneakpeak"
+			{
+				"gid" "315D6EF2A9F8F3980D42CB2A461B4BC1"
+				"size" "CBC61D2A46B6231650D135FC8ACE70D3"
+				"download" "C60C33B5D49D66583F4DF519C740C51C"
+			}
+			"doyouknowtheway"
+			{
+				"gid" "5E4BD5343D1669F6594EBFCE445C50C4"
+				"size" "E1AAE62E5B6497F3DAE1690F2BD0C456"
+				"download" "93688DAD163ECA1309C4F1B7B6594EC8"
+			}
+			"endlessmode"
+			{
+				"gid" "F9386224BF4A81D04E7D8680623B7C3D"
+				"size" "78CB5AED5C4DE34649CA590985CF11CF"
+				"download" "641047B5E75351ABB73CBA7EA1016856"
+			}
+			"expobuild"
+			{
+				"gid" "72B7467074635F3E14AEBEB4795B2BBA"
+				"size" "C98F7B495CE6B716471CDFC6DFE9CD67"
+				"download" "017977A38980C3D2E5F75E4742B82D2F"
+			}
+			"latest"
+			{
+				"gid" "7B5255022EB7181045588A1244B12558"
+				"size" "61823817AD2CF59063C13AF9140C9B40"
+				"download" "E3A3DAE68CA65E9C8B4CCBCE2C880385"
+			}
+			"nonvrtest"
+			{
+				"gid" "522AB359931B0A7733F0FA17C743BD73"
+				"size" "C9721B498BFA2F7ADD2FF3B1F379E32D"
+				"download" "B618B22DE01A04B000168DA224C6099C"
+			}
+		}
+	}
+	"1058831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "772453060841265175"
+				"size" "1113872828"
+				"download" "925886768"
+			}
+			"update16"
+			{
+				"gid" "8189507720046916176"
+				"size" "749965472"
+				"download" "613302640"
+			}
+			"vr_disabled"
+			{
+				"gid" "1904236263095104815"
+				"size" "1111151648"
+				"download" "925133008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"buildtest"
+			{
+				"gid" "95B85AFF5C70D85E307697CCA42BE4D1"
+				"size" "CC0FD9906288BC9C9AFDC95A85C7983F"
+				"download" "D12EC871166D6E0F6B127C62D91A36C1"
+			}
+			"debugpublic"
+			{
+				"gid" "EF3C2EE1FD81342FD580C83508ED1C71"
+				"size" "9E3B73690A808B116AAE981F769E8AF2"
+				"download" "ADE3DFACCAF8EAF7AAC2B88D01B39F8C"
+			}
+			"ea10"
+			{
+				"gid" "2ED09C66D856A0CED08BBE70C6234697"
+				"size" "C37B167389175D4D935916D88B841035"
+				"download" "A90B054ECB1C7F4BA51167B0F3D76ABB"
+			}
+			"ea11"
+			{
+				"gid" "EAB5DE33C1A6D5585070261014504100"
+				"size" "16F81F61443DB81B8C49ECA9E09284AA"
+				"download" "D0B1D017D88712684C6C0392D5C92A16"
+			}
+			"ea12"
+			{
+				"gid" "DB626FF237898E81442DBC409E8EC5F5"
+				"size" "D2ED5F614C0098C4FAE094A6C0E1552B"
+				"download" "117460E1699472A94A0D11F81B799630"
+			}
+			"ea13"
+			{
+				"gid" "83EF3C8D5D733309D78CE19C8DB8D67E"
+				"size" "276B4941884C36113C742296DC3A6570"
+				"download" "3BC5000601DBB1A83D95802F4C8C2582"
+			}
+			"ea14"
+			{
+				"gid" "48BF87774C27C829FD5CEED4BBF2F957"
+				"size" "465518EBBAD0AA26ABB05ACC37BFA036"
+				"download" "71F7608D85008F77999B064B4154BD56"
+			}
+			"ea15"
+			{
+				"gid" "B3001712B1CD0B8177FB56802F9FEADB"
+				"size" "B29634345C7ABA3097F1989AA380246B"
+				"download" "5E68A8BF9E3843A78206184F11297385"
+			}
+			"ea17"
+			{
+				"gid" "E86486F318B139517B9CD211E6AAC859"
+				"size" "FBEB282205BC6BE044956FFAB817C1D0"
+				"download" "552CFA345ADBE410520BC2D03CD7CCC9"
+			}
+			"ea18_3"
+			{
+				"gid" "506749E8233E847A49D877A432A05AFA"
+				"size" "9BB31E8E68E61497A2280501C3017B2B"
+				"download" "AF3ED178220182BA6A68AEE8522797D6"
+			}
+			"gamepadtweaks"
+			{
+				"gid" "71D05F01B62BD3925B4A08EDCEFDCEB0"
+				"size" "C47F0B0F11C076C4334BE646B1F48C6A"
+				"download" "4052B407C53FB3884D664C81BC82E15E"
+			}
+			"giffable"
+			{
+				"gid" "10D58CEEE1D0CE7438EA84F932CAC20A"
+				"size" "58DE262D6AF7EE647290DFEFAA80C6AF"
+				"download" "5E08863840694A80485395B0F548BBF0"
+			}
+			"il2symbols"
+			{
+				"gid" "6C9304C5567D6D1518C19EC6B3DA0D18"
+				"size" "F5FAEABB0DF7353CFD76A8B6E014CC25"
+				"download" "0C2FBFA358AD066C5C29849A2ADDDE52"
+			}
+			"nextupdate"
+			{
+				"gid" "69E28EB703E1A19EEAAC1CC80C7615BC"
+				"size" "63DAD9C8A57CB8E4F67B6F7F126E2B32"
+				"download" "45C8F30B9B3C7939052EBD9B69F2EF86"
+			}
+			"private1.0beta"
+			{
+				"gid" "3079844135CAAC2AADF7A7F60AC86B77"
+				"size" "3B80E3A129485F71199B34C4186A402A"
+				"download" "EE8728CE79CCEBBAE117A8BA4DF9E2CC"
+			}
+			"radiopublic"
+			{
+				"gid" "F7C8D7D01502D47C0290EA5EB93EE37A"
+				"size" "37E78D0E38CD2808D4E3BD4C6AF38D1E"
+				"download" "E6AAFCA3DD3E3FE251EBD55D0764E5D2"
+			}
+			"communitysneakpeak"
+			{
+				"gid" "A06EC42B03C3E27ED380F783D9954F05"
+				"size" "E5703ACB99FAD9FBD7AC4BA6D7ECA1BA"
+				"download" "93F0E5DFA69A6085D32427B59999E114"
+			}
+			"doyouknowtheway"
+			{
+				"gid" "BED9C46B0CB05BAA06C540AB6386B2DE"
+				"size" "A85A9C04502940D295A45A5834EBA97B"
+				"download" "13C4B4B5DA21DFDE677DA80005A6BFE1"
+			}
+			"endlessmode"
+			{
+				"gid" "7E745E72A33FF044E3A9B9D2A51D8962"
+				"size" "BBF413E5BA207DD36A732791C82CFD64"
+				"download" "E7885E4EAEA36A9E446F662CD223928E"
+			}
+			"expobuild"
+			{
+				"gid" "224BB3B0B9799F127DC59A98DA6FE494"
+				"size" "664661B75EF51DBCB0002EF88FB16594"
+				"download" "9B491AFD2B165C7C05FDD45643E80754"
+			}
+			"latest"
+			{
+				"gid" "8742E5C805E1DF2B22DFD7B53EB8AC86"
+				"size" "3E0EAFE700F30010680BE09E11C06E9D"
+				"download" "9493FC8C64A1DBD3645D0DEC7F69438D"
+			}
+			"nonvrtest"
+			{
+				"gid" "B18A63258B4A19F442767003CADDD50B"
+				"size" "A773786F5C35EA45310099EEFC324960"
+				"download" "C2C3E07E467F6EBE0866ACA1C1720054"
+			}
+		}
+	}
+	"1668790"
+	{
+		"dlcappid" "1668790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2052352720918009819"
+				"size" "120912884"
+				"download" "117278016"
+			}
+			"update16"
+			{
+				"gid" "8307690183691697815"
+				"size" "109035146"
+				"download" "108731712"
+			}
+			"vr_disabled"
+			{
+				"gid" "2052352720918009819"
+				"size" "120912884"
+				"download" "117278016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugpublic"
+			{
+				"gid" "62142DF8D0C6123CFAAF7814916E22FE"
+				"size" "F7B3DAF53C2E5F5C993F6137DF7A1BB3"
+				"download" "5C929E84C8F5E8F63DA70CFA1856C65A"
+			}
+			"ea10"
+			{
+				"gid" "EF03169BEFC14BF06778B1963747BD81"
+				"size" "AA03AC461DF24BA77A9999D6A1B1B8CB"
+				"download" "F5473EF3B2D35982E0184EA3B89B07A4"
+			}
+			"ea11"
+			{
+				"gid" "4252104AAB617D95C0B60B0F050B9FFB"
+				"size" "B90E1C2ABE221FA12FBEC2124C034046"
+				"download" "AFE83494C672B0348D26A0B93A8AA1BE"
+			}
+			"ea12"
+			{
+				"gid" "D3E5F77524DFACBC0E3762923CF123C8"
+				"size" "C3730619A1F0697AD6A27C0452FC9437"
+				"download" "580F8E94BAA8611F6FFA7DB388AABC5D"
+			}
+			"ea13"
+			{
+				"gid" "9FC1933E9F711D80E441CA56CB4DEF1E"
+				"size" "0FEE0DEEF57910C8CCECFFF793CAA474"
+				"download" "C0E28448BD0EC5DC93B2037AA7338A01"
+			}
+			"ea14"
+			{
+				"gid" "523AC677A711465F7677A891573DE2E1"
+				"size" "461EF8C6CDF5A5CC108C59E89CC2E3D7"
+				"download" "06B11B1475270765141C727B48639679"
+			}
+			"ea15"
+			{
+				"gid" "580C7630D817409FD2E7EE75291353AE"
+				"size" "68A95E2AB3D42372FF0C2DC33935EDF2"
+				"download" "B69F3C7EB2FA5A40C31FCDE090ECD6DF"
+			}
+			"ea17"
+			{
+				"gid" "EAC20F51DC4A80F02B7AE4C117D69FD8"
+				"size" "27DCB12FE41EB40A609DC90E00BEE4C6"
+				"download" "D0536B4453551C5A7A0A80779242EADA"
+			}
+			"ea18_3"
+			{
+				"gid" "F7F39C7E9523DB934554B306C3B01094"
+				"size" "1621E8916BD80E2426AD5FCC678CABC5"
+				"download" "FEF2A868B6812294A47ECD05F08AA92E"
+			}
+			"gamepadtweaks"
+			{
+				"gid" "D20457D51F82608AB6663A24FF8D4824"
+				"size" "122775BDB7CD3241251D4D0F57E595A5"
+				"download" "ACF10A3D380D8C7CBEA34F7BC5325FD3"
+			}
+			"giffable"
+			{
+				"gid" "A50779C083A143873C414640D14D122B"
+				"size" "815CC58B0F4D1D4D8ED080BBBA135442"
+				"download" "17726F3285AC9B2A4D713A76FE45D399"
+			}
+			"il2symbols"
+			{
+				"gid" "A00291AF369426FDC77A5687DC84E3E2"
+				"size" "27D6E4C634210A4F1904DE471A3AB1E3"
+				"download" "DAB81EC8AF510745DD3EFCFD7223F589"
+			}
+			"nextupdate"
+			{
+				"gid" "05D307802BBF9AC72026312237422224"
+				"size" "4090114AD8DEEAF11D8225342518EAAD"
+				"download" "03D5A0C1BF255ABEED5606C146DBF341"
+			}
+			"private1.0beta"
+			{
+				"gid" "0A31F6481E1772375553C7EBFE975C33"
+				"size" "CB6C060F622DE1995634FF224A9EC4B3"
+				"download" "3A6771CD9D7C754B0F1C2CCCB8C57D98"
+			}
+			"communitysneakpeak"
+			{
+				"gid" "049E27BB2F7DCF29671C2C8D01A17DE7"
+				"size" "36295DB2C70B5C18E4F87FEFB1935561"
+				"download" "1C086EB838A8EF40D144DB85BCB96A66"
+			}
+			"doyouknowtheway"
+			{
+				"gid" "E62EDBB09602D088DD7F5711FBB69323"
+				"size" "8CEFC4ADB2E4018A12929446E948F455"
+				"download" "9245BF4D8A84FE96E2DD6FB8A45F54FD"
+			}
+			"endlessmode"
+			{
+				"gid" "3E548C9AA06E9758D5AB344F2211E115"
+				"size" "4C6D84F31E74B110D6F9431613D71C8E"
+				"download" "A631F3E447E1DD00F2281D09920FC6B9"
+			}
+			"expobuild"
+			{
+				"gid" "6B0A9F41888C11C9065CFA35170FF911"
+				"size" "D295F57C9F2B95299F9825C8B6337BB4"
+				"download" "E626E33B7A82D5C58E86C6611E06D0A5"
+			}
+			"latest"
+			{
+				"gid" "024D3BEB2C0BD82E41C1C490AFF45DA1"
+				"size" "FD2F3885812D22BF5D62A528030A49CB"
+				"download" "FE21A5F5A2FEF0DFCAAF4BFB43A1A471"
+			}
+			"nonvrtest"
+			{
+				"gid" "4EC0DBBC82E3927BFFF750783AAF213A"
+				"size" "068B05442A782C4835485E5151EC346C"
+				"download" "A5037CD91D09ED527590920FBD053B7E"
+			}
+		}
+	}
+	"1668791"
+	{
+		"dlcappid" "1668791"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4558804745297557413"
+				"size" "93173822"
+				"download" "88011616"
+			}
+			"update16"
+			{
+				"gid" "6077303655533095131"
+				"size" "78628181"
+				"download" "77913232"
+			}
+			"vr_disabled"
+			{
+				"gid" "4558804745297557413"
+				"size" "93173822"
+				"download" "88011616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debugpublic"
+			{
+				"gid" "E65145FA140CA78C6735B0F3EAF144D9"
+				"size" "56791B9A620AF1164ED15F0B10140A18"
+				"download" "70DB5FA7BCA2CD9BEFD385D2F11487B8"
+			}
+			"ea10"
+			{
+				"gid" "14902AF4C9B3989A2D98A11B027AA4A3"
+				"size" "75A774C13E20EF3F441BA6D1A49F7EC4"
+				"download" "9409161793E13C3A4EE3CD83547F0227"
+			}
+			"ea11"
+			{
+				"gid" "2DE477EB7E367C8DB16F139EEF01E167"
+				"size" "DA2A27B51EA5D9CA41DE3D1E90D197B8"
+				"download" "2441788F4BE0D04FEC82C167FB6916A6"
+			}
+			"ea12"
+			{
+				"gid" "1C899CA678693048D637BB48A752DABA"
+				"size" "08329CBDB34ED1F1C8273F3527CE9468"
+				"download" "C2BCD3A3D3066C8FBFD53D59DDC25034"
+			}
+			"ea13"
+			{
+				"gid" "DD5EA184871735164FAF4B7879802C79"
+				"size" "7358F9EEE627F2E764C9BAD5CF5F003D"
+				"download" "3471C69228C6598EF72D7B37AE9CFD2F"
+			}
+			"ea14"
+			{
+				"gid" "575A93257B91BC83634335A356AB0008"
+				"size" "39F13C7C106C67482D310FC20B16D521"
+				"download" "059DE0C001B823BF45BEBFF338BA23E6"
+			}
+			"ea15"
+			{
+				"gid" "514AC3DA744E7AA8A4F21445A1E72BD5"
+				"size" "398A4A28347AAF6698572300C7FC6BCE"
+				"download" "7F2D0498573699023739ADB05FA2A2AD"
+			}
+			"ea17"
+			{
+				"gid" "A4B1D29C2D3829892C6D14284311A44A"
+				"size" "BCA59331022C60BB002E8FCD529B4DEF"
+				"download" "E2B2B6AED64EEF96F726BF41A535211B"
+			}
+			"ea18_3"
+			{
+				"gid" "55E25054AFA2EAC27086687CF701BA00"
+				"size" "AD489BFBCBFC8A1718C03951086196F4"
+				"download" "547D5ACD8C69506786D45C7EB82C67AE"
+			}
+			"gamepadtweaks"
+			{
+				"gid" "FDFE2EE7699247AAC4D8C789C85AEF95"
+				"size" "0880033CA875F4F28E1C73DFF13388D3"
+				"download" "E31C1412A70B7031DFCB0D9C39AC1804"
+			}
+			"giffable"
+			{
+				"gid" "0783CFBF834A8D0AE9F95F2ADFA27B62"
+				"size" "40EA386C8D82CB3363ED98B3ED147748"
+				"download" "FF17A15ADE1BE2E2153489593387F64C"
+			}
+			"il2symbols"
+			{
+				"gid" "F8A64DCD8FC5044CDA49F2BEFA47D376"
+				"size" "25826E5C3514819BB27D5BEAA97AD91F"
+				"download" "46DD4BFB9AA01DF2AEB79C1ABF8DA3A0"
+			}
+			"nextupdate"
+			{
+				"gid" "55E0314CA499C605AEE9AC6E309DE6AB"
+				"size" "3D3AD1AE75F49FDF7EB1CC2E5A16CEEE"
+				"download" "6CD52F13592F43C2D09D50BDC3264533"
+			}
+			"private1.0beta"
+			{
+				"gid" "FFA66947F34DA715A8A8C117DF88282E"
+				"size" "1D8DC7562B8E2256AF3188D7844E7CD9"
+				"download" "DDAF5622B8C57FC9C4B729984E9AE210"
+			}
+			"communitysneakpeak"
+			{
+				"gid" "56D0F02EB05EE1455530E7469A380A15"
+				"size" "CBA7125A4063ED94A04C7679AD3F416B"
+				"download" "8785C9680860E4BA6080C3F9C5714C22"
+			}
+			"doyouknowtheway"
+			{
+				"gid" "0FD53A6216247C3A6C04222227331C82"
+				"size" "9A09D9AC1D4AFB44A9FC1666AE4CC188"
+				"download" "77B296234003374E51265794F10BB02F"
+			}
+			"endlessmode"
+			{
+				"gid" "7C6F4D518118F8BE780AEE9E4D5C0DC1"
+				"size" "B7A44FEDCF6DAA6C944B4FB2B58DFDED"
+				"download" "BD73B7EA00E9A50F7677032B81F8A260"
+			}
+			"expobuild"
+			{
+				"gid" "A9A0EE47933F44B701DE9C7EC64D5E73"
+				"size" "12B897E15E31784E182D1174AE1755F8"
+				"download" "B2F0605FC3F8A5E0151F6C1D0ECC0A3E"
+			}
+			"latest"
+			{
+				"gid" "D5DBD884409985FF6940056B86DFBB2B"
+				"size" "F7116147ED66D291B7C66464514CF3AB"
+				"download" "6F1E53A62BAEB8BBC086BCC52DAEACF1"
+			}
+			"nonvrtest"
+			{
+				"gid" "DC5F373288E1A19920F1614D13C3A12D"
+				"size" "3C0619F2311E9EA2F6F5011C6F02CA74"
+				"download" "66F09CD6398AB2BE2C4C5667415B90DB"
+			}
+		}
+	}
+	"1664540"
+	{
+		"dlcappid" "1664540"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4448660817873807239"
+				"size" "23864550"
+				"download" "15719856"
+			}
+			"vr_disabled"
+			{
+				"gid" "4448660817873807239"
+				"size" "23864550"
+				"download" "15719856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gamepadtweaks"
+			{
+				"gid" "AB34F67D7A1EF4963CADCB3847E1A956"
+				"size" "58CF63B746E808D8CA9BB77CD62ADDE1"
+				"download" "253B2B88D7D48E7941A0DA2E0DAEB5D9"
+			}
+			"communitysneakpeak"
+			{
+				"gid" "FC29968B61AC2BB08AFBD551C81474BF"
+				"size" "4F21D307E11A951DA57913DAF9F3449C"
+				"download" "6BE372CA447D86B69D26825E5604C313"
+			}
+			"doyouknowtheway"
+			{
+				"gid" "508A1D035CA61DB09D341317286AD18D"
+				"size" "D2259FD2AEE601B41857CD1D6944FBE3"
+				"download" "83C4D942218B77C07A6C0F0CDA9A8863"
+			}
+			"endlessmode"
+			{
+				"gid" "4ABB504C48BD7316FCCF3EEF85D35EEC"
+				"size" "766854F66082436C87B5AC881295AF04"
+				"download" "7561BAAFFB9A7798CC03B8F80EE491DC"
+			}
+			"expobuild"
+			{
+				"gid" "0AABF36E677C4B01D75B50A81E5DE880"
+				"size" "41198DF4B9D9B41977DC481550493125"
+				"download" "03DD8B48BD6038D744E1B9C5FA3F383D"
+			}
+			"latest"
+			{
+				"gid" "6BEA0B3CA762C52D07310D4A770A1917"
+				"size" "869920AF8FDBF31F0AB96A5CFE74F005"
+				"download" "4DCD1B8CBD9D79C9F44254F2288F83E2"
+			}
+			"nonvrtest"
+			{
+				"gid" "8B56BCCE9734FBB95FED2D8DCF91DCE2"
+				"size" "92281BF1E282935AEB657B9608B63734"
+				"download" "019CB91C62112FEA69E3D0ECF50A53B8"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16230431"
+			"timeupdated" "1730273032"
+		}
+		"buildtest"
+		{
+			"buildid" "6169820"
+			"pwdrequired" "1"
+			"timeupdated" "1612188231"
+		}
+		"debugpublic"
+		{
+			"buildid" "10785030"
+			"pwdrequired" "1"
+			"timeupdated" "1678972695"
+		}
+		"ea10"
+		{
+			"buildid" "7550462"
+			"pwdrequired" "1"
+			"timeupdated" "1634524043"
+		}
+		"ea11"
+		{
+			"buildid" "7550451"
+			"pwdrequired" "1"
+			"timeupdated" "1634523945"
+		}
+		"ea12"
+		{
+			"buildid" "6979766"
+			"pwdrequired" "1"
+			"timeupdated" "1634523756"
+		}
+		"ea13"
+		{
+			"buildid" "7557423"
+			"pwdrequired" "1"
+			"timeupdated" "1636153478"
+		}
+		"ea14"
+		{
+			"buildid" "7673700"
+			"pwdrequired" "1"
+			"timeupdated" "1636354097"
+		}
+		"ea15"
+		{
+			"buildid" "7925349"
+			"pwdrequired" "1"
+			"timeupdated" "1640222346"
+		}
+		"ea17"
+		{
+			"buildid" "8611222"
+			"pwdrequired" "1"
+			"timeupdated" "1650722331"
+		}
+		"ea18_3"
+		{
+			"buildid" "10189122"
+			"pwdrequired" "1"
+			"timeupdated" "1671603551"
+		}
+		"gamepadtweaks"
+		{
+			"buildid" "11691819"
+			"pwdrequired" "1"
+			"timeupdated" "1689294640"
+		}
+		"giffable"
+		{
+			"buildid" "10575344"
+			"pwdrequired" "1"
+			"timeupdated" "1676633259"
+		}
+		"il2symbols"
+		{
+			"buildid" "6924955"
+			"pwdrequired" "1"
+			"timeupdated" "1624519407"
+		}
+		"nextupdate"
+		{
+			"buildid" "8013266"
+			"pwdrequired" "1"
+			"timeupdated" "1642064911"
+		}
+		"private1.0beta"
+		{
+			"buildid" "10854110"
+			"pwdrequired" "1"
+			"timeupdated" "1679725248"
+		}
+		"radiopublic"
+		{
+			"buildid" "4542960"
+			"pwdrequired" "1"
+			"timeupdated" "1578239240"
+		}
+		"update16"
+		{
+			"buildid" "8197193"
+			"description" "The game as it was before update 17"
+			"timeupdated" "1652537609"
+		}
+		"communitysneakpeak"
+		{
+			"buildid" "16230431"
+			"pwdrequired" "1"
+			"timeupdated" "1730265318"
+		}
+		"doyouknowtheway"
+		{
+			"buildid" "13766589"
+			"pwdrequired" "1"
+			"timeupdated" "1710678824"
+		}
+		"endlessmode"
+		{
+			"buildid" "16232729"
+			"pwdrequired" "1"
+			"timeupdated" "1730273054"
+		}
+		"expobuild"
+		{
+			"buildid" "14623014"
+			"pwdrequired" "1"
+			"timeupdated" "1717665776"
+		}
+		"latest"
+		{
+			"buildid" "16349830"
+			"pwdrequired" "1"
+			"timeupdated" "1731122499"
+		}
+		"nonvrtest"
+		{
+			"buildid" "15157755"
+			"pwdrequired" "1"
+			"timeupdated" "1721961867"
+		}
+		"vr_disabled"
+		{
+			"buildid" "16231929"
+			"description" "Version 1.4 with VR disabled. Use this in case your game is not launching"
+			"timeupdated" "1730267432"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+			"pattern" "*.dat"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+					"replace" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+					"replace" "Super Spin Digital/Spin Rhythm XD/{64BitSteamID}/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26744277"
+"_sha" "f454a1ba80d6de6a295411c178d291a434177bff"
+"_size" "28584"

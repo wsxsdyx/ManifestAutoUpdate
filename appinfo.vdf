@@ -1,0 +1,857 @@
+"appid" "686810"
+"common"
+{
+	"name" "Hell Let Loose"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "ff6cb9cead3dd68eb9f67bab6612abacde0c23d9"
+	"clienttga" "073c5b3b4d1f18443b11382dea5cde73e286a122"
+	"icon" "34a4b24b1132045d8e59e56b9c24bed725af55c7"
+	"logo" "da1a34ca8923a4a64b5ee281bdfc9e043c5d8b19"
+	"logo_small" "da1a34ca8923a4a64b5ee281bdfc9e043c5d8b19_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "686810_eula_0"
+			"name" "Hell Let Loose EULA"
+			"url" "https://store.steampowered.com//eula/686810_eula_0"
+			"version" "5"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "人间地狱"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1718841600"
+		"tested_build_id" "14188787"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Hell Let Loose"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "d32131283addc0aa9b28c3dd8749458a3cbc35a3/capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-xc,zh-cn,en"
+		"library_hero" "en"
+		"library_hero_blur" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "77.24362355677829"
+			"height_pct" "77.77777777777777"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"english" "3bf096bb9431c6831af7cdec034cf4daae101fd2/library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "3bf096bb9431c6831af7cdec034cf4daae101fd2/library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "0f0761f5813d32c0b53ee746bc0bee90d6a6b76c/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "0f0761f5813d32c0b53ee746bc0bee90d6a6b76c/library_hero_2x.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "0f0761f5813d32c0b53ee746bc0bee90d6a6b76c/library_hero_blur.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "77.24362355677829"
+				"height_pct" "77.77777777777777"
+			}
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "e697614efbead7a7cd90c0c5dc4483171c8ec2e9/library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1732639369"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team17"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1627401600"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hell-let-loose\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "686810"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "4150"
+		"2" "4175"
+		"3" "1663"
+		"4" "3859"
+		"5" "4182"
+		"6" "1678"
+		"7" "19"
+		"8" "4168"
+		"9" "1708"
+		"10" "599"
+		"11" "3839"
+		"12" "128"
+		"13" "4345"
+		"14" "3987"
+		"15" "1775"
+		"16" "9"
+		"17" "5611"
+		"18" "4667"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=686810"
+	"gamedir" "hlldir"
+	"serverbrowsername" "Hell Let Loose"
+	"developer" "Team17"
+	"publisher" "Team17"
+	"homepage" "https://www.hellletloose.com/"
+	"listofdlc" "1091850,1091851,1205050,1313020,1647950,1647960,1647961,1647962,1647963,1647964,1647965,1647966,1647967,1647968,1656970,1656971,1656972,1656973,1656974,1793010,1793011,1793012,1793013,2175550,2331690,2331691,2401900,2401901,2475320,2623000,2677820,2709180,2805150,2805160,2819760,2885540,3012950,3178960,3312110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hell Let Loose"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch_HLL.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"13"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"description" "Development (no EAC)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_testing"
+			}
+		}
+		"14"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Shipping.exe"
+			"description" "Shipping (no EAC)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_testing"
+			}
+		}
+		"26"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"27"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_team17"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"28"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_main_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"29"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_main_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"30"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_wip_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"31"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_wip_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"34"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"37"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_release_update15_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"38"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_release_update15_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"39"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "oss_testing"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"40"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team2"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"41"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team2"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"42"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team3"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"43"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team3"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"44"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cert"
+			}
+			"description_loc"
+			{
+				"english" "Test Build"
+			}
+			"description" "Test Build"
+		}
+		"45"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "cert"
+			}
+			"description_loc"
+			{
+				"english" "Development Build"
+			}
+			"description" "Development Build"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"686811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7439186993929616502"
+				"size" "50419858748"
+				"download" "23109129136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cert"
+			{
+				"gid" "91A1965A2158B4C6453336DCFAD4513F"
+				"size" "BB5DD07367CB1218C5E09DE878A76F20"
+				"download" "AB548C3EEC642FD96B6583993BC526A3"
+			}
+			"dev_team"
+			{
+				"gid" "0556DAF38FAC3AD055416DB2229CFE67"
+				"size" "3F2E993245891D877933A73AB3C226E0"
+				"download" "87526A8C7781FDE0C26E4FC4D9E8E237"
+			}
+			"dev_team2"
+			{
+				"gid" "2590D00213AC0D3965CE632173F69329"
+				"size" "DBE4C25EDDEF720438A189F8E16A51E0"
+				"download" "AD62C06EC68AFBFE4CC1AC1ADC419798"
+			}
+			"dev_team3"
+			{
+				"gid" "62204AEA47707205122480F55EA59718"
+				"size" "A612E9E60A2EADE7471B8C49AA18C70D"
+				"download" "132A239FDB87FF828EBEC3CCCD41ECFC"
+			}
+			"gsp_testing"
+			{
+				"gid" "F6F4B1DB2B6D264F4C8EACF1C9AEB60B"
+				"size" "D586785E10395AEE77613672FEB69521"
+				"download" "C8A9F40666A3CCDA052567CB6C2B7B44"
+			}
+			"hll_main_build"
+			{
+				"gid" "AAE2129B12081137736913E69F7B8F50"
+				"size" "5265BF6B8CF5DCA7F94E2BFACF6C75A1"
+				"download" "A1EB99F9B1580FE7E5C419DF83535588"
+			}
+			"hll_wip_1_build"
+			{
+				"gid" "ABA72EE4544B5747B20E91F6EB836F7A"
+				"size" "CED8AC9969002D2666C9FB62D6C8E98B"
+				"download" "BB7B0865F0C8492B21B82F47EB0F1031"
+			}
+			"internal_team17"
+			{
+				"gid" "52B0DA49D1E22A6D1414F79CE0832AB2"
+				"size" "995E3C8C0E674A4ACF12EFC5BB65F863"
+				"download" "3ADD8B7B4D426281B42D1BD6BE5DD071"
+			}
+			"prod_release_a"
+			{
+				"gid" "D79F228C8784C0F96D5BCEB8F0D367B6"
+				"size" "E065D957807FECC839848077DA5E0317"
+				"download" "A8A354520D9E2BBAD2F56F6DCF825EA4"
+			}
+			"prod_release_b"
+			{
+				"gid" "0AFF19B24CFAFC6661ED628D8E038845"
+				"size" "3F8C3DCB385BE2118246DB15C49CD045"
+				"download" "27465CB2E99F38DC89C24A2517E368AD"
+			}
+			"qa_testing"
+			{
+				"gid" "23CBD8FAADEA081E4863BC5773B9F35D"
+				"size" "2F2C213AB9DAD1C1BC8928F7566D2F04"
+				"download" "3E84A334F237B9F1C6EF69BEA08196C4"
+			}
+			"release_a"
+			{
+				"gid" "59782BEAF5A3CC06CF76D73A1D33E0DF"
+				"size" "10F951B72F78751EFD8016C7199D1FB1"
+				"download" "5B57E884E5AB47714B67FB1B5E6A3795"
+			}
+			"release_b"
+			{
+				"gid" "7BEACE6B4E7885FB5B45ADC5AD126A02"
+				"size" "3850E8E0445869B9D955D08EADC87334"
+				"download" "044035929B871F0CD69BDCD1AE192F4C"
+			}
+			"wc_playtest"
+			{
+				"gid" "D13599F92BB608BF588A995E3968F37E"
+				"size" "D51550FC8A49D3EB0995DC80459C48A8"
+				"download" "240420F43881C09BED88320E4CA3E9DA"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16576181"
+			"timeupdated" "1735815444"
+		}
+		"cert"
+		{
+			"buildid" "16576181"
+			"pwdrequired" "1"
+			"timeupdated" "1733156979"
+		}
+		"dev_team"
+		{
+			"buildid" "16934240"
+			"pwdrequired" "1"
+			"timeupdated" "1736327592"
+		}
+		"dev_team2"
+		{
+			"buildid" "15857512"
+			"pwdrequired" "1"
+			"timeupdated" "1727687513"
+		}
+		"dev_team3"
+		{
+			"buildid" "16945330"
+			"pwdrequired" "1"
+			"timeupdated" "1736380612"
+		}
+		"gsp_testing"
+		{
+			"buildid" "15724257"
+			"pwdrequired" "1"
+			"timeupdated" "1726585030"
+		}
+		"hll_main_build"
+		{
+			"buildid" "16944673"
+			"pwdrequired" "1"
+			"timeupdated" "1736375437"
+		}
+		"hll_wip_1_build"
+		{
+			"buildid" "16945890"
+			"pwdrequired" "1"
+			"timeupdated" "1736385101"
+		}
+		"internal_team17"
+		{
+			"buildid" "15511312"
+			"pwdrequired" "1"
+			"timeupdated" "1724932723"
+		}
+		"prod_release_a"
+		{
+			"buildid" "16933979"
+			"pwdrequired" "1"
+			"timeupdated" "1736295733"
+		}
+		"prod_release_b"
+		{
+			"buildid" "16477056"
+			"pwdrequired" "1"
+			"timeupdated" "1732132627"
+		}
+		"qa_testing"
+		{
+			"buildid" "16375795"
+			"pwdrequired" "1"
+			"timeupdated" "1731411331"
+		}
+		"release_a"
+		{
+			"buildid" "16934073"
+			"pwdrequired" "1"
+			"timeupdated" "1736296654"
+		}
+		"release_b"
+		{
+			"buildid" "16477049"
+			"pwdrequired" "1"
+			"timeupdated" "1732132540"
+		}
+		"wc_playtest"
+		{
+			"buildid" "16477049"
+			"pwdrequired" "1"
+			"timeupdated" "1733503299"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26916321"
+"_sha" "58a63363233a9b04ecc64dd445b5f4c04b196df7"
+"_size" "17421"

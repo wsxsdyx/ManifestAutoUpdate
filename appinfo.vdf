@@ -1,0 +1,1375 @@
+"appid" "285920"
+"common"
+{
+	"name" "TerraTech"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "80f64464c045ad185462ba22538a3520b0c86407"
+	"logo_small" "80f64464c045ad185462ba22538a3520b0c86407_thumb"
+	"icon" "d1ad24a148c2b08b48e13f97bb43681aa19b0a85"
+	"clienttga" "1b473c39ca07e2255d4deed8e1203a5e9b3cf145"
+	"clienticon" "c08bf1758c8fb782ed28659e5d5ef99434adf3e1"
+	"clienticns" "29e50a588e318887680dd2d53fc189d4cabe39c9"
+	"linuxclienticon" "ae4e3373f5510346318563db59dc851d9edadcd1"
+	"osarch" "64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"czech" "1"
+	}
+	"osextended" "macos64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "285920_eula_0"
+			"name" "TerraTech EULA"
+			"url" "https://store.steampowered.com//eula/285920_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663632000"
+		"tested_build_id" "8746950"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "UntitledApp"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43"
+			"height_pct" "42"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "43"
+				"height_pct" "42"
+			}
+		}
+	}
+	"store_asset_mtime" "1708114327"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Payload Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Payload Studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "TerraTech"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1533912960"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "285920"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "3810"
+		"2" "1695"
+		"3" "1100689"
+		"4" "3859"
+		"5" "5752"
+		"6" "1702"
+		"7" "19"
+		"8" "1662"
+		"9" "21"
+		"10" "4182"
+		"11" "3834"
+		"12" "9"
+		"13" "493"
+		"14" "492"
+		"15" "3968"
+		"16" "11104"
+		"17" "3843"
+		"18" "1697"
+		"19" "1775"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Payload Studios"
+	"publisher" "Payload Studios"
+	"homepage" "http://www.terratechgame.com"
+	"listofdlc" "331930,361530,1054780,1055440,1055550,1080910,1080911,1090730,1199630,1289390,1475870,1475880,1751530"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "TerraTech"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "public"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"4"
+		{
+			"executable" "TerraTechLinux64.x86_64"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"5"
+		{
+			"executable" "TerraTechOSX64.app"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+				"osarch" "64"
+			}
+		}
+		"10"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "tt_unstable"
+			}
+		}
+		"17"
+		{
+			"executable" "TerraTechWin64.exe"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"18"
+		{
+			"executable" "TerraTechLinux64.x86_64"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"19"
+		{
+			"executable" "TerraTechOSX64.app"
+			"arguments" "disable_crossplay"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "without Crossplay"
+			}
+			"description" "without Crossplay"
+		}
+		"20"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "payload"
+			}
+		}
+		"21"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "projplan"
+			}
+		}
+		"22"
+		{
+			"executable" "EOSBootstrapper.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "eos_crossplay"
+			}
+		}
+	}
+	"usemms" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" ""
+	"workshopdepot" "285920"
+	"hasdepotsindlc" "0"
+	"285926"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3650875674616989019"
+				"size" "734186948"
+				"download" "504360864"
+			}
+			"1.3.3"
+			{
+				"gid" "2616533350944094151"
+				"size" "1192156236"
+				"download" "384038544"
+			}
+			"previous_stable_version"
+			{
+				"gid" "5131100226379943064"
+				"size" "728537024"
+				"download" "499502672"
+			}
+			"tt_unstable"
+			{
+				"gid" "9198184436970063292"
+				"size" "734190020"
+				"download" "504362016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "513E3CCF2710A4258B280FC868F02F4D"
+				"size" "8D040DB2A1B00AAA85A0234B4FB5E570"
+				"download" "82F096117BD50A05FEEF0D8D775D58A4"
+			}
+			"linux_test_branch"
+			{
+				"gid" "08B38998E2DC276AC47375A698533C1C"
+				"size" "EDA9C7E73333FB951E71D85EF76CC463"
+				"download" "E9E8C0F2D87C216DE932C5A1E6962C31"
+			}
+			"projplan"
+			{
+				"gid" "E2968A0D0A2E9AD4800FB40B9FE33C32"
+				"size" "A14BC126BE589B38DE2E945F5D208FE6"
+				"download" "8603A2D7A8C80D56DB8804871DB852E1"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "437BB6397005FC023C4B255A7A0BCC5C"
+				"size" "F656B71CF02067936F1B2D6B067641AC"
+				"download" "B857273992F22056472FFA1D01C89113"
+			}
+			"version1.0"
+			{
+				"gid" "DBE3EC6A79675D947FD1174084584A79"
+				"size" "6BBE21D8966A3FA36E02EF9E3038AC53"
+				"download" "53377154A2EA31E3328AB10CC52F93FD"
+			}
+			"payload"
+			{
+				"gid" "08273B77AC1AF48FAE8F171C2B887BFD"
+				"size" "DC8E888A47CC8D69368D8F3D7A45DAB4"
+				"download" "5EC6B2050FEC4D02B494041413B10B10"
+			}
+		}
+	}
+	"331931"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3720272720970907456"
+				"size" "670789954"
+				"download" "481357456"
+			}
+			"1.3.3"
+			{
+				"gid" "6547464896509313007"
+				"size" "1175688003"
+				"download" "376729920"
+			}
+			"previous_stable_version"
+			{
+				"gid" "4368813330552182564"
+				"size" "713015846"
+				"download" "492603040"
+			}
+			"tt_unstable"
+			{
+				"gid" "2802673054851517132"
+				"size" "670793026"
+				"download" "481362080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "FC9E64F3B7D39B13E6441BB5DBC2F1FB"
+				"size" "519E78DBCCF8093A7DFF22D53653081E"
+				"download" "7E8DFA5D6AB00BD6B7E790D2E6881AFF"
+			}
+			"linux_test_branch"
+			{
+				"gid" "E5EF20588EC18BC351EF165BCB5EBA64"
+				"size" "9F2CC5F1430B4EE4BF4A13E1CF26FD17"
+				"download" "A2C9EBF0CAFA615E1D6E3AED6DBFEA95"
+			}
+			"projplan"
+			{
+				"gid" "A77DD5261E94FD3C2DBD8AF171A1A694"
+				"size" "45D7079CF7AD09254FDD9D7C07294D8A"
+				"download" "72485942B76CDEAD5A4A1440F2C882FF"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "E9BDB191A56F1209D411C193BA49BB17"
+				"size" "013EF899F3AFC661789333DF63D58219"
+				"download" "A9F512996F8A47C5F21FC762604DA7A9"
+			}
+			"version1.0"
+			{
+				"gid" "5729FBF7FBC7E155ADAA98879C923850"
+				"size" "717BEB5B31DCFB78A75CD4455639545C"
+				"download" "53CD4F1DA741BE949AFFCE3EC811AAC0"
+			}
+			"payload"
+			{
+				"gid" "A6901F52776EC59D5C668A784A8900FF"
+				"size" "AEEAE40AFE2F05102125B3F710041317"
+				"download" "6AC4E037BB72903B809BB06E92AAAE7D"
+			}
+		}
+	}
+	"285935"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4336645657297444803"
+				"size" "742537827"
+				"download" "508446560"
+			}
+			"1.3.3"
+			{
+				"gid" "6223874646572883770"
+				"size" "1196871120"
+				"download" "388943792"
+			}
+			"previous_stable_version"
+			{
+				"gid" "7407239947066035254"
+				"size" "730177889"
+				"download" "504070160"
+			}
+			"tt_unstable"
+			{
+				"gid" "378196833083310461"
+				"size" "742540899"
+				"download" "508443696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "1C2F513933AB5DF25A754EE778997087"
+				"size" "8B6212F9CE079E1F0CC4DCFABC5C40A4"
+				"download" "8CAACE451CD3989C08E07F6D63C313D8"
+			}
+			"linux_test_branch"
+			{
+				"gid" "A12A90802BA9D7444601F780DD80DA4E"
+				"size" "25906217AFECA415584764A8A957CDAD"
+				"download" "53DE2C85AFED75AC3B235630503A2353"
+			}
+			"projplan"
+			{
+				"gid" "E337FE496811BBDAA88E71EF6D7B172B"
+				"size" "2D1EFCA0FFF20554CB6E19F422C3CF1F"
+				"download" "790D008CE46E7F1B4238150E9986E403"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "AE18444738CAEAEC4F680EA9F39A86B1"
+				"size" "6A1F992721C10F41C3597AADDD8DAFF7"
+				"download" "D056485473D645384136C2AEAD03786B"
+			}
+			"version1.0"
+			{
+				"gid" "1E52063F8E5F329A5B2D393330C0FF31"
+				"size" "795F73B1593373AE2FAA8D2953F3C2B7"
+				"download" "211633828AF49350C9A8004C4AF95C1D"
+			}
+			"payload"
+			{
+				"gid" "3A3E8F68D7478F89C9787DB4E68E8A39"
+				"size" "546591C41CBF9735585BF79D1524F909"
+				"download" "698EC89C7A2C2A30BF6041DB21C1527E"
+			}
+		}
+	}
+	"331930"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"285928"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "331930"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+			"1.3.3"
+			{
+				"gid" "1646820436035909139"
+				"size" "14664085"
+				"download" "14865040"
+			}
+			"previous_stable_version"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+			"tt_unstable"
+			{
+				"gid" "7848802023609883411"
+				"size" "16564460"
+				"download" "14339248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "21B65E1A13BEB671B30D709EB0CF5C11"
+				"size" "29A1E5AE866AF0AC8571BCAD64BD03AE"
+				"download" "1581AF243B2E1CBCD1FF9CD9BACA096B"
+			}
+			"linux_test_branch"
+			{
+				"gid" "7EA88D24AFA7A08644A5D01853FEF261"
+				"size" "A63E114C39B091D217799B33635461AB"
+				"download" "BC5712137E3A583842492C314553B235"
+			}
+			"projplan"
+			{
+				"gid" "0154668360E793AFEAB18B5B47A296B8"
+				"size" "79ADD39AEDA9769C6429499DF77D82C1"
+				"download" "64893926EB9C18B3DFE2578C6573B195"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "8E2657D8403534124C9CF1DFE1C1B2C4"
+				"size" "752DACA3514A4EE6FBDECA0041E278F7"
+				"download" "8D9DE1245A9255C5FCA6175402F484D5"
+			}
+			"version1.0"
+			{
+				"gid" "A152C8E369786DA974B4A4505790704D"
+				"size" "8289C6F1E41D199DD8F07A2E2FA12917"
+				"download" "538B74EBD647C2EE38A40C02B672BD5A"
+			}
+			"payload"
+			{
+				"gid" "94A651F1D5B2082AF61F54D05E5DAFD6"
+				"size" "DC12CF8BB5B14D139F6876555A41A66F"
+				"download" "0CCBADE84DEFD34AC807A6659C8489C0"
+			}
+		}
+	}
+	"331932"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+			"1.3.3"
+			{
+				"gid" "5716012047753641156"
+				"size" "14746105"
+				"download" "14947904"
+			}
+			"previous_stable_version"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+			"tt_unstable"
+			{
+				"gid" "3892862278193919978"
+				"size" "16553536"
+				"download" "14333312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "291310B904124977DEB749A7205CB775"
+				"size" "F091564740C3FF80B15C40C69E6B6785"
+				"download" "172C931394C9B6974D1BD37958048CFB"
+			}
+			"linux_test_branch"
+			{
+				"gid" "53247C2D67D8A2296B388D2C965CAEEF"
+				"size" "F2B3274E46898B1F88CFA272E810BCE8"
+				"download" "01941ACB67BCC5199E517EC552B62F25"
+			}
+			"projplan"
+			{
+				"gid" "76ADC2A5879E48DD634905DA7FB0BEC5"
+				"size" "FE6271A8887F918D8BA386CFE92E1740"
+				"download" "B5B92B19FCD2185FF78E83DE2C9E26C5"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "D9E7F85C527F4B5FD495441EB24EBAE2"
+				"size" "A266812C19DDED6851E4F878D9BD3005"
+				"download" "A300F06909B3689194F3F278E7E79F5F"
+			}
+			"version1.0"
+			{
+				"gid" "764A56D93096AD5776C55A5C46BD6C87"
+				"size" "AA13C5C9C958A526543DA71BC2B9B5A5"
+				"download" "1CFB21B8164085C767A74161DB970C4F"
+			}
+			"payload"
+			{
+				"gid" "AD95298DFC22B1F4C8F127BBDB3722B2"
+				"size" "9AFEE08BBF46C23C59312987F019FD7B"
+				"download" "4E2DD270BC535972942C857951DE04EB"
+			}
+		}
+	}
+	"285937"
+	{
+		"dlcappid" "331930"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+			"1.3.3"
+			{
+				"gid" "8940464083940603565"
+				"size" "15731748"
+				"download" "15947104"
+			}
+			"previous_stable_version"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+			"tt_unstable"
+			{
+				"gid" "731761642183003315"
+				"size" "16623087"
+				"download" "14388880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "FA91E8580A4C7747AE99F093E12217B5"
+				"size" "B9BC4AFD520FF7A6188A68BB3678A671"
+				"download" "4817B9561E665286265E0458501F0203"
+			}
+			"linux_test_branch"
+			{
+				"gid" "4038DBD169D137E93941CE1072F8E877"
+				"size" "B293BC36958BDAC5A470C57AC8CA23D0"
+				"download" "8E0843DD4FFD4602B71BC726A7E6C435"
+			}
+			"projplan"
+			{
+				"gid" "C8A59A646811D10FD7B7CCDAEE691804"
+				"size" "28A83FFFE83C311F4C63A18D685D6615"
+				"download" "03DD3C59AA995F7B2090089041A3A9C8"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "33E42D841BCE67D0A8D94FAC32775CED"
+				"size" "918AA2E2FC6C1797B58F657C19601E11"
+				"download" "CA5B144AD29CB7E80D6C97742D4B5450"
+			}
+			"version1.0"
+			{
+				"gid" "CFDF03B1AEF3AB15F041B5071DE2B1DC"
+				"size" "A9AA44A18F85033A436D66D667C27719"
+				"download" "4F5911CBC24EBC1ADB51CFE41EB45349"
+			}
+			"payload"
+			{
+				"gid" "BA771B01042FF24B3CE7A5390BD2597B"
+				"size" "C19727ED1231CA0E7AC6EF5F71898CAF"
+				"download" "33F051638053181D670577A31C77917F"
+			}
+		}
+	}
+	"361530"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"285931"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "361530"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "5508231965844998212"
+				"size" "812"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "3406230439613560423"
+				"size" "1173"
+				"download" "992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "1AA502E2238FB1CC3DE733C65DBBEF07"
+				"size" "EE0B917E2E15639D0C819FC2EC24C830"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
+			}
+			"linux_test_branch"
+			{
+				"gid" "350F948DDF74A1F54D5729D2F09474AD"
+				"size" "75791325EC9CCB59BCB1F59C1601AD15"
+				"download" "58C7FC3485514E5523305D1F6DCC05DF"
+			}
+			"projplan"
+			{
+				"gid" "03068FFAEBE2ADC69E9C2E0536CE3963"
+				"size" "AD5BC3139F67C706295F8587EB17952E"
+				"download" "2494952F0CC017CC12F74E17D7964325"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "585D13DD103F9C63D4C148B8061427C9"
+				"size" "2B309944FD2B0EDC3CFC36DF8CD3410C"
+				"download" "E7628AC045FA65FEC9BAFA72BA1A09AB"
+			}
+			"version1.0"
+			{
+				"gid" "AC5DBE1937FEDF12C68B0971E1D3AA80"
+				"size" "71839530566FC81AAA2A944E9F46CB83"
+				"download" "B36B9449BA47B51CD4762B4EF6AEBBCE"
+			}
+			"payload"
+			{
+				"gid" "3D14F78DCF2711706D3EB5096CECF7C2"
+				"size" "D6A4144E58C7EDB88A58D205FB4A2B45"
+				"download" "F023D74674DFE60DE92B06E7AC7DF517"
+			}
+		}
+	}
+	"331933"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "7499150616157123271"
+				"size" "810"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "335304412215093405"
+				"size" "1170"
+				"download" "992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "08C329BE60DA5C6349CE10E3606EEC9D"
+				"size" "3B3E4EA9EED7666AF9988A9DDC9C1AC9"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
+			}
+			"linux_test_branch"
+			{
+				"gid" "B813EF0099F15B1B3595C0A8555AE3BC"
+				"size" "87877C1F4A863034D5902A3DA3DB4C2C"
+				"download" "58C7FC3485514E5523305D1F6DCC05DF"
+			}
+			"projplan"
+			{
+				"gid" "6382ABD0A2F7D13EF6D4FDC4FD37DAB9"
+				"size" "B34CA2F42AB587D2199AFE37F4D9DBEB"
+				"download" "2494952F0CC017CC12F74E17D7964325"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "EBABDF9CF8E169AA2CC3045A29010DDA"
+				"size" "503BE37290A24805DF73417C486CABD9"
+				"download" "E7628AC045FA65FEC9BAFA72BA1A09AB"
+			}
+			"version1.0"
+			{
+				"gid" "146404AE7D11FBF1121D32F4F8C7BBD6"
+				"size" "E3CC89CF638119A9E3F310B87C7D8918"
+				"download" "B36B9449BA47B51CD4762B4EF6AEBBCE"
+			}
+			"payload"
+			{
+				"gid" "6E45FB51FEA86B33EC28B362A7A69023"
+				"size" "7AED53F9EC956B5C71C584B7DCDD15E5"
+				"download" "F023D74674DFE60DE92B06E7AC7DF517"
+			}
+		}
+	}
+	"285939"
+	{
+		"dlcappid" "361530"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+			"1.3.3"
+			{
+				"gid" "6925653860420789217"
+				"size" "812"
+				"download" "864"
+			}
+			"previous_stable_version"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+			"tt_unstable"
+			{
+				"gid" "4437344106417726738"
+				"size" "1173"
+				"download" "992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eos_crossplay"
+			{
+				"gid" "4D11306832014BC1A1B7D5EB7EEA772A"
+				"size" "EE0B917E2E15639D0C819FC2EC24C830"
+				"download" "3B15D4E355128E69ACE329872284CAA9"
+			}
+			"linux_test_branch"
+			{
+				"gid" "1E04DFC0A4A6414FEA2BA4E8F0956592"
+				"size" "75791325EC9CCB59BCB1F59C1601AD15"
+				"download" "58C7FC3485514E5523305D1F6DCC05DF"
+			}
+			"projplan"
+			{
+				"gid" "6B68971CD254781E93E6604A12339BEB"
+				"size" "AD5BC3139F67C706295F8587EB17952E"
+				"download" "2494952F0CC017CC12F74E17D7964325"
+			}
+			"unityupgrade2022"
+			{
+				"gid" "5F49DAA5D077686AAA278683EED01E3B"
+				"size" "2B309944FD2B0EDC3CFC36DF8CD3410C"
+				"download" "E7628AC045FA65FEC9BAFA72BA1A09AB"
+			}
+			"version1.0"
+			{
+				"gid" "D04DCCAC345B4F37DA6E4A7C65C1B13A"
+				"size" "71839530566FC81AAA2A944E9F46CB83"
+				"download" "B36B9449BA47B51CD4762B4EF6AEBBCE"
+			}
+			"payload"
+			{
+				"gid" "0FF0F3ABA42B013CAA501AD27A2EC1C1"
+				"size" "D6A4144E58C7EDB88A58D205FB4A2B45"
+				"download" "F023D74674DFE60DE92B06E7AC7DF517"
+			}
+		}
+	}
+	"1080910"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1080910"
+	}
+	"1054780"
+	{
+		"dlcappid" "1054780"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1055440"
+	{
+		"dlcappid" "1055440"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1080911"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1080911"
+	}
+	"1055550"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1055550"
+	}
+	"1199630"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1199630"
+	}
+	"285921"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"285922"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"285923"
+	{
+		"dlcappid" "1199630"
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+	}
+	"1090730"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"dlcappid" "1090730"
+	}
+	"1289390"
+	{
+		"dlcappid" "1289390"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1475870"
+	{
+		"dlcappid" "1475870"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1475880"
+	{
+		"dlcappid" "1475880"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"1751530"
+	{
+		"dlcappid" "1751530"
+		"config"
+		{
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16836867"
+			"timeupdated" "1734978828"
+		}
+		"eos_crossplay"
+		{
+			"buildid" "16836867"
+			"pwdrequired" "1"
+			"timeupdated" "1734978759"
+		}
+		"linux_test_branch"
+		{
+			"buildid" "13401663"
+			"pwdrequired" "1"
+			"timeupdated" "1707411726"
+		}
+		"projplan"
+		{
+			"buildid" "16048154"
+			"pwdrequired" "1"
+			"timeupdated" "1728978015"
+		}
+		"unityupgrade2022"
+		{
+			"buildid" "8971774"
+			"pwdrequired" "1"
+			"timeupdated" "1655734180"
+		}
+		"version1.0"
+		{
+			"buildid" "3263688"
+			"pwdrequired" "1"
+			"timeupdated" "1540988568"
+		}
+		"payload"
+		{
+			"buildid" "16942657"
+			"pwdrequired" "1"
+			"timeupdated" "1736360533"
+		}
+		"1.3.3"
+		{
+			"buildid" "4279663"
+			"description" "Version 1.3.3"
+			"timeupdated" "1574093538"
+		}
+		"previous_stable_version"
+		{
+			"buildid" "16250361"
+			"description" "1.6.3"
+			"timeupdated" "1734355469"
+		}
+		"tt_unstable"
+		{
+			"buildid" "16942657"
+			"description" "Work-in-progress version"
+			"timeupdated" "1736433455"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "TerraTech/{64BitSteamID}"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"2"
+		{
+			"root" "WinMyDocuments"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinMyDocuments"
+			"addpath" "My Games/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26925293"
+"_sha" "da0c8abce3d91b32c8b8531b085c485f53dba352"
+"_size" "26675"

@@ -1,0 +1,579 @@
+"appid" "970830"
+"common"
+{
+	"name" "The Dungeon Of Naheulbeuk: The Amulet Of Chaos"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "3894085d24ca098ec84122afae539dcceb171217"
+	"clienttga" "7d1b1e89d410eb626314670b089c8f23dc39d5fe"
+	"icon" "94f181ccae8986aff5603cfe8ee61d349598a893"
+	"logo" "9399e20fa41bd6453c17046f28286ce37d46c69f"
+	"logo_small" "9399e20fa41bd6453c17046f28286ce37d46c69f_thumb"
+	"name_localized"
+	{
+		"french" "Le Donjon de Naheulbeuk : L\'Amulette du Désordre"
+		"schinese" "纳赫鲁博王国地下城：混沌护符"
+	}
+	"linuxclienticon" "c0428c9987649ccbf416285e434907b39f3847ea"
+	"clienticns" "c5146197dafb524a763e82386a673fdeac2cb3c1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1677283200"
+		"tested_build_id" "10486972"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Dungeon Of Naheulbeuk: The Amulet Of Chaos"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"french" "capsule_231x87_french.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"french" "header_french.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "76.55841842792685"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "76.55841842792685"
+			}
+		}
+	}
+	"store_asset_mtime" "1688734872"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Artefacts Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Dear Villagers"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "E-Home Entertainment"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Dear Villagers"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "The Dungeon of Naheulbeuk"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1600354130"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-dungeon-of-naheulbeuk-the-amulet-of-chaos\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "970830"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "14139"
+		"2" "21"
+		"3" "4182"
+		"4" "1677"
+		"5" "9"
+		"6" "1741"
+		"7" "19"
+		"8" "4747"
+		"9" "1720"
+		"10" "4136"
+		"11" "492"
+		"12" "4026"
+		"13" "1708"
+		"14" "1684"
+		"15" "1742"
+		"16" "12095"
+		"17" "1697"
+		"18" "4166"
+		"19" "1756"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Artefacts Studio"
+	"publisher" "Dear Villagers"
+	"homepage" "http://amuletofchaos.com/"
+	"listofdlc" "1403630,1491140,1633910,1655780,1928750"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Dungeon Of Naheulbeuk The Amulet Of Chaos"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Naheulbeuk.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Naheulbeuk.app/Contents/MacOS/Naheulbeuk"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollerconfigdetails"
+	{
+		"2496494065"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,defaultmirror,externaltests,internaltests,internonly,loctests,partners"
+			"use_action_block" "false"
+		}
+		"2496497380"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,defaultmirror,externaltests,internaltests,internonly,loctests,partners"
+			"use_action_block" "false"
+		}
+		"2496648974"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,defaultmirror,externaltests,internaltests,internonly,loctests,partners"
+			"use_action_block" "false"
+		}
+		"2496651569"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,defaultmirror,externaltests,internaltests,internonly,loctests,partners"
+			"use_action_block" "false"
+		}
+		"2496710155"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,defaultmirror,externaltests,internaltests,internonly,loctests,partners"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french"
+	"hasdepotsindlc" "0"
+	"970831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8713405962411315978"
+				"size" "10258433128"
+				"download" "9484331936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"defaultmirror"
+			{
+				"gid" "7E843D02058F63EE9FCAB211B86913A6"
+				"size" "2712CF4C0A3379E93B29587D64D5517C"
+				"download" "08F9A7BADD9E866F2EF16EB204A78445"
+			}
+			"externaltests"
+			{
+				"gid" "998DE1A42428CBC1B6521B16B4430486"
+				"size" "7EB7D07183DC5BE3213695FAC42C9C6F"
+				"download" "C0B1952C7FA551B363EBAC487C217372"
+			}
+			"loctests"
+			{
+				"gid" "676B2A4873515BC1D2992794F93A019B"
+				"size" "44C9FF0115E2FAFBED5E00FED513AC4F"
+				"download" "98D2D68CA1893BB97F6EB1CE3AE1DAF6"
+			}
+			"partners"
+			{
+				"gid" "6EEAA3E066DF475E5B1B713E9BB0027E"
+				"size" "33444187E3D36B0C63CFA43BD071FB0B"
+				"download" "93334332E6306C82360EA38315A01434"
+			}
+			"internaltests"
+			{
+				"gid" "9E1869542ACAE17935292BCDF2E67FA7"
+				"size" "2247CE08A89E09C74D92F58E3361045A"
+				"download" "7A27B1C66EF0D43590A6A10649262B15"
+			}
+			"internonly"
+			{
+				"gid" "9B9C9EF54E5900F1B5CF7775AA984FC2"
+				"size" "3CDA375BDC3336FAF4916C1FCA65B8BF"
+				"download" "8F369E610D9C4DF3CBC258500B875D3A"
+			}
+		}
+	}
+	"970832"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "721917917455384446"
+				"size" "10275184676"
+				"download" "9481144960"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"defaultmirror"
+			{
+				"gid" "F3A75977BA52D2609D9205E0DAE80ECB"
+				"size" "80815031E9C893A6C14F56307AE0E333"
+				"download" "59DC890367A8458A2562087F6E065D15"
+			}
+			"externaltests"
+			{
+				"gid" "D74FEFAAF46B8377FB8BC8065E8AADBD"
+				"size" "16638D8BBBABADB0F2554B01631E2883"
+				"download" "4A1C90CDA0500D61B05A50BEF4E2C9DC"
+			}
+			"loctests"
+			{
+				"gid" "B1218FDCC022004AD9CD5BBD6461B287"
+				"size" "3D09A31C95A444A88176AB7F8C453333"
+				"download" "CB3A8D02510DC60238FD30BBF1877F9A"
+			}
+			"partners"
+			{
+				"gid" "8BBAC46E3AED449E6F6C0AE474C254C4"
+				"size" "2829B955A7433D4E35A2C3246163DA57"
+				"download" "78AE07EFB47C24781C5AA5600371A0C8"
+			}
+			"internaltests"
+			{
+				"gid" "F8E781228AB2DBD4680D96C64462FFB9"
+				"size" "F2E4AA8CCB2AD567AC75FCE5A749A93A"
+				"download" "CE607C98852F34DF22FA6B69C31CAFAE"
+			}
+			"internonly"
+			{
+				"gid" "A140341631786FF44D59A6D0479EB67B"
+				"size" "6398292ABD5E772D1E88D79907D1B477"
+				"download" "DE3950C5E21FBF8BCD227B87D8753F1B"
+			}
+		}
+	}
+	"1403630"
+	{
+		"dlcappid" "1403630"
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6686008474406176727"
+				"size" "524147560"
+				"download" "504323600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"defaultmirror"
+			{
+				"gid" "3B1244EDCCF65BAB3BAF51F6610ABC1F"
+				"size" "0672577856CDE9AD8DC7F45B8650DBE5"
+				"download" "8E79F0878B09F4BDB3A762353257C38C"
+			}
+			"externaltests"
+			{
+				"gid" "9BD6BB8BEFE65B176CA30FA5BC0B5076"
+				"size" "B2DA696DB2E804BCD27876DCA7D76560"
+				"download" "A165509267FAE94F05B20C0E4AC7CFF1"
+			}
+			"loctests"
+			{
+				"gid" "69CEC4CF7C7C252BE078BB7974A1D81D"
+				"size" "534907CEE228FAF970BE46AAF1D361FB"
+				"download" "37157DA6CF46E8269E1C1A89FB457BB7"
+			}
+			"partners"
+			{
+				"gid" "9CF2EBA8A61C300AB6995BE7C8932BED"
+				"size" "1E60A0FEC20F3229397F3873911D022D"
+				"download" "04BD9B6A9375552AEDE1D011894EA94C"
+			}
+			"internaltests"
+			{
+				"gid" "005A2EE5FEEF576F07DB940C5D32F31C"
+				"size" "E4D4F92C88251A5035AAF054C2873DF6"
+				"download" "4A6443F56EF55121D42072E485663706"
+			}
+			"internonly"
+			{
+				"gid" "7D1FE6121905A6B7EA80321480BD9E1E"
+				"size" "4749F803DFB45E1EABA4AF88352F8C5F"
+				"download" "AB70502A6930FF3B8D55A3F8A66C93D0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16657026"
+			"timeupdated" "1736507327"
+		}
+		"defaultmirror"
+		{
+			"buildid" "11792800"
+			"pwdrequired" "1"
+			"timeupdated" "1691414754"
+		}
+		"externaltests"
+		{
+			"buildid" "8859339"
+			"pwdrequired" "1"
+			"timeupdated" "1654174952"
+		}
+		"loctests"
+		{
+			"buildid" "11735337"
+			"pwdrequired" "1"
+			"timeupdated" "1689773428"
+		}
+		"partners"
+		{
+			"buildid" "9302307"
+			"pwdrequired" "1"
+			"timeupdated" "1660293200"
+		}
+		"internaltests"
+		{
+			"buildid" "16657026"
+			"pwdrequired" "1"
+			"timeupdated" "1733491659"
+		}
+		"internonly"
+		{
+			"buildid" "15996652"
+			"pwdrequired" "1"
+			"timeupdated" "1728574828"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Artefacts Studio\\Naheulbeuk\\Save"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Artefacts Studio\\Naheulbeuk\\Save"
+					"replace" "Artefacts Studio/Naheulbeuk/Save"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "26939905"
+"_sha" "bf7af597eaa3803f2ee91e3fea977d04b9edcf0e"
+"_size" "12102"

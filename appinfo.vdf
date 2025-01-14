@@ -1,0 +1,5600 @@
+"appid" "534380"
+"common"
+{
+	"name" "Dying Light 2: Reloaded Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "abab8876f47185443e5e702778f1461fa43baab5"
+	"clienttga" "cd990e7af2ee8e40de5c2e262c5c4045440ec729"
+	"icon" "b34a9326b359af068e758ee8126d4232bfce62c6"
+	"logo" "d57cb6d66f769e1809207509bee4207124a20470"
+	"logo_small" "d57cb6d66f769e1809207509bee4207124a20470_thumb"
+	"releasestate" "released"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "534380_eula_0"
+			"name" "Dying Light 2 EULA"
+			"url" "https://store.steampowered.com//eula/534380_eula_0"
+			"version" "4"
+		}
+	}
+	"name_localized"
+	{
+		"schinese" "消逝的光芒2: 重装上阵版"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1679097600"
+		"tested_build_id" "10665051"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.234700819576034"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "54.234700819576034"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1733935590"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Techland"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Techland"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Dying Light"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_9" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1643932800"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "534380"
+	"store_tags"
+	{
+		"0" "1695"
+		"1" "1685"
+		"2" "1659"
+		"3" "4036"
+		"4" "3859"
+		"5" "1667"
+		"6" "3993"
+		"7" "4345"
+		"8" "3834"
+		"9" "3835"
+		"10" "3839"
+		"11" "1662"
+		"12" "4182"
+		"13" "4231"
+		"14" "19"
+		"15" "21"
+		"16" "4106"
+		"17" "4667"
+		"18" "6426"
+		"19" "6971"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Techland"
+	"publisher" "Techland"
+	"homepage" "https://pilgrimoutpost.techlandgg.com/\?utm_source=steam&amp;utm_medium=store&amp;utm_campaign=dying_light_2"
+	"listofdlc" "1537620,1537621,1537622,1537623,1537624,1864100,1864200,1864230,1864240,1864250,1864260,1888510,1937530,1937531,2108090,2156750,2210190,2217480,2269810,2269820,2330980,2370460,2370480,2370700,2370710,2400900,2456710"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Dying Light 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rwdi.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2"
+			}
+			"description" "Launch DL2"
+		}
+		"1"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mph-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD, NO POPUPS]"
+			}
+			"description" "Launch DL2 [RD, NO POPUPS]"
+		}
+		"3"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mph-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD]"
+			}
+			"description" "Launch DL2 [RD]"
+		}
+		"4"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rwp.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "mph-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RWP]"
+			}
+			"description" "Launch DL2 [RWP]"
+		}
+		"5"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gaas2"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD, NO POPUPS]"
+			}
+			"description" "Launch DL2 [RD, NO POPUPS]"
+		}
+		"7"
+		{
+			"executable" "DevTools\\bin\\editor_devtools_x64_rwe.exe"
+			"workingdir" "DevTools\\bin"
+			"type" "editor"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"ownsdlc" "2217480"
+			}
+			"description_loc"
+			{
+				"english" "Developer Tools"
+			}
+			"description" "Developer Tools"
+		}
+		"9"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "gaas-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD, NO POPUPS]"
+			}
+			"description" "Launch DL2 [RD, NO POPUPS]"
+		}
+		"10"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rwp.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "main-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RWP]"
+			}
+			"description" "Launch DL2 [RWP]"
+		}
+		"11"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "main-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD]"
+			}
+			"description" "Launch DL2 [RD]"
+		}
+		"12"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_ft_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "showcase2024"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD, NO POPUPS]"
+			}
+			"description" "Launch DL2 [RD, NO POPUPS]"
+		}
+		"13"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_ft_x64_rwp.exe"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch20-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RWP]"
+			}
+			"description" "Launch DL2 [RWP]"
+		}
+		"14"
+		{
+			"executable" "ph\\work\\bin\\x64\\DyingLightGame_x64_rd.exe"
+			"arguments" "-nopopups"
+			"workingdir" "ph\\work\\bin\\x64"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "patch20-daily"
+				"ownsdlc" "1263580"
+			}
+			"description_loc"
+			{
+				"english" "Launch DL2 [RD, NO POPUPS]"
+			}
+			"description" "Launch DL2 [RD, NO POPUPS]"
+		}
+	}
+	"matchmaking_uptodate" "1"
+	"steamdecktouchscreen" "5"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2919128487"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,devtools,internal-tests,lqa-weekly,modio,mph-daily,mph-daily-backup,mph-midday,mph-playtest,mph-proto,mph-stable,pac-weekly,patch10-daily,patch11-daily,patch12-daily,patch9-daily,playtests-may-2023,rollback,staging"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,czech,turkish,arabic,brazilian,latam"
+	"workshopdepot" "534380"
+	"534381"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2007964949597106118"
+				"size" "22364743884"
+				"download" "18063266912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "33A4A412956E18498199CF3496B2A1B4"
+				"size" "87AF5E0DD6F56EE8371BFC9B3C9EB717"
+				"download" "C2F80A610819AFA0D43677390DE894CF"
+			}
+			"devops_test"
+			{
+				"gid" "FFECA7D4902452D3C0682F486A999F68"
+				"size" "3E576092F08A2B56105A8716445261B4"
+				"download" "11571BBC058E6E783D9B12B53456CB76"
+			}
+			"devtools"
+			{
+				"gid" "06ED8E3540CEEB1AEDEB000568B51817"
+				"size" "9150C4E39F21E3A00398473D637293CC"
+				"download" "4539CCF5E2EC04C3EDFFA49044B6AC46"
+			}
+			"gaas-daily"
+			{
+				"gid" "F269854740CBF778674FF3CAEA39AB8D"
+				"size" "6A5D55A2E941D326C20E8B580A29BDC8"
+				"download" "6575D21A2BE698EA1651B6D868C38E29"
+			}
+			"gaas-tmp"
+			{
+				"gid" "3BA28F53FBEED5050C9E65EAE8FF66A2"
+				"size" "08015821653930ED57E8DED279D4D5A2"
+				"download" "29E09A8A8B5E8EB36F926390171BA1A6"
+			}
+			"gaas2"
+			{
+				"gid" "8907923E6CB3070D9C9E4B46C3A7A1A9"
+				"size" "9AE1C1C94C6D984DCD964AD987848664"
+				"download" "7E2C787FBC63D6B18D8035F9E51F41D9"
+			}
+			"internal-tests"
+			{
+				"gid" "77ECC52023B1A1C81F624011AAFDED3D"
+				"size" "B9E6A788935972ED910BB276D30A79A2"
+				"download" "3F5CE6DB408A78C451B77B81A4790FFE"
+			}
+			"main-daily"
+			{
+				"gid" "CAE4963444D8E44051D3AE323011F790"
+				"size" "CE75277355DB5E99367819D427585CD4"
+				"download" "14B7B23DA434164BB661A6A18F7E0203"
+			}
+			"mph-daily"
+			{
+				"gid" "8B8158F7835908FFF480F2589B82D910"
+				"size" "A875132BECBD758E4083EEEF52DFC1F6"
+				"download" "89A0C823CC28717C5C8D85BF0E5E6F37"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "4BC0A1CDA3723B9B99D86D6304B90DC4"
+				"size" "F35F3157265A868D55BD8B133BA62E12"
+				"download" "D827B17FD6F8DD4B8A088D980FB9DF77"
+			}
+			"mph-stable"
+			{
+				"gid" "58F6E3B2311DBA76F057DA919569E335"
+				"size" "AE5FD574481D4D7489CE8C4968DBB7A5"
+				"download" "7E6ABA41F925522F44A418293A38CD3E"
+			}
+			"patch16-daily"
+			{
+				"gid" "86A5573CC276DD631094793014450F42"
+				"size" "95B8FF5B60884EAC751E51AC8ECE77A0"
+				"download" "C4FA9A6AFA089FFC261A772D2B9147D6"
+			}
+			"patch17-daily"
+			{
+				"gid" "423FAEA51726930C49F622E73F2A2FFB"
+				"size" "4084A6E8AC1A9E706C28E1ED94EFAE81"
+				"download" "4116E28BC09D6D5AC483BE5F6983AB58"
+			}
+			"patch18-daily"
+			{
+				"gid" "E6994B931B5BCB9E24D9C8E0B6D2CBE7"
+				"size" "4F3602F0702935C072A7034AEB148415"
+				"download" "0665AF054D28B2C534CA3DC9CDC44D3D"
+			}
+			"patch19-daily"
+			{
+				"gid" "C9DE62DF06B77B37A7ADD6CC66B7A7C9"
+				"size" "64900D738DE9DB869EA563EEAF272D31"
+				"download" "453D511BCA51F434F2888D29407B8C76"
+			}
+			"patch20-daily"
+			{
+				"gid" "6B181DB34DE199708243A72D4A31BF98"
+				"size" "566C542F58F0916004C1740C79D8428A"
+				"download" "03B1E8F5D316E7987ED5C6CAC93FDA35"
+			}
+			"rollback"
+			{
+				"gid" "B0EA261C60E1866EC56CE25F48666AFD"
+				"size" "B219100E51FF040734495DBEC2050732"
+				"download" "823EDFB004036FA1E7E6BE5BE7A289FC"
+			}
+			"showcase2024"
+			{
+				"gid" "E817012022B735D3CB4DEA790B29C3C4"
+				"size" "C8CF714781C01D950A9178B37D9384A6"
+				"download" "E480412443614AD403421F88BD3CFD55"
+			}
+			"staging"
+			{
+				"gid" "820277A5DC936187FD59107B491DC04C"
+				"size" "C31D7531449C074DD7C347ABD5E68D47"
+				"download" "C7FD4E5D9777D43796A47138264643EA"
+			}
+		}
+	}
+	"534382"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9066740016185224315"
+				"size" "346285620"
+				"download" "100106080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "7FFAEB915D1B4410A41C2968F9E88382"
+				"size" "5991B20CBEAED8C778C630580BB40F66"
+				"download" "A72063CFF3818680AE7F2822F3B5581B"
+			}
+			"devops_test"
+			{
+				"gid" "35C38BC005BB100B62BE728908E49D5D"
+				"size" "771F39DC6526D48F94489AC632967CE3"
+				"download" "C1CE9B8921BE6447F70E9C2FA476B6E8"
+			}
+			"devtools"
+			{
+				"gid" "086B9FF3C11BBC23066ABF5859476147"
+				"size" "C87F7AF93B23BD963A06D5FC574CFAFA"
+				"download" "A633B5BE38AE624F2D75CFD385F24B7D"
+			}
+			"gaas-daily"
+			{
+				"gid" "058284918799DE6474C029F7C3FBFA1D"
+				"size" "7B967FDED474821F1E939EA420197D18"
+				"download" "7A5D8D97BB636B2507382CA151080762"
+			}
+			"gaas-tmp"
+			{
+				"gid" "7BA2072A591FD870DF098BBFDAADEC20"
+				"size" "2E3EF4B0AB43211AF3701CBCF4EBD998"
+				"download" "6334677B6BC4746A9C6ECAE1A8BB693A"
+			}
+			"gaas2"
+			{
+				"gid" "3118AE71826E7E42FAB6BEAFE7990380"
+				"size" "7332CB7F1845EB905930517B89A14044"
+				"download" "182CB337661BBBB14709BC08C360370B"
+			}
+			"internal-tests"
+			{
+				"gid" "E60F95F4C4EDD31910395C9EDC812F2D"
+				"size" "E6DA1266E2C2B24CCE7CBB035BC8BC20"
+				"download" "789B617D6FDAD00753F3CE00A77947F9"
+			}
+			"main-daily"
+			{
+				"gid" "24239780A696DCF2F1CB2C34A0FED652"
+				"size" "01719993A2FFB1B43CF217A650E9E17E"
+				"download" "F8F721053BF5BB59B51DC3E6BD255E13"
+			}
+			"mph-daily"
+			{
+				"gid" "23241CFEA9C91FB2728E408C23548E2E"
+				"size" "EA4C4F330B5FEA3488D74D0F96DFFC0F"
+				"download" "BE84B44C463EB0E0B47AE1B42C8A85AC"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "67C9D3B06ED032675CF77AD9780202EB"
+				"size" "B63E8370FB833DD5D77AC2D390D53BDC"
+				"download" "93F87CAF859037066777693E8CFBA984"
+			}
+			"mph-stable"
+			{
+				"gid" "8B5A1A832AFDCF6AEA1B59CF3F9A4454"
+				"size" "A18F68DF660EBA72C3085E6225B56839"
+				"download" "5AD3276035A2DDDC15E11B65B3E9642F"
+			}
+			"patch16-daily"
+			{
+				"gid" "30EF9652F212C4161D321379D683A67D"
+				"size" "A11224736E946C703D30AA3429B03D1B"
+				"download" "D2DB460FEE482019C9B9F41E05C448D1"
+			}
+			"patch17-daily"
+			{
+				"gid" "24C417AB2A00D4D6457ABC5DAD6951DA"
+				"size" "06274A6D515D03F3F90EB3AB43A69BF2"
+				"download" "4B1629FBF37F077CEF4EFAA29A2A002B"
+			}
+			"patch18-daily"
+			{
+				"gid" "9375AE0D424F7DF248BD051736DC8387"
+				"size" "73A58C2C6C5B02A937D1325D9BA3288C"
+				"download" "BA395372D468B9E52E91477F4842FC38"
+			}
+			"patch19-daily"
+			{
+				"gid" "ABFF9F9FC98ABAD42F3C74992D2770C0"
+				"size" "E799A512FC512568E1D53C9DFC0B203D"
+				"download" "659C74D5608B813C1A675EB2BD1E9E84"
+			}
+			"patch20-daily"
+			{
+				"gid" "491FF910C6CB27AEA92D04FB9B4718C9"
+				"size" "BD46221E754AC4186020D15FC29488C4"
+				"download" "80A5E65C5CD5164C057D990ADD83ECDB"
+			}
+			"rollback"
+			{
+				"gid" "596325034575C99C44F6D028B6673D68"
+				"size" "FE08D99EB690555A1C0696F0CCA0F039"
+				"download" "636832E9F39EB819F01C37F738CAB2E5"
+			}
+			"showcase2024"
+			{
+				"gid" "ADCAF8C3B753E9E64108DA6F192BF151"
+				"size" "1510C849AE6C458580D674C2B7372CF3"
+				"download" "C6271145B788A2816FB1003EB6517104"
+			}
+			"staging"
+			{
+				"gid" "CD823A22AEF74DC40DC577C2F6820A4B"
+				"size" "B59243C91997C44B9B3D0F5BC60FDE02"
+				"download" "D6863D6DA0B45A2240DE200EFF5B2D32"
+			}
+		}
+	}
+	"534383"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5715262352101545452"
+				"size" "39746581947"
+				"download" "21851782672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "B02DCB904988C4CA1922B6BA111001D0"
+				"size" "BD7AE5BC5E01D82B6A571CD8FF75531C"
+				"download" "E53E75F1D41AA378606A2EF473284ECE"
+			}
+			"devops_test"
+			{
+				"gid" "86EC141400E96B098137946390E6C847"
+				"size" "6968E4B2A4FF6CC0117DC9A4D0801AAB"
+				"download" "2A45B9EC023F704493345C015EFD4BA3"
+			}
+			"devtools"
+			{
+				"gid" "8FECD7E30482B56867DBDEFBA8A42B93"
+				"size" "929582EBEB606F79AB5F0828C974F056"
+				"download" "A21B3C6AC7A9136A990AA4008030791C"
+			}
+			"gaas-daily"
+			{
+				"gid" "A1773E9B52EBD5AE90A34CF9C0A0737D"
+				"size" "114658DA82A644884AF2BE7E9D9FEFC4"
+				"download" "3B61AA0D9983B8E5881A4DB21972375A"
+			}
+			"gaas-tmp"
+			{
+				"gid" "84DFCFEDDD13A44BF8047EE00308D5AD"
+				"size" "E64EAFD548726A582CFF1C788FE0B85F"
+				"download" "CF692A4A727A53B3726477FE95E508D7"
+			}
+			"gaas2"
+			{
+				"gid" "7584E8893B1B37926357D2A7F78BB4DA"
+				"size" "61B1B5A04E8806EC320B732DF5A8129F"
+				"download" "40F425826BA9F60F97AECFD2279F5EBB"
+			}
+			"internal-tests"
+			{
+				"gid" "2A676D73F73FEEC5CCEEF553BE8FA89B"
+				"size" "840F1907BE9EC31AE26358616163BEEA"
+				"download" "C0051CA23A33FF00EF91E97ABE496C63"
+			}
+			"main-daily"
+			{
+				"gid" "49B7D7640E1A681F983AF136292EC589"
+				"size" "16B403176592306387C945D345D49DA1"
+				"download" "D6F5325D9E54EFE0BDDD3E3C506F48E9"
+			}
+			"mph-daily"
+			{
+				"gid" "2CE2911E4FD4F50B830CDFF33D3F2747"
+				"size" "AA77BB0C4C926DA49E0A3C250FC27906"
+				"download" "24B015AA3567B97508E0B7CA51519C7C"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "C4D39A4999FF77BA7F9016EB39507188"
+				"size" "9073E25A6E1D8533EFC87D6A3D5C14F7"
+				"download" "66046F2CCF7FC0BE5460A60EB7EDE348"
+			}
+			"mph-stable"
+			{
+				"gid" "D3102D4511516AA55A026BC39141C0A8"
+				"size" "27D539DFC0F986734B5ED0437804DA7F"
+				"download" "6A3DDBA798307691A4669B0ADDA5BACD"
+			}
+			"patch16-daily"
+			{
+				"gid" "5B1A102B36A5830B3471C0D410CE8D2F"
+				"size" "905CCD07B5E2067ABD33F1A3AEDAC4D1"
+				"download" "39C058A927524A6D8E73086D61A25AA6"
+			}
+			"patch17-daily"
+			{
+				"gid" "3FFEC867C1AE2243E5779825169E47F0"
+				"size" "C8FDE4BD9108CF351F360EEB62F9DEB6"
+				"download" "06A0D6E7488B841A1671F15889B4968D"
+			}
+			"patch18-daily"
+			{
+				"gid" "A4799677C1D6B5653F92A726DD718857"
+				"size" "46382CB7D2EFBDC646B6BA3B20E6566D"
+				"download" "A31B624F1432ED7195733B96F730387D"
+			}
+			"patch19-daily"
+			{
+				"gid" "CACDB94AD822BF4ED14217BEA97B5EE8"
+				"size" "EDC4FC4C7465DBD99422AB2C2FBD0D7C"
+				"download" "857077C2C91F9E83E63F6D2556DFF147"
+			}
+			"patch20-daily"
+			{
+				"gid" "3B2B39643C682757ECA705450813982D"
+				"size" "A72864BAC71080AFF69F6F6D0EA5C94A"
+				"download" "2608020AEB8D1DB9C683B9D225BEE00C"
+			}
+			"rollback"
+			{
+				"gid" "479FDE33E39D16182A809B8F11B8BF6B"
+				"size" "6C28D22F25136DFDCA35C625868AA6FD"
+				"download" "F33A964DC35C7606CAF92BC531C06985"
+			}
+			"showcase2024"
+			{
+				"gid" "E79BBC391F381D89F5D843B88D95A0D8"
+				"size" "9F312F258E1A1928D8CC413B05D3485E"
+				"download" "0449B19B1C64E3844D93DC1287B0EAB1"
+			}
+			"staging"
+			{
+				"gid" "60BAE75348C759324F6994B756C8D0E4"
+				"size" "7D049D9A2E7D1AC6FACC9BE26A9E0627"
+				"download" "2A1C5752F42426D8FAD8C6BDB255FE65"
+			}
+		}
+	}
+	"534384"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4071365111342711578"
+				"size" "5231580828"
+				"download" "5170924544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "8D925B5E7E31E4A9B8DA2EC707B47249"
+				"size" "D3B287CD023A30AEF7F738CBAC7A8C4A"
+				"download" "225D8227E72EEB0D5B17A63E983E3E5B"
+			}
+			"devops_test"
+			{
+				"gid" "318055FCB5A28D8DCCCD81D77E935D2C"
+				"size" "B1A43297FD0F692E2E93C644166850BF"
+				"download" "80C04645822C4A069FEB447376E30B77"
+			}
+			"devtools"
+			{
+				"gid" "94AB39172364D1FFB36F25C1B17425A6"
+				"size" "05FD7BC6F844FE4C831A1CAE0BA1DB2D"
+				"download" "794D9536B2C70C9445E792E81EDF98F3"
+			}
+			"gaas-daily"
+			{
+				"gid" "2E8AEC9E21713C243AC252C165BB0D0D"
+				"size" "91A5FC7D2367F19A6B374061ED610469"
+				"download" "80027ABC4DFAAE1E7EC7ADF3D19FF6C4"
+			}
+			"gaas-tmp"
+			{
+				"gid" "5E04675C793C47E450975D74DC42689B"
+				"size" "F2D82546D229B73B8DAF70895F09D67E"
+				"download" "93D3184228C2CC58A9A820FCBD1F66D3"
+			}
+			"gaas2"
+			{
+				"gid" "C9C053AB06C3D3789A840FE3D6B638EC"
+				"size" "3EDA9D70D358394CB2C24F27912F5595"
+				"download" "23CE6DBACF7D0FC88DDBB6FA1C2751A8"
+			}
+			"internal-tests"
+			{
+				"gid" "22D47C87D0AECD4C2A666E1A3F35BE99"
+				"size" "A38D63A4987D04A8B40878DDF1A57D08"
+				"download" "7F60BEF89E3CE5C2CE7B36785A072F05"
+			}
+			"main-daily"
+			{
+				"gid" "B78BA6BAA5D1C330A9C1CC15BF768CD4"
+				"size" "3D41CC0D5169295037EA721EAF2B4FE2"
+				"download" "6B8D9BC797823357D2DA518E7CDC1241"
+			}
+			"mph-daily"
+			{
+				"gid" "B9C1A4D542DB475A78BAAA09D0BA54FC"
+				"size" "76B21A8E4B7247081EA096B3C7960BEA"
+				"download" "39F6E16E407B609CA33261B6FD711151"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "0DFF49C9F32ECA5B28488C1E5ADCDF20"
+				"size" "CB9E6F341CAD96074DD15A3805EF96DF"
+				"download" "A428C1FE6D54FAD2BC615F6CE88291F0"
+			}
+			"mph-stable"
+			{
+				"gid" "23BC6F74CC00DE8B33C594BD56F129BD"
+				"size" "EA7A7670D804C59B5422742C180835B5"
+				"download" "E5E3727F0DF0B3DBB2C6DB743FA5F26C"
+			}
+			"patch16-daily"
+			{
+				"gid" "B819039AC180EBE52F52FEC0A6B1054B"
+				"size" "AF080D95AD389C5E9BEB20EDBA0FAB8C"
+				"download" "213A0FD8802CE8CB24CF0E7C75E662A2"
+			}
+			"patch17-daily"
+			{
+				"gid" "95B637119AF6818E3BC71AD61129143F"
+				"size" "D6C135525E9B3BE8BD27D6CEA448CEEB"
+				"download" "82B3E1A5F8ADC18B5913A9D2BEBA3D13"
+			}
+			"patch18-daily"
+			{
+				"gid" "9894F4217339C77128402A39BC983AF9"
+				"size" "0F379E5D9FE5264ACF2F96D188FC3039"
+				"download" "F078A4BC0418C12BA6E0786074C3E97B"
+			}
+			"patch19-daily"
+			{
+				"gid" "7596B49229E086501127E2D4BED7AC4E"
+				"size" "C8F65780EB11D60C188D8BEAACDFAB1D"
+				"download" "15C479148D310ECDA22E940BE78D1E24"
+			}
+			"patch20-daily"
+			{
+				"gid" "518741EE14E1F9AEC12546E51FEDA13A"
+				"size" "124E4702D9FE64D0FAFF318C2F6CCA91"
+				"download" "CAF4403244FFD728084F59E0B057FA61"
+			}
+			"rollback"
+			{
+				"gid" "E8892B41A3461757B80AE3D68CFDED50"
+				"size" "5300DCAD386361E64872BB8FB4E7BB9A"
+				"download" "7B7216E35C90CFE9FD37C797B4F2ED85"
+			}
+			"showcase2024"
+			{
+				"gid" "CC584E8446CBB706E34E18232006FD29"
+				"size" "7CFFC8B867A367EE8DD567C09C23CFA3"
+				"download" "72CAE2B64595CCEE1E59311B2CD48BCC"
+			}
+			"staging"
+			{
+				"gid" "2E5A3FF05D66D890EB6CB2337D697DA6"
+				"size" "C8393AF80E9E44E355E9629077EE9638"
+				"download" "FEDFC11700D5D6CA13429E93809F3BD5"
+			}
+		}
+	}
+	"534385"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "199203543163664145"
+				"size" "770998240"
+				"download" "440241984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "F0DF629CE1EAB51C0DA6B44BC1717F82"
+				"size" "49ACEFCC906044A765EF86A0C2C9D982"
+				"download" "7D70CB806E746A93AC72A44433B0F904"
+			}
+			"devops_test"
+			{
+				"gid" "A1649BF8A127A2FEC11B6E487EE43C13"
+				"size" "00E246FC8B5C6BB4B79E5F7ED1A14EC3"
+				"download" "39CBD7538995074227F04881BA34C9F7"
+			}
+			"devtools"
+			{
+				"gid" "92F209F9466B0842E8E8EDB9C72BBB97"
+				"size" "19BF139DE6F78DC24B9ABAF20E84C84B"
+				"download" "440BD7A7D5FFD4F8DD23AB40C9F81D9F"
+			}
+			"gaas-daily"
+			{
+				"gid" "2C23BAB0CF7A49DD3777549CAA84370B"
+				"size" "EAE99E5D9FD3FB68A1400BCBB5ED96F7"
+				"download" "AE3EAAF20F550ADB9CABCFE9EF4EF837"
+			}
+			"gaas-tmp"
+			{
+				"gid" "65CC8F0828FC6151D4E582E31DE8CDE0"
+				"size" "50C256447D84495389464C603390BEBB"
+				"download" "FCAEA4B83965863AD83BB44262792EEC"
+			}
+			"gaas2"
+			{
+				"gid" "6AA0ED88A0447485C337CF05E6BE4680"
+				"size" "D95D327FB9C9D0A60F0478413E722AB7"
+				"download" "23F5987C01976E40B8D6E0F5C84D0E4B"
+			}
+			"internal-tests"
+			{
+				"gid" "69579FD455B1EB8CBDD4944CB5FF4518"
+				"size" "DE1805862753C993055BDFB92275070C"
+				"download" "980BE42B9944686528078C46279F3688"
+			}
+			"main-daily"
+			{
+				"gid" "6EDD8306171F103E6584BC3D1E87BC4A"
+				"size" "AFD2AC01C576583B624BEB34423D2B9B"
+				"download" "A77D40BAB91F6F1C98C7E66D494A79E3"
+			}
+			"mph-daily"
+			{
+				"gid" "8C2E5551340071AF68359EFDB8B2FC8D"
+				"size" "1C946F251A2F5CDEE9BCF673AB7281A1"
+				"download" "44CCC8D661C1B89732A16D89F93E3592"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "B29BAEF75F9F0C92625569CC66EF2C1A"
+				"size" "0AE111DBFAE43F3987BEBECD3AF2E597"
+				"download" "22910C5CA7F3FE640EA619BC2087CC21"
+			}
+			"mph-stable"
+			{
+				"gid" "35B22CBA3C48D39491B973CC4129E1D9"
+				"size" "75EF2ECAF9F218F9DDEC99D33707F4F6"
+				"download" "3D27D340420F6E35F355D787D687EFBE"
+			}
+			"patch16-daily"
+			{
+				"gid" "F54CC4FBD70F502599E1EDA2C5379CBF"
+				"size" "F51B026387182E68EF393C1494DCD8DE"
+				"download" "5D2C98B879BB717A041FB67FB72E2971"
+			}
+			"patch17-daily"
+			{
+				"gid" "0CBB90CD55333E17881F9A5F49B80767"
+				"size" "47F432C8E845E70E4359CE869FF41392"
+				"download" "828047C455974B4EBCA610172A63708F"
+			}
+			"patch18-daily"
+			{
+				"gid" "461200EF179F1E1E0B1523545690E310"
+				"size" "E39AE30E7ECB85FD70209B6C8C40DD26"
+				"download" "8820E88CBCB4E8504B05F91E1724C5A9"
+			}
+			"patch19-daily"
+			{
+				"gid" "FEDCCA160BD47C393A3E524C7C1F8802"
+				"size" "326B1195592BE788EC0EED3FF1AA5DDE"
+				"download" "42B86787B2F5E713881D3E163A408D1F"
+			}
+			"patch20-daily"
+			{
+				"gid" "9BD1B861BF2EA1EC7F6AABA74CDAB44D"
+				"size" "A937A24DC1BDC658EFDA3DFBE12AAB41"
+				"download" "B9739720C6CB2144499278531DB570FE"
+			}
+			"rollback"
+			{
+				"gid" "16B1F22A2F25E2C2A317DF9D14CCA31C"
+				"size" "A84B64A4C23D8F1C7ACF4E1626A8D050"
+				"download" "713C2006A9B9B839E89309120FB7E055"
+			}
+			"showcase2024"
+			{
+				"gid" "D03E9FFAD838B0C91E60614AC4AA1957"
+				"size" "A19C6F8F158623BDE0F580C85142F88B"
+				"download" "A31AFD1E16175EE322C2E9B81E4361F9"
+			}
+			"staging"
+			{
+				"gid" "310041BD616438F7DAB496802064AC18"
+				"size" "F51A86438F2AB7AEF8668D5BB88ECBCA"
+				"download" "E5F46FEF60E66EA58EB002D39AF342F4"
+			}
+		}
+	}
+	"534386"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "1263580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4731914222554139220"
+				"size" "5"
+				"download" "48"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "ACFE42B1CFCAF7264C4F5D79C9B25A76"
+				"size" "0191C0E2103ED401ABC211B7D281284D"
+				"download" "FCD1299E55F2992987B4CE2EB0A50AA6"
+			}
+			"devops_test"
+			{
+				"gid" "43232FBD3D131B8E76AAF5B1D2C927E9"
+				"size" "BE009B1C22B0501ECD869E06477D421C"
+				"download" "38DA3FEAAB66D892F02335C961E116B4"
+			}
+			"devtools"
+			{
+				"gid" "F65C4ECC0D0DD4869E4BC6A9541C502C"
+				"size" "904472C06A311E2D68047AEBF9A02511"
+				"download" "134F5FA1F43621F1C18AF4F4CA983084"
+			}
+			"gaas-daily"
+			{
+				"gid" "534BC665DA1558D7EC42170160D6F50F"
+				"size" "ABE480E51A968C8BD5079823ECC04383"
+				"download" "BD3654CC22275B7B46BCDB904C351151"
+			}
+			"gaas-tmp"
+			{
+				"gid" "86A6D339C957CF4A7B35BA247D183AF9"
+				"size" "BE6E71AA660C49C930A2B1DE0AD0D185"
+				"download" "AA84554AFDD8292DF2FC30B2DAA07042"
+			}
+			"gaas2"
+			{
+				"gid" "20E4103D5767B37FDAC004FD4ED39F51"
+				"size" "58B30932FAF86B75BBE86C5C700EA3E5"
+				"download" "2057476CB5EC5A4ECE9A9D25011D7119"
+			}
+			"internal-tests"
+			{
+				"gid" "99E9BBE07568003DB214B5A33A532F46"
+				"size" "26B5839F3696A9A19330CA8F16478719"
+				"download" "EEE8E684F32446FA1E6057A6B5D7E301"
+			}
+			"main-daily"
+			{
+				"gid" "E5AB04C202DF6B4C85E76F69A38996C1"
+				"size" "8FD4594AFB0A0AACA8BCE4B68071DA8D"
+				"download" "C8360D7B1E92946EB1A3A432EA093A45"
+			}
+			"mph-daily"
+			{
+				"gid" "7AE136CACE3AC0B8666D9E99FC44C618"
+				"size" "CDB8412134B927C43C90C874EB5F2BF5"
+				"download" "E9AC4D63AA1921200E2F741309A45A8E"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "7E55B909112A40913038DAC3CB3E36A6"
+				"size" "76ED362511E3246E290A28A82F499EE4"
+				"download" "F5666055DE1FB09970597021E15374E7"
+			}
+			"mph-stable"
+			{
+				"gid" "CC608EA59E6A321B487BF551BAE2A558"
+				"size" "5A4FE5F649786C4402539A1569251506"
+				"download" "F53DE0EED862EF0A72E2EF35D3E1AD46"
+			}
+			"patch16-daily"
+			{
+				"gid" "A5C6E0748EB0F044BF7647FF71A55833"
+				"size" "50426D0FFD34D570835585EAD51B1F8F"
+				"download" "9A74A01BD429D2C5EF1C5B0FE2781DF5"
+			}
+			"patch17-daily"
+			{
+				"gid" "BCC8C46146270D3CC3B3C0E7D19E7DCD"
+				"size" "8E1A234A442EF297230CD24F6EE9DCCD"
+				"download" "3B41A445E70AA092482DC2F0DB13EC30"
+			}
+			"patch18-daily"
+			{
+				"gid" "90C49B36E30AE44693A7286D4201E578"
+				"size" "C1D813770DDC0981CBC53A7D5CEE716B"
+				"download" "482EA71D9AC5F1B3D13AD342D24E4904"
+			}
+			"patch19-daily"
+			{
+				"gid" "2AB8C25DA53210CF823BE10960B8FE23"
+				"size" "7ED661FFED1B06AA90A7C524F9123780"
+				"download" "B97D6B63A097E20A80E335903ADB68B7"
+			}
+			"patch20-daily"
+			{
+				"gid" "8BDC77C17172203E1A411393F802621A"
+				"size" "21E5C66339C30F37E3560EC24B8C5E67"
+				"download" "5BB26604DD81EFB56C7CC467E5EA9D81"
+			}
+			"rollback"
+			{
+				"gid" "1C7E68CD3DBD555BDB168A13979EF878"
+				"size" "FEC95D8CA59FD0ACEFC63A134F8152EB"
+				"download" "04A01C351D6F380A3F0540B6B9750E7A"
+			}
+			"showcase2024"
+			{
+				"gid" "40E4408DDDDE778A0314A134F4D3A72B"
+				"size" "124D715978C52559772917565A765875"
+				"download" "769A6315733BD3054151BE4DD7BDEDD0"
+			}
+			"staging"
+			{
+				"gid" "C749FEF0C44633F768A65856BCA55B32"
+				"size" "1B02AED5F0DC1A8F0CB6703EEC6AAE45"
+				"download" "CCD64A3417E374146441C10189C4ADCB"
+			}
+		}
+	}
+	"534387"
+	{
+		"config"
+		{
+			"language" "arabic"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4796899213584008935"
+				"size" "2908786"
+				"download" "2930800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "8349F95EE371D9AAA6C18F800A01CA3F"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "94E8894E3EBE78E939DE10FC0ADD088F"
+				"size" "240A98E803D2D9449B58215559D86568"
+				"download" "63CEAF204795F9AB2302A61CADC16D78"
+			}
+			"devtools"
+			{
+				"gid" "D0A3166966A8282FD9D78D7C505E6805"
+				"size" "156E65017089A9DA8699D6E259D8ACB5"
+				"download" "2190B1E4A0F9762E597C79527689B33C"
+			}
+			"gaas-daily"
+			{
+				"gid" "451023616E3280BF8951EEB957ACCBCC"
+				"size" "94A19C07F98136A6D69246CA6CD964A5"
+				"download" "92BF59E051698512CFC5F4D93E5566D9"
+			}
+			"gaas-tmp"
+			{
+				"gid" "31362CDA99776BA05A15DCFBF2B8DCD6"
+				"size" "FD3E411167202ED4EABC04C772A2AA18"
+				"download" "083E0AEC7D1B639AD46B04F1741655A9"
+			}
+			"gaas2"
+			{
+				"gid" "5D8D89599C8AB0811F855637E676449C"
+				"size" "4D7A81E858D299823E979412133D5E07"
+				"download" "09BC288E858BC928C0AE678DD0D01FCA"
+			}
+			"internal-tests"
+			{
+				"gid" "FEAC47F10915FF23CD5710C4A28FBD88"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "C51C8EA5009CAD0AE61CB808A5620E07"
+				"size" "1326E8C7CC814C3F63C09F3B52567A90"
+				"download" "D17F4C9B6C7501A637F87B02CC386502"
+			}
+			"mph-daily"
+			{
+				"gid" "17B2E720C676FC74DF1BD9FDE3E6C4C3"
+				"size" "40CA4329D7705D22AD7F35C18F64234D"
+				"download" "126C55DEBD67878DA2BF10703394D473"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "B25952E4BE00216F31C8C3D10003051A"
+				"size" "B8E494EE5C07752AC11DEAFE348B7415"
+				"download" "B551B8281F082B39BBE8C6D33EBBF2ED"
+			}
+			"mph-stable"
+			{
+				"gid" "4F184F2384276356FEA75F41EF96C52E"
+				"size" "3F7F18D1037CCEB306AFA6D8AD397668"
+				"download" "07CEF4B1D9D0F8B8E2E847810670AE1A"
+			}
+			"patch16-daily"
+			{
+				"gid" "574805CB2DEA0B48CD1F5251FC8542C3"
+				"size" "ED7820A68DE1E766C287B966E92838C6"
+				"download" "81B69652C28F4CEC0579E88277B6F310"
+			}
+			"patch17-daily"
+			{
+				"gid" "AD8B0EBAA7BB11B000212B67D6D2FEF0"
+				"size" "1889A49855A22C4C7EA177A8EC27A9C0"
+				"download" "E885B86503276BA46A4EDC2FB58C9808"
+			}
+			"patch18-daily"
+			{
+				"gid" "AAA45EBDC27F4861AE17391588229A5F"
+				"size" "153CBDD27623DEA376B35989D2E39D1C"
+				"download" "9BEA83E538F5397C820224F1DCAF2D5A"
+			}
+			"patch19-daily"
+			{
+				"gid" "F09BC6BBA4D2E82818CA0783068777D9"
+				"size" "EFED987ECAA41AF626A98F628FB3EDDB"
+				"download" "28E859B5F24A6669A3ABC0F2F89014E3"
+			}
+			"patch20-daily"
+			{
+				"gid" "56E1DFE1E351DA324150C5C07EBF337F"
+				"size" "7F0D1159FCF866A91AA9369DAB0142EF"
+				"download" "004706FB6C49D3ACB85EB6FC97CED56E"
+			}
+			"rollback"
+			{
+				"gid" "73E55DF5CF0EBACCEF8DDD7B28E23B7B"
+				"size" "6BE70C2E8378959D7F3E7B1EE49C070D"
+				"download" "00395EBBECE935F0EF4C9622F28B9381"
+			}
+			"showcase2024"
+			{
+				"gid" "8BC1B251A341AE85CBC8B2B05C8B3008"
+				"size" "FDDDC2B49B3CA2ADAC19796F91F5F389"
+				"download" "D47A19963CCADE6BC42396B07EAFBAC0"
+			}
+			"staging"
+			{
+				"gid" "B1BB6DB4F69216ED16453A61D892C5A8"
+				"size" "CDA578ECE24177EB21AFF42A80136812"
+				"download" "AC2B0F2A034670D64F267CFC5A82DD45"
+			}
+		}
+	}
+	"534388"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6108833443355465881"
+				"size" "5057992880"
+				"download" "5006460000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "0304007AB32A93E5ABD6B7E2356E0ACF"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "3CF7A0D7F2FD35DFC4B887C1742F34AF"
+				"size" "01F1340F442EB5A66FE78076CF88F80F"
+				"download" "9FF3870CF92AABF0E92D1B3E0A484939"
+			}
+			"devtools"
+			{
+				"gid" "DB8C34AF8E85A691F526B8869C530537"
+				"size" "FEAC6400A0E6B1B99D2A7D3B95EE2CB1"
+				"download" "BE4788C09DC634B7073594EFA43DB221"
+			}
+			"gaas-daily"
+			{
+				"gid" "32C1553EEC170EFB911F9D57D1C8A354"
+				"size" "7EA6D72C77AFB1B6C7D2C9DFF9A1501F"
+				"download" "28A62FC678BBB6CE784E02DA135030F7"
+			}
+			"gaas-tmp"
+			{
+				"gid" "9E91FBA377E9918DCC9FF227E0CE4814"
+				"size" "2D51783F5947B515DA40AF4109529284"
+				"download" "BB2C6354C653354D519D1D8F9757C6F2"
+			}
+			"gaas2"
+			{
+				"gid" "009AFE540EA520DF7222C8C11A1AF117"
+				"size" "9B1A93C87EA7B0E7C5C3D397439BEBB4"
+				"download" "253FB301BF97A3185A9402672C66FD9B"
+			}
+			"internal-tests"
+			{
+				"gid" "7DE3808AD1C37528033749B0D6973DA7"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "9B84219720081CD03F3610102E5A6BF7"
+				"size" "FA8EFE4F2A3E33BBCCF8DDEA5C0EBFE2"
+				"download" "8668BDA97A5BBD3BEFD0A65D93F34743"
+			}
+			"mph-daily"
+			{
+				"gid" "35D5BC5332A5DC79CFBEC37908B1B828"
+				"size" "D19AF128EE7D1BAA7FD9F560C66977DC"
+				"download" "C54B4895AB7902615D9376EE3FB943CD"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "2E65844B90AFCCD954FE9A4D01B32ED7"
+				"size" "4ECACA88F4C5A5CDDD32ED3D5607E0B6"
+				"download" "EC952D65EACB3E14DACEF9FA78D35E9F"
+			}
+			"mph-stable"
+			{
+				"gid" "EEF47177111B6A09896467BC4D292F1C"
+				"size" "90559D7AABBEE33C857B686C394EEC86"
+				"download" "5B649FC01D553C7AFCCB1BC7296DBB33"
+			}
+			"patch16-daily"
+			{
+				"gid" "F24C794C1DD6EA21E0C475B623968290"
+				"size" "3130C273C013A918B6D3C6E13641D2B9"
+				"download" "7CEFCD8F2A9A7FD0D0968EB211BB9E06"
+			}
+			"patch17-daily"
+			{
+				"gid" "56BE4C459A9ED6176DCA0FF7A4D4EB45"
+				"size" "F533065F9DD78135206A92551160E845"
+				"download" "ABAA16A7837646EC6D59F939F83EA598"
+			}
+			"patch18-daily"
+			{
+				"gid" "2BAAF7A338571759B0E0E751F5C2A513"
+				"size" "CD5F2F751F482A69162C8A8F6E930FFD"
+				"download" "CFFEFCF048E322383ACB09B737FE94C5"
+			}
+			"patch19-daily"
+			{
+				"gid" "A32667DB956171E94F4AEF1403EE4A40"
+				"size" "ECD70747F609742CEEEA5C756C79C6A3"
+				"download" "BB592DE30437B86231FD13B195A1D4CB"
+			}
+			"patch20-daily"
+			{
+				"gid" "AD7E4295F9B3CCEFAEA8E6867B2C3ABF"
+				"size" "3370184D0ABED9DC48E34D251AEBC630"
+				"download" "9D4E16446DF684D18A5DFC69AC628191"
+			}
+			"rollback"
+			{
+				"gid" "D0839465A7C07B82A5B992FB951514D2"
+				"size" "D5F149A60DFD3DFB83A5D237684E4FDA"
+				"download" "18479326B90F18FC559BBAF63032969A"
+			}
+			"showcase2024"
+			{
+				"gid" "DB1F6433E30D733657DE459D729C5EE9"
+				"size" "F1B314199B1E1EB2760FAD0F6B53EE8A"
+				"download" "5B5E008F1C42BD1AF94CE6E45B40B890"
+			}
+			"staging"
+			{
+				"gid" "C95196D21660ED4ACB5A4FB009594385"
+				"size" "994434ECAA94E284D686D10672328940"
+				"download" "3F033F7EE5D1DAB80E2D738AB13AD51C"
+			}
+		}
+	}
+	"534389"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7548259520174857053"
+				"size" "667920192"
+				"download" "383143344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "8B76B68DC1FCD615D8D700A90FD78EC0"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "C3C27E48E1C4EF106D8ED4E1030AAFA4"
+				"size" "DEFBAF49651C3905F6E71EAD6CC58ED5"
+				"download" "770DE48D908CF08C57C6660FBF97E47D"
+			}
+			"devtools"
+			{
+				"gid" "8AB5F1F0C98934F3FB780BBF21A7C1FF"
+				"size" "EC1DF97DDFA904F24F6A78A845AC58C7"
+				"download" "51726CCF47B353BDB62B44993FA1A2D5"
+			}
+			"gaas-daily"
+			{
+				"gid" "D26FEF5CDC4AE77D50FC06795BC63843"
+				"size" "DC25B89F1989DB17F44381756CB89CAB"
+				"download" "47F92ECF2549397A18125D9D0DB03893"
+			}
+			"gaas-tmp"
+			{
+				"gid" "87FB3042A3E9191F45AB646C4C679A8A"
+				"size" "6BDC578F40D24932141A24D1BFEF84F8"
+				"download" "710981D7CFB8570A2E869D0B4ECFA027"
+			}
+			"gaas2"
+			{
+				"gid" "6EB8DC62433516E1488DF526AF6F61EB"
+				"size" "5DDDF7E7984A85A07ECC81896FE5D44B"
+				"download" "BA26AC36584875B9B7E4F7D445D87DC7"
+			}
+			"internal-tests"
+			{
+				"gid" "665B2CDB196DC322A4450EFA076A51EB"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "68CB5FE5AF4FEE7492964B6B575210AE"
+				"size" "56414F4A4F2A8C24527F065595F30432"
+				"download" "9D8F0C5D237B949EE401D39BEFDF0CE8"
+			}
+			"mph-daily"
+			{
+				"gid" "74EAA9B526E82776F80D3A514DC1EB21"
+				"size" "01706CC9E9799621C8D8E133EF8A49D0"
+				"download" "8F63BCBDA3874F3DB7B1202CE8ABE32D"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "A97C6AD18F508FB402E9630E888DE6F3"
+				"size" "1E4D91F14129BFF500F500630520FB8A"
+				"download" "899D1A3A3F6AAD2632F4B1DD5C41FD5D"
+			}
+			"mph-stable"
+			{
+				"gid" "A4D90CE961E12482A7EF07B9880B0D0B"
+				"size" "3BADA2135A043270E6F0AA1101FD80E7"
+				"download" "4129EF4BB3CB1C589E15615E39197801"
+			}
+			"patch16-daily"
+			{
+				"gid" "4D622C0D86F4690C89BE01D7A4FF76D4"
+				"size" "67AE7617F9B502F60250E09944C2A209"
+				"download" "933CACF454328AA757D5C80BCE30BCF8"
+			}
+			"patch17-daily"
+			{
+				"gid" "22A47272187ADF53B4FF37F22555AD0B"
+				"size" "48F468B3DE02206C50DC7A16F692AD69"
+				"download" "610859C23B29EDF7D8A7FBDE0D680868"
+			}
+			"patch18-daily"
+			{
+				"gid" "29DD1436F5BCFC3E0BEB5A64801F35A1"
+				"size" "DA241A3F109AB0630E283711742738EA"
+				"download" "F655AA047B0407C62AD89F584AC131C6"
+			}
+			"patch19-daily"
+			{
+				"gid" "515F85360A3DAAFA0A301F40C5ECAAB0"
+				"size" "067946A3147DD61F59F49B38BA0C0B8B"
+				"download" "FEAE0ABF893E098723D5708157B4102C"
+			}
+			"patch20-daily"
+			{
+				"gid" "6FFACC74FA19E22D2CB2E72C9D90F7B7"
+				"size" "1D4B435420643DA6663798D7A7F8B2EF"
+				"download" "AF7A6CD6371F57977AE733B852A349E9"
+			}
+			"rollback"
+			{
+				"gid" "630744B1335B53DD6BF4706935C7C31E"
+				"size" "03B543C70439D22331BDD6D4A09A659F"
+				"download" "923CDBA41410C776FA511D9A3C691217"
+			}
+			"showcase2024"
+			{
+				"gid" "EB68E4BDBE89C0AE4B5D7AD03D64CA20"
+				"size" "84099BF855B6B7CA53DB33D11497F945"
+				"download" "903AAFB3A5770B0EAE8785FDFD43F9D0"
+			}
+			"staging"
+			{
+				"gid" "64B797F31133F8EE24522A783B1B5002"
+				"size" "09D7DC4E1D5B30B6D1562642AD35272C"
+				"download" "5ACE5A2E38AAFB2AEB5DDEDC3C51442F"
+			}
+		}
+	}
+	"1741780"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3774960508196850314"
+				"size" "4968713615"
+				"download" "4914344160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "F30D74BAA23E5C98FA862D4607991E91"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "ED5854044069A4979A0E243859953C3A"
+				"size" "DE9DAC445FDA049642B9C053388B011F"
+				"download" "8FC5C238024DC9088EB801692E02C7EE"
+			}
+			"devtools"
+			{
+				"gid" "7C00981A5490F6215BC13374C363A917"
+				"size" "8AD01E4BBDDE30C6F803ED2E77F22501"
+				"download" "AFFB8F66EA70008E9209B284CC8D7D01"
+			}
+			"gaas-daily"
+			{
+				"gid" "226E1B69C8A5297AE5427C9A9C64A373"
+				"size" "13144425F605581B2AA45BDB76540E37"
+				"download" "14EA014ED79FB5120FBA823AA8A4375E"
+			}
+			"gaas-tmp"
+			{
+				"gid" "DB283D3DB5327AA8DC95B4C4C42C2E9F"
+				"size" "93B7CE854BDC5B32D52E326ED294F15D"
+				"download" "18CD6AF4EEBD24241F3B4BDA080AFBE3"
+			}
+			"gaas2"
+			{
+				"gid" "2ED87124BCD78B900FEC4CA2745D589C"
+				"size" "F4A5728DAE76301FA3E5F064DA35E6AA"
+				"download" "F51262BC494B6684277362130627B48D"
+			}
+			"internal-tests"
+			{
+				"gid" "0FAF5BE63CA296BE174957AEFDF1A386"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "F812A7A243FBAEF939BFB1F2330DC647"
+				"size" "489DF99190A1E606484F9BFAC36DB6AE"
+				"download" "F469B3D630F83282F2C553D2BAF0F5CB"
+			}
+			"mph-daily"
+			{
+				"gid" "8AAACCBB775A2536EE47B786D7D0CBB5"
+				"size" "5D05B0D109285390EE2D0C77A2D4EC0D"
+				"download" "B56C5E79E4BD75505ADC8E4B0630C7CA"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "7596E223AC6D94420002150774F10F10"
+				"size" "013B4F2A0071EEE06084DC3392737B3C"
+				"download" "A79134C385198EEFCA5BF3FFCD4EF89F"
+			}
+			"mph-stable"
+			{
+				"gid" "8D3D11B02402E474AB1F7CE334D36FC9"
+				"size" "C721FE25D0031967D91A73CBD9C1D615"
+				"download" "5CCCF2FDB5CDD0608ACB0B0893747B6F"
+			}
+			"patch16-daily"
+			{
+				"gid" "452EB747DBB7AE23329F8AA1169B41E2"
+				"size" "DE58D34CF60DD4595940A80B6A04E02D"
+				"download" "78D679D38EC3B3DCCA95372D04DF7309"
+			}
+			"patch17-daily"
+			{
+				"gid" "F51EC2EEA8E02EC1471E9EEE4DEC227B"
+				"size" "5A72B6DF1B9FCFF56503F151E204A60B"
+				"download" "4A17A5B70D00454D6D729E7B2A3EE21D"
+			}
+			"patch18-daily"
+			{
+				"gid" "52F6EA695AA1D5E4DDE89A403BE22D6A"
+				"size" "A86B0E29CD544C2BB791686B3ECE6F22"
+				"download" "29DD05E091F84CEDEBC6BB0C68CF1849"
+			}
+			"patch19-daily"
+			{
+				"gid" "0E3056C08B0E80213C737DA92377C1B4"
+				"size" "87F7D372462BE7E85C277EDDAABE8EC4"
+				"download" "63042BAC58107E46A87FE93062294BF7"
+			}
+			"patch20-daily"
+			{
+				"gid" "7419B1F7A6684B30E995B0E7BC3F71A1"
+				"size" "2AEF94BCBEDEA9C7BF118DA5136CA63C"
+				"download" "6D64FAEEA67CC0BCFCE4EDFD22615A83"
+			}
+			"rollback"
+			{
+				"gid" "AD752FA7DD13D24081BCBF117520449B"
+				"size" "F989DCC4AB42EB049409F1DEC1C12873"
+				"download" "D71A4F8525B9517DFAE8D620C5358D06"
+			}
+			"showcase2024"
+			{
+				"gid" "592E079994036CB3AA77D9D69557ABB6"
+				"size" "5A150BB22D551C23ED3C05CD3AEC5C69"
+				"download" "CC670834BE7875171001352CCDF0CAB5"
+			}
+			"staging"
+			{
+				"gid" "4C1A49D952F595FC263AE9F854283F3B"
+				"size" "5E063FAB8B89FFD96B8FFF79F1F9049E"
+				"download" "04C60D0EE315506DF6E2CB949569B24C"
+			}
+		}
+	}
+	"1741781"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2374966535411976735"
+				"size" "654545792"
+				"download" "371665520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "17C4CC1AF32A7EBCDF168FD672ACD72F"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "89AF2944440DB2A5270C7380B8F1BF22"
+				"size" "0FF9E97203E3017535BC0A6C8638A828"
+				"download" "0B80CA231BA7D9EB6BC4BBFBE14D848F"
+			}
+			"devtools"
+			{
+				"gid" "BC7E8952A791FB50B800B9E226B244AD"
+				"size" "96CE9705D377F400685658454D84778A"
+				"download" "49C335044E8EF6D2E1667DD18F5FD437"
+			}
+			"gaas-daily"
+			{
+				"gid" "E25D4A89FB3A959D4482E05578DDE28A"
+				"size" "E5922D5780B381524C04727B4A3FDD59"
+				"download" "E9EF9C500DC51C6CF29E416135BF74B5"
+			}
+			"gaas-tmp"
+			{
+				"gid" "7CFDDA72197077B463B0D582246DAC40"
+				"size" "C4B1575349BE40EBB06B0C697D36A947"
+				"download" "0024C431B3040AC545C36286C1FAEC1F"
+			}
+			"gaas2"
+			{
+				"gid" "2E2D3CB7B8C2D70DD14F98CA82AD14BA"
+				"size" "4853A08C733E103DBF0CFD3577689359"
+				"download" "A98B9304D0322E892872F2C51A7DA9F8"
+			}
+			"internal-tests"
+			{
+				"gid" "87D5AE0F8BAF5C1F7EDD0B9230DE558F"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "82144AC30C125035F2D6B93392B81436"
+				"size" "5C5045CB6ABFF05DFC452B600CF2F015"
+				"download" "73C3B30EAFB8D639CBD73A9E573BE251"
+			}
+			"mph-daily"
+			{
+				"gid" "F89D04442A1FF6A80EF97072A6DC1ED0"
+				"size" "F300F9DC63EBC7867ABAB75659E515FE"
+				"download" "B0EF3437A0C3497624D5D71C81387247"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "E3C87E54E015DF8EF9195A429EDE731E"
+				"size" "E32DC475622FED240D0DECBB5A957DD4"
+				"download" "F2CBA461A008BE79CFC69D15AD482E44"
+			}
+			"mph-stable"
+			{
+				"gid" "DB9D2242C3EC554F3EF771E9969035D9"
+				"size" "D0D56BC5C04321E53DF0F0B3E57FD780"
+				"download" "9174553CB7E88E3D815634261725AFB7"
+			}
+			"patch16-daily"
+			{
+				"gid" "FAD8CC634F674EA8F9747021ADBEB16A"
+				"size" "92E415A6A0A8F40AB5C54C33D6428016"
+				"download" "3268197103CADC383249B4ADB4860FDF"
+			}
+			"patch17-daily"
+			{
+				"gid" "7AAC47974C20336D0495D528FE3D9389"
+				"size" "BB637C4E38522155617DA907E7C49134"
+				"download" "F84E311F7AC75C97248EE587CF15D6C7"
+			}
+			"patch18-daily"
+			{
+				"gid" "91C6F4DBCF6D3BE7C3557B7E52B8BE63"
+				"size" "9399F5E4E90F744BA0137D3A4E67DDF8"
+				"download" "7A59C32001FBB86EA8FCC8883F56853C"
+			}
+			"patch19-daily"
+			{
+				"gid" "07CBE1679AF5857E0C37BB32A459AF5D"
+				"size" "64EAAEB20413C6175C3965E3075BCBD3"
+				"download" "2E71228C17D24C6F83C5D0BDA28482FF"
+			}
+			"patch20-daily"
+			{
+				"gid" "39A4C4DBD72CE9CFD4FC31F1D4DE8BCF"
+				"size" "0090CB6605759CE0BD7EAD9FB84DCFBA"
+				"download" "C6E29D87CE641A551611136D5F44DA42"
+			}
+			"rollback"
+			{
+				"gid" "F9FB72FE97DCB455F88E74C8A8C4ABD8"
+				"size" "1D421CB0C5B68E459E537FDB27B56BC2"
+				"download" "59AB8A58F366644C8AF0F46CCFB5504A"
+			}
+			"showcase2024"
+			{
+				"gid" "9D4AC0F1DC37DA815EC89C719DE80D67"
+				"size" "9B4DAC5D4612A56E0A872EFD4845001F"
+				"download" "79EE04403D4454A2EF1D446C3E39192F"
+			}
+			"staging"
+			{
+				"gid" "38DAB1075C398259075CFE2DF68872ED"
+				"size" "23A4666C3F99F50C3F85EFB0359EF7B2"
+				"download" "FC7C023298410EB35EDDD00367B70C11"
+			}
+		}
+	}
+	"1741782"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5458299424895670249"
+				"size" "3613406"
+				"download" "3648880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "DE5740A8AAC062FDB9A6E50AB83B7E61"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "85042308A9CCD9BC219FDD92A6A5C4A3"
+				"size" "5BEE4E05427811598DF2AFFC0A2B7930"
+				"download" "DED5A66E9CD8424D47EF384ACE703065"
+			}
+			"devtools"
+			{
+				"gid" "504AEF4FCAEA2E0EEBE5209285316B4F"
+				"size" "53E414A7EA3DE77467DF06C07DFE8F95"
+				"download" "679E48656EDB243267BD59868B5422D8"
+			}
+			"gaas-daily"
+			{
+				"gid" "2D708D3BC5BACB2CEDFEF72A78E9F64B"
+				"size" "F4674975E523D5520166B47E5867EFA6"
+				"download" "9444DA12D8153A8E0B7FB498FF09566D"
+			}
+			"gaas-tmp"
+			{
+				"gid" "596B81E73A03932B2928F7A341C66A5E"
+				"size" "6CBAE2A4CC23BD424207960B446AFE8D"
+				"download" "B77BB5D7B4D0BABCA21D473A009395CF"
+			}
+			"gaas2"
+			{
+				"gid" "25B6F6BD935F282F8FA528BA2E3598DB"
+				"size" "1A9C7C120A050ED9A9AD3E3019954CC2"
+				"download" "AA6FD61A4D93D6BC224349BAD0BF542C"
+			}
+			"internal-tests"
+			{
+				"gid" "A7512D9B8D70FD57D729E22A9C58BC6F"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "705C0798DF610A6DADF49D38FA08B476"
+				"size" "A1A4B6E1F3EFD86BC6DDCD041AF0977B"
+				"download" "9A76880FF753E27B4E957F199B98E269"
+			}
+			"mph-daily"
+			{
+				"gid" "9BE2FE2D786FE9C52C7199AE61293C38"
+				"size" "1BB0BC9952CFF036715A833EACE101C4"
+				"download" "E428C2A9B5541C531F949A6D0243FCCB"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "B9023646A33079D44D7C4F02D98E319A"
+				"size" "873ECF427FC85546C1D46CCD3F389A20"
+				"download" "67AE4DBC333CA76430CB6FA7F1668758"
+			}
+			"mph-stable"
+			{
+				"gid" "1B3474897C4D9D238C02583F820EFD9E"
+				"size" "9508AF0D4A7EB35F020A989A43C4991C"
+				"download" "854AEED8C30DF4962875955A33CBC7FD"
+			}
+			"patch16-daily"
+			{
+				"gid" "D83C75AB6EFEADF54514572EFF5CA404"
+				"size" "260A5F60D4F2632445DC05992EF01CD9"
+				"download" "4F3198A557B6B5E65FBEC810EBD59065"
+			}
+			"patch17-daily"
+			{
+				"gid" "19552CD454714BF4BCA53C4E2674D585"
+				"size" "68F9155EF7DEA0705FD026560E56F54D"
+				"download" "C97A17132E8B9C76BEC6BE81F9099BD7"
+			}
+			"patch18-daily"
+			{
+				"gid" "D661934FB188912FC1790E88673140CE"
+				"size" "F22B3BD7B911BD1EA23E67C50985DD8C"
+				"download" "94392C5BE730EA29BABD0E3BDD84E0DF"
+			}
+			"patch19-daily"
+			{
+				"gid" "3CE6BAF8CF51ADE5B5FE5420D7985294"
+				"size" "EEE62B130CE70D28F223F8AFA5F08A9B"
+				"download" "B4D39E7BD6CA477F3CFB46960BC2BAF0"
+			}
+			"patch20-daily"
+			{
+				"gid" "2FF22936D6E5971C20D7C525888BB131"
+				"size" "8E1279613FA381C5B8E82C82B1EA2F1E"
+				"download" "88F17251FD4D4636B4DF919301367435"
+			}
+			"rollback"
+			{
+				"gid" "9D21D44259875DC1A2A001D2FE4B9A82"
+				"size" "19997A55D39AB0408473AD076B7D802D"
+				"download" "851686F8ADAD0F2490D9EF7A2E0F7F64"
+			}
+			"showcase2024"
+			{
+				"gid" "ABCCABF3E48068E701FA3392D89F6FE9"
+				"size" "47A20A4363DEF767AE3052D880DBCD12"
+				"download" "3A1ECE22B02C254FB6A689A17DA10CE9"
+			}
+			"staging"
+			{
+				"gid" "6CE770FC2657804B4728D82CF3BC786F"
+				"size" "83736FCE3A0222C752274E3BC6D9123A"
+				"download" "F5F200229E56571AED0057C0AB5B61FC"
+			}
+		}
+	}
+	"1741783"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8660147039018637085"
+				"size" "2108429"
+				"download" "2133904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "89F475207F1C9C45E69B9D1B18710E2A"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "AA2003445F98E0F7C8AC8F3873E28499"
+				"size" "AD3F1CC024CDD005A1AD839189778F1F"
+				"download" "A5458D48F6E065E61CA1408E83EFD646"
+			}
+			"devtools"
+			{
+				"gid" "9071B3F4DC1309F57FF0E8385D6D553D"
+				"size" "1B2E0241AC34DA0A7661F4B61BA81216"
+				"download" "74A07BA67CA82AF85CC5D83C1EDF932D"
+			}
+			"gaas-daily"
+			{
+				"gid" "C640CC69D69104E32A9514668CF672A7"
+				"size" "177C19CD88D139CCEB0F9042F8639AEC"
+				"download" "03844324B8D3983103B8E0864252E794"
+			}
+			"gaas-tmp"
+			{
+				"gid" "1DB5BB9412FDBB9F68DFB24481B0C676"
+				"size" "144E6E38D7B21BEFC2E069F741FE1139"
+				"download" "9C9EBDB4832F5FAB78A0EFAF695DB4AE"
+			}
+			"gaas2"
+			{
+				"gid" "2A71498769B683DE9CDA82D673D44B51"
+				"size" "F8F465BA29E2D26F2C50B7BB506D40AF"
+				"download" "CFCCFC34E513857D33B20BCE61A46175"
+			}
+			"internal-tests"
+			{
+				"gid" "BA3C245051B84B55110AC88EE64088A9"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "5C36E105976087DCF296E438B1B04198"
+				"size" "103DB94D4597C7410E11866653704319"
+				"download" "36BB2295F34F8351EE8770C6F4AB3517"
+			}
+			"mph-daily"
+			{
+				"gid" "9C7F7640D400F93A1F7C3C822E509BE8"
+				"size" "BF40CBE288FC3C188B21D07251900EA3"
+				"download" "B679C8FD7A0EAC23AA3CB4DC057D359F"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "BC182C224E351C8A3C1BDD8ADB9B7C9E"
+				"size" "2468F3BBCF63E6B10B2F01135E22CDD0"
+				"download" "DB23E3874FC990672B7BD9BAB1CD381B"
+			}
+			"mph-stable"
+			{
+				"gid" "5A288DD76E88DEA0862BF8C96C25F0DB"
+				"size" "E8BC73EC0AF8A6A7290A25210FCFC8AB"
+				"download" "4389820F7604932D8BA573A8D5026F3D"
+			}
+			"patch16-daily"
+			{
+				"gid" "22513D1E1179A277BD743CB3A0A209F0"
+				"size" "0B2B0FC10D3E18BE8E5CB27FCB05FFD0"
+				"download" "A24B89E4023AF12CF0F47C0BBA2781C2"
+			}
+			"patch17-daily"
+			{
+				"gid" "75E860DC612CE15674109F7937A71260"
+				"size" "9F418A46CBAC2FB5B5E966E8770885C7"
+				"download" "1B0D260E1DB32E434F3682B8786BB183"
+			}
+			"patch18-daily"
+			{
+				"gid" "6E2216DDA27A24F1CB1526FB549A6373"
+				"size" "85F993B289F5E94024553900F1B0CEB6"
+				"download" "813265ADA9B68AE830D2ED27A9B148FF"
+			}
+			"patch19-daily"
+			{
+				"gid" "839954D642203087FF9CA7A797A9311E"
+				"size" "7899C5276BFD830BD0A7A5C14F38E069"
+				"download" "9FE51CF89E6BB4F4CB9DB66F103D1187"
+			}
+			"patch20-daily"
+			{
+				"gid" "785089A18E6F1291A7D2684DAD58F7A3"
+				"size" "DCBD3EDF7A9859747ADC64F8E42D80F7"
+				"download" "9ED69FF6C13EE1AC0D0AE27F0A05D943"
+			}
+			"rollback"
+			{
+				"gid" "B46A81FFB499544C842C4D6554B5D075"
+				"size" "7AE336B5597EE9298A226EEC2E6E6DFD"
+				"download" "43225EFBEA7B4DAE8192DECC76B0C65B"
+			}
+			"showcase2024"
+			{
+				"gid" "100E59ACE7BF5E8448D2B779C68E340C"
+				"size" "8763650E5043803478F0E9D44418E0F2"
+				"download" "809071854BB26AA503265A8B60389B67"
+			}
+			"staging"
+			{
+				"gid" "21C71F15507549BC48CBCE63226DAFCC"
+				"size" "D3438C26B8781F69F1A44F63C0F852A5"
+				"download" "FD937406FFDED0A85C16312D17D3CCBD"
+			}
+		}
+	}
+	"1741784"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1392339055991949606"
+				"size" "5211555766"
+				"download" "5158389008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "6D28F84B8270F2BA868B98BEFD4F55D6"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "59751A5B80BAE140A335D451091724B4"
+				"size" "37E4113C39F9FF63F87F90F101B9DD60"
+				"download" "F7EFB06D5CA3D71A7289AFC44C023A3E"
+			}
+			"devtools"
+			{
+				"gid" "A8130D73D52242B7AD2144762A05D3C5"
+				"size" "9173287F6796ED2C598633C7B8B77240"
+				"download" "4892777D20A73D829A395672F02D7790"
+			}
+			"gaas-daily"
+			{
+				"gid" "D56DD2CC46A27F4BE325798B4C8FC51A"
+				"size" "B20D853A69AF28D0ED24F1859B424AE3"
+				"download" "F9FC18DCCA27D4E8254BC4595E6B49CA"
+			}
+			"gaas-tmp"
+			{
+				"gid" "C82FB899249F6CE62AFA8B8D8A1B7271"
+				"size" "798470A903B02A54DD11A8844A08B8EE"
+				"download" "953C49B7C7F0C56B796C6755B688076E"
+			}
+			"gaas2"
+			{
+				"gid" "A83229830BC869155D6E3CAE11B87691"
+				"size" "2FB59AE3A50FEF0A635EBBC17786D30E"
+				"download" "4A802CDC4238AD6B95EA712EA3FD1B37"
+			}
+			"internal-tests"
+			{
+				"gid" "2D6A3D75E991A3F0F6F1F43D4288393B"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "B1E45FD2E619CA17557D08A254C5F6E0"
+				"size" "56145E504BCC2ABBDD88CC7FA89DFD64"
+				"download" "B52C5D78061FA494EB1AF0B9A096BF8F"
+			}
+			"mph-daily"
+			{
+				"gid" "ED5C50683275E671895C38C248D72184"
+				"size" "4AB20D40AC8445D0A4238FC55A66B7C7"
+				"download" "3C78A1E160847B0270A6B67622CD6A84"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "24B34A917B7483E6A38BDBD8B457BA89"
+				"size" "1A3EF35652FDB151D97C6E491ADFABEF"
+				"download" "2AE8F7871C19CE249D8F6C2BCC122F91"
+			}
+			"mph-stable"
+			{
+				"gid" "D7DE727AA93D9A1EDB0A59674BC0E372"
+				"size" "9F358153594AC42CA26F670A90AF7BBF"
+				"download" "1A37CFD21ADB63020D9495C853DF8697"
+			}
+			"patch16-daily"
+			{
+				"gid" "D004D2F5E3C231767FC75B2D6943BC7B"
+				"size" "00AE677623E024678C11DEE7E821E607"
+				"download" "DE5DB19B764CCE11DD06215FFBB235CF"
+			}
+			"patch17-daily"
+			{
+				"gid" "ADBA047FB60CE4FBBECEA44684193784"
+				"size" "D4225959B2C4A692E29BCC8C1C3B0D65"
+				"download" "80BAEE836C1F4772981DF4566BD1BD09"
+			}
+			"patch18-daily"
+			{
+				"gid" "39E361293EA8E27DBDF9D417A3C6B616"
+				"size" "0432AA5293F4D91F2ED3AF20F39FB187"
+				"download" "5771D3FFE95393D4732953D48B4674B0"
+			}
+			"patch19-daily"
+			{
+				"gid" "AE250023A67D0AB6F4ED5122673780C2"
+				"size" "EAA3D4B3641C3C93E2F8BCE805AD2A59"
+				"download" "829AE92D355B2D64C4701AF1083B25FB"
+			}
+			"patch20-daily"
+			{
+				"gid" "D1B2FD6BA663DD36C00DA2C64112697C"
+				"size" "DFF3A177F8016F07A5E27D5EA547E96C"
+				"download" "45F31D145B8EB3B5B3E3E297C77FE2A7"
+			}
+			"rollback"
+			{
+				"gid" "427707181F4D246C665F2C5A29F123A0"
+				"size" "D4E6F88579C83D639D99EF12FADFF79F"
+				"download" "3838FC43640A8CEACAD679A191E71106"
+			}
+			"showcase2024"
+			{
+				"gid" "2DA6983D3B15204B0E3EB7AA165A82A6"
+				"size" "4526508F006DCFA6055103582BFD833D"
+				"download" "D9F5A9EABE60F33BE61FC82D9A2C3B34"
+			}
+			"staging"
+			{
+				"gid" "687D041216C49DED3519DAB6CE13945B"
+				"size" "D44E39157DBC798196245F0EBE241B1C"
+				"download" "1BB5FB65F221352CAAC2CE6CBD114C25"
+			}
+		}
+	}
+	"1741785"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1140154555460724733"
+				"size" "659437248"
+				"download" "377829344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "7A33ED847266C4A456807A7A472D46D8"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "8FC3767363ACE9C9233E9C03FB7F5709"
+				"size" "97873162A6CD2A458AEE800CD0741779"
+				"download" "99F818E46BBA5F65DF02524D1CFF0E64"
+			}
+			"devtools"
+			{
+				"gid" "0DE62EE6634221C45B2D2414B1F755F3"
+				"size" "F80DA7C09D273B18C18CB6AB766ADAEB"
+				"download" "E24EF0DBA76CD21B4871639C0CCB62F6"
+			}
+			"gaas-daily"
+			{
+				"gid" "E13A245DA14A0AF3531712C36F0B3938"
+				"size" "AB27E5A6B60E405CB0B5211B741EF9F3"
+				"download" "965DB45A753BBB6A336AF3B8A9602C1F"
+			}
+			"gaas-tmp"
+			{
+				"gid" "FDABE28D1CC8260FC911C6F3B764FBE7"
+				"size" "73BA69226413A7884BEFB5CD9145DCD7"
+				"download" "D152E9C86CEEC253E95922D50A672892"
+			}
+			"gaas2"
+			{
+				"gid" "B6FBD4844BE3502D55178765CF6E178A"
+				"size" "E5E20DB9B43C99982E6ABFF2745F815A"
+				"download" "E5E46FB460D4176BFB5E398EF0A2A34E"
+			}
+			"internal-tests"
+			{
+				"gid" "877B9AD7CA6B5716BE31913F751B5008"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "5F2A1B3800C55DCF32168B2DDFC183DC"
+				"size" "5CFA28EDB41EBD36B3D34C8989EA787F"
+				"download" "6F48468DCCB7E4021C6EA38FDE1519E5"
+			}
+			"mph-daily"
+			{
+				"gid" "94922A508EB3E508C063ECC8425729D2"
+				"size" "6DAF16785AC51DD81CCE874898C58A87"
+				"download" "FA8B903E1212C338405E8306A801AACD"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "A2396C9802EFC25720C2548ABFF14686"
+				"size" "F20F39346B3E64CCC108F3CD2BC51C1E"
+				"download" "08DD8D39C9A188042D67716BF57AFDE4"
+			}
+			"mph-stable"
+			{
+				"gid" "D6AEC338CF9A4B054132FBD946BC92AA"
+				"size" "3442AF0BA6AC55031BB3F0522236DB7A"
+				"download" "0B447D957710C224336A836A06FB87F1"
+			}
+			"patch16-daily"
+			{
+				"gid" "F13C9CB932F51116F30CD8411F56D858"
+				"size" "C1F80F1E5286E6216F6C361E6DF5EC36"
+				"download" "29087488FB73CDA6E52B448AA5EAE5D2"
+			}
+			"patch17-daily"
+			{
+				"gid" "27D39FDEA240F727ED6226492A31E618"
+				"size" "CBDCAB6DD0296B62BEAAF2A98F25D087"
+				"download" "77A5C2DAF3B1DF137A1423D1551E4574"
+			}
+			"patch18-daily"
+			{
+				"gid" "8A76D78964512594F74C3368B44FAE19"
+				"size" "8C1F4ED4347550BD9A5AC2704876096C"
+				"download" "EAF40F914858308A4C4C6B705E1C00FF"
+			}
+			"patch19-daily"
+			{
+				"gid" "B0F56A162115FA5E88A83D0DF136C9A2"
+				"size" "537E852656874B3262CB4224CC5D26B2"
+				"download" "1D2770F219CB771FBC71DF47F4EABD29"
+			}
+			"patch20-daily"
+			{
+				"gid" "66CA25A2FD03C521C7E849871C4676BD"
+				"size" "23A723C42E6A7E313AA63428A3775523"
+				"download" "178568BB8E29C60EDDDBE20CDB5F2668"
+			}
+			"rollback"
+			{
+				"gid" "7DB965981E7EDE696FEC12E292929789"
+				"size" "87731CCC7DEB84E648FD88D474988126"
+				"download" "CC7F8B9BD4F38A79D4BF0A8A137137EA"
+			}
+			"showcase2024"
+			{
+				"gid" "AE8398D3D0FF1FBBCEF03DAE768C905B"
+				"size" "837E6B86CF4218F2BD2BAD0F75A27027"
+				"download" "14A0CE639192D33A3DE9B37B19DB50AC"
+			}
+			"staging"
+			{
+				"gid" "C8EA2FA746DBCD6BBCF3383FD4A2E53E"
+				"size" "D75B8BF195BF8A70E369DD170675F497"
+				"download" "C645ECB4D42B2D2411A280F34998C9B8"
+			}
+		}
+	}
+	"1741786"
+	{
+		"config"
+		{
+			"language" "latam"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9174242137545220863"
+				"size" "5239406075"
+				"download" "5184044160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "DE20506FBAEEEA0D2A11ADF96D2D647E"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "D567B277EED38639A6EDD9AFBADBAECF"
+				"size" "5674677A5A1C337DB3BE9452D8C5AB75"
+				"download" "580D12A7B0D48D6F354D7BBB84544C96"
+			}
+			"devtools"
+			{
+				"gid" "49AF26AF34FB23ED1C80A8459434F434"
+				"size" "87C6890C5EE06F4E5F578BDAEA0F49A1"
+				"download" "30DFE9B7C5566EB6B3B65DA4A2E6C1AF"
+			}
+			"gaas-daily"
+			{
+				"gid" "73BA28FA351B685B594A7DF547071D5A"
+				"size" "28FEF0403B9448D031B313CE4CB97D23"
+				"download" "DA82C063677FB77E34BDE56ABEDA9AD9"
+			}
+			"gaas-tmp"
+			{
+				"gid" "B07B6565D5FF8FAEE4BFCD485417D176"
+				"size" "255422CC50104B0572AEFCAF2E6C2ABD"
+				"download" "3850D482DB504822E4E8D656C4CE76F6"
+			}
+			"gaas2"
+			{
+				"gid" "7F6C2B424A2E626B4E8AC8BF14699986"
+				"size" "2B07F95B1133EE88AE87CDDA5D7D2C48"
+				"download" "1632600952F30123D7C5F9D76234ABD4"
+			}
+			"internal-tests"
+			{
+				"gid" "6EC31C1ADA4EC94D41759EC8E3AC4F99"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "60F7BCA98EDF290FCDB92873FD70C3BB"
+				"size" "5BE7B9256A7BFA33B6D32C154D663944"
+				"download" "19374349DBF9ED8A0A05886E4313A749"
+			}
+			"mph-daily"
+			{
+				"gid" "DA39E32772030D477DEFA0C79338B227"
+				"size" "0779176A29FBB6519EF9871EEA0C6607"
+				"download" "6B7ED028495D8A9723EACDE027439140"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "40BBDD77DE423260F540A1976C9DD78E"
+				"size" "C1DD1A4EAE75D777C75150F0C8F6BFC6"
+				"download" "54CAA4865B9C32C1F401AF9762B79E33"
+			}
+			"mph-stable"
+			{
+				"gid" "68C24E419C77696D3FA67A06E0EA47CE"
+				"size" "5C60CF8620D15A358A5270CEE803E7F1"
+				"download" "2B4830460947898803EC1C9ECE425644"
+			}
+			"patch16-daily"
+			{
+				"gid" "91371B8855B4FA7F2C200AB310592385"
+				"size" "007B95DFE4FE7838F4EF304B9CA2A8FF"
+				"download" "73B52AEAC90825BEA514D9F80DAC2FC1"
+			}
+			"patch17-daily"
+			{
+				"gid" "C3352F6CF33CEA5C64B765AC0653E2A6"
+				"size" "A184B5C50F0A31250DF81710F6CCE8CB"
+				"download" "E49BEBB4C9A9B0D79826E2A45AB2AFAE"
+			}
+			"patch18-daily"
+			{
+				"gid" "D91B3A900535585EED048F5F44BA5BBA"
+				"size" "42983260FAC3F605CC220908B256DEDE"
+				"download" "0822790756A69C3A914562BE2434426D"
+			}
+			"patch19-daily"
+			{
+				"gid" "380EDAEE2851B6324A4A99FDC845788C"
+				"size" "BFE6E2B1BEA062671848398E6AC9BBBF"
+				"download" "B26C2608B3E50A989BED17DAD2DC5A9C"
+			}
+			"patch20-daily"
+			{
+				"gid" "8715AA73EC9EF528B1B4A323864ACDE3"
+				"size" "C1D0DE58E4108E80853F4C8F94EEFC77"
+				"download" "2D3C2D731AFFD5C2339866702B3D3843"
+			}
+			"rollback"
+			{
+				"gid" "4A97029349D0970DED050806900EAADB"
+				"size" "F7DFBB06BD863FD58AE55B6260FB5A25"
+				"download" "0212468DD554CB740632E21263DCF59F"
+			}
+			"showcase2024"
+			{
+				"gid" "49AD1CFA5179780A9E657F5482ED61BC"
+				"size" "920C8718B95EEAD4AE55AF0CC7F3CBD3"
+				"download" "DC21CA01849A6A9B421E0B04212DED3B"
+			}
+			"staging"
+			{
+				"gid" "A553B1AE5308213EAA0D126BB0BD4C75"
+				"size" "DB53795F3D96F8433160FEFE4244D734"
+				"download" "02E9AAE9E9F1326FD1832FA5068BE58A"
+			}
+		}
+	}
+	"1741787"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5775472954511345511"
+				"size" "728313376"
+				"download" "415761696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "D1090D8D0197B3F457DBC940C60167EA"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "E1F95B1B7263932E6383586E8ECF3593"
+				"size" "40344C29B8BA4CA0556DD731DAE4756F"
+				"download" "21793FA40BBEF13F98C487CD56654F18"
+			}
+			"devtools"
+			{
+				"gid" "BD080EA4DC12F534DD10ACE2566924BB"
+				"size" "5B8A4221C1D76B7D96E0F99B879F56AD"
+				"download" "218EFD9F84C68E53F995588C48412735"
+			}
+			"gaas-daily"
+			{
+				"gid" "29D4F94FBA372BF4C082E83D58152C85"
+				"size" "A895D94D633C547DD1554A8D0B6BDBE3"
+				"download" "53FCEF997333E4BF8DEA7C00E4EBAD5D"
+			}
+			"gaas-tmp"
+			{
+				"gid" "40B4A35DB325AD42568E6AA124C85671"
+				"size" "330D832D9612E90553D31A80A16C7EDC"
+				"download" "5E00A0FD1CD6545A7C66CD60A149440F"
+			}
+			"gaas2"
+			{
+				"gid" "77F652480F3D8C757395AB55C4645D85"
+				"size" "8B03FA4BAABD0463A34AA2155E82ED11"
+				"download" "B544E59C0E440E536E15CFCEFB7CDD40"
+			}
+			"internal-tests"
+			{
+				"gid" "7304F8F26346E75C831B82A618DE86BD"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "5123381DE81EF20D0D7F43EE289758C8"
+				"size" "21C552C3AC4B0B1F39E8EE0DF50C68F7"
+				"download" "F1BB9C35ECD8CE0B394FD29AC538B4A4"
+			}
+			"mph-daily"
+			{
+				"gid" "F8E399C5257F83BA3B1B85C6F14D537E"
+				"size" "8EFD2B52A9DDCE986DBD6C7AFA5A82AA"
+				"download" "0A492E8C01F14B0074F527D725F8B3A7"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "7F52BD5C8A3DBB149C83D0A24F0A039D"
+				"size" "8C7863D646FDE305D695B70250C19F69"
+				"download" "949864AC5D470217036C30F060D58FD1"
+			}
+			"mph-stable"
+			{
+				"gid" "9FCA8EA64C4C1896E10AB6A59DDBA9D1"
+				"size" "60FFA3D3CEA984B4CCBD535031D7C618"
+				"download" "C77A04E8347EF3649E5F2046A5442EF1"
+			}
+			"patch16-daily"
+			{
+				"gid" "EAE5F0BCC2B9953F6FB0811D9B66450C"
+				"size" "66E7C5282D40504FE7A6244C84779265"
+				"download" "7B754A40ECD49B4AEB7D4DDD1333610E"
+			}
+			"patch17-daily"
+			{
+				"gid" "923114C5E9DDB6208FEF976BA6434976"
+				"size" "EC26B89A370052631A9BFD1D96F85CB3"
+				"download" "7F47624577FAFC0252F9F7F2C1CFE1AA"
+			}
+			"patch18-daily"
+			{
+				"gid" "72E9CD721626EE62DCB5C6BBF6BB9CB1"
+				"size" "B95544FCE09027CA8EEC6AE06912DDEE"
+				"download" "C84CB1DCA773F8CBAC409B0EC2C187EF"
+			}
+			"patch19-daily"
+			{
+				"gid" "7986830273C4A6C530A050316C3A9597"
+				"size" "94253E64CFEBCB47BD79C467765605D0"
+				"download" "7EBF08DC8B1562311D0CFD4B5339B111"
+			}
+			"patch20-daily"
+			{
+				"gid" "F08D80717FA8F1540CF9608FDD021B73"
+				"size" "B9F1D6F26EC25562CBBCD01632A8F083"
+				"download" "A9FB6BC08BE02DC8387971C3A78E89E2"
+			}
+			"rollback"
+			{
+				"gid" "6AE078009E3874BF3FFBFE20D547F49A"
+				"size" "443ED1CBA6B77921784620A48E705710"
+				"download" "D1C7D8A63D4267FF246F57A5E2E3A69B"
+			}
+			"showcase2024"
+			{
+				"gid" "EC2AFEF88957F1B6BF7603D8226A9AC9"
+				"size" "D1D5F78D65C3575B665F1724665D5071"
+				"download" "8104E2AD98132D4E5EF8A478FE713334"
+			}
+			"staging"
+			{
+				"gid" "01FD7BEBDF7271FD956957785E07D01C"
+				"size" "0F173CB29B2D2FC5F7C7A68BBBB331B7"
+				"download" "0BC5306BDC88104E058187C887F0D271"
+			}
+		}
+	}
+	"1741788"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9147647640915220937"
+				"size" "5174144805"
+				"download" "5117944848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "960C71A3A0944C1679CBA56B6D76220B"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "0AE3FBA8C94D49C4ABBA1EC97EF2A4A0"
+				"size" "2331FF28924DE71C315EFF6525888376"
+				"download" "71EB853246948FB44F9652B6FFE8056C"
+			}
+			"devtools"
+			{
+				"gid" "FE18F3B773F5D7C739ADD7574EA94FFF"
+				"size" "61591B560DA17D9189EF406EC5EF3397"
+				"download" "A14A4CA8BBF47F513D0AAF62E0B57FCA"
+			}
+			"gaas-daily"
+			{
+				"gid" "D04CCB92F4EA7CD7C3E6DDEEB2C24F87"
+				"size" "7023EAFBD0D702444887D79D95E80517"
+				"download" "1BF41EB0A538DBD81ED11441E1320B2B"
+			}
+			"gaas-tmp"
+			{
+				"gid" "23EAD6669BFAE75C2DD992D467A8D4ED"
+				"size" "9CC409FAD3D846127BE0758B84468441"
+				"download" "9B021921E49FD62305DE999917256FE0"
+			}
+			"gaas2"
+			{
+				"gid" "36AFFB040338729967E3AB2657BC251E"
+				"size" "11BFDCCC9C6C8806334A7258D9A9CFC6"
+				"download" "1D5E6C16710287021970DFE0973E4ED9"
+			}
+			"internal-tests"
+			{
+				"gid" "3BC72BD604A0464446C546861A172E70"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "D9266E08E9A17A03CFB2A7C1E6297B4D"
+				"size" "47CB14731379125E38A9FB637CA56E4B"
+				"download" "457DB5E75F88AEB6D004789E715915CF"
+			}
+			"mph-daily"
+			{
+				"gid" "ECC6AC950FFD68EDEB3A30362DF181B3"
+				"size" "479C4EEDB26BF7F97A4D2BDB4DFA4EBF"
+				"download" "E9272DB05DC4419C963B7687B6C32288"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "EA4C3D575DA2F85198ADB52B6A016CBF"
+				"size" "5325D38242B08DCB8DA7C60DC1CE33E6"
+				"download" "53BE4EF7F3E85AC242B1D7AA5808F8FB"
+			}
+			"mph-stable"
+			{
+				"gid" "CCFA295D963E1AB7BCE04216963BA89F"
+				"size" "4E66DCE4430520A858805B12FC95C75A"
+				"download" "05610BC1E3A1C883E332CEA47C516EA6"
+			}
+			"patch16-daily"
+			{
+				"gid" "F879351206790E39A4900C4469D8742F"
+				"size" "2DB9E3F7C70D10DD2F43EB02981CCA6B"
+				"download" "B7E3923529E17D4DB2BB53C6DFF52275"
+			}
+			"patch17-daily"
+			{
+				"gid" "8EDD2747AABB7E63A7DEFBB50B9E52E0"
+				"size" "88CB627A54BF03407755B1C8FA9E8F60"
+				"download" "AEC9BC3C1FA22C4F8743FB12140F551F"
+			}
+			"patch18-daily"
+			{
+				"gid" "F069ADA0CF4E328CEBB0F8C4C74842CD"
+				"size" "940D6484787A8D110E4545C2085A50F0"
+				"download" "5964502E4D546A7F1D1819AFBF275143"
+			}
+			"patch19-daily"
+			{
+				"gid" "D2EC695B46114B1B5E3544488929818F"
+				"size" "5E3669BA6AFC0F772848DBF776BB7D8B"
+				"download" "01A128947E9E19CC80FF08C86171EDD8"
+			}
+			"patch20-daily"
+			{
+				"gid" "6AEC3AA2401C3C595860F22DC85FA82A"
+				"size" "BB49076CA88F186E350EDE8EF3F723CD"
+				"download" "AE05081A19A8FF0AC3DD68A09526F27C"
+			}
+			"rollback"
+			{
+				"gid" "91D9FAFF0763D1E56564870C212E7ACB"
+				"size" "F1220FF1CAAED7FF2F286D5BDC72AD2F"
+				"download" "A177E3D5EC6AB35159E7B147210F9884"
+			}
+			"showcase2024"
+			{
+				"gid" "A44AEA1CE2806D7A5A0D754CC4D4E4DF"
+				"size" "C1C24869C1BD5E47C857220598CE2132"
+				"download" "394EA1E0E7C87BEF3D396CC213F1D09D"
+			}
+			"staging"
+			{
+				"gid" "7BE27025A066A713656D604353AEA5A8"
+				"size" "4B7273025E47159B68123B819DF3519B"
+				"download" "EA655A410E97845C227D9E6083A96732"
+			}
+		}
+	}
+	"1741789"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1227669099246667335"
+				"size" "720387360"
+				"download" "410256928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "3FEFA415FBAAF153E9BA0A3709A5017B"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "CD2B6965E2C8B4B2F9EFCEEFAB2E9105"
+				"size" "748576058035B53925B4F58DF4EE404F"
+				"download" "38BA862915E3CF16F8EDFA73DDF024F2"
+			}
+			"devtools"
+			{
+				"gid" "25D4F499CC4C26D7CEE5D587795A701F"
+				"size" "443D37F8AF549E06D0F8AD611D367169"
+				"download" "F4FEDDEC4D7B9E79D0C83F195FED783E"
+			}
+			"gaas-daily"
+			{
+				"gid" "4187AA1DB87097E0B5B619E0B4226389"
+				"size" "C14816C9F2B116D3212764B95591DA49"
+				"download" "BDF5D5ECDB4A051E37BEB1BB7B34060A"
+			}
+			"gaas-tmp"
+			{
+				"gid" "C83AA240E1308C4E6052B35D06FAF1C0"
+				"size" "739FBA1743A3DA025FEE847949797274"
+				"download" "4137FEFF709220D4AB069EB9C3570508"
+			}
+			"gaas2"
+			{
+				"gid" "641547D85C8F0F75BF3C21A8464FF515"
+				"size" "B048E18742F1B481A53188E30835D57A"
+				"download" "87B493E637DC59A7AB03A9D1543DA463"
+			}
+			"internal-tests"
+			{
+				"gid" "A75772FEB0A7F7E2BBF66A908FFEF91B"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "930110B70D08F860CA4CCFB1865769A8"
+				"size" "B5237A4E654D0FD1626C86D47AED6313"
+				"download" "451DCB0996102A96DB95EBB783A9B31D"
+			}
+			"mph-daily"
+			{
+				"gid" "57DC71019CDF03252C7EF3ADDBC31EAE"
+				"size" "6358007AEAAEA3D233762349CE21FA95"
+				"download" "65B7A5E1785C0BA3DA9F662B398FCDB6"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "0B71C6DC0315F5D7A73C58F2444C67C2"
+				"size" "1B4ACD293E2C15E2B018D6432BF81759"
+				"download" "426E390F1AF784A39F5856C14645FE5F"
+			}
+			"mph-stable"
+			{
+				"gid" "E1D5058D9A9117348F63E374944DEFC5"
+				"size" "F189A20409BFE8B46CB818B3951BE6E6"
+				"download" "441001F717C65B532DC70DBBF14F36E8"
+			}
+			"patch16-daily"
+			{
+				"gid" "39B7A9EDDA5C1001C4856ACCC1BDE29A"
+				"size" "FD1AACD197A53B1C009D5D2ED02E4EAD"
+				"download" "76A5E41675A59BF4D06AB4D4DD6D856C"
+			}
+			"patch17-daily"
+			{
+				"gid" "76E330C8948B0E49A2BB87F72AF6BDC4"
+				"size" "89530895F09003C9FC681AEE4B20A777"
+				"download" "C8D41A6CF8A66F545A1E31C57C7EC736"
+			}
+			"patch18-daily"
+			{
+				"gid" "6E1BD83A8144B3E831DE75CA760D0596"
+				"size" "7048CB449C9527A3432E8A07D17F64C7"
+				"download" "680404A10AA4C171327BA409AE4CF715"
+			}
+			"patch19-daily"
+			{
+				"gid" "7ACD738D691D68B20EF6014D0F2A10FD"
+				"size" "7DBB88F68E95068FBEC31F5DAAF89269"
+				"download" "B4256B7073A815C2AE71F9D52FCC23BD"
+			}
+			"patch20-daily"
+			{
+				"gid" "55DCA55035098768C69C2258BBB51BFF"
+				"size" "E547CC57B4EF046359D96BA3F11ADE5E"
+				"download" "FC8238387DA5A92A2A45793DBD26123E"
+			}
+			"rollback"
+			{
+				"gid" "EEEE14926B60C09CCE2E03AC809A458F"
+				"size" "2297B838FA3CB0FCDD9B657882E133A5"
+				"download" "2002E72BE34FEA1CF84A1F40D1EF3FE7"
+			}
+			"showcase2024"
+			{
+				"gid" "0CD0F4B6477BB4F9FC5AEC206FDC3C9F"
+				"size" "3EA14EA0D671FAC843849A6E983BFA15"
+				"download" "15F88478B5B835D47217039BFA1AED0F"
+			}
+			"staging"
+			{
+				"gid" "EB930FFFAE1B5BC58B15362DE5AE7784"
+				"size" "C2ED9C9A69B9E0CCECB01505A731D0E7"
+				"download" "D0F560BDA93E40C972F2236FF7F81555"
+			}
+		}
+	}
+	"1741790"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7167009952066004315"
+				"size" "5039963815"
+				"download" "4986233072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "6ED31DC0D0FAEFBB1B33FFB47125BE55"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "9D64BF172A770088F6A3994B1009751A"
+				"size" "050189B62733634FCE1206989DE25AC4"
+				"download" "E16E24F948345B01CF74ADC9EBFC1A98"
+			}
+			"devtools"
+			{
+				"gid" "31BBABCB67255CFACEC03DA9A56E9273"
+				"size" "57DC261ED37BE80FAC70A04755E79090"
+				"download" "B9860AC39FB2A2A2120CA5131144DA8D"
+			}
+			"gaas-daily"
+			{
+				"gid" "A0B2E59D18123764F5164DFB3E176AAC"
+				"size" "881A1BCA33007855D9B92975B9BC38EA"
+				"download" "1E0ABF4B798C3E53482EA15EF232251C"
+			}
+			"gaas-tmp"
+			{
+				"gid" "B5CFA1C5DC9B0DB98CDCACEDA5DE8A9F"
+				"size" "68B85B3A8108661A81267FC65003179B"
+				"download" "EC2C1B175AD87F93D1A8DE5920F37D40"
+			}
+			"gaas2"
+			{
+				"gid" "02868B4B303D73E8E829791F0161E3E4"
+				"size" "140F3999AAFC0601C13181C22FAD9195"
+				"download" "241D4477819A3A140D2598941FFF6840"
+			}
+			"internal-tests"
+			{
+				"gid" "2837FCF6BF65D53BCB25B50A230D0DC3"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "EBEF5AD0289637CEC884BF0BC31E832B"
+				"size" "8DD06087028736C0D8C0F484ECB20179"
+				"download" "3F20117FD928519FFC3FF32DD3C55B02"
+			}
+			"mph-daily"
+			{
+				"gid" "D15B66CA298E104EFF2C4C333FCFB462"
+				"size" "D54FA5632BF60897507FE2651DA199E1"
+				"download" "00A2A4718D94CBDC6B58B01B4628CD6C"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "1572A613FE5233F66B7A10DE548ED828"
+				"size" "C462AB95BA79D46EE8E793DE623E95D6"
+				"download" "CCC422DB7BF889DA1F3DB7A36212B3BA"
+			}
+			"mph-stable"
+			{
+				"gid" "791CCA136B6E437636FD97636CC9DACF"
+				"size" "D6ECC4415CC50177247D81293ED5ACDB"
+				"download" "14BC530F72707DA7A9AB577DCB026B48"
+			}
+			"patch16-daily"
+			{
+				"gid" "139EE92F6DC93D83B1FA3C863C51703B"
+				"size" "A3403288A27753394457F8F82E89245D"
+				"download" "DD7B97652ED3FA3CFFA9FBB1639C2567"
+			}
+			"patch17-daily"
+			{
+				"gid" "A9A14D6879ED8DC1ADACA027C91093FF"
+				"size" "937F2C08B6E2BC1851874CFC5567B1C5"
+				"download" "43EB9BB6086BF5907554CC1F2D60C6CA"
+			}
+			"patch18-daily"
+			{
+				"gid" "D6440A357AB72CABAC98B0935E7F0A76"
+				"size" "F216A72210D591329328642C69F68D6D"
+				"download" "FB960095A53BD896BC9306140DADE270"
+			}
+			"patch19-daily"
+			{
+				"gid" "24BA20604F150310966ED3C2BBC1B2A8"
+				"size" "8351F151FCF7716F0B97F87BB0DA361D"
+				"download" "E0E27A7CC6930D6408181EAEF622BC54"
+			}
+			"patch20-daily"
+			{
+				"gid" "CC82143DF45D1DBD7998E001AD75FAD4"
+				"size" "E552E2AB5B2BE49333519D69AC53BA52"
+				"download" "EE28536D6DC64333470ADA299053F2CE"
+			}
+			"rollback"
+			{
+				"gid" "EC38EEA67900F58D5FD9100AD8322F98"
+				"size" "06DDDB985EAAF7F5E9633B766DF6B422"
+				"download" "1BDF5753F3AB5394D27F89928A717296"
+			}
+			"showcase2024"
+			{
+				"gid" "39A5E46421B07FE92CCFAF04CFF74003"
+				"size" "F3A10E779DAE11C2091EBE3B2DD839F0"
+				"download" "A453EAE44851CB951299EF2CA157B0A6"
+			}
+			"staging"
+			{
+				"gid" "A401157BAD4F904949200C704A2367D7"
+				"size" "27875C1EED864051B489199F550ADC78"
+				"download" "8BC9BB4DC095E8FE47029399A026DFE5"
+			}
+		}
+	}
+	"1741791"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2048428075182735634"
+				"size" "681753488"
+				"download" "393754080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "AF6EBF1BE2BE6617DF3382F0489F0F8E"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "4ABDB3DEB4052C0DA4038985667D4A4F"
+				"size" "B06D6EB74742183EE5A5843954F74F41"
+				"download" "4B9C5DC6615428BBC11D5ED35F2F7B1A"
+			}
+			"devtools"
+			{
+				"gid" "89255C5E6DD38FFC18991AB11CC54EAB"
+				"size" "7D4F67FDD1FD6ADCDBA66D87BA48FF52"
+				"download" "14BD8EB9093B42F494B4E65194759350"
+			}
+			"gaas-daily"
+			{
+				"gid" "DAC42D9C24BA8B84DF11C889A57F9585"
+				"size" "CA6EF12DCAABDF81E5D108095E8B9B36"
+				"download" "A5011A547669CD286465A946B26E73E6"
+			}
+			"gaas-tmp"
+			{
+				"gid" "CF38BFF3C3F30B8B7FA29D8D873DA7CE"
+				"size" "7EE437C8BEE765655360713C7BFF8933"
+				"download" "6629C3FE46C506F1964220DF4E900975"
+			}
+			"gaas2"
+			{
+				"gid" "FC4B083329BCE9D22F74A8531E6AF581"
+				"size" "4A2CC118FAE43DEA7D682FD62D12ADC8"
+				"download" "D6CF50531B826B705984733595D43CE2"
+			}
+			"internal-tests"
+			{
+				"gid" "0BB41103AAADE4165E59EBABA3471DA8"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "EF80A4B08FDAF681E5B0CB531F1691FA"
+				"size" "C07EBD973EFFBADA4AC5408DDA31B4CA"
+				"download" "02DF7A079304E70F7E0A1967876B233D"
+			}
+			"mph-daily"
+			{
+				"gid" "3440D02C7C2A1A4CC5AA824846DC0069"
+				"size" "D04F719E894D6227B3A565032FAFBA79"
+				"download" "82F6C515D7211F667B855BFCB5459AD7"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "80F188E974E2FF9D2D50267AB761A94E"
+				"size" "E94BE41B6548052098080478AD49E2AE"
+				"download" "D84366D76DF79E9BA517D0CC2D8DB059"
+			}
+			"mph-stable"
+			{
+				"gid" "ABFEBADAAAB2EB06684787410ED73721"
+				"size" "5FB4474BC54B399488EA68C293C9F6C3"
+				"download" "76015417699340D211E2C5F462645B06"
+			}
+			"patch16-daily"
+			{
+				"gid" "43E2E10281160C20C4D4DD9CAE7A2644"
+				"size" "8A1AF2A2BC7C1646F5D63F028B02B571"
+				"download" "4190C2442001796F312DF8D49CAF45FE"
+			}
+			"patch17-daily"
+			{
+				"gid" "14E71DBC5AB9EA037DA724D8F6050B40"
+				"size" "BE8E89DBAE16C896B55DBCB653B362BE"
+				"download" "D49E50C6CE9BC154E202BEDFB5ADC07E"
+			}
+			"patch18-daily"
+			{
+				"gid" "6BD62460878C2C22149ADB9890028D2E"
+				"size" "37FA529132D351B7CB1258FF942682FF"
+				"download" "B359D5BD9E17DFCBB4694AFDA1F70C4A"
+			}
+			"patch19-daily"
+			{
+				"gid" "4B93F02200BBF71C59B5C88EAE105D99"
+				"size" "32A297313155BF4F3EC6A8F5A25E8516"
+				"download" "1F042FD8569713D2DD07AC872D7EDA8F"
+			}
+			"patch20-daily"
+			{
+				"gid" "3804D906DEF88470637601C31DF9CEFB"
+				"size" "DAE8FD804652DD4E6545F2FF984A0163"
+				"download" "81381D7989108A49B85449955A34F137"
+			}
+			"rollback"
+			{
+				"gid" "1B2946F3A5AC8DA296910941FFD5492D"
+				"size" "3C889255F724D18D718141D470085C88"
+				"download" "1A74F89C56FAB8E95B37580307D81660"
+			}
+			"showcase2024"
+			{
+				"gid" "8B451AE9505653B5A056F339F8BC39E6"
+				"size" "3A721DBDC0008050BCABDE6C1783AA76"
+				"download" "483EAD98516C12EC2E4A842C2F3A2D02"
+			}
+			"staging"
+			{
+				"gid" "CA39D042E09323449449E5F1F63B87BB"
+				"size" "094E9D0CFB5AD68CF4C8ECFF8274213E"
+				"download" "5C60794777BA0E6F26767ED09FCB44FC"
+			}
+		}
+	}
+	"1741792"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5768235061944424708"
+				"size" "2048553"
+				"download" "2073488"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "5C5553824B17CC8D46D291DDB34BBF11"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "36EF41571596FF9F3FBEE299B1245DEF"
+				"size" "42542A88155957B66CCBC3FE52F01112"
+				"download" "04AEDF5D371F6175C316039B644DDC04"
+			}
+			"devtools"
+			{
+				"gid" "8D6D4C72104A24A727BEFC71F10AF5AE"
+				"size" "8EBA8C57B20CCBBCF525972CDC8FC347"
+				"download" "0104B530C126159251EFD221A4BD2F0B"
+			}
+			"gaas-daily"
+			{
+				"gid" "C2EAE3D3D36089DA7DE98E4F154C789D"
+				"size" "69B013E5A6900453DE39FA1646BB6630"
+				"download" "26332A542C976411240CD128A473BD38"
+			}
+			"gaas-tmp"
+			{
+				"gid" "D20628E1D25BBDB90E5E77B97F915827"
+				"size" "0A80A4E15B9C0AA063011E03F384DCC9"
+				"download" "074F6CD1E226190CB87164899DC19020"
+			}
+			"gaas2"
+			{
+				"gid" "5FE1880072E8625E12DE7ABA5899EEF1"
+				"size" "AD83B5DFEC1655349891BB31654E0183"
+				"download" "0BCCB3DCCB12358FB335CB667CB443E7"
+			}
+			"internal-tests"
+			{
+				"gid" "A15F5B4CD6B5645EAFEC6C938DCA0198"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "17E35B939D0D41B94FB79133C1B24014"
+				"size" "945FB73D8EFDACF31594803284049846"
+				"download" "415CF96285DAC05C0D8D35369215D0CE"
+			}
+			"mph-daily"
+			{
+				"gid" "A6A72E30927968C76262FF3B7BEF4476"
+				"size" "A924C4F3B4CC419BB9C01980853B2423"
+				"download" "3D542C2DE349B37615CBFFF33716BBC7"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "9F55339F025C6FB5A957CF6A6A44B8CB"
+				"size" "3725A62658AEA1D038C7C8586E564111"
+				"download" "35D6957108033AAB28ECC70E7570613F"
+			}
+			"mph-stable"
+			{
+				"gid" "32B438E2C2F34297591292CE207F2AE0"
+				"size" "FACD8FC30692C98ED707BF73DFE54D3E"
+				"download" "74F952F72E33E99D1D85DD62FB59AEDB"
+			}
+			"patch16-daily"
+			{
+				"gid" "6C3A56A73E327506C6421139F778871C"
+				"size" "FA647B988FB743EACE48D2A1EBBE7BAB"
+				"download" "108373B3CBA7D10EAAF243AC2647F8D3"
+			}
+			"patch17-daily"
+			{
+				"gid" "21940C279E57C65C033B3D9B0BC9705C"
+				"size" "6227B67BBF216D1407F56D12CF7C372A"
+				"download" "98C68FF0FE38D739F314CF652733D74D"
+			}
+			"patch18-daily"
+			{
+				"gid" "3B27373193B147C743FB26035B36354E"
+				"size" "0F4C09F91E1825DA842813935840A488"
+				"download" "C68E96AA7895C937664D9332F917458E"
+			}
+			"patch19-daily"
+			{
+				"gid" "7CCCD5F1C8C3FE04DFC5BA073142CA1F"
+				"size" "053E93FD3226B8E9DB89CC990C858253"
+				"download" "291CC882A689348F482A87AD30E0C8A7"
+			}
+			"patch20-daily"
+			{
+				"gid" "759FF590331826A7D486C07239205ACD"
+				"size" "BBB9131A6EC34E27F696756A041C8DBD"
+				"download" "41E5685C3DD2843A44CA0A7AF896DD44"
+			}
+			"rollback"
+			{
+				"gid" "F1619EE7BCE97D1079560C831C3C0D8A"
+				"size" "35D272DFED8F17973753A83439B51879"
+				"download" "22274211FEE44D864224918C9CC03C36"
+			}
+			"showcase2024"
+			{
+				"gid" "7F2F4AC70E300ACDD766AED3B505657B"
+				"size" "3813E465E43FD2BC8BC7B6F11A1466E4"
+				"download" "8C4CBF3B62FDA32769D789D7E2550B38"
+			}
+			"staging"
+			{
+				"gid" "865C43FA8AB11DF21FF23AE4B9EE7739"
+				"size" "A5DD11C829E919497A6CAC4D7C4E567C"
+				"download" "895C371D3B9A1D5254F0E206082DE962"
+			}
+		}
+	}
+	"1741793"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5631165876050327610"
+				"size" "5141431049"
+				"download" "5090970048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "A3F439D662F4303D4DD607F54E6D27B2"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "573BC583AF5392C911E7D103585DF7F0"
+				"size" "2B1209A26CF762418B8EB15322CF8DD4"
+				"download" "D44C75834D27F546FEFF0AC0F00A6E33"
+			}
+			"devtools"
+			{
+				"gid" "74FEA2AACEBDA9E9512C02F5F3E031EA"
+				"size" "8CBA37A2FD2363470AA165093D541AE3"
+				"download" "48E616F6B3BA05D5AEC9070AB73D6161"
+			}
+			"gaas-daily"
+			{
+				"gid" "FF3832F1EB8D538C73B5101CC0B5EDB8"
+				"size" "D7D6996D280F92A4C21C58E157108FAE"
+				"download" "13100E50A2C79A28DA37FD45D5CAE32E"
+			}
+			"gaas-tmp"
+			{
+				"gid" "3A7B0E7560C9C2B6F58C761ACC702E08"
+				"size" "EECCF8F5D75EAB1F5012CA8E3C5CB555"
+				"download" "7F2D28A6AFD91140AB8E7E1583816F7C"
+			}
+			"gaas2"
+			{
+				"gid" "BAECE356E8ED7BD54C7BD17556D453AF"
+				"size" "323DD8FDB18C5C41FBF30AD595FE652B"
+				"download" "BDA6D920422A3CB0DD2CC670DBFD345E"
+			}
+			"internal-tests"
+			{
+				"gid" "74BAEDC63DD035E7AA913E98FCAE88B9"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "5576DF0ED0767B9D273A63552FF7B7E5"
+				"size" "7049C282306CDE6DDC9901E4CDE1976D"
+				"download" "7EF8AC103EF3F473ECE002E2878BC8BD"
+			}
+			"mph-daily"
+			{
+				"gid" "3889ADEA998D472C876F1D178024D682"
+				"size" "8E69A6F3F5E2675D540B76CD113AC311"
+				"download" "2A769EB15E1AAFDCC69AEA650638FB98"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "2C1FA0E3A49DEAACA0CE43D032303ABD"
+				"size" "587EC568DB3B84B159F7F672089EF630"
+				"download" "F16F069C57D2C593A0E9A6D90410076C"
+			}
+			"mph-stable"
+			{
+				"gid" "C36AAA8AC1533D2899B05C1B9B2515CC"
+				"size" "E2639D770CE1931E697BFEB1C3C93458"
+				"download" "F202F356CD588F1198FB21438BB926AB"
+			}
+			"patch16-daily"
+			{
+				"gid" "E162926DD77B49246C22E1A9D4D572EC"
+				"size" "58E9DEF25AE3F31CDAAB99FD1A83CDF7"
+				"download" "E94FA00E526C611B6C898F3FECA496CB"
+			}
+			"patch17-daily"
+			{
+				"gid" "F6C964FE4E0AABBEA3F3C0BAF4BB360C"
+				"size" "72B6436540E2FD42BAF1D681E2B3C4E7"
+				"download" "EEA9B718D94C021FF9A52B3E14A4BD03"
+			}
+			"patch18-daily"
+			{
+				"gid" "8D0EA10EE21FBD4EF0D2D9B094DB1A5F"
+				"size" "C27F10988D140B6153580CC06D987ED7"
+				"download" "254857746893CEDD7D3EEFBA5092DD61"
+			}
+			"patch19-daily"
+			{
+				"gid" "F7306A1861A308DB9A3E1346C4FA7301"
+				"size" "369E525DCB529708F5C72CCAFF47616A"
+				"download" "B04AE60B2D146E2281D4AD1AAE919241"
+			}
+			"patch20-daily"
+			{
+				"gid" "8EE9686EADC123A6AFAD25F09B76DF93"
+				"size" "58862DB1569862D54F6EEBA4F6833E83"
+				"download" "68201ED98386475AB0672EB5F33A849A"
+			}
+			"rollback"
+			{
+				"gid" "A6DFF5CE17CBF9DBFAA2A48D2C5675FA"
+				"size" "659103F7A2AC773337559039BA63544A"
+				"download" "7DCF27EB2D945F1C3BFE8C923FEC578E"
+			}
+			"showcase2024"
+			{
+				"gid" "C100C027EC7B9BDB6ECAA2287CD0135C"
+				"size" "D5AD2BD0847157BD2DE9454EB6592BB6"
+				"download" "D22BD36C1CB50EEED0186DFE362F0B04"
+			}
+			"staging"
+			{
+				"gid" "E7D41D206F9D61092C4EF443E25C1514"
+				"size" "9ED7413BE5E69F267E0BF154E54E3FDA"
+				"download" "2C2ADD7EB21DBD28616170ACF74A4C41"
+			}
+		}
+	}
+	"1741794"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9023435281584599617"
+				"size" "661522176"
+				"download" "383619936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "E08067BBCA2A96FA15FA3CF79DCB5FA8"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "532D1BFE92F4942A210E7D51C18537A2"
+				"size" "6DEB6ABF8F84561BF400C5DB316A6841"
+				"download" "74044B9C3C064EBF4F30BCB3423AA471"
+			}
+			"devtools"
+			{
+				"gid" "DDF0667482E48F3FD282B9A6BAF037F1"
+				"size" "46217DA4A009A0E9DDBD032E9CFFC49A"
+				"download" "9F8AEAA76E267966ABBAC325D4E289C9"
+			}
+			"gaas-daily"
+			{
+				"gid" "4F63AFF06B67DD4399891CA82A0B00A2"
+				"size" "F647DBF6CD7F4FB77588153265293716"
+				"download" "737DD80C54244EBD32FC40FCA5FED9EE"
+			}
+			"gaas-tmp"
+			{
+				"gid" "B1AFE4858E4349EB56A7EF4AC15F7A03"
+				"size" "18EC906EAC3D4F23A94713ED4E7B7EBE"
+				"download" "3B4A9C78099CA48D19CA3C687685BB89"
+			}
+			"gaas2"
+			{
+				"gid" "15287CCA08340E10899B636A5F57289B"
+				"size" "82C80FEC0DC5112F5D318D3E59BD4797"
+				"download" "F80DF46F71AEC51C1142030A27029B89"
+			}
+			"internal-tests"
+			{
+				"gid" "F5A18736B178DDD2A264388A51DB3835"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "FA7002C79C60263ECB9B6DBF3FE375B6"
+				"size" "5343901AE32EDCBF4522813386D67EBC"
+				"download" "0D16FDAD434BC9272EFAB84F51982C00"
+			}
+			"mph-daily"
+			{
+				"gid" "9450FD669BC44927FC686A126F2CD8DA"
+				"size" "7A6A20FD3FFDF9A199D9D764FB89FF01"
+				"download" "7A6A20FD3FFDF9A199D9D764FB89FF01"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "B05BCDFDF5CC7B4121E4977AB5D7E84E"
+				"size" "E0E63A4470997652FC5DE253CE502E99"
+				"download" "077730D959E8FE83B6D709722B8A44A1"
+			}
+			"mph-stable"
+			{
+				"gid" "2FF2D739F85EC946CA437444135BC448"
+				"size" "A7F5AEC4EFC199B3EC39C7756D14A05B"
+				"download" "89424BF7F8DED9C2946BB2C07CD5823B"
+			}
+			"patch16-daily"
+			{
+				"gid" "724F728C092C23E2115AE1EAC37C62E0"
+				"size" "AB3857BB30578B028A5C41AC8CC2CB3B"
+				"download" "B21F654A5877827FCE86335E49E46DF2"
+			}
+			"patch17-daily"
+			{
+				"gid" "CB63DDBE623D2AF59731D372B1DB3397"
+				"size" "216702159CFA6BDCABF0A08F132C0C90"
+				"download" "830781481B23FC69D05FA397EB215A54"
+			}
+			"patch18-daily"
+			{
+				"gid" "3C16BB9371DBA16DFA684E28CB4BF2A8"
+				"size" "BCF0003AC3C0034523E4C291A52E9936"
+				"download" "06E47D198955EB9DFCB773856F226600"
+			}
+			"patch19-daily"
+			{
+				"gid" "4CBC2FCC1FCAD64F82260DEA6A6B97F7"
+				"size" "B10E4596C2BE9E92701A3CAB8551429D"
+				"download" "F552F8E14996AFA5C79174A6D58EF2C5"
+			}
+			"patch20-daily"
+			{
+				"gid" "A435D1732F6A53C9CEB12867BC6C1D30"
+				"size" "05A3AAD1D9E2BAEA41054FC0197516A8"
+				"download" "28489CBEAF663E74A29B4594D3D50403"
+			}
+			"rollback"
+			{
+				"gid" "A61C64C879A7101F4154A6043F4653D3"
+				"size" "59BC53E90DB9103F214E5E740EC254AE"
+				"download" "C441ED2DF71D056BDD9CFF472159AE6B"
+			}
+			"showcase2024"
+			{
+				"gid" "8D5088960BE7EEE8BEFAEC2FEFCDB586"
+				"size" "1B6C4EA2A37FEC5C6C97103BA6FF942A"
+				"download" "B742F82B4D80CE947F139D1EAC16FCD6"
+			}
+			"staging"
+			{
+				"gid" "38F9841CF8D6017163B7FA05F5AB6E3C"
+				"size" "E2A35EF5C67B38A2FB0AEF027979DF37"
+				"download" "D029DFD8514D85E0BF4E063ABE36ED9E"
+			}
+		}
+	}
+	"1741795"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4800902038588596436"
+				"size" "2471859"
+				"download" "2499296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "1E2E899631A46222CACB596BDFC14A88"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "7204C48249A2D9DE8801385CD7D357F1"
+				"size" "3C8DC6BEC1E7F826139493AA3B7A22CB"
+				"download" "DA29F86B937355DF0345178085FF8918"
+			}
+			"devtools"
+			{
+				"gid" "6EB1A1DF4B80F86F2BF8BBD8E1922468"
+				"size" "88F1E200EDAB4B30544410E848C6E201"
+				"download" "7A000DCEFD4EDBC2C37E215D1983BA6C"
+			}
+			"gaas-daily"
+			{
+				"gid" "362560CDA6538D87EA5A540491AEC7C3"
+				"size" "F8C036B6F20F6A2FBC10F85D4FCAD326"
+				"download" "C66CAD64F276FA1992A6D25DD4B9AFE6"
+			}
+			"gaas-tmp"
+			{
+				"gid" "37F36082126BC1EC27B1F2C70F128577"
+				"size" "25C148CA5013A7C6215073C3A1367539"
+				"download" "6316BBE3960B6FE7119A2004BDA3C7DC"
+			}
+			"gaas2"
+			{
+				"gid" "9CA0D000CF586150AEA936BDF1D85D55"
+				"size" "0B93D3F35AFC4769D4A7149B42D3B1F2"
+				"download" "0CAA903374520AFA17C4317A161C146B"
+			}
+			"internal-tests"
+			{
+				"gid" "DD9039F7712BDDE91FA2D2999A8B5070"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "25233140BD0769D5EECD6F7AFBD60EC9"
+				"size" "D8CCC03AC8B01A029D81526CA6ADDA0F"
+				"download" "615F6461093EE0B78821760E39892A7B"
+			}
+			"mph-daily"
+			{
+				"gid" "7A71D87542A2EA811EBBCED9B9804DF2"
+				"size" "85D80DE802BECA14C6131ABFB8A5BD33"
+				"download" "3F596A673D324B9A2D9F60ABB165E9B4"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "F5B65073F3F93C076BF4D1F2FDE250A1"
+				"size" "D944556469E6AADAC56A861E9A8B635F"
+				"download" "DD6023D5C556EB344742714AFD402C18"
+			}
+			"mph-stable"
+			{
+				"gid" "EB3848B805B7CE334460FAB619EACEB4"
+				"size" "7E04CA5330C7BB0E754A69F28A4AA82B"
+				"download" "35458F8683CCD59755BDB05664551486"
+			}
+			"patch16-daily"
+			{
+				"gid" "5C9EB6E8B39E93F423EB1955200B0F7F"
+				"size" "919EB31BC6820E285E0F7EE007DF7B0C"
+				"download" "397FA8E9213F52CF18157A8DE0E96102"
+			}
+			"patch17-daily"
+			{
+				"gid" "890E6008DFCBA313E6902C835AD51316"
+				"size" "8161092D6D378BA3DF5920F908984883"
+				"download" "07C9556AE936C16DF13808341F494680"
+			}
+			"patch18-daily"
+			{
+				"gid" "19537358DFF75AC8233B701AF65F1549"
+				"size" "5C3E8B723DFE13B998475FC6D2A12C95"
+				"download" "B5EB406BAA1B1A4829A597F85176D9D2"
+			}
+			"patch19-daily"
+			{
+				"gid" "B74E444B7541BD3C260FBB8C902D24F8"
+				"size" "D04C97C5EFEF97D1EA4C313423AAB19E"
+				"download" "E46D0D52C8EE4734E9E4E00809C6A19D"
+			}
+			"patch20-daily"
+			{
+				"gid" "C1A4AAB99DC5B66C5C49E59BBF52BAFA"
+				"size" "C749CC188F0831B611E738818DFA4904"
+				"download" "15D0A9E9D6AE9D1FECAC65A17C5A55BC"
+			}
+			"rollback"
+			{
+				"gid" "1030144A362A7A4AFC53CAF30FD28756"
+				"size" "69461B9D3931A213115CD71E75C5429E"
+				"download" "0F3C1943CB48D15F4EA26DF01E45F078"
+			}
+			"showcase2024"
+			{
+				"gid" "5B29191DEC67976C25A63CDEB2F19169"
+				"size" "1D058BE9DA24C40F77DFCD9ECCF4DC8F"
+				"download" "EE3EFA68B7176475FBBB8F2FADB3B232"
+			}
+			"staging"
+			{
+				"gid" "38DAD687B5C47332C3D1064F359EED02"
+				"size" "A34E429E75D93502FB364781C6ED9CB9"
+				"download" "FD5B18BC95B812E6769F15AA58202564"
+			}
+		}
+	}
+	"1741796"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8249922669536755242"
+				"size" "5420620245"
+				"download" "5369933856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "6E6BF10F7D84560E2FE2484C88FE2F48"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "9430E29E6813F99C5B7225D6BDE78819"
+				"size" "8D57F4D8C188FA32A56981EA6935CD5C"
+				"download" "E0BB64909F6B06707D100D579AD23E52"
+			}
+			"devtools"
+			{
+				"gid" "DF4F544D6A3AA1629E1CF8AC9D91263A"
+				"size" "62622BEB19F297FBFC781355E1A45B50"
+				"download" "BF04687C9B1A2AEF08853E509BEBB960"
+			}
+			"gaas-daily"
+			{
+				"gid" "844781F7B7616CBB0BE33F92BB243CC2"
+				"size" "AB15BCF49A75615D8B7B13B011B9A764"
+				"download" "46286A2F490BBC4FDD8931BC65763454"
+			}
+			"gaas-tmp"
+			{
+				"gid" "E4A417E2163CA4B017FCCDBE10AC1458"
+				"size" "20FF7B770983F9DD60E67B145550FAC8"
+				"download" "62E47C6C575FF2558173DA954FF7D9F7"
+			}
+			"gaas2"
+			{
+				"gid" "7F18D5E708016EA14B8A499360B7449E"
+				"size" "FEAA2662866F7077B892DC19D86F2B43"
+				"download" "E5441F66D4E0793A9334262968D94AFB"
+			}
+			"internal-tests"
+			{
+				"gid" "8B45275B7CDCD8D380B1321EFC41D9F2"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "63FAA608527C5C3CDDF8D853D8DE770D"
+				"size" "A8247D7877D400F5D6BA62C9CCC742E2"
+				"download" "29DFE68D16916434B476BE0B01D51AE0"
+			}
+			"mph-daily"
+			{
+				"gid" "D2D60F173D5DF807C0929B9CFBB9499A"
+				"size" "4CADBFD85548FEF9778519204D475145"
+				"download" "8429B943AB153725E426C53521DD7421"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "B7C4AAFA4078E065ADFF9651E19FF7B3"
+				"size" "0DF8D077D2E1D9D81F8F4AEFAC759EE8"
+				"download" "BDC14D10CE138C33D7EC432B45CF68F3"
+			}
+			"mph-stable"
+			{
+				"gid" "9C599DBA116107E27BB73D0F4A59F5DB"
+				"size" "F679C783DFA8060C85F84E3BD810A5C1"
+				"download" "205B1A0BAF542BDC1CA86B3A366A5EBA"
+			}
+			"patch16-daily"
+			{
+				"gid" "917567E523B2F3DA0160034D679D4C4F"
+				"size" "A04130FCA91A724951686D030386CF33"
+				"download" "A1BF35C0A8AC501B6CB7108515D1EE73"
+			}
+			"patch17-daily"
+			{
+				"gid" "0AB0A0942BD6B12A6257BD0F2DF1627B"
+				"size" "091BC020F99AE1CBFF5798184E87C9D4"
+				"download" "0435CB7333765C2F4465F58AE6ACE023"
+			}
+			"patch18-daily"
+			{
+				"gid" "85BDD9211FE8D46E7E2036CAF0694C07"
+				"size" "21884EF8DFB84402084CC5D230E9EE98"
+				"download" "0FACB6ED55284F33B20F0E75DC94A498"
+			}
+			"patch19-daily"
+			{
+				"gid" "A1224F9FA3A398A1809D399599272690"
+				"size" "779AD9CC365AB2F24E6D931F0CB48B86"
+				"download" "1C3B0C4EC296194F13007621F7BE7136"
+			}
+			"patch20-daily"
+			{
+				"gid" "AB114E748D36B0601F9BEFE41817CC38"
+				"size" "0540BF10FDE44C53853EFAA22EAFECB1"
+				"download" "06FA7F264B290D58676A13B8499F59DD"
+			}
+			"rollback"
+			{
+				"gid" "26E7932EAA009FE5D002AC6475D9AA42"
+				"size" "7C28B61F29956B7CB1C562C840A5ACB8"
+				"download" "75FBA66108182FA196B82F876F7C662E"
+			}
+			"showcase2024"
+			{
+				"gid" "4096D97D71874ED691EB4030E6065C1C"
+				"size" "D42D47DE89E4C7F9107C9BEE128F81B3"
+				"download" "26675FE3701E7C171EC7E9C14DD55A8D"
+			}
+			"staging"
+			{
+				"gid" "6C10B35A560B562840E44E4FF42A4A85"
+				"size" "48B628E4E91069E97D35223F39FD4B18"
+				"download" "FF21E2C63F9C4035C0055A76F657B121"
+			}
+		}
+	}
+	"1741797"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5011342915504587205"
+				"size" "750804896"
+				"download" "454921280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "C365E06AE9E9C03666D46BA684C818D0"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "2A22AAF0B18C9A38CBF23603DA193166"
+				"size" "1110B4C1EA7083ABAB68E553D9975EC6"
+				"download" "812FE57440CF841523D8046F3658D8AA"
+			}
+			"devtools"
+			{
+				"gid" "E20680F6F22AE2EE52FBDA5F2F283293"
+				"size" "74F4CCA98A0B4AEFF96ECD1FFD243D0E"
+				"download" "A323A50AEBD065A00C035B32927B70CB"
+			}
+			"gaas-daily"
+			{
+				"gid" "711ED7C61C8DEE5FF7681CFDEFAE33D8"
+				"size" "0788432F0DF950CAFC3D0A3971FBE484"
+				"download" "94046BD243726DEA023FBEAD28369B05"
+			}
+			"gaas-tmp"
+			{
+				"gid" "CE57229482C213F85922DDDEE124AC27"
+				"size" "2417C100B904C176A020C0B1FE5513CE"
+				"download" "6CB68B0AD4D074759D96A877B7BE3B1E"
+			}
+			"gaas2"
+			{
+				"gid" "CA78CD17EC83158DAB36B9BBC2DEF63B"
+				"size" "F0C7CD4344B302D503DE35D35634E9F3"
+				"download" "C2AF813ADC2BACC913C619FB95C3F389"
+			}
+			"internal-tests"
+			{
+				"gid" "B2B7E0EA87C922A0B38C040447F4286B"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "5811D12C12E8B1B14740673E73F3D098"
+				"size" "A86E40E07984140310D0D4F99EF7E9A2"
+				"download" "407B8ED57A98F66ED72B53F78CA060A6"
+			}
+			"mph-daily"
+			{
+				"gid" "AB97CB551867F5B40E827D8B814899CC"
+				"size" "8BD32BAD5C9F67229AC92D1A77E9E5A7"
+				"download" "035829B9880C6AB7201E1216ECC6AAD8"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "5FA59027BBB5423CA70AAB7E166962E7"
+				"size" "A7BBBA44175BA2ED05C7DE2D33C6A360"
+				"download" "1C70CB07F7406805677575D22ED2B19C"
+			}
+			"mph-stable"
+			{
+				"gid" "D0B5E8DE680357BD782F53A23A5018CD"
+				"size" "13EDD671523495D2A1C5E9C13F2C9B52"
+				"download" "20EE01697C0794DF833D907BA873C621"
+			}
+			"patch16-daily"
+			{
+				"gid" "749F4663D5D155D0C393E91E2684D5EC"
+				"size" "B7A4BF8E1C8D8BD5ECDC14C1FFCB02C9"
+				"download" "95AAB47B4FDF2AD5D77F0C61D6BA73D1"
+			}
+			"patch17-daily"
+			{
+				"gid" "DA3A5D13959D204CAE21008EEFF4E7DB"
+				"size" "91F96B42240F60C662EEDFD89521709C"
+				"download" "2E0D323C6BC3E8066AE60AFDE2F4E066"
+			}
+			"patch18-daily"
+			{
+				"gid" "AAE56A1D97C875570A7C8F98E6AE22CD"
+				"size" "4477BA4D61424AFA14B8F313F48AF6A6"
+				"download" "2A8E08A356BB193456AEF7F9326678AB"
+			}
+			"patch19-daily"
+			{
+				"gid" "7EF86F92B700C49D36E7DBC176AD2A99"
+				"size" "921E0FE6FE14636CEC7A1C672EB3D378"
+				"download" "CD219C171A1C265CB3B9760DAF49C55E"
+			}
+			"patch20-daily"
+			{
+				"gid" "60A4D11761823E4839CF37264D6794F1"
+				"size" "F03598925CC84EEA35694615BC1D5148"
+				"download" "B8F072AFB5D06CB30A6ADC2CDFAA1824"
+			}
+			"rollback"
+			{
+				"gid" "B2BE043CF89B302D237302368358C7CC"
+				"size" "C08E87B488EB42CB6D7F3F6A71110304"
+				"download" "89D13C707FF7C3665F126073D251D39B"
+			}
+			"showcase2024"
+			{
+				"gid" "D5BA4172E559C73A9E5D377ABDBD2CA3"
+				"size" "EBFBA9AE314FC35BD8E61146CA3060E9"
+				"download" "D9BFEF4CBE7B763CCF10A292242B0086"
+			}
+			"staging"
+			{
+				"gid" "4DFF3B0E0DE4C4D3C6C9A46A89AB4663"
+				"size" "8734DBCA465A9954C0C4176433447C20"
+				"download" "92D061CE5A22BE22E84E50B7E9F640CC"
+			}
+		}
+	}
+	"1741798"
+	{
+		"config"
+		{
+			"language" "portuguese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7689706507591546277"
+				"size" "2029137"
+				"download" "2053840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "C17FB6E86CF15EBBBE71ADE9FCC36CB5"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "E54C027403DD5F5964054445C6563EF2"
+				"size" "AA660166718056FF29810735251D15FE"
+				"download" "D2F711D9CFD1EA6DE51E5FE3C7676D58"
+			}
+			"devtools"
+			{
+				"gid" "4AEA48A7A79D3692310E472880FE7BAF"
+				"size" "2CEB22403BE4B88E015A74871229227C"
+				"download" "822570B691D8F356FA1C35112BB796C6"
+			}
+			"gaas-daily"
+			{
+				"gid" "E064423707EA3916DD6128DCA59B8215"
+				"size" "59FE2773ED5162287A9B28A0A76B91BA"
+				"download" "10B2DEFBE6DD2D0DCFEA6B1C87D3F57E"
+			}
+			"gaas-tmp"
+			{
+				"gid" "5E623F2BD0FE500978E72103B4856EA5"
+				"size" "9F496F9932F8E8088B569DEA7663ADC2"
+				"download" "B5CA07D82F0C6BDE1AF0F4E40A93687C"
+			}
+			"gaas2"
+			{
+				"gid" "2396C3B306F868684964B4CAA817F356"
+				"size" "2CCEF6BE54CA1F9075C8657E9816EAB2"
+				"download" "53899E8960BAC2E28D1D68A786475214"
+			}
+			"internal-tests"
+			{
+				"gid" "536693A8B1D0827EB8B9BAC819989E61"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "A0537E6A3F20BB393C5FAAF0ABFEC0ED"
+				"size" "5A75091A26966665B4835FF9EBCCFCE8"
+				"download" "75C3BC43ADDEFA2B6BE79B9999E9D1F9"
+			}
+			"mph-daily"
+			{
+				"gid" "3B61100BFAE36B5F80633F642F2E7DFB"
+				"size" "2ADD2A05ACFFEECF5E5DAB91B07FCC98"
+				"download" "042185F5EEF6728786042A52B823042C"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "DA9326A05C52AB4127573FF38A627D38"
+				"size" "E43EE97BA9781A4F3E0F929626B83938"
+				"download" "B23E0EABD1FABA0C800EED1E99F562B1"
+			}
+			"mph-stable"
+			{
+				"gid" "B91171CA8E3D01C03FB8E8236959D6DC"
+				"size" "48C13F9D2F19107A5AD78947D5CC60F6"
+				"download" "0EE8100E118737D60EEB7DEC03928B7B"
+			}
+			"patch16-daily"
+			{
+				"gid" "51AFB9CA2B0D799521B10211467C0FDC"
+				"size" "F96B6994F58ED9D66D34622D3AD15E9B"
+				"download" "005F6CC142459E618595BB191630E3FD"
+			}
+			"patch17-daily"
+			{
+				"gid" "D1CFA150CBC3F9186240CA2CB15CCA8C"
+				"size" "FB492693C700CABC35C8D71420E83F52"
+				"download" "411785B25278A54228BBF41D31E7C1B6"
+			}
+			"patch18-daily"
+			{
+				"gid" "B218936C245A49C83477BD6723521DFA"
+				"size" "52C297D7294071E452FBFBAE071B4CA9"
+				"download" "BAF401BDCDBD6938BE81B37E42391D9A"
+			}
+			"patch19-daily"
+			{
+				"gid" "81B4BD07472670D1F85BDE434C804F0A"
+				"size" "4AA276EE76DEA14512FB5BD792F993A4"
+				"download" "F05718291F48F990F191F9936B1326AD"
+			}
+			"patch20-daily"
+			{
+				"gid" "FA7D995DA4FC73009E0D20BE720C20C4"
+				"size" "AAFEE2583E14705707F2B6A76F32C6AF"
+				"download" "49394CC727D0EBC573A78C167671CBDC"
+			}
+			"rollback"
+			{
+				"gid" "7BAABDF35C8E08F8129ADD4E4E08A16B"
+				"size" "93643D4934FA1E26F6E02022D49D6269"
+				"download" "3C1ECB14CBBA22E305BB6D8B71DFA2AE"
+			}
+			"showcase2024"
+			{
+				"gid" "8B17060B6F736AB4E1096144A97BA54B"
+				"size" "EB163FE5E6723ACCC8F4F8D6457995E2"
+				"download" "B5AA1683B42D2933FD0AB6419E63DC08"
+			}
+			"staging"
+			{
+				"gid" "86BBB1F4FDF71F2969808C5DB08BDC9A"
+				"size" "6177A95DC1DA573FC57670BFE687AAD6"
+				"download" "D5A157B6216BE8EB2BC7F1BF45A240B2"
+			}
+		}
+	}
+	"1741799"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7228311580413454495"
+				"size" "5344894434"
+				"download" "5295807216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "BABF85C439F22F9C82397473AAF733D4"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "655E02F24314FC14F700EC5ABE1FEB00"
+				"size" "8D9AE0154256A7B8125729B58B76DBD1"
+				"download" "C5C1855FEA4B34D1C0A8F722082EE75C"
+			}
+			"devtools"
+			{
+				"gid" "C1ED58E08B65D1DFD1C10812502ACC7F"
+				"size" "5AACDF8526B63B01ED95CC9851CEBC64"
+				"download" "A6DD0F8BE3136F36705BFA30A308176C"
+			}
+			"gaas-daily"
+			{
+				"gid" "9E5BD0A6972FD3FABC9407E219D24F96"
+				"size" "9126D8C477F4469816F8CE3FAAF475A6"
+				"download" "4BEC2FC0B20BF47BE8563BAB5630DA74"
+			}
+			"gaas-tmp"
+			{
+				"gid" "C48267CE1A64EFE6678717F278E368A9"
+				"size" "DD02A10EAFEBA671497F17865E930361"
+				"download" "B7B6C6DB1B49C2B7276A6A0BDE2FB1C4"
+			}
+			"gaas2"
+			{
+				"gid" "332D4388A3BD32AA8AB71AFE9069D962"
+				"size" "16E3140CEF14012F3BADE27DE5CDD87A"
+				"download" "0EA5F3A4BBB8BBC65FF4BF2408E7F031"
+			}
+			"internal-tests"
+			{
+				"gid" "F4E98F117745D142DE0C4F4093CACB15"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "79A185928BB6358BB0DFEBF2FD678988"
+				"size" "D77E22C0DB3664A45F0BE12DF9BBDD61"
+				"download" "93701AC2FDF5C3920F70CF1A2F623AA7"
+			}
+			"mph-daily"
+			{
+				"gid" "0AC835F0A18F202FDF2C7990D86E5EF5"
+				"size" "B3DD2D90B578911B7B3D3EA7EE1DA724"
+				"download" "233A16EB217603EE6FB69E26D4371A27"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "74B5BE05BA04DF1613F920A447B63116"
+				"size" "E11754E23F7C4C8ED9075BB087EE1FBE"
+				"download" "946FDB4C31CE41497619835AC1C9825B"
+			}
+			"mph-stable"
+			{
+				"gid" "C5E57E87847813F338B30C69A8969AF2"
+				"size" "79CBF37BA517227D9558F7D1146937A5"
+				"download" "A8D8934BD534D70A6C865A3E1FB1C2D4"
+			}
+			"patch16-daily"
+			{
+				"gid" "9BD0E3FF63F89A88EE9DF4872252A4B0"
+				"size" "5613DB40DC5E42534DE04C6EAC2CDF92"
+				"download" "C749976ED10FFD69847966B6F1D17E74"
+			}
+			"patch17-daily"
+			{
+				"gid" "8F34207D54A27B422CD53DD1749C3A67"
+				"size" "DCC464687A8F82D837D7B68A0B24C765"
+				"download" "5D99236A2489EA6348550249F4A98D32"
+			}
+			"patch18-daily"
+			{
+				"gid" "AA0EB92BFA3AFFED6A5268E17F70F40B"
+				"size" "A7859D434A9667C738239EE79F44C67D"
+				"download" "A0F17F0CBA40C9D689B61826563B526B"
+			}
+			"patch19-daily"
+			{
+				"gid" "19A05787883983ACB104726EFC9AA94C"
+				"size" "06B5353632C47554847C3F4372975D0C"
+				"download" "57E64A7BDC8356ECF7890C1EFC73913A"
+			}
+			"patch20-daily"
+			{
+				"gid" "698957DD05A2F6DF50B160A36CE25EA2"
+				"size" "B12565D3584D0444FC83D855561B0F68"
+				"download" "58021D000DE3F3BD29F99C2041DDAD9E"
+			}
+			"rollback"
+			{
+				"gid" "D2C08398D116E5A9EC42FEDECA6A9A80"
+				"size" "37CAB307CCA7F2D366C705507EA601FD"
+				"download" "A30C06C776E4AFE8BE9BC66350CEE855"
+			}
+			"showcase2024"
+			{
+				"gid" "50BF74CFCEA433DB04872F0B17DCB77E"
+				"size" "2B2306856287BAA93623C669824420F8"
+				"download" "8052200ADD5A28B4494A0CDACCE82DA1"
+			}
+			"staging"
+			{
+				"gid" "9D10B051582E74DAE6BAAC2FDF090A44"
+				"size" "245A9691F49654F0FF9CDDF6B81CE14A"
+				"download" "DDA7E1F98C07FDBBBE57E27CBDBE090D"
+			}
+		}
+	}
+	"1741800"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7225695330050869200"
+				"size" "698034672"
+				"download" "398416880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "E766A99472C6274C47CC3CF997DB6031"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "79825F73DB36B6B9CEDD125A8C763AE4"
+				"size" "959C2258CE29A840647C5DA8DAAB8486"
+				"download" "AA351DB0A5BDEFBBECE71651232D9AD6"
+			}
+			"devtools"
+			{
+				"gid" "9E50E67A1B865D6BEBC3E40E5E948D5A"
+				"size" "B870602A4F9CD42046E757F14AB23C71"
+				"download" "93FD47481ADFC8866E8EB04745DB3EF1"
+			}
+			"gaas-daily"
+			{
+				"gid" "2C3E096E27170F86ED29AC7B7092EF4C"
+				"size" "C166EFD4B9836CBC39E944EF0FAE1DED"
+				"download" "961F353EB7F59B1DE75A4EE22E56B6D7"
+			}
+			"gaas-tmp"
+			{
+				"gid" "F3349AA4BF84A8EEF1A7BCB2787781F0"
+				"size" "1F8D67F84A6DAD7EA9B2440C0A6383F1"
+				"download" "32DDF07CE65298E2C2D4A58858828540"
+			}
+			"gaas2"
+			{
+				"gid" "C94F9DBE1C7B84FC7E09F47D9F642591"
+				"size" "4DD11323724AB5B17DD16D06A67B5AF9"
+				"download" "5CB7E1FF7B1FA5DAE2672B18D6856A36"
+			}
+			"internal-tests"
+			{
+				"gid" "8C8A0C3F2F2D6E545332353D6EC314F6"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "1CA76EB8A71DCAFC9251C3FB160754AA"
+				"size" "9260A8C4F51D52BDAE68487E1D91933B"
+				"download" "6AF498BE0EF550EEFFA1DD4D4C71ACF9"
+			}
+			"mph-daily"
+			{
+				"gid" "E9F40049E21F3AEDB317B6E7D1531C5D"
+				"size" "773A7E1D75A1FE82CF69BB85B7A07995"
+				"download" "1B9D392D81FA7E0FE5F4FBCEBE1B0E2B"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "CE432A5B33C1C92F0F6CF800FFC3EEAF"
+				"size" "EF0ACCF5D079D2653F55476CE55B608E"
+				"download" "CC2C8D9CA941FAE61CF660D8C9109448"
+			}
+			"mph-stable"
+			{
+				"gid" "5EC0205CE60F4802F4B1D2B83131F021"
+				"size" "79A5E2282B81BCD34B431D389EF69B1E"
+				"download" "E342452DC1DF872AE60615B70A9EA098"
+			}
+			"patch16-daily"
+			{
+				"gid" "D38C80E4B536ADB4A86F64A79F8CAF0D"
+				"size" "DDD3810305301A0C5BCADEF6ED750ABA"
+				"download" "8FAD132B565EC95E8817EBCE90FA7DBF"
+			}
+			"patch17-daily"
+			{
+				"gid" "3B611B5A45AD5E5FF462EF812D0C3476"
+				"size" "B98223872B273D86D56446830D82A599"
+				"download" "7D9DCCEB498F109FE42BC6F45050FA77"
+			}
+			"patch18-daily"
+			{
+				"gid" "3486615E2E42503F5A207DC61E7368C0"
+				"size" "995FAFE5DCDE8564F30368B93ED23716"
+				"download" "A9CF57D9AB6F523E42F46A337EEF18F3"
+			}
+			"patch19-daily"
+			{
+				"gid" "7A19C69C6207F7E360FB3422344ADDCE"
+				"size" "891466EDDE21FDA37F7178C673B8D4E7"
+				"download" "6B1FC0951CC54F2E4160DBD82A1FBCFC"
+			}
+			"patch20-daily"
+			{
+				"gid" "6C99EBE8E9CF399715308FB5E2C37814"
+				"size" "6502DFF146EEE0AA401EA78C268FCDF4"
+				"download" "FFF895CA3561948B22F16F0AC89275E8"
+			}
+			"rollback"
+			{
+				"gid" "9AF158F52442C60072DAF706CD9ADC0A"
+				"size" "62CDCFEE330F734C7B0E354840445E2A"
+				"download" "E67CDB4DB9743FA1BF88863EB892511B"
+			}
+			"showcase2024"
+			{
+				"gid" "936EDA5CD5188A2A9A3BA1C5CAF94592"
+				"size" "D78965F941245D6650C3BD6231D3DCAD"
+				"download" "DD2BA4F6BADAB977A0756518B10A9037"
+			}
+			"staging"
+			{
+				"gid" "88DB1BB4983612770BB5251718121B4C"
+				"size" "9CC595E73BAA0AA0C9845356B197CF88"
+				"download" "8022781412C20A78CEEC2BC0757A5E18"
+			}
+		}
+	}
+	"1741801"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4136996465988043968"
+				"size" "2027217"
+				"download" "2051952"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "BADFE2F327450EFA24CC344E4D3D880B"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "3934B9EB50629F3CF30127F45D6F1429"
+				"size" "4C8DEDEDACBDE451060A3605E73AF344"
+				"download" "DEE1AA4DE51444865A29CBDC46A38297"
+			}
+			"devtools"
+			{
+				"gid" "6F24FB9DE946DCA3CCBA680EC5BF44CA"
+				"size" "69094C6973713247192668181079507F"
+				"download" "82DAADF03AB437C400BF135EF3124D52"
+			}
+			"gaas-daily"
+			{
+				"gid" "85931618FBC6371FF3744819A3489816"
+				"size" "2524BEAED725A8CA0B070EF3FEC1E539"
+				"download" "04D931E5BE4DE94B08B43ABF4D041398"
+			}
+			"gaas-tmp"
+			{
+				"gid" "944E879753666D77B6D4285CA04C0010"
+				"size" "27BB6E0547322ED673FE2562C6AB8A09"
+				"download" "84D1A3F1C5F5990F08F4FBFB60C4874C"
+			}
+			"gaas2"
+			{
+				"gid" "12CF0A877C4DC6A39F9FB98C63C94D7B"
+				"size" "C847DF9BEF48DE1C2C90C1D5F1C54696"
+				"download" "C89AA5C7924665DB6600A09F42C4A352"
+			}
+			"internal-tests"
+			{
+				"gid" "DDDB9F70486A3F8CA57606E1446A2D18"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "7EB6D9E52D7AB02B1DEFB80C18CAB64C"
+				"size" "69D41D004D9BBBA6A6D95B8CA4061932"
+				"download" "5F379B1A8B0A527597720823D6CD1E16"
+			}
+			"mph-daily"
+			{
+				"gid" "F738C568A4C735DA8DA31BA30C2FEE4F"
+				"size" "B854EB4D2F12D75AEB82767BDAA6727C"
+				"download" "72CA8F2FE5D16AEFC83514CF36FFEAAE"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "8B7F3EA6A5EA443637A9C08DE050A507"
+				"size" "13CE39304BB30DF799346B74B183F4C7"
+				"download" "AE223C514E85CD44B047BD9D7C593D60"
+			}
+			"mph-stable"
+			{
+				"gid" "05821115A0A254F0127C39679DCDBA4D"
+				"size" "6423E712D9FCB22C1309C4EBC9463A77"
+				"download" "27D19BBEB36C439536C68C02C7C8385E"
+			}
+			"patch16-daily"
+			{
+				"gid" "4A77E3779D1AF7EF635536A97F210D23"
+				"size" "2FC78BE1C75222502E36473B603C5710"
+				"download" "4970971735789750CC5E49A00AD11AD2"
+			}
+			"patch17-daily"
+			{
+				"gid" "9CFA39CC5465D0CF2D99BC097334C6B4"
+				"size" "2455712736CD5D8CB7270F2AD101A194"
+				"download" "A803DFB5F619E808804D582E75A8EBFF"
+			}
+			"patch18-daily"
+			{
+				"gid" "2A492846262085126F6BC55BC01BA2FD"
+				"size" "939384DBD4CED3E6D1E5EC25AD541748"
+				"download" "A094BBEAF715A9AB40FE845778B5667B"
+			}
+			"patch19-daily"
+			{
+				"gid" "118ABF002FAC5B61F96B6316B8BF850C"
+				"size" "E1309FA26EE2173C6587D7C5BEEB6933"
+				"download" "BC8C026CCA71A893859C2C72642980B8"
+			}
+			"patch20-daily"
+			{
+				"gid" "AA510B5D6BC3BDC2ACF6F2604D857701"
+				"size" "E5C9301A72E28FDA3F9F6FC78CBC6CBA"
+				"download" "78CCCDDA3A0213901C0C67865F599104"
+			}
+			"rollback"
+			{
+				"gid" "284A755FB6462DFE6023426D232A07EA"
+				"size" "2C990DB06241F0BCCD4400CF8AC14078"
+				"download" "D8BD38427298C4A110F2209934D39FC5"
+			}
+			"showcase2024"
+			{
+				"gid" "991B58CDFE54CC3A75D5B5926BC60099"
+				"size" "A14B9F25EEA58534A24D8487C1BE8AB9"
+				"download" "45A7CC85FB1AB892CBC5091BEFE9877E"
+			}
+			"staging"
+			{
+				"gid" "A83DB714093C1BB38E4654D62BF7C16A"
+				"size" "542DD1A8698D83473EED7F406527D791"
+				"download" "491C5E7754FDB0AD6E6581F43AE5AB49"
+			}
+		}
+	}
+	"1741802"
+	{
+		"config"
+		{
+			"language" "arabic"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8369068266057563647"
+				"size" "7344528"
+				"download" "1277424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "80BC782420A46AD57790B97F5B6A5188"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "541E13795D9305A1CA190CFE22C2C39C"
+				"size" "1262C3BBE808E2BDC25291A845CFA7BC"
+				"download" "F0B227C8B84A1187FF82B7D4A07077E5"
+			}
+			"devtools"
+			{
+				"gid" "1EC2F7820B934BEC95D625480C41D47C"
+				"size" "487B843CEAFAFE3802B68122E58E3F84"
+				"download" "3AA324CFC9D749F8D54374C474CFF0FC"
+			}
+			"gaas-daily"
+			{
+				"gid" "66706D9872871AA74669F5B0F2CF89E3"
+				"size" "B48289C81C3CB62EBB99B8990E7CBD5E"
+				"download" "A11A08108395314C39B6674BFE470188"
+			}
+			"gaas-tmp"
+			{
+				"gid" "8D8CE70E4BF44CE0A67499F6289C1F29"
+				"size" "AECF8804E2C51669C93B4BC1EE40EF6A"
+				"download" "20BCA23678D29B30EB7480397B45A4FC"
+			}
+			"gaas2"
+			{
+				"gid" "1EEBC5A240BB3391CEE0AB46553C1EA1"
+				"size" "B9C97217B44E1818A9B924AD347DE1F1"
+				"download" "DAFBCC5A3847E857712EA2D3F1FC16DB"
+			}
+			"internal-tests"
+			{
+				"gid" "06A2CA67E6854AF295854D50B705926D"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "C6BCDD5EA0471A4FF458075B44660D9B"
+				"size" "7A89F6D5C2CABBEE86FCAED523E4DA0A"
+				"download" "7B61D240104DB936AB699667B746A45A"
+			}
+			"mph-daily"
+			{
+				"gid" "8261E1467C4B814235B1B93FB74802B1"
+				"size" "4F696A85B0A4AD971C9EE816DF841B91"
+				"download" "7A0FA969E01531574F315AFEE4787262"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "AEF566BA713CB03B15DEA54502855466"
+				"size" "F466457A87CEB0E1FC3D160C416E15B2"
+				"download" "A0DC410FBEC123C970442E08FA6B7B5B"
+			}
+			"mph-stable"
+			{
+				"gid" "6F74611D282B452201F9454B98B6D361"
+				"size" "18A658B4BED44AD6A87002FB2F538290"
+				"download" "348C4B6D1FDC65853D6AECB85893E6D8"
+			}
+			"patch16-daily"
+			{
+				"gid" "D1C521F0B569EC0FE35D1750AEA4CA34"
+				"size" "EA3F4009900D3C2F4CD08E470784A110"
+				"download" "2F564BFA3A6B2F366DEFF844E8CB418B"
+			}
+			"patch17-daily"
+			{
+				"gid" "8C5FC66C1E182E5182BEDA78C34844E6"
+				"size" "B95A93B6EE55E1442D277775D75B6E3C"
+				"download" "21FF609CBB505DAF66433A25F8573729"
+			}
+			"patch18-daily"
+			{
+				"gid" "7DDCB9ED43A975994C71F4E5960DAF90"
+				"size" "E316A38EAD900CCC8ED5FEA861F023E9"
+				"download" "1847A39A612009CF5FA2A28F0DE4447A"
+			}
+			"patch19-daily"
+			{
+				"gid" "DBC221FDA5ACB8481E1382A294B25B88"
+				"size" "BDA0639621995D67A2C7A37006A385E8"
+				"download" "BDAC008D585341E360AEE48102506289"
+			}
+			"patch20-daily"
+			{
+				"gid" "879918DBF9C4402BDE072A54F24ACA38"
+				"size" "5DD979509D71D2B90F6939078490D77D"
+				"download" "6EBD854BE158A45FE87A9A1A1D3D051B"
+			}
+			"rollback"
+			{
+				"gid" "406B8B9EC4BD42D8BFBAF4075591CFFB"
+				"size" "8CC435A2B15EAFD5FB2542E690AAE017"
+				"download" "89E3C0CAE796EC29DC62173F49B46C8D"
+			}
+			"showcase2024"
+			{
+				"gid" "317085846BEB9194A3E0070146219ECC"
+				"size" "1F6EFCEE9EDDC3E13D2087E4DB022880"
+				"download" "225E75B3BFC129A47323F7D00C8A2E9E"
+			}
+			"staging"
+			{
+				"gid" "B6C93E93E8E2C5AE9B126506EAD21FEE"
+				"size" "FF854A9B4898A3CC2DE06D1AEB0D1C18"
+				"download" "934AFD34AAE04B348F2B3F7B5B410BBF"
+			}
+		}
+	}
+	"1741803"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7412602881399970168"
+				"size" "9180720"
+				"download" "3138976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "C9A29FA6007920E09064FDD7E682A770"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "1AF0331DFD92F98786D852E206BA311B"
+				"size" "680DF73AC01A8A8A267F7132ED45A7B8"
+				"download" "F9422265D53E7A3ECB323E3E35A1C60D"
+			}
+			"devtools"
+			{
+				"gid" "F2C299EEDC5D0E54DACBE4B6D841E49C"
+				"size" "7266C0211C48D2C05CFA3DFA4E85AE56"
+				"download" "65AA9F1A7199747406DCB0832E11844C"
+			}
+			"gaas-daily"
+			{
+				"gid" "FF2D2C94327BE3276B0069329DF46CF5"
+				"size" "73C548B0185B6792F60EBDE0440C68B2"
+				"download" "ED76018DC5267A2B1FA716A5CAD1D439"
+			}
+			"gaas-tmp"
+			{
+				"gid" "116447BF50507CD62395CA1EA01BA481"
+				"size" "61197B1BBEE7D70E0CE02FE1230BCA11"
+				"download" "2DC824F7AE2007FBA1051E10A184BEC6"
+			}
+			"gaas2"
+			{
+				"gid" "99A3CC77EAF011F8A3DE9C41D0285CBA"
+				"size" "9397DC73250A2A3C85692416E254EBD3"
+				"download" "D1D359F7A8FE7532A56CB4554DD36A57"
+			}
+			"internal-tests"
+			{
+				"gid" "AAE64EAC17AA2278B65CBA0C4D956002"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "76DD2CE49ACE8D35E095A8FCC77D4FA6"
+				"size" "8AC0FDB9F3313F8A31641A9F8304EFFA"
+				"download" "B4707543C2AA983D38DFC44F843D0461"
+			}
+			"mph-daily"
+			{
+				"gid" "4E9015CDCE728F52D86F858FB0E88D55"
+				"size" "C3FEDE748DBC2C22977526689267EDCB"
+				"download" "368BBF837519B3C54745D72C6F9A94AB"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "D866386017B42B40F17EC31FEECA4504"
+				"size" "A77BB31C4FF8F5C3928932C1C050B1ED"
+				"download" "D2D70ACFF74CEC94FB891897F3579165"
+			}
+			"mph-stable"
+			{
+				"gid" "D38E979970E5E139D5595624CB6E82D7"
+				"size" "22722EADC5E3CADB18F4B62ABFF4F401"
+				"download" "FD37A6EB1B695ABA520302E0C3709720"
+			}
+			"patch16-daily"
+			{
+				"gid" "A3BE51874D9ADEE4F03E0016190B3E2C"
+				"size" "86B8EB1E9FAE4B65F92E9231444A96B2"
+				"download" "32F1F24A30BA6B7277A369305F9E05A0"
+			}
+			"patch17-daily"
+			{
+				"gid" "9BC7B1A770E10997EA9B769DEAF5CB33"
+				"size" "E629EB6F35B98EA7FE9021B41F2A18EA"
+				"download" "AABEEC6346B8803207F7ACB8D8C395E5"
+			}
+			"patch18-daily"
+			{
+				"gid" "97FD653909CE1C49C1FCBBC6FA8D128A"
+				"size" "8621EAC1FF3AA9CBCCEE26125289B06F"
+				"download" "11646A266880F6478EEC031AEC2D129A"
+			}
+			"patch19-daily"
+			{
+				"gid" "862295E94FE43607AD377932EF0FC6B0"
+				"size" "957FC749739A4E36C97D98A3331DBBCE"
+				"download" "64E96C426FC700F34045A15FFB822761"
+			}
+			"patch20-daily"
+			{
+				"gid" "BD5600B73172FC240771FB73F2FD7031"
+				"size" "5CDEBD16EEC3FCE7391E0DF50DDA4C9A"
+				"download" "00A974614D7E0D82D73184B27D3178AC"
+			}
+			"rollback"
+			{
+				"gid" "00FD93E666EB0E79015128FEC299C95E"
+				"size" "A647C0924DC200667E7F974A9276CAA5"
+				"download" "355EEAFE011C5CF41CE820F3A2DE8982"
+			}
+			"showcase2024"
+			{
+				"gid" "49C9C06364E78532637B1676E2C71D74"
+				"size" "A3AD36C96BBC221ECFB2CDC824C41CD6"
+				"download" "DE40ABBB1674984A72C426DF9298AA61"
+			}
+			"staging"
+			{
+				"gid" "7DD18B17E07285BD5525D377D5E0E23A"
+				"size" "84FDC8B8BDBDDF27368108494CC0F304"
+				"download" "5E1D80B67957B521A196ABACA39A9AAB"
+			}
+		}
+	}
+	"1741804"
+	{
+		"config"
+		{
+			"language" "koreana"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8360486837664463859"
+				"size" "3147696"
+				"download" "790352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "6F64D15E7F1AA56BDAB5997E59065352"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "7A1013DF492A64364E6CAA1221960931"
+				"size" "2D8D26DB7876ED831FFDB99EDB0DB058"
+				"download" "EEA499F691C9B9F63D171C5F38DB5F68"
+			}
+			"devtools"
+			{
+				"gid" "4705EAC32A61B3A75CD1ED69641C6EB7"
+				"size" "445293830C035C6F3C7059494D78A4C4"
+				"download" "64D5A8FA3E6835D9EBDBE9792FD50D95"
+			}
+			"gaas-daily"
+			{
+				"gid" "D379E4B5F6222C66E845C7B16B5E44EF"
+				"size" "74A76FEA4253A0C9927026836DE8886E"
+				"download" "9C7A5AEB3589669D842439F30EC7E22B"
+			}
+			"gaas-tmp"
+			{
+				"gid" "0E0A363E299F33092DFE228E391D17D7"
+				"size" "82E589509B2FE68E06436ABA8E4AFEF3"
+				"download" "09A837E77FF021889019D4B0EFE9B819"
+			}
+			"gaas2"
+			{
+				"gid" "F882CC6591E977E925596CFBFE83AAC2"
+				"size" "F82FBEE7053BE819932A9E12F08F55C6"
+				"download" "3EDA3F3841699627815C7D7C870708A9"
+			}
+			"internal-tests"
+			{
+				"gid" "D8083B7D7CA7AED50F2B251974DC8051"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "02338CC297F5AF4B3C44864C54D6B3E2"
+				"size" "02A8900BB1A43E2CC1F4CB838B40DFAC"
+				"download" "CAD4A57CE030EDFF4CA44AEBAA8CC234"
+			}
+			"mph-daily"
+			{
+				"gid" "D24E6D75808F033FFB04F09810B79121"
+				"size" "42FDA3925B7BE3AE78EF6B106AC2705F"
+				"download" "A409CA802F2BECF6C2DB0F5ACF80B5FD"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "8530CDA0E8BD2179D5D2229CED189685"
+				"size" "64D60ECB2AD33D15C0154AD0F37F5D0D"
+				"download" "885457FBA607341B99CC44C851B7E6FD"
+			}
+			"mph-stable"
+			{
+				"gid" "C97C100BCFCC60BD4AE17EDA16099AB5"
+				"size" "51A7C540914A0FD08FCD5F04F05F25F2"
+				"download" "4B0F9C90BF7E69DD58FCFA64F6588795"
+			}
+			"patch16-daily"
+			{
+				"gid" "340A300DE4AFF4C3BB08410123F15708"
+				"size" "D703EA7A852782A96E17EDF6FF3A3F7B"
+				"download" "912FB24CB29764C5EAEAC032EF3A32A9"
+			}
+			"patch17-daily"
+			{
+				"gid" "ACFF755273F3A1EB52B78BBBF580D8B1"
+				"size" "9DA62EF2AD0302472D837D92A1A92112"
+				"download" "0288DB4592AD68A87B26D5005712F6DC"
+			}
+			"patch18-daily"
+			{
+				"gid" "368DBC83550DCB7A28B0B13E1AD429C5"
+				"size" "3BF7393D2D873DA4A68C8BCEDB5EC6D2"
+				"download" "FC71ADC223B774481DAA59CCDA6BF79D"
+			}
+			"patch19-daily"
+			{
+				"gid" "828F9DD97B6FFBD8E72F30EE8784E952"
+				"size" "93C6EFF079C35993FD398D004477F9F7"
+				"download" "B83708E7F2A5B560B191B59B33733258"
+			}
+			"patch20-daily"
+			{
+				"gid" "E3F4FDED21290D0FBCB1458AD2518161"
+				"size" "69047C041C1B30D53818207AB2DF5C20"
+				"download" "18D27D44AA8045C183EE7C13E5B0B231"
+			}
+			"rollback"
+			{
+				"gid" "BE5DD7DA7F11A51E224FDB15237A817F"
+				"size" "047B5F4470111490B1B73252576A14FA"
+				"download" "2D3ABE5DBA5DB41D6EE0B8DB3797F199"
+			}
+			"showcase2024"
+			{
+				"gid" "E9FD463334D8D75ACE911D40CD1ABFD9"
+				"size" "357C40583CF1CBD4084576738C095352"
+				"download" "E90F5BB1BA7C04FFC6D7ECDBF618B73A"
+			}
+			"staging"
+			{
+				"gid" "38C41E108249DB8F3250DCA9FF585BEA"
+				"size" "6E2E35FB2BEDCDC356F491DCD6663E8C"
+				"download" "FD23D0D625E242F0CA09C5E1675246E4"
+			}
+		}
+	}
+	"1741805"
+	{
+		"dlcappid" "1537624"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4622337916117847891"
+				"size" "348412115"
+				"download" "78510208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "E273AEE941D4274415A68EDDD6409335"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "2EF5F240E4EB03ABCE79B8C345A85EC3"
+				"size" "81F4F87B1CD22DFFBAF44F1351F7A99D"
+				"download" "3E79C3528AFB58839B20646AB451B9DA"
+			}
+			"devtools"
+			{
+				"gid" "10A2AFB0C09BDF989C265F6233EE62FC"
+				"size" "B28700C239B6753E0FD0EDECD2580A04"
+				"download" "D316CDAE457D26A40AC7C050F3F8C762"
+			}
+			"gaas-daily"
+			{
+				"gid" "CAB501F1E802A68F3911A22E83C107BE"
+				"size" "57DF8A15DAA0C7438E1FD1AC4ECB5FF0"
+				"download" "AFD9B3390101293D1945B90DD5DAEB7F"
+			}
+			"gaas-tmp"
+			{
+				"gid" "82EDAF89DF6080D72D1D9E9252789D8B"
+				"size" "941C2401E5CBF90F87E75C05D89782B0"
+				"download" "F011858047318662EE2F7C54298C81B3"
+			}
+			"gaas2"
+			{
+				"gid" "6A66CCD7B8F55261DF3E4EE682F7724D"
+				"size" "4E62E5ECDF1DF49511ACD9D2DDAE96CF"
+				"download" "F9D7E2596293BF4A35695168E8B10209"
+			}
+			"internal-tests"
+			{
+				"gid" "712CD2658EA06F7DB3FD557DA353579F"
+				"size" "8686769F395F108FE08E6102594B7656"
+				"download" "8686769F395F108FE08E6102594B7656"
+			}
+			"main-daily"
+			{
+				"gid" "C9628F3116715751C159D3147C17316A"
+				"size" "16307598F56CFF39F29B0684C891969B"
+				"download" "46DB60AE7505B20FD925BA87530A7DE4"
+			}
+			"mph-daily"
+			{
+				"gid" "87F387204C9CFFF1A771774E3E1AF0B2"
+				"size" "DD8D3E1394FD5CEEE3880F19AD8B11E0"
+				"download" "1A0FC945051D2B684B293734E2A165A8"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "43FB748736045B252B016272DDD8A4BE"
+				"size" "649C1A9E59F55A518C173B5483D7004F"
+				"download" "216AEC8F5D858B9B2B63F0324074941A"
+			}
+			"mph-stable"
+			{
+				"gid" "0D61A82292AC8A45E23B44604E84D8C0"
+				"size" "CFFF6D952402D0B23310C99C2BA8D076"
+				"download" "C8B0B56EBD0B06BDA365FB6071763320"
+			}
+			"patch16-daily"
+			{
+				"gid" "3203047DA04EAC0E02487CA96FEABAFE"
+				"size" "B8E97E8270AF16F00CAFFA5EA691A640"
+				"download" "1A58B8E3F324BAF661B38026F4D1B946"
+			}
+			"patch17-daily"
+			{
+				"gid" "19973D0672AAB421AA8E01911B562F60"
+				"size" "3534FACC10C92D57ECFB8FC9E541A58F"
+				"download" "047505422777139EF1006B890558696D"
+			}
+			"patch18-daily"
+			{
+				"gid" "3ED71C57DCFDBEC445311B44241010BA"
+				"size" "EB55240BAAFB9264F597921B701F05D1"
+				"download" "0D608654D03CF87D58A330C470BF0C4F"
+			}
+			"patch19-daily"
+			{
+				"gid" "E9DC7325DEFC21EEF746992C68A45315"
+				"size" "969355B6F123146E74469A3602FFD774"
+				"download" "920CA9EB642BAECE76ED11F769E0DCD2"
+			}
+			"patch20-daily"
+			{
+				"gid" "DD6FD539D8A6DA8E724B0A07C5303125"
+				"size" "FE1F2795582AB0561CF23AF011AC79E6"
+				"download" "C4B56631A17ECB88ED07C68B40272981"
+			}
+			"rollback"
+			{
+				"gid" "9E0FB63FE7A8750CC68DA6698FEF05C2"
+				"size" "8F2617E5EF21D1F4646EFAC6754E693A"
+				"download" "F701641E0A4F8D7B999728FCD9043CDE"
+			}
+			"showcase2024"
+			{
+				"gid" "3B7C74EA0FB77F9CD348CFC27870138E"
+				"size" "A64CCE9257597595777D6BAE94CF6A23"
+				"download" "5DC726BE51D7EAD09396B3FA13339B21"
+			}
+			"staging"
+			{
+				"gid" "685B9E1D55DB2EB967713A8878FFBA40"
+				"size" "71FDD316193C7E4562685A11D59ED5C6"
+				"download" "5DEECF73133A2FF25AB041FD8728ECE7"
+			}
+		}
+	}
+	"1741806"
+	{
+		"dlcappid" "1537625"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "94ABA857D769BF778732B411489B81AD"
+				"size" "281E0BD3962504E3F56838C79702353A"
+				"download" "281E0BD3962504E3F56838C79702353A"
+			}
+			"devops_test"
+			{
+				"gid" "BFC7AD00B043FED8FF05CB9F31783E10"
+				"size" "46E94390E6CEB10B245B324D8028AC7A"
+				"download" "73F4985F6A5CA6336601A0CF3448B529"
+			}
+			"main-daily"
+			{
+				"gid" "D9AEF234C469436D4F0B94E0BED3BEFB"
+				"size" "68A41F74EAE7C60B9C77E618CA85ECEB"
+				"download" "68A41F74EAE7C60B9C77E618CA85ECEB"
+			}
+			"mph-daily"
+			{
+				"gid" "2BF3E0993E63FA7419192D78652D54CC"
+				"size" "7A6A20FD3FFDF9A199D9D764FB89FF01"
+				"download" "7A6A20FD3FFDF9A199D9D764FB89FF01"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "638CA964DCAF1CA47D5D68305C7AC574"
+				"size" "7C2F201345E1233645D9B24278410904"
+				"download" "E898E53E2111738E25B37205CD8BAC4F"
+			}
+			"mph-stable"
+			{
+				"gid" "61C016D5D436CAAA81AC37AC647C1EB1"
+				"size" "440996DA3FEF58E2F159EEB7A82EB504"
+				"download" "440996DA3FEF58E2F159EEB7A82EB504"
+			}
+			"showcase2024"
+			{
+				"gid" "067EE32644716E98D6581867DB2AB2C7"
+				"size" "A1C58E6E841214EE7B693E074B13B141"
+				"download" "A776520217AB139204C53F307FB57D69"
+			}
+		}
+	}
+	"1263581"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"optionaldlc" "2217480"
+		}
+		"dlcappid" "2217480"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8846768325014998638"
+				"size" "974602324"
+				"download" "659126432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mph-proto"
+			{
+				"gid" "6C37D75EB9F5C4BB43BE54D7B532AFF5"
+				"size" "0E323D00977F761E17CE7A5A6DEEC168"
+				"download" "20F2FB7C9605913DB9F1AA1628E631AD"
+			}
+			"devops_test"
+			{
+				"gid" "BC52EE94FF119602DDB653B3BC9F4C8B"
+				"size" "1F39C97B00C63DE4C2D2011CD436590D"
+				"download" "3901E993F6745F28B233FEEB1D702A35"
+			}
+			"devtools"
+			{
+				"gid" "4FA1949D218A5456A3096BFAB5ED8B2A"
+				"size" "F82E95967687532345636D4AE1E10F21"
+				"download" "68ACC56E733A9A0537880262A5B4FD74"
+			}
+			"gaas-daily"
+			{
+				"gid" "7069284C3884D393BC024C52B0116304"
+				"size" "6DC4387B7C5578E1FCCD193D9690DC2A"
+				"download" "406EF9AEAF584E9DD78493FB3C55CD5C"
+			}
+			"gaas-tmp"
+			{
+				"gid" "EE935E2ABD92A86B0224C0AEF0DC479A"
+				"size" "1F14EC674E369A067A456C8BA9693AB2"
+				"download" "149248D0FD67BC886A73CFB637B226FC"
+			}
+			"gaas2"
+			{
+				"gid" "F62BF1C16C1B337F3B8DAD3A9DB3283A"
+				"size" "F36A6F1B53F94560CA3CC332119F98F5"
+				"download" "08B6CB018DB9E7063B80A6ACE5A9D1EC"
+			}
+			"internal-tests"
+			{
+				"gid" "2F510658E4191651620BB13BFE6EFA2D"
+				"size" "B13FCDB5D9E27991DB93AC68B91A6C54"
+				"download" "E86164464A466CF49A73F5BE245EC0BA"
+			}
+			"main-daily"
+			{
+				"gid" "310A0B6A577AB787196DCC159D1D7583"
+				"size" "FDA68D38FCD7CB28965BF707B185248A"
+				"download" "6FD331C8E9D23B1B9C01B49F8F14D633"
+			}
+			"mph-daily"
+			{
+				"gid" "50F3B4116B5A0CB17E2983831B049772"
+				"size" "0EBF1A801D9228660A7ADB41B318C8BD"
+				"download" "7753A8C7C7E8083563D8F78723455C29"
+			}
+			"mph-daily-backup"
+			{
+				"gid" "F3893B3DE8C073AC21F36FB692D7B697"
+				"size" "A8AAE1788ADC0B8B7AFC217AE92429B1"
+				"download" "24B35186972D682DC225C80F524F28FF"
+			}
+			"mph-stable"
+			{
+				"gid" "A500BC940B02B616F2677D8832EC1571"
+				"size" "A14A3F07321EA7895A73142F51FCFA09"
+				"download" "26F55018A36FF88854CBFEE13F8F7F60"
+			}
+			"patch16-daily"
+			{
+				"gid" "DAE590769B9C8E8EFF3E24CAA46E6083"
+				"size" "7A2DD7DE9EBD2FE57EC081D385A68276"
+				"download" "627E4AFE05EEB433B3BAF892C65C4B3C"
+			}
+			"patch17-daily"
+			{
+				"gid" "9A8633D0F530E462E15C2C6E21330799"
+				"size" "4E22357FC960AD5818EC0AC278FA87FC"
+				"download" "1B3231CBD54D80069106A71950944EE3"
+			}
+			"patch18-daily"
+			{
+				"gid" "1982ADB99AD66576378CE45D8C70739C"
+				"size" "BA516AE24F14E183E3008E97A239FCA9"
+				"download" "4EE83444C6CCA8B51CC3C23398C7EE86"
+			}
+			"patch19-daily"
+			{
+				"gid" "042E4BF059E4A8B164E13772EF17EED8"
+				"size" "E80285F64D3C8EBCB941B72510CF0AF3"
+				"download" "37CD741CCCF05377958303968EB33819"
+			}
+			"patch20-daily"
+			{
+				"gid" "333B34F4FB2226392F82A94D762539CC"
+				"size" "6B0F9646212F7F0A946E3762C51F2E89"
+				"download" "0D8AFB5CEB8859BEEA9D51B3BAC193C6"
+			}
+			"rollback"
+			{
+				"gid" "F61AC3C392CC20AEE4E14E6F5D760247"
+				"size" "D4B0EAAF3345A8DBB3B96C982AEEFD3C"
+				"download" "9B53FCB05524BC06B5D70214EFDA4D63"
+			}
+			"showcase2024"
+			{
+				"gid" "6B3E96CC46AB9AEFC6F819FB4828D3A4"
+				"size" "E7EF261ECBE6DC4AB705BDAAEA2C09C7"
+				"download" "E2A268758C05E8114A258AA679C2F6EC"
+			}
+			"staging"
+			{
+				"gid" "84F407CAEECE8918AD4656890DF83AAE"
+				"size" "078FB146ED44ADDB66EF12301F5CA5A6"
+				"download" "58E1B79AF6576C3788D03593799D60E5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16817799"
+			"timeupdated" "1734959570"
+		}
+		"mph-proto"
+		{
+			"buildid" "13810167"
+			"pwdrequired" "1"
+			"timeupdated" "1711025144"
+		}
+		"devops_test"
+		{
+			"buildid" "16555072"
+			"pwdrequired" "1"
+			"timeupdated" "1732724865"
+		}
+		"devtools"
+		{
+			"buildid" "16036395"
+			"pwdrequired" "1"
+			"timeupdated" "1728909544"
+		}
+		"gaas-daily"
+		{
+			"buildid" "16991916"
+			"pwdrequired" "1"
+			"timeupdated" "1736803868"
+		}
+		"gaas-tmp"
+		{
+			"buildid" "16934028"
+			"pwdrequired" "1"
+			"timeupdated" "1736332017"
+		}
+		"gaas2"
+		{
+			"buildid" "16934028"
+			"pwdrequired" "1"
+			"timeupdated" "1736331997"
+		}
+		"internal-tests"
+		{
+			"buildid" "14666277"
+			"pwdrequired" "1"
+			"timeupdated" "1718033557"
+		}
+		"main-daily"
+		{
+			"buildid" "16982960"
+			"pwdrequired" "1"
+			"timeupdated" "1736734090"
+		}
+		"mph-daily"
+		{
+			"buildid" "16993636"
+			"pwdrequired" "1"
+			"timeupdated" "1736817827"
+		}
+		"mph-daily-backup"
+		{
+			"buildid" "14596661"
+			"pwdrequired" "1"
+			"timeupdated" "1717496387"
+		}
+		"mph-stable"
+		{
+			"buildid" "15511275"
+			"pwdrequired" "1"
+			"timeupdated" "1724926489"
+		}
+		"patch16-daily"
+		{
+			"buildid" "14328892"
+			"pwdrequired" "1"
+			"timeupdated" "1733223309"
+		}
+		"patch17-daily"
+		{
+			"buildid" "15159622"
+			"pwdrequired" "1"
+			"timeupdated" "1721976458"
+		}
+		"patch18-daily"
+		{
+			"buildid" "15446738"
+			"pwdrequired" "1"
+			"timeupdated" "1724238495"
+		}
+		"patch19-daily"
+		{
+			"buildid" "16583131"
+			"pwdrequired" "1"
+			"timeupdated" "1732909521"
+		}
+		"patch20-daily"
+		{
+			"buildid" "16817811"
+			"pwdrequired" "1"
+			"timeupdated" "1734720220"
+		}
+		"rollback"
+		{
+			"buildid" "15075478"
+			"pwdrequired" "1"
+			"timeupdated" "1721903369"
+		}
+		"showcase2024"
+		{
+			"buildid" "14687650"
+			"pwdrequired" "1"
+			"timeupdated" "1718173712"
+		}
+		"staging"
+		{
+			"buildid" "16817799"
+			"pwdrequired" "1"
+			"timeupdated" "1734720165"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "26981460"
+"_sha" "17788d185cffeea9037f41b81c24799b9bc54e63"
+"_size" "145820"
